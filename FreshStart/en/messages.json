@@ -1,10 +1,11 @@
 {
-    "extensionName": {
+    "name": {
         "message": "FreshStart - Cross Browser Session Manager",
-        "description": "the extension name"
+        "description": "The extension name"
     },
-    "extensionDescription": {
-        "message": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager."
+    "description": {
+        "message": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.",
+        "description": "The extension description"
     },
     "extensionBrowserActionTitle": {
         "message": "FreshStart - Cross Browser Session Manager"
@@ -25,7 +26,7 @@
         "message": "Restore Session"
     },
     "restoreSession2": {
-        "message": "Left click to open in new window, middle click or ctrl-click/cmd-click to open in current window"
+        "message": "Click to open in new window, ctrl-click (Win, Linux) or cmd-click (Mac) to open in current window"
     },
     "options": {
         "message": "Options"
@@ -59,7 +60,19 @@
         "message": "FreshStart Options"
     },
     "optionsEnableCrashRecovery": {
-        "message": "Enable Crash Recovery (Saves all your windows and tabs every 5 minutes)"
+        "message": "Enable Crash Recovery"
+    },
+    "optionsBackupPeriod":{
+        "message": "Saves all your windows and tabs every "
+    },
+    "optionsNewUserTips":{
+        "message": "New to FreshStart? Visit our <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!"
+    },
+    "minutes":{
+        "message": "minutes"
+    },
+    "optionsBackupPeriodOutOfRange":{
+        "message": "Backup period cannot be shorter than 1 minute or larger than 999 minutes"
     },
     "save": {
         "message": "Save"
@@ -67,25 +80,25 @@
     "optionsSaved": {
         "message": "Options saved"
     },
+    "supportUs": {
+        "message": "Support our development and<br>share to your friends!"
+    },
     "contactUs":{
         "message": "Contact us:"
     },
     "contactUs2":{
-        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>here</a>!"
+        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a>!"
     },
     "contactUs3":{
-        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>here</a> as well. We often need screenshots and your OS/Chrome version."
+        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a> as well. We often need screenshots and your OS/Chrome version."
     },
     "contactUs4":{
         "message": "We welcome all constructive feedbacks in civilized languages. *wink*"
     },
     "copyright":{
-        "message": "Copyright 2010 Visibo Ltd. All rights reserved."
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
     },
     "crashRestoreTitle":{
-        "message": "Restore Previous Session"
-    },
-    "restorePreiousSession":{
         "message": "Restore Previous Session"
     },
     "restoreSavedWindow":{
@@ -95,5 +108,29 @@
                 "content": "$1"
             }
         }
+    },
+    "edit": {
+        "message": "Edit"
+    },
+    "remove": {
+        "message": "Remove"
+    },
+    "smSaveToggle": {
+        "message": "Toggle Selection"
+    },
+    "smHeadingTitle": {
+        "message": "Title"
+    },
+    "smHeadingNew": {
+        "message": "Tabs to Add (check to add)"
+    },
+    "smHeadingSaved": {
+        "message": "Saved Tabs (uncheck to remove)"
+    },
+    "smEditSave": {
+        "message": "Save"
+    },
+    "smEditCancel": {
+        "message": "Cancel"
     }
 }  

@@ -1,0 +1,182 @@
+{
+    "name": {
+        "message": "TooManyTabs for Chrome"
+    },
+    "description": {
+        "message": "Gerencie suas abas, melhore sua navegação e mantenha seu bom senso enquanto você possui várias abas abertas."
+    },
+    "clickToPop": {
+        "message": "Clique para enviar esta aba para a coluna do TooManyTabs"
+    },
+    "clickToClose": {
+        "message": "Clique para fechar"
+    },
+    "contactingTab": {
+        "message": "Comunicando com a aba..."
+    },
+    "noResponse": {
+        "message": "Hm, sem respostas da aba. Ou é um painel de sistema, ou ela está ocupada..."
+    },
+    "clickToRestore": {
+        "message": "Clique para re-abrir"
+    },
+    "addNewColumn": {
+        "message": "[Adicionar nova coluna]"
+    },
+    "removeThisColumn": {
+        "message": "[Remover esta coluna]"
+    },
+    "areYouSure": {
+        "message": "Você está certo disso?"
+    },
+    "ok": {
+        "message": "OK"
+    },
+    "clearAll": {
+        "message": "[Limpar todas]"
+    },
+    "newColumn": {
+        "message": "Nova coluna"
+    },
+    "sortByName": {
+        "message": "Organizar por nome"
+    },
+    "sortByAddress": {
+        "message": "Organizar pelo endereço Web"
+    },
+    "sortByTime": {
+        "message": "Organizar pela data de criação"
+    },
+    "openOptionPage": {
+        "message": "Abrir página de opções"
+    },
+    "options": {
+        "message": "Opções"
+    },
+    "find": {
+        "message": "Buscar"
+    },
+    "justTypeIn": {
+        "message": "É só escrever..."
+    },
+    "updateNotes": {
+        "message": "Clique aqui para ver as informações de atualização"
+    },
+    "previousColumn": {
+        "message": "Coluna anterior"
+    },
+    "nextColumn": {
+        "message": "Próxima coluna"
+    },
+    "remove": {
+        "message": "Remover"
+    },
+    "cancel": {
+        "message": "Cancelar"
+    },
+    "suspendedTabsTitle": {
+        "message": "Abas suspensas"
+    },
+    "suspendedTabsTip": {
+        "message": "Coloque suas abas inativas aqui para reduzir a sobre-carga de abas. A memória será liberada, porém, os formulários e vídeos não serão salvos."
+    },
+    "recentlyClosedTitle": {
+        "message": "Fechados recentemente"
+    },
+    "recentlyClosedTip": {
+        "message": "Não serão removidas juntas com o histórico. Poderão ser removidas manualmente. Clique no ícone para um sub-menu."
+    },
+    "optionsPageTitle": {
+        "message": "TooManyTabs for Chrome - Opções"
+    },
+    "welcomeMessage": {
+        "message": "Novo no TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visite nossa página de bem-vindo.</a>"
+    },
+    "popupWidth": {
+        "message": "Tamanho da popup:"
+    },
+    "popupWidth1": {
+        "message": "Grande"
+    },
+    "popupWidth2": {
+        "message": "Média"
+    },
+    "popupWidth3": {
+        "message": "Pequena"
+    },
+    "showTabCount": {
+        "message": "Exibir a quantidade de abas no ícone:"
+    },
+    "optionsYes": {
+        "message": "Sim"
+    },
+    "optionsNo": {
+        "message": "Não"
+    },
+    "customThemeColor": {
+        "message": "Cor do tema personalizado:"
+    },
+    "advancedFeatures": {
+        "message": "Opções avançadas"
+    },
+    "customRows1": {
+        "message": "Colunas personalizadas"
+    },
+    "customRows2": {
+        "message": "Utilizar colunas padrões"
+    },
+    "customRows3": {
+        "message": "Ativar colunas personalizadas"
+    },
+    "crossWindow": {
+        "message": "Exibir abas de todas as janelas:"
+    },
+    "crossWindow1": {
+        "message": "Sim"
+    },
+    "crossWindow2": {
+        "message": "Não (Padrão)"
+    },
+    "crossWindow3": {
+        "message": "Google Chrome para Mac / Linux não suportam troca de abas entre janelas. Se você fizer isto, a aba será movida para a janela atual."
+    },
+    "shortcut1": {
+        "message": "Usar tecla de atalho para exibir a janela do TMT: CTRL-"
+    },
+    "shortcut2": {
+        "message": "As teclas de atalho não funcionarão enquanto você estiver numa página de sistema, como esta página de opções. Alguns atalhos poderão não funcionar em alguns sistemas operacionais (ex. CTRL-A)."
+    },
+    "quickSupport": {
+        "message": "Suporte rápido:"
+    },
+    "quickSupport1": {
+        "message": "Últimas atualizações, dicas e vídeo-tutoriais <a href='http://www.visibotech.com/TMTChrome/'>aqui</a>!"
+    },
+    "quickSupport2": {
+        "message": "Nós não coletamos qualquer informação privada sua e nunca enviaremos nada para qualquer servidor."
+    },
+    "contactUs": {
+        "message": "Contate-nos:"
+    },
+    "contactUs1": {
+        "message": "Sugestões? Elogios? Afeições? Nos visite <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>aqui</a>!"
+    },
+    "contactUs2": {
+        "message": "Problemas? Bugs? Nos visite <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>aqui</a> também. Nós precisaremos, provavelmente, de screenshots, versão do sistema operacional e navegador."
+    },
+    "contactUs3": {
+        "message": "É bem-vindo todas as informações construtivas e em linguagens civilizadas. ;)"
+    },
+    "knownIssues": {
+        "message": "Problemas conhecidos - não envie-nos relatórios de erros sobre estes. Nós estamos nos comunicando com a equipe do Chrome para ajudar a resolvê-los:"
+    },
+    "knownIssues1": {
+        "message": "Teclas de atalho não funcionam nas próprias páginas do Chrome (ex. página inicial, página de opções)."
+    },
+    "knownIssues2": {
+        "message": "Algumas vezes, as próprias paginas do Chrome não respondem ao chamado do TMT."
+    },
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. Todos os direitos reservados."
+    }
+}
