@@ -1,0 +1,52 @@
+{
+    "extensionName": {
+        "message": "TabJump - Intelligente Tab-Navigator"
+    },
+    "extensionDescription": {
+        "message": "Ein neuer Weg zu Ihrem Registerkarten zu navigieren. Einfacher Zugriff auf am häufigsten verwendeten Registerkarten, die damit verbundenen Registerkarten, und die geschlossenen Tabs. Ermöglicht Registerkarte Sperren zu."
+    },
+    "extensionPageActionTitle": {
+        "message": "TabJump!"
+    },
+    "loading": {
+        "message": "laden..."
+    },
+    "clickToOpen": {
+        "message": "Klicken Sie zum Öffnen \"$title$\"",
+        "placeholders": {
+            "title": {
+                "content": "$1"
+            }
+        }
+    },
+    "sureToLeavePage": {
+        "message": "Sind Sie sicher, diese Seite zu verlassen?"
+    },
+    "jump": {
+        "message": "Jump"
+    },
+    "frequentlyUsedTabs": {
+        "message": "Frequently used tabs"
+    },
+    "undo": {
+        "message": "Undo"
+    },
+    "recentlyClosedTabs": {
+        "message": "Recently closed tabs"
+    },
+    "related": {
+        "message": "Related"
+    },
+    "relatedTabs": {
+        "message": "Related tabs"
+    },
+    "unlockPage": {
+        "message": "Öffne diese Seite"
+    },
+    "lockPage": {
+        "message": "Sperre dieser Seite"
+    },
+    "cannotLockPage": {
+        "message": "Kann diese Seite nicht sperren"
+    }
+}

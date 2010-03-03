@@ -1,0 +1,182 @@
+{
+    "name": {
+        "message": "TooManyTabs for Chrome"
+    },
+    "description": {
+        "message": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open."
+    },
+    "clickToPop": {
+        "message": "Click to pop this tab to TooManyTabs column"
+    },
+    "clickToClose": {
+        "message": "Click to close"
+    },
+    "contactingTab": {
+        "message": "Contacting tab..."
+    },
+    "noResponse": {
+        "message": "Hm, no response from that tab. Either it is a system panel, or it's busy..."
+    },
+    "clickToRestore": {
+        "message": "Click to restore"
+    },
+    "addNewColumn": {
+        "message": "[Add New Column]"
+    },
+    "removeThisColumn": {
+        "message": "[Remove This Column]"
+    }, 
+    "areYouSure": {
+        "message": "Are you sure?"
+    },
+    "ok": {
+        "message": "OK"
+    },
+    "clearAll": {
+        "message": "[Clear All]"
+    },
+    "newColumn": {
+        "message": "New Column"
+    },
+    "sortByName": {
+        "message": "Sort by Name"
+    },
+    "sortByAddress": {
+        "message": "Sort by Web Address"
+    },
+    "sortByTime": {
+        "message": "Sort by Creation Time"
+    },
+    "openOptionPage": {
+        "message": "Open Option Page"
+    },
+    "options": {
+        "message": "Options"
+    },
+    "find": {
+        "message": "Find"    
+    },
+    "justTypeIn": {
+        "message": "Just type in..."
+    },
+    "updateNotes": {
+        "message": "Click here for update notes"
+    },
+    "previousColumn": {
+        "message": "Previous column"
+    },
+    "nextColumn": {
+        "message": "Next column"
+    },
+    "remove": {
+        "message": "Remove"
+    },
+    "cancel": {
+        "message": "Cancel"
+    },
+    "suspendedTabsTitle": {
+        "message": "Suspended Tabs"
+    },
+    "suspendedTabsTip": {
+        "message": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved."
+    },
+    "recentlyClosedTitle": {
+        "message": "Recently Closed"
+    },
+    "recentlyClosedTip": {
+        "message": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu."
+    },
+    "optionsPageTitle": {
+        "message": "TooManyTabs for Chrome - Options"
+    },
+    "welcomeMessage": {
+        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visit our welcome page.</a>"
+    },
+    "popupWidth": {
+        "message": "Popup Width:"
+    },
+    "popupWidth1": {
+        "message": "Wide"
+    },
+    "popupWidth2": {
+        "message": "Narrow"
+    },
+    "popupWidth3": {
+        "message": "Small"
+    },
+    "showTabCount": {
+        "message": "Show tab count on the icon:"
+    },
+    "optionsYes": {
+        "message": "Yes"
+    },
+    "optionsNo": {
+        "message": "No"
+    },
+    "customThemeColor": {
+        "message": "Custom theme color:"
+    },
+    "advancedFeatures": {
+        "message": "Advanced features"
+    },
+    "customRows1": {
+        "message": "Custom columns"
+    },
+    "customRows2": {
+        "message": "Use default columns"
+    },
+    "customRows3": {
+        "message": "Enable custom columns"
+    },
+    "crossWindow": {
+        "message": "Show tabs across windows:"
+    },
+    "crossWindow1": {
+        "message": "Yes"
+    },
+    "crossWindow2": {
+        "message": "No (Default)"
+    },
+    "crossWindow3": {
+        "message": "Google Chrome for Mac / Linux do not support cross-window tab switching. If you try to switch to a tab in another window, that tab will be moved to the current window instead."
+    },
+    "shortcut1": {
+        "message": "Use shortcut key to bring up TMT window: CTRL-"
+    },
+    "shortcut2": {
+        "message": "The shortcut key doesn't work when you are on system pages, like this option page. Some shortcuts may not work on certain operating systems (e.g. CTRL-A)."
+    },
+    "quickSupport": {
+        "message": "Quick Support:"
+    },
+    "quickSupport1": {
+        "message": "Latest updates, tips and video tutorials <a href='http://www.visibotech.com/TMTChrome/'>here</a>!"
+    },
+    "quickSupport2": {
+        "message": "We do not collect any of your private information and never send them to any servers."
+    },
+    "contactUs": {
+        "message": "Contact Us:"
+    },
+    "contactUs1": {
+        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!"
+    },
+    "contactUs2": {
+        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a> as well. We often need screenshots and your OS/Chrome version."
+    },
+    "contactUs3": {
+        "message": "We welcome all constructive feedbacks in civilized languages. *wink*"
+    },
+    "knownIssues": {
+        "message": "Known Issues - do not file bug-reports on these, we are communicating with Chrome team to resolve them:"
+    },
+    "knownIssues1": {
+        "message": "Shortcut key does not work on Chrome's own pages (e.g. default homepage, option pages)."
+    },
+    "knownIssues2": {
+        "message": "Chrome's own pages do not respond to TMT's wake up calls occasionally."
+    },
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
+    }
+}

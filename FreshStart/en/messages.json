@@ -1,0 +1,99 @@
+{
+    "extensionName": {
+        "message": "FreshStart - Cross Browser Session Manager",
+        "description": "the extension name"
+    },
+    "extensionDescription": {
+        "message": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager."
+    },
+    "extensionBrowserActionTitle": {
+        "message": "FreshStart - Cross Browser Session Manager"
+    },
+    "updatedMessage": {
+        "message": "FreshStart is updated, click here to see what's new"
+    },
+    "saveSession": {
+        "message": "Save Session"
+    },
+    "mySession": {
+        "message": "My Session"
+    },
+    "smSaveList": {
+        "message": "Uncheck tabs that you don't want to be saved."
+    },
+    "restoreSession": {
+        "message": "Restore Session"
+    },
+    "restoreSession2": {
+        "message": "Left click to open in new window, middle click or ctrl-click/cmd-click to open in current window"
+    },
+    "options": {
+        "message": "Options"
+    },
+    "restorePreviousSession": {
+        "message": "Restore previous session"
+    },
+    "enableCrashRecovery": {
+        "message": "Enable crash recovery"
+    },
+    "noSessionSaved": {
+        "message": "No sessions saved"
+    },
+    "clickToRestore": {
+        "message": "Click to restore session '$name$' in new window",
+        "placeholders": {
+            "name": {    
+                "content": "$1"
+            }
+        }
+    },
+    "tabsCount": {
+        "message": " ($count$ tabs)",
+        "placeholders": {
+            "count": {    
+                "content": "$1"
+            }
+        }
+    },
+    "optionsPageTitle": {
+        "message": "FreshStart Options"
+    },
+    "optionsEnableCrashRecovery": {
+        "message": "Enable Crash Recovery (Saves all your windows and tabs every 5 minutes)"
+    },
+    "save": {
+        "message": "Save"
+    },
+    "optionsSaved": {
+        "message": "Options saved"
+    },
+    "contactUs":{
+        "message": "Contact us:"
+    },
+    "contactUs2":{
+        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>here</a>!"
+    },
+    "contactUs3":{
+        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>here</a> as well. We often need screenshots and your OS/Chrome version."
+    },
+    "contactUs4":{
+        "message": "We welcome all constructive feedbacks in civilized languages. *wink*"
+    },
+    "copyright":{
+        "message": "Copyright 2010 Visibo Ltd. All rights reserved."
+    },
+    "crashRestoreTitle":{
+        "message": "Restore Previous Session"
+    },
+    "restorePreiousSession":{
+        "message": "Restore Previous Session"
+    },
+    "restoreSavedWindow":{
+        "message": "Saved Window ($count$) - click to restore this window",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    }
+}  

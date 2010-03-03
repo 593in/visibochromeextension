@@ -1,0 +1,52 @@
+{
+    "extensionName": {
+        "message": "TabJump - Intelligent ficha Navigator"
+    },
+    "extensionDescription": {
+        "message": "Una nueva forma de navegar por pestañas. Partituras más utilizados acceder fácilmente, pestañas asociadas, y las pestañas cerradas. Permite la pestaña de bloqueo también."
+    },
+    "extensionPageActionTitle": {
+        "message": "TabJump!"
+    },
+    "loading": {
+        "message": "Cargando..."
+    },
+    "clickToOpen": {
+        "message": "Haga clic para abrir \"$title$\"",
+        "placeholders": {
+            "title": {
+                "content": "$1"
+            }
+        }
+    },
+    "sureToLeavePage": {
+        "message": "¿Estás seguro de dejar esta página?"
+    },
+    "jump": {
+        "message": "Jump"
+    },
+    "frequentlyUsedTabs": {
+        "message": "Frequently used tabs"
+    },
+    "undo": {
+        "message": "Undo"
+    },
+    "recentlyClosedTabs": {
+        "message": "Recently closed tabs"
+    },
+    "related": {
+        "message": "Related"
+    },
+    "relatedTabs": {
+        "message": "Related tabs"
+    },
+    "unlockPage": {
+        "message": "Desbloquear esta página"
+    },
+    "lockPage": {
+        "message": "Bloquear esta página"
+    },
+    "cannotLockPage": {
+        "message": "No se puede bloquear esta página"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "extensionName": {
+        "message": "TabJump - Intelligent Tab Navigator"
+    },
+    "extensionDescription": {
+        "message": "Uma nova forma de navegar tabs. Facilidade de acesso mais utilizados separadores, tabs associados, e as abas fechadas. Permite que trava também."
+    },
+    "extensionPageActionTitle": {
+        "message": "TabJump!"
+    },
+    "loading": {
+        "message": "Carregando..."
+    },
+    "clickToOpen": {
+        "message": "Clique para abrir \"$title$\"",
+        "placeholders": {
+            "title": {
+                "content": "$1"
+            }
+        }
+    },
+    "sureToLeavePage": {
+        "message": "Tem certeza de sair desta página?"
+    },
+    "jump": {
+        "message": "Jump"
+    },
+    "frequentlyUsedTabs": {
+        "message": "Frequently used tabs"
+    },
+    "undo": {
+        "message": "Undo"
+    },
+    "recentlyClosedTabs": {
+        "message": "Recently closed tabs"
+    },
+    "related": {
+        "message": "Related"
+    },
+    "relatedTabs": {
+        "message": "Related tabs"
+    },
+    "unlockPage": {
+        "message": "desbloquear esta página"
+    },
+    "lockPage": {
+        "message": "Lock esta página"
+    },
+    "cannotLockPage": {
+        "message": "Não é possível bloquear esta página"
+    }
+}
