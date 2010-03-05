@@ -1,0 +1,10 @@
+TwitterWatch é uma ferramenta simples para deixá-lo ligado em assuntos quentes do Twitter. Insira uma palavra, pressione buscar e pronto! TwitterWatch pode co-existir com outros clientes Twitter sem qualquer problema.
+
+Novidade na versão 0.7
+- Envia tweets, retweet e responde diretamente do TwitterWatch!
+
+Recursos
+- Veja os últimos tweets por palavras chaves
+- Exibe contador de atualizações em tempo real
+- Uso de recursos quase nulo
+- Funciona muito bem com outros clientes Twitter

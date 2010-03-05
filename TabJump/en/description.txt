@@ -1,0 +1,12 @@
+"Great tab manager" -- as featured in Lifehacker.com! 
+
+When working with many tabs at the same time, it's hard to remember which one you want to go next. TabJump highlights frequently used tabs and related tabs so you can easily jump between them. And never worry again about closing tabs by accident, for TabJump can protect them, or even restore closed tabs!
+
+Features
+- Jump to frequently used tabs
+- Jump to related tabs (tabs from the same site, etc)
+- Restore recently closed tabs
+- Lock a tab to prevent accidental closing (only work for tabs loaded after TabJump is installed)
+
+Disclaimer
+- Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, you can press Ctrl+Shift+T to reopen them one by one.

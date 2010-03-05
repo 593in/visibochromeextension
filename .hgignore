@@ -1,0 +1,29 @@
+syntax: glob
+
+private
+build
+
+*.rar
+*.zip
+*.7z
+*.pdb
+*.lnk
+*.swp
+*.bak
+*.old
+*.ini
+*.db
+*.DS_Store
+*.sh
+*.crx
+*.pem
+.*
+
+syntax: regexp
+
+\.rej$
+\.orig$
+\.orig\..*$
+\.chg\..*$
+\.conflict\~$
+

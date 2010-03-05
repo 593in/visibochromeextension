@@ -1,0 +1,12 @@
+FriendsMural é um cliente Facebook com estilo!
+
+Recursos:
+- Personaliza completamente o "Mural de Amigos", atualizando os contatos que você ama!
+- Com um clique é possível ver atualizações nesta extensão
+- O notifica sobre atualizações na barra do Chrome
+- Altera o papel de parede para ganhar pontos no estilo
+- Tutorial em http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html (em inglês)
+
+Em breve:
+- Atualize seus status diretamente na extensão
+- Comente os posts dos seus amigos de forma fácil e rápida

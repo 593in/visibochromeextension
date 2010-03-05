@@ -1,0 +1,18 @@
+"Grande gerenciador de abas" -- como destaque no Lifehacker.com!
+
+Quando você utiliza muitas abas de uma só vez, é difícil lembrar qual delas você utilizará depois. TabJump deixa explícito as abas com uso frequente, como também aquelas que possuem relações, permitindo você ir diretamente até elas. E nunca mais se preocupe em fechar abas acidentalmente, pois o TabJump pode bloquear uma página para que não seja fechada, ou em último caso, pode recuperá-la facilmente!
+
+** Caso a extensão não instale, tente reiniciar o Chrome ou clicar em "Install" algumas vezes. **
+
+Recursos:
+- Ir diretamente para uma aba frequentemente usada
+- Ir diretamente para uma aba relacionada (do mesmo site, etc)
+- Recupera abas fechadas recentemente
+- Trava uma aba para prevenir que sejam fechadas acidentalmente (funciona somente com abas abertas depois da instalação do TabJump)
+
+Obrigado ao David S. Rodrigues pela tradução em português!
+
+** Atenção **
+Devido à limitações do Chrome, as extensões não podem recuperar o histórico de páginas de abas fechadas. Mas se isto for realmente necessário, você pode utilizar CTRL+Shift+T para re-abrir estas páginas fechadas com este suporte.
+
+Informações sobre o uso são bem-vindos!

@@ -1,0 +1,23 @@
+Já tentou ter 20 ou mais abertas no Chrome? Você mal pode ver os ícones destas abas, muito menos o título delas! Se isto acontece com você, TooManyTabs é muito mais que uma extensão para gerenciar abas, permitindo reduzir a sobre-carga de abas e salvar o seu bom senso!
+
+Dos criados de TooManyTabs for Firefox, TMT veio para o Chrome para ajudá-los com todas as suas abas!
+
+Novidade na versão 1.4
+- Exibe as abas de todas as janelas
+- Tecla de atalho personalizada
+
+Recursos
+- Raio-X para ver todas as abas abertas (mesmo que em outras janelas)
+- Previsão clara de cada aba e seu conteúdo (exibe gradualmente enquanto você usa)
+- Barra de busca instantânea
+- Organiza as abas pela data de criação, domínio e título
+- Recupera abas fechadas recentemente
+- Suspende abas desocupadas e salva memória, organizando com cores personalizadas
+- Temas personalizados
+
+Em breve
+- Barra de busca para abas suspendidas
+- Melhoria na coluna de abas suspensas
+
+Atenção
+- Devido à limitações do Chrome, as extensões não podem recuperar o histórico de páginas de abas fechadas. Mas se isto for realmente necessário, você pode utilizar CTRL+Shift+T para re-abrir estas páginas fechadas com este suporte.
