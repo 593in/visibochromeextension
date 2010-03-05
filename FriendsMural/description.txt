@@ -1,0 +1,12 @@
+FriendsMural is a Facebook client with style!
+
+Features:
+- Completely personal "Friend Mural" to keep updated on your beloved ones!
+- One click to see your news feed directly in the extension
+- Notify you of updates from the Chrome toolbar
+- Custom wallpaper for extra style points
+- Tutorial at http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html
+
+Upcoming features:
+- Update your status from Friends Mural
+- Comment on friends' posts directly in Friends Mural

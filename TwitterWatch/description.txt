@@ -1,0 +1,10 @@
+TwitterWatch is the simplest tool to keep watch on hot Twitter keywords! Enter a keyword, press search, and you are done. TwitterWatch can coexist with other Twitter clients, without depleting update quotas.
+
+New in 0.7
+- Send tweets, retweet and reply directly from TwitterWatch!
+
+Features
+- Watch for latest tweets with keyword
+- Show update count in real time
+- Very light resource usage
+- Works nicely with other Twitter clients

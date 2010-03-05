@@ -1,0 +1,23 @@
+Ever tried having 20 tabs or more open in Chrome? You can¡¦t even see the favicon of the tabs, not to mention the tab titles! If that happens to you, TooManyTabs is a must-have extension that manages your tabs, reduces your tab overflow, and saves your sanity!
+
+From the makers of TooManyTabs for Firefox, TMT has come to Chrome to help all your tab needs!
+
+New in 1.4
+- Show tabs from all windows
+- Custom shortcut key
+
+Features
+- Bird's eye view of all opened tabs
+- Clear preview of each tab's content (fills up gradually as you use)
+- Instant tab search
+- Sort tabs by creation time, domain or title
+- Restore recently closed tabs
+- Suspend idle tabs and save memory, organize with custom columns
+- Custom themes
+
+Upcoming features
+- Search suspended tabs
+- Suspended column improvements
+
+Disclaimer
+- Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, you can press Ctrl+Shift+T to reopen them one by one.
