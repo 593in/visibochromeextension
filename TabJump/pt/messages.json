@@ -1,15 +1,15 @@
 {
-    "extensionName": {
-        "message": "TabJump - Intelligent Tab Navigator"
+    "name": {
+        "message": "TabJump - Navegador de abas inteligente"
     },
-    "extensionDescription": {
-        "message": "Uma nova forma de navegar tabs. Facilidade de acesso mais utilizados separadores, tabs associados, e as abas fechadas. Permite que trava também."
+    "description": {
+        "message": "Uma nova forma de navegar pelas suas abas. Acesse facilmente suas abas mais usadas, relacionadas e fechadas. Também permite bloquear abas."
     },
     "extensionPageActionTitle": {
         "message": "TabJump!"
     },
     "loading": {
-        "message": "Carregando..."
+        "message": "carregando..."
     },
     "clickToOpen": {
         "message": "Clique para abrir \"$title$\"",
@@ -20,31 +20,31 @@
         }
     },
     "sureToLeavePage": {
-        "message": "Tem certeza de sair desta página?"
+        "message": "Tem certeza que deseja sair desta página?"
     },
     "jump": {
-        "message": "Jump"
+        "message": "Ir até"
     },
     "frequentlyUsedTabs": {
-        "message": "Frequently used tabs"
+        "message": "Usadas frequentemente"
     },
     "undo": {
-        "message": "Undo"
+        "message": "Desfazer"
     },
     "recentlyClosedTabs": {
-        "message": "Recently closed tabs"
+        "message": "Fechadas recentemente"
     },
     "related": {
-        "message": "Related"
+        "message": "Relacionada"
     },
     "relatedTabs": {
-        "message": "Related tabs"
+        "message": "Abas relacionadas"
     },
     "unlockPage": {
-        "message": "desbloquear esta página"
+        "message": "Desbloqueie esta página"
     },
     "lockPage": {
-        "message": "Lock esta página"
+        "message": "Bloqueie esta página"
     },
     "cannotLockPage": {
         "message": "Não é possível bloquear esta página"
