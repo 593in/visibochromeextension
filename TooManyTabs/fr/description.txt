@@ -1,5 +1,5 @@
-(Translated with Google Translate - English version here <a href="http://bit.ly/9uAWZg">http://bit.ly/9uAWZg</a>
-Can you help us translate? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a> )
+(Translated with Google Translate - English version here http://bit.ly/9uAWZg
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 Jamais essayé d'avoir 20 onglets ou plus ouvert dans Chrome? Vous pouvez même pas voir l'icône de favori des onglets, de ne pas mentionner le titre de l'onglet! Si cela vous arrive, TooManyTabs est un must-have extension qui gère vos onglets, réduit votre débordement onglet, et enregistre votre santé mentale!
 
@@ -26,11 +26,11 @@ Disclaimer
 - En raison de limitations Chrome, les extensions ne peuvent pas restaurer l'historique des onglets fermés. Si vous avez besoin de l'histoire à partir d'un onglet récemment fermé, vous pouvez appuyer sur Ctrl+Shift+T pour les rouvrir une à une.
 
 If you like TooManyTabs, check out our other extensions too!
-- Incredible StartPage <a href="http://bit.ly/a2TzaI">http://bit.ly/a2TzaI</a> **NEW**
-- Friends Mural for Facebook <a href="http://bit.ly/cF8PXM">http://bit.ly/cF8PXM</a>
-- FreshStart Session Manager: <a href="http://bit.ly/6aEUJE">http://bit.ly/6aEUJE</a>
-- TwitterWatch: <a href="http://bit.ly/5C6VgI">http://bit.ly/5C6VgI</a>
-- TabJump: <a href="http://bit.ly/cVdnBq">http://bit.ly/cVdnBq</a>
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- Friends Mural for Facebook http://bit.ly/cF8PXM
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TwitterWatch: http://bit.ly/5C6VgI
+- TabJump: http://bit.ly/cVdnBq
 
 Credits
 - Thanks to David S. Rodrigues for Portuguese translation!
@@ -38,6 +38,6 @@ Credits
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 
 By downloading this extension you agree to our terms and conditions:
-<a href="http://www.visibotech.com/TMTChrome/license.html">http://www.visibotech.com/TMTChrome/license.html</a>
+http://www.visibotech.com/TMTChrome/license.html
 
-We are looking for translators, can you help us? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a>
+We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/

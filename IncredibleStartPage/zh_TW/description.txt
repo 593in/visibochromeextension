@@ -1,9 +1,9 @@
-(Translated with Google Translate - English version here <a href="http://bit.ly/bo5V9N">http://bit.ly/bo5V9N</a>
-Can you help us translate? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a> )
+(Translated with Google Translate - English version here http://bit.ly/bo5V9N
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 令人難以置信的起始頁是一個有建設性的開始頁面替換鉻。把所有您喜愛的書籤在美麗的框架，並享受我們的便捷功能！
 
-正如看到DownloadSquad。 <a href="http://goo.gl/iyYe">http://goo.gl/iyYe</a>
+正如看到DownloadSquad。 http://goo.gl/iyYe
 
 特徵
 - 自定義顏色主題
@@ -11,7 +11,7 @@ Can you help us translate? <a href="http://code.google.com/p/visibochromeextensi
 - 簡單的關閉標籤的恢復
 - 做筆記，並在使用Gmail後點擊一下鼠標
 
-看到完整教程我們的博客 <a href="http://bit.ly/blK34">http://bit.ly/blK348</a>
+看到完整教程我們的博客 http://bit.ly/blK348
 
 免責聲明
 - 由於鉻的限制，擴展無法還原歷史，關閉的標籤。如果您需要的歷史，最近關閉標籤，你可以按Ctrl + Shift + T鍵重新逐一。
@@ -20,6 +20,6 @@ Can you help us translate? <a href="http://code.google.com/p/visibochromeextensi
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 
 By downloading this extension you agree to our terms and conditions:
-<a href="http://www.visibotech.com/license/incrediblestartpage.html">http://www.visibotech.com/license/incrediblestartpage.html</a>
+http://www.visibotech.com/license/incrediblestartpage.html
 
-We are looking for translators, can you help us? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a>
+We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
