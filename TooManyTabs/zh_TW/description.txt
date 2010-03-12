@@ -1,0 +1,43 @@
+(Translated with Google Translate - English version here <a href="http://bit.ly/9uAWZg">http://bit.ly/9uAWZg</a>
+Can you help us translate? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a> )
+
+是否嘗試過有20或更多的開放標籤在Chrome？你甚至無法看到圖標的標籤，更遑論標籤名稱！如果發生這種情況給你，TooManyTabs是必須具備的擴展，管理您的標籤，降低您的標籤溢出，並節省您的理智！
+
+從製造商的TooManyTabs用於 Firefox，媒體和電信已經到了鉻，以幫助您的所有標籤的需求！
+
+新的1.4
+- 顯示標籤的所有窗口
+- 自定義快捷鍵
+
+特徵
+- 鳥瞰所有打開的標籤
+- 清除預覽每個標籤的內容（填滿逐漸使用）
+- 即時標籤搜索
+- 分類標籤由創建時，域或標題
+- 恢復最近關閉的標籤
+- 掛起空閒標籤和節省內存，組織與自定義列
+- 自定義主題
+
+即將推出的功能
+- 搜索暫停標籤
+- 懸浮列改善
+
+免責聲明
+- 由於鉻的限制，擴展無法還原歷史，關閉的標籤。如果您需要的歷史，最近關閉標籤，你可以按 Ctrl+Shift+T 鍵重新逐一。
+
+If you like TooManyTabs, check out our other extensions too!
+- Incredible StartPage <a href="http://bit.ly/a2TzaI">http://bit.ly/a2TzaI</a> **NEW**
+- Friends Mural for Facebook <a href="http://bit.ly/cF8PXM">http://bit.ly/cF8PXM</a>
+- FreshStart Session Manager: <a href="http://bit.ly/6aEUJE">http://bit.ly/6aEUJE</a>
+- TwitterWatch: <a href="http://bit.ly/5C6VgI">http://bit.ly/5C6VgI</a>
+- TabJump: <a href="http://bit.ly/cVdnBq">http://bit.ly/cVdnBq</a>
+
+Credits
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+
+By downloading this extension you agree to our terms and conditions:
+<a href="http://www.visibotech.com/TMTChrome/license.html">http://www.visibotech.com/TMTChrome/license.html</a>
+
+We are looking for translators, can you help us? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a>

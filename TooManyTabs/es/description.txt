@@ -1,0 +1,43 @@
+(Translated with Google Translate - English version here <a href="http://bit.ly/9uAWZg">http://bit.ly/9uAWZg</a>
+Can you help us translate? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a> )
+
+¿Alguna vez intentó tener 20 o más pestañas abiertas en Chrome? Ni siquiera se puede ver el favicon de las fichas, por no mencionar los títulos de las fichas! Si eso le sucede a usted, TooManyTabs es un deber-tener la extensión que gestiona las pestañas, reduce el desbordamiento de la ficha, y guarda tu cordura!
+
+De los creadores de TooManyTabs para Firefox, TMT ha llegado a Chrome para ayudar a todas sus necesidades de ficha!
+
+Nuevo en el 1,4
+- Mostrar partituras de todas las ventanas de
+- Tecla de acceso personalizado
+
+Características
+- A vista de pájaro de todas las partituras abierto
+- Vista previa clara del contenido de cada pestaña (se llena gradualmente a medida que se utiliza)
+- Ficha de búsqueda instantánea
+- Partituras Ordenar por fecha de creación, de dominio o título de
+- Restaurar pestañas cerradas recientemente
+- Suspender partituras de inactividad y guardar la memoria, organizar con columnas personalizadas
+- Los temas personalizados
+
+Entre las próximas
+- Consulta aquí suspendido
+- Mejora de la columna suspensión
+
+Descargo de responsabilidad
+- Debido a las limitaciones de Chrome, las extensiones no puede restaurar la historia de las pestañas cerradas. Si usted necesita de la historia de una pestaña cerrada hace poco, puede pulsar Ctrl+Shift+T para abrir una por una.
+
+If you like TooManyTabs, check out our other extensions too!
+- Incredible StartPage <a href="http://bit.ly/a2TzaI">http://bit.ly/a2TzaI</a> **NEW**
+- Friends Mural for Facebook <a href="http://bit.ly/cF8PXM">http://bit.ly/cF8PXM</a>
+- FreshStart Session Manager: <a href="http://bit.ly/6aEUJE">http://bit.ly/6aEUJE</a>
+- TwitterWatch: <a href="http://bit.ly/5C6VgI">http://bit.ly/5C6VgI</a>
+- TabJump: <a href="http://bit.ly/cVdnBq">http://bit.ly/cVdnBq</a>
+
+Credits
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+
+By downloading this extension you agree to our terms and conditions:
+<a href="http://www.visibotech.com/TMTChrome/license.html">http://www.visibotech.com/TMTChrome/license.html</a>
+
+We are looking for translators, can you help us? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a>

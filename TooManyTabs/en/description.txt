@@ -1,4 +1,4 @@
-Ever tried having 20 tabs or more open in Chrome? You can¡¦t even see the favicon of the tabs, not to mention the tab titles! If that happens to you, TooManyTabs is a must-have extension that manages your tabs, reduces your tab overflow, and saves your sanity!
+Ever tried having 20 tabs or more open in Chrome? You canâ€™t even see the favicon of the tabs, not to mention the tab titles! If that happens to you, TooManyTabs is a must-have extension that manages your tabs, reduces your tab overflow, and saves your sanity!
 
 From the makers of TooManyTabs for Firefox, TMT has come to Chrome to help all your tab needs!
 
@@ -21,3 +21,20 @@ Upcoming features
 
 Disclaimer
 - Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, you can press Ctrl+Shift+T to reopen them one by one.
+
+If you like TooManyTabs, check out our other extensions too!
+- Incredible StartPage <a href="http://bit.ly/a2TzaI">http://bit.ly/a2TzaI</a> **NEW**
+- Friends Mural for Facebook <a href="http://bit.ly/cF8PXM">http://bit.ly/cF8PXM</a>
+- FreshStart Session Manager: <a href="http://bit.ly/6aEUJE">http://bit.ly/6aEUJE</a>
+- TwitterWatch: <a href="http://bit.ly/5C6VgI">http://bit.ly/5C6VgI</a>
+- TabJump: <a href="http://bit.ly/cVdnBq">http://bit.ly/cVdnBq</a>
+
+Credits
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+
+By downloading this extension you agree to our terms and conditions:
+<a href="http://www.visibotech.com/TMTChrome/license.html">http://www.visibotech.com/TMTChrome/license.html</a>
+
+We are looking for translators, can you help us? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a>

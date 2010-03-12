@@ -1,0 +1,43 @@
+(Translated with Google Translate - English version here <a href="http://bit.ly/9uAWZg">http://bit.ly/9uAWZg</a>
+Can you help us translate? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a> )
+
+これまで20タブ以上Chromeで開いていなくみましたか？さらにではなく、タブのタイトルはもちろん、タブのファビコンが表示されないことができます！もしそうなってしまったら、TooManyTabsで、お客様のタブを管理する拡張子を持つ必要があります、あなたのタブのオーバーフローを低減であり、あなたの正気を節約！
+
+Firefox用のTooManyTabsのメーカーから、TMTは、すべてのタブのニーズを支援するクロームになってきた！
+
+新1.4
+すべての窓から - を表示するタブ
+- カスタムショートカットキー
+
+特徴
+すべてのタブを開いた - 鳥瞰図
+として使用するそれぞれのタブのコンテンツ - クリアプレビュー（最大徐々に）塗り
+- インスタントタブを検索
+作成時に、ドメイン、またはタイトル - 並べ替え]タブ
+- 復元最近閉じたタブ
+- アイドル状態のタブを中断し、メモリを節約する、カスタムの列を整理
+- カスタムテーマ
+
+今後の機能
+- 検索停止]タブ
+- 浮遊列の改善
+
+免責事項
+- のための制限のクロムには、拡張子を閉じたタブから歴史を復元することはできません。場合は、キーを押しすることができます Ctrl+Shift+T キーを1つずつそれらを再開する、最近閉じたタブの履歴が必要です。
+
+If you like TooManyTabs, check out our other extensions too!
+- Incredible StartPage <a href="http://bit.ly/a2TzaI">http://bit.ly/a2TzaI</a> **NEW**
+- Friends Mural for Facebook <a href="http://bit.ly/cF8PXM">http://bit.ly/cF8PXM</a>
+- FreshStart Session Manager: <a href="http://bit.ly/6aEUJE">http://bit.ly/6aEUJE</a>
+- TwitterWatch: <a href="http://bit.ly/5C6VgI">http://bit.ly/5C6VgI</a>
+- TabJump: <a href="http://bit.ly/cVdnBq">http://bit.ly/cVdnBq</a>
+
+Credits
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+
+By downloading this extension you agree to our terms and conditions:
+<a href="http://www.visibotech.com/TMTChrome/license.html">http://www.visibotech.com/TMTChrome/license.html</a>
+
+We are looking for translators, can you help us? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a>
