@@ -1,0 +1,22 @@
+Incredible StartPage is a productive start page replacement for Chrome. Put all your favorite bookmarks in a beautiful frame, and enjoy our handy features!
+
+As seen on DownloadSquad. <a href="http://goo.gl/iyYe">http://goo.gl/iyYe</a>
+
+Features
+- Customizable color theme
+- Easily access your favorite bookmarks in a large frame
+- Simple closed tab recovery
+- Take notes and post to Gmail in one click
+
+See a full tutorial on our blog <a href="http://bit.ly/blK34">http://bit.ly/blK348</a>
+
+Disclaimer
+- Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, you can press Ctrl+Shift+T to reopen them one by one.
+- FYI: To get back Chrome's original start page, just go to "Extension" from the "Wrench" menu, and disable/uninstall the extension. 
+
+Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
+
+By downloading this extension you agree to our terms and conditions:
+<a href="http://www.visibotech.com/license/incrediblestartpage.html">http://www.visibotech.com/license/incrediblestartpage.html</a>
+
+We are looking for translators, can you help us? <a href="http://code.google.com/p/visibochromeextension/">http://code.google.com/p/visibochromeextension/</a>
