@@ -1,0 +1,34 @@
+(Translated with Google Translate - English version here http://bit.ly/6aEUJE
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+Gérer votre session de navigation facilement avec freshstart! Si vous avez des différents ensembles de sites Web que les temps sont importantes pour vous au travail, à domicile ou à des moments différents, ou si vous avez plusieurs utilisateurs sur votre Chrome, vous devriez opter pour cette solution!
+
+Nouveau en 1.3
+- Édition de session est ici! Facilement fusionner les nouveaux onglets dans une session existante ou supprimer des onglets non désirés
+- Ajout d'un bouton pour sélectionner toutes / tous les cavaliers aucune par un seul clic
+
+Fonctions
+- Enregistrez tous les onglets ouverts pour une nouvelle session, ou la main de sélectionner ce que pour être sauvé
+- Les sessions sont sauvegardées dans le "freshstart Sessions" dossier de signets, vous permettant de le synchroniser avec d'autres ordinateurs
+- Récupération Crash - sauvegarde automatique de vos fenêtres quelques minutes chaque
+- Restauration d'une session dans une nouvelle fenêtre, ou fusionner avec la fenêtre en cours par CTRL-clic (Windows, Linux) ou Cmd-clic (Mac).
+
+Fonctionnalités à venir
+- Mieux session d'édition de dialogue
+
+If you like FreshStart, check out our other extensions too!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- Friends Mural for Facebook http://bit.ly/cF8PXM
+- TooManyTabs: http://bit.ly/5lGy47
+- TwitterWatch: http://bit.ly/5C6VgI
+- TabJump: http://bit.ly/cVdnBq
+
+Credits
+- iTweet and famfamfam for some of the icons.
+- Thanks to Gabriel for the Spanish translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/freshstart.html

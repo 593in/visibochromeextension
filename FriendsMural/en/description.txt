@@ -1,5 +1,9 @@
 FriendsMural is a Facebook client with style!
 
+New in 0.7:
+- Add "likes" in one click!
+- Comment on posts directly in Friends Mural
+
 Features:
 - Completely personal "Friend Mural" to keep updated on your beloved ones!
 - One click to see your news feed directly in the extension
@@ -9,4 +13,23 @@ Features:
 
 Upcoming features:
 - Update your status from Friends Mural
-- Comment on friends' posts directly in Friends Mural
+- Add fan pages to the Mural
+
+Try out our other extensions too!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- TooManyTabs: http://bit.ly/5lGy47
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TwitterWatch: http://bit.ly/5C6VgI
+- TabJump: http://bit.ly/cVdnBq
+
+Credits
+- encaustophilia on dafont.com for the handwritten font
+- gjeewaytee@flickr, CC-BY for the wallpaper
+- David S. Rodrigues for Portuguese translation
+
+Keywords: Facebook client, Facebook updates, FriendsMural, FriendMural
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/friendsmural.html
+
+We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/

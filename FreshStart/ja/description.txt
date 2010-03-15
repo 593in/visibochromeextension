@@ -1,0 +1,34 @@
+(Translated with Google Translate - English version here http://bit.ly/6aEUJE
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+簡単にFreshStartを使用してブラウザのセッションを管理する！場合は、自宅で仕事をする時の問題、または、異なる回の場合、またはあなたのChrome上に複数のユーザーがいる場合は、この努力をする必要がありますサイトの別のセットを持って！
+
+新1.3
+- セッションの編集はこちら！簡単に既存のセッションに新しいタブをマージまたは削除、不要なタブ
+- ワンクリックですべて/なしのタブを選択するボタンを追加
+
+特徴
+- 新しいセッション、または一方を選択するか救われるために、すべての開いているタブを保存
+- セッションをブックマークには、"FreshStartセッション"フォルダ内に、あなたに他のコンピュータと同期させることができます保存されます。
+- クラッシュリカバリ - あなたの窓の自動保存数分おきに
+- 新しいウィンドウでは、セッションを復元するかによって、現在のウィンドウにマージctrl -クリック（WindowsおよびLinux）をもしくはcmd -クリック（Mac）。
+
+今後の機能
+- より良いダイアログの編集セッション
+
+If you like FreshStart, check out our other extensions too!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- Friends Mural for Facebook http://bit.ly/cF8PXM
+- TooManyTabs: http://bit.ly/5lGy47
+- TwitterWatch: http://bit.ly/5C6VgI
+- TabJump: http://bit.ly/cVdnBq
+
+Credits
+- iTweet and famfamfam for some of the icons.
+- Thanks to Gabriel for the Spanish translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/freshstart.html

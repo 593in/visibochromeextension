@@ -1,0 +1,30 @@
+(Translated with Google Translate - English version here http://bit.ly/5C6VgI
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+TwitterWatch人気のTwitterのキーワードを見張るために簡単なツールです！は、キーワード、キーの検索を入力すると実行されます。 TwitterWatch他のTwitterクライアントと破壊の更新クォータことなく共存することができます。
+
+新しい0.7インチ
+- つぶやき、再投稿を送信し、直接TwitterWatchからの返信！
+
+特徴
+- 時計キーワードを使用し、最新のつぶやき
+をリアルタイムで - 地図の更新カウント
+- 超軽量、リソースの使用
+- 作品、他のTwitterクライアントをきれいに
+
+Try out our other extensions too!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- Friends Mural for Facebook http://bit.ly/cF8PXM
+- TooManyTabs: http://bit.ly/5lGy47
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TabJump: http://bit.ly/cVdnBq
+
+Credits
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/twitterwatch.html
+
+We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/

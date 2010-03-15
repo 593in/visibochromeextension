@@ -1,0 +1,38 @@
+(Translated with Google Translate - English version here http://bit.ly/cF8PXM
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+FriendsMural ist ein Facebook-Client mit Stil!
+
+Neu in 0.7:
+- Add "gerne" in einem Klick!
+- Kommentar auf Pfählen direkt in Freunde Mural
+
+Features:
+- Ganz persönliche "Freund Mural" auf Ihrem Liebsten neuesten Stand zu halten!
+- Nur ein Klick zu Ihrem News-Feed direkt in die Verlängerung zu sehen
+- Benachrichtigt Sie über Aktuelles aus dem Chrome-Symbolleiste
+- Custom Wallpaper für extra Style-Punkte
+- Tutorial auf http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html
+
+Kommende Features:
+- Aktualisieren Sie Ihre status from Friends Mural
+- Add Fan-Seiten, die Mural
+
+Try out our other extensions too!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- TooManyTabs: http://bit.ly/5lGy47
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TwitterWatch: http://bit.ly/5C6VgI
+- TabJump: http://bit.ly/cVdnBq
+
+Credits
+- encaustophilia on dafont.com for the handwritten font
+- gjeewaytee@flickr, CC-BY for the wallpaper
+- David S. Rodrigues for Portuguese translation
+
+Keywords: Facebook client, Facebook updates, FriendsMural, FriendMural
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/friendsmural.html
+
+We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/

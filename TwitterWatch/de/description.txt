@@ -1,0 +1,30 @@
+(Translated with Google Translate - English version here http://bit.ly/5C6VgI
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+TwitterWatch ist das einfachste Instrument, um zu sehen an heißen Twitter Stichworte zu halten! Geben Sie ein Stichwort ein, drücken Sie suchen, und Sie sind fertig. TwitterWatch kann mit anderen Twitter-Clients existieren, ohne Abbau der Quoten aktualisieren.
+
+Neu in 0.7
+- Senden Sie tweets, retweet und direkt von TwitterWatch Antwort!
+
+Merkmale
+- Achten Sie auf neuesten tweets mit Stichwort
+- Show update count in Echtzeit
+- Sehr leicht Ressourcennutzung
+- Funktioniert gut mit anderen Twitter-Clients
+
+Try out our other extensions too!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- Friends Mural for Facebook http://bit.ly/cF8PXM
+- TooManyTabs: http://bit.ly/5lGy47
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TabJump: http://bit.ly/cVdnBq
+
+Credits
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/twitterwatch.html
+
+We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/

@@ -1,15 +1,22 @@
-FriendsMural � um cliente Facebook com estilo!
+(Translated with Google Translate - English version here http://bit.ly/cF8PXM
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
-Recursos:
-- Personaliza completamente o "Mural de Amigos", atualizando os contatos que voc� ama!
-- Com um clique � poss�vel ver atualiza��es nesta extens�o
-- O notifica sobre atualiza��es na barra do Chrome
-- Altera o papel de parede para ganhar pontos no estilo
-- Tutorial em http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html (em ingl�s)
+FriendsMural是Facebook的客戶端與風格！
 
-Em breve:
-- Atualize seus status diretamente na extens�o
-- Comente os posts dos seus amigos de forma f�cil e r�pida
+新的0.7：
+- 添加“喜歡”的一按！
+- 評職位直接在朋友壁畫
+
+特點：
+- 完全個人的“朋友壁畫”，可以隨時了解您心愛的！
+- 一個點擊查看您的新聞供稿直接延伸
+- 更新通知您從鉻工具欄
+- 自定義牆紙額外的文字風格
+- 教程在http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html
+
+即將到來的特點：
+- 更新您的身份從朋友壁畫
+- 添加扇頁的壁畫
 
 Try out our other extensions too!
 - Incredible StartPage http://bit.ly/a2TzaI **NEW**
