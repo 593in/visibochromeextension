@@ -17,6 +17,9 @@ Descargo de responsabilidad
 - Debido a las limitaciones de Chrome, las extensiones no puede restaurar la historia de las pestañas cerradas. Si usted necesita de la historia de una pestaña cerrada hace poco, puede pulsar Ctrl + Shift + T para abrir una por una.
 - FYI: Para volver a la página de inicio original de Chrome, basta con ir a "extensión" del menú "llave", y deshabilitar / desinstalar la extensión.
 
+Credits
+- Thanks to Smerk for German translation!
+
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 
 By downloading this extension you agree to our terms and conditions:

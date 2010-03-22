@@ -17,6 +17,9 @@ Disclaimer
 - Devido a limitações Chrome, extensões não pode restaurar a história de abas fechadas. Se você precisar a história de um separador fechado recentemente, você pode pressionar Ctrl + Shift + T para reabri-los um por um.
 - FYI: Para voltar a página inicial do Chrome começar, basta ir a "extensão" do "Chaves" no menu, e desativar / desinstalar a extensão.
 
+Credits
+- Thanks to Smerk for German translation!
+
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 
 By downloading this extension you agree to our terms and conditions:

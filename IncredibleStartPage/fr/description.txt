@@ -17,6 +17,9 @@ Disclaimer
 - En raison de limitations Chrome, les extensions ne peuvent pas restaurer l'historique des onglets fermés. Si vous avez besoin de l'histoire à partir d'un onglet récemment fermé, vous pouvez appuyer sur Ctrl + Maj + T pour les rouvrir une à une.
 - FYI: Pour revenir page de démarrage initial de Chrome, allez simplement sur "Extension" de la "clé" du menu, et de désactiver / désinstaller l'extension.
 
+Credits
+- Thanks to Smerk for German translation!
+
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 
 By downloading this extension you agree to our terms and conditions:

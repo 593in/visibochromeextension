@@ -17,6 +17,9 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 - のための制限のクロムには、拡張子を閉じたタブから歴史を復元することはできません。場合は、Ctrlキーを押しすることができます+ Shift + Tキーを1つずつそれらを再開する、最近閉じたタブの履歴が必要です。
 - 参考：、ちょうど拡張"に行く""レンチ"メニューから、クロムのオリジナルのスタートページのバックアップを取得すると無効化/拡張機能をアンインストールします。
 
+Credits
+- Thanks to Smerk for German translation!
+
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 
 By downloading this extension you agree to our terms and conditions:

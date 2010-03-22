@@ -1,0 +1,33 @@
+(Translated with Google Translate - English version here http://bit.ly/cGsDfA
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+"Administrador de la ficha Grande" - como se presenta en Lifehacker.com! 
+
+Cuando se trabaja con varias pestañas al mismo tiempo, es difícil recordar que uno quiere ir. TabJump destaca frecuentemente utilizado fichas y partituras relacionadas de manera que puede saltar fácilmente entre ellas. Y nunca se preocupe de nuevo sobre el cierre aquí por accidente, por TabJump puede protegerlos, o incluso restaurar pestañas cerradas! 
+
+Características 
+- Saltar a partituras de uso frecuente 
+- Saltar a partituras correspondientes (fichas del mismo sitio, etc) 
+- Restaurar pestañas cerradas recientemente 
+- Bloqueo de una pestaña para evitar el cierre accidental (sólo para el trabajo aquí cargado después de instalar TabJump) 
+
+Descargo de responsabilidad 
+- Debido a las limitaciones de Chrome, las extensiones no puede restaurar la historia de las pestañas cerradas. Si usted necesita de la historia de una pestaña cerrada hace poco, puede pulsar Ctrl + Shift + T para abrir una por una. 
+
+Pruebe nuestras otras extensiones también! 
+- Mural de Amigos en Facebook http://bit.ly/cF8PXM ** NUEVO ** 
+- TooManyTabs: http://bit.ly/5lGy47 
+- Session Manager FreshStart: http://bit.ly/6aEUJE 
+- TwitterWatch: http://bit.ly/5C6VgI 
+
+Credits
+- http://icons.mysitemyway.com/ for the icons
+- Thanks to Mr. A for German translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Palabras claves: aquí, aquí Management, encontrar partituras, Saltar Tab, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too aquí Muchos, Tab Menu 
+
+Al descargar esta extensión está de acuerdo con nuestros términos y condiciones: 
+http://www.visibotech.com/license/tabjump.html 
+
+Si quieres un tutorial de vídeo en Molly demogirl.com ha creado un screencast sencillo en ella: http://goo.gl/FcIs Gracias Molly!

@@ -1,23 +1,23 @@
-(Translated with Google Translate - English version here http://bit.ly/bo5V9N
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+Incredible StartPage ist ein produktiver Startseiten-Esatz für Chrome. Schenken Sie Ihren Lesezeichen einen wunderschönen Rahmen, und genießen Sie unsere praktischen Funktionen!
 
-Incredible StartPage ist ein produktiver Startseite Ersatz für Chrome. Geben Sie alle Ihre Lieblings-Lesezeichen in einem schönen Rahmen, und genießen Sie unsere praktische Features!
+Wie auf DownloadSquad gesehen: http://goo.gl/iyYe
 
-As seen on DownloadSquad. http://goo.gl/iyYe
+Funktionen:
+- anpassbares, farbiges Design
+- einfacher Zugriff auf Ihre Lesezeichen, welche sich in einem großen Rahmen befinden.
+- leichtes Wiederherstellen von geschlossenen Tabs
+- Machen Sie Notizen und schicken Sie Diese mit einem Klick zu Gmail.
 
-Merkmale
-- Customizable Farbschema
-- Einfacher Zugriff auf Ihre Lesezeichen-Favoriten in einem großen Rahmen
-- Einfache geschlossen Registerkarte Verwertung
-- Machen Sie sich Notizen und Pfosten zu Google Mail mit einem Klick
-
-Hier finden Sie eine vollständige Anleitung auf unserem Blog http://bit.ly/blK348
+Schauen Sie sich ein vollständiges Tutorial auf unserem Blog an: http://bit.ly/blK348
 
 Disclaimer
-- Aufgrund der Beschränkungen, Chrom, können Erweiterungen nicht wiederherstellen Geschichte von geschlossenen Tabs. Wenn Sie die Geschichte aus einem kürzlich geschlossenen Tab können Sie Strg + Umschalt + T, um sie wieder zu öffnen eins nach dem anderen.
-- FYI: Um wieder in Original-Chrome ist die Startseite, nur um "Verlängerung gehen" aus dem "Schraubenschlüssel"-Menü, und deaktivieren / deinstallieren Sie die Erweiterung.
+- Aufgrund von Chrome Beschränkungen können Erweiterungen nicht den Verlauf von geschlossenen Tabs wiederherstellen. Falls Sie den Verlauf von einem kürzlich geschlossenem Tab benötigen, können Sie mit Strg+Shift+T diesen Verlauf schrittweise wiederherstellen.
+- Zur Information: Um die original Chrome Startseite wiederherzustellen, gehen Sie zu "Erweiterungen" von dem "Schraubenschlüssel" Menü, und deaktivieren/deinstallieren die Erweiterung.
 
-Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
+Credits
+- Thanks to Smerk for German translation!
+
+Keywords: StartPage, start page, bookmarks, notepad, undo close tabs, Startseite, start seite, Lesezeichen, Notizen, geschlossene Tabs wiederherstellen
 
 By downloading this extension you agree to our terms and conditions:
 http://www.visibotech.com/license/incrediblestartpage.html

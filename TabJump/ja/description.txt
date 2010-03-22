@@ -1,0 +1,33 @@
+(Translated with Google Translate - English version here http://bit.ly/cGsDfA
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+"偉大なタブマネージャ" - などLifehacker.comに登場！ 
+
+ときは、同時に多くのタブでの作業、それはあなたの横に行きたいの1つ覚えておくのは難しい。 TabJump頻繁にそれらを簡単に間を移動することができますタブと関連するタブを使用強調表示します。再び事故でタブを閉じて心配はないのためTabJump、またはそれらを保護することも、閉じたタブを復元する！ 
+
+特徴 
+頻繁に使用するタブに移動 - 移動 
+- 移動関連するタブ（タブには、同じサイト等から） 
+- 復元最近閉じたタブ 
+- ロックタブをタブの後TabJumpインストールされて読み込まれる（のみ動作します）誤って閉鎖を防ぐために 
+
+免責事項 
+- のための制限のクロムには、拡張子を閉じたタブから歴史を復元することはできません。場合は、Ctrlキーを押しすることができます+ Shift + Tキーを1つずつそれらを再開する、最近閉じたタブの履歴が必要です。 
+
+も私たちの他の拡張機能をお試しください！ 
+- 友人の壁画Facebookを利用しhttp://bit.ly/cF8PXM用**新しい** 
+- TooManyTabs：http://bit.ly/5lGy47 
+- FreshStartセッションマネージャ：http://bit.ly/6aEUJE 
+- TwitterWatch：http://bit.ly/5C6VgI 
+
+Credits
+- http://icons.mysitemyway.com/ for the icons
+- Thanks to Mr. A for German translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+キーワード：タブ、タブ管理、タブ、検索、タブの移動、TabKit、FoxTabの、TabMixPlus、TreeStyleTabs、余りに多くのタブを、タブメニュー 
+
+弊社の利用規約に同意し、この拡張モジュールをダウンロードすることにより： 
+http://www.visibotech.com/license/tabjump.html 
+
+場合は、ビデオチュートリアルモリーdemogirl.comでその上に、単純なスクリーンキャスト：http://goo.gl/FcIsおかげでモリーを作成して欲しい！

@@ -29,15 +29,12 @@ If you like TooManyTabs, check out our other extensions too!
 - Incredible StartPage http://bit.ly/a2TzaI **NEW**
 - Friends Mural for Facebook http://bit.ly/cF8PXM
 - FreshStart Session Manager: http://bit.ly/6aEUJE
-- TwitterWatch: http://bit.ly/5C6VgI
 - TabJump: http://bit.ly/cVdnBq
 
 Credits
-- Thanks to David S. Rodrigues for Portuguese translation!
+- Thanks to Smerk for German translation!
 
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 
 By downloading this extension you agree to our terms and conditions:
 http://www.visibotech.com/TMTChrome/license.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/

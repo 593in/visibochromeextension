@@ -1,0 +1,31 @@
+"Großartiger Tab-Manager" -- as featured in Lifehacker.com! 
+
+Wenn man gleichzeitig mit vielen Tabs arbeitet, ist es schwer den Überblick zu behalten und sich daran zu erinnern, welchen Tab man als Nächstes aufrufen wollte. TabJump hebt die am häufigsten verwendeten Tabs und die hierzu assoziierten Tabs hervor, sodass Sie einfach zwischen ihnen "jumpen" können. Und Sie brauchen sich auch nie wieder über das versehentliche Schließen von Tabs Sorgen zu machen, TabJump kann Sie davor schützen und bereits geschlossene Tabs sogar wiederherstellen!
+
+Fähigkeiten & Features
+- Wechseln zu häufig verwendeten Tabs
+- Wechseln zu Tabs, die mit diesen assoziiert werden (Tabs aus der selben Seite, etc)
+- Wiederherstellung bereits geschlossener Tabs
+- Sperren von Tabs um versehentliches Schließen zu verhindern (nur für Tabs, die nach der Installation von TabJump geladen werden)
+
+Disclaimer 
+- Aufgrund der Beschränkungen von Chrome können Erweiterungen den Verlauf von geschlossenen Tabs nicht wiederherstellen. Falls Sie dies jedoch benötigen, können Sie Strl+Umschalt+T drücken, um bereits geschlossene Tabs nacheinander zu öffnen.
+
+Try out our other extensions too!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- Friends Mural for Facebook http://bit.ly/cF8PXM
+- TooManyTabs: http://bit.ly/5lGy47
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TwitterWatch: http://bit.ly/5C6VgI
+
+Credits
+- http://icons.mysitemyway.com/ for the icons
+- Thanks to Mr. A for German translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Tabs, Tabs Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/tabjump.html
+
+If you want a video tutorial Molly at demogirl.com has created a simple screencast on it: http://goo.gl/FcIs Thanks Molly!

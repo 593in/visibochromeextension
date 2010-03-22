@@ -2,8 +2,6 @@
 
 Quando você utiliza muitas abas de uma só vez, é difícil lembrar qual delas você utilizará depois. TabJump deixa explícito as abas com uso frequente, como também aquelas que possuem relações, permitindo você ir diretamente até elas. E nunca mais se preocupe em fechar abas acidentalmente, pois o TabJump pode bloquear uma página para que não seja fechada, ou em último caso, pode recuperá-la facilmente!
 
-** Caso a extensão não instale, tente reiniciar o Chrome ou clicar em "Install" algumas vezes. **
-
 Recursos:
 - Ir diretamente para uma aba frequentemente usada
 - Ir diretamente para uma aba relacionada (do mesmo site, etc)
@@ -12,7 +10,25 @@ Recursos:
 
 Obrigado ao David S. Rodrigues pela tradução em português!
 
-** Atenção **
-Devido à limitações do Chrome, as extensões não podem recuperar o histórico de páginas de abas fechadas. Mas se isto for realmente necessário, você pode utilizar CTRL+Shift+T para re-abrir estas páginas fechadas com este suporte.
+Atenção
+- Devido à limitações do Chrome, as extensões não podem recuperar o histórico de páginas de abas fechadas. Mas se isto for realmente necessário, você pode utilizar CTRL+Shift+T para re-abrir estas páginas fechadas com este suporte.
 
 Informações sobre o uso são bem-vindos!
+
+Try out our other extensions too!
+- Friends Mural for Facebook http://bit.ly/cF8PXM **NEW**
+- TooManyTabs: http://bit.ly/5lGy47
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TwitterWatch: http://bit.ly/5C6VgI
+
+Credits
+- http://icons.mysitemyway.com/ for the icons
+- Thanks to Mr. A for German translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Tabs, Tabs Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/tabjump.html
+
+If you want a video tutorial Molly at demogirl.com has created a simple screencast on it: http://goo.gl/FcIs Thanks Molly!

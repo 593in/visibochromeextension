@@ -1,0 +1,33 @@
+(Translated with Google Translate - English version here http://bit.ly/cGsDfA
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+"Manager scheda Grande" - come consigliati a Lifehacker.com! 
+
+Quando si lavora con molte schede, allo stesso tempo, è difficile ricordare quale si vuole andare. TabJump evidenzia frequentemente utilizzate le schede e le schede relative in modo da poter passare facilmente tra di loro. E non preoccuparti di nuovo su di chiusura schede per caso, per TabJump in grado di proteggere, o anche ripristinare le schede chiuse! 
+
+Caratteristiche 
+- Vai a schede di uso frequente 
+- Vai a schede collegate (schede dallo stesso sito, etc) 
+- Ripristino configurazione di schede chiuse di recente 
+- Bloccare una scheda per impedire la chiusura accidentale (funziona solo per le schede caricato dopo TabJump è installato) 
+
+Disclaimer 
+- A causa di Chrome limitazioni, le estensioni non è possibile ripristinare la storia da schede chiuse. Se avete bisogno della storia da un tab chiuse di recente, è possibile premere Ctrl + Maiusc + T per riaprire uno per uno. 
+
+Prova il nostro estensioni anche altri! 
+- Amici murale per Facebook http://bit.ly/cF8PXM ** NEW ** 
+- TooManyTabs: http://bit.ly/5lGy47 
+- Session Manager FreshStart: http://bit.ly/6aEUJE 
+- TwitterWatch: http://bit.ly/5C6VgI 
+
+Credits
+- http://icons.mysitemyway.com/ for the icons
+- Thanks to Mr. A for German translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Parole chiave: Tabs, Tabs Management, Trova le schede, Vai Tab, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too molte schede, Tab Menu 
+
+Scaricando questa estensione accetti i nostri termini e condizioni: 
+http://www.visibotech.com/license/tabjump.html 
+
+Se si desidera che un video tutorial a Molly demogirl.com ha creato uno screencast semplice su di esso: http://goo.gl/FcIs Grazie Molly!

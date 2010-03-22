@@ -1,11 +1,11 @@
 {
-    "extensionName": {
-        "message": "TabJump - Intelligente Tab-Navigator"
+    "name": {
+        "message": "TabJump - Intelligenter Tab-Navigator"
     },
-    "extensionDescription": {
-        "message": "Ein neuer Weg zu Ihrem Registerkarten zu navigieren. Einfacher Zugriff auf am häufigsten verwendeten Registerkarten, die damit verbundenen Registerkarten, und die geschlossenen Tabs. Ermöglicht Registerkarte Sperren zu."
+    "description": {
+        "message": "Eine neue Möglichkeit zwischen Registerkarten (Tabs) zu navigieren. Einfacher Zugriff auf die am häufigsten verwendeten Tabs, damit assoziierten Tabs und geschlossenen Tabs. Ermöglicht ebenfalls das Sperren von Registerkarten."
     },
-    "extensionPageActionTitle": {
+    "pageActionTitle": {
         "message": "TabJump!"
     },
     "loading": {
@@ -20,7 +20,7 @@
         }
     },
     "sureToLeavePage": {
-        "message": "Sind Sie sicher, diese Seite zu verlassen?"
+        "message": "Sind Sie sicher, dass Sie diese Seite verlassen möchten?"
     },
     "jump": {
         "message": "Jump"
@@ -41,12 +41,15 @@
         "message": "Related tabs"
     },
     "unlockPage": {
-        "message": "Öffne diese Seite"
+        "message": "Seite entsperren"
     },
     "lockPage": {
-        "message": "Sperre dieser Seite"
+        "message": "Seite sperren"
     },
     "cannotLockPage": {
-        "message": "Kann diese Seite nicht sperren"
+        "message": "Seite kann nicht gesperrt werden"
+    },
+    "clearRecentlyClosedTabsHistory": {
+        "message": "Frei Kürzlich geschlossene Tabs"
     }
 }

@@ -10,3 +10,22 @@ Features
 
 Disclaimer
 - Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, you can press Ctrl+Shift+T to reopen them one by one.
+
+Try out our other extensions too!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- Friends Mural for Facebook http://bit.ly/cF8PXM
+- TooManyTabs: http://bit.ly/5lGy47
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TwitterWatch: http://bit.ly/5C6VgI
+
+Credits
+- http://icons.mysitemyway.com/ for the icons
+- Thanks to Mr. A for German translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Keywords: Tabs, Tabs Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+
+By downloading this extension you agree to our terms and conditions:
+http://www.visibotech.com/license/tabjump.html
+
+If you want a video tutorial Molly at demogirl.com has created a simple screencast on it: http://goo.gl/FcIs Thanks Molly!

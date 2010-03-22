@@ -1,0 +1,33 @@
+(Translated with Google Translate - English version here http://bit.ly/cGsDfA
+Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+
+"Great Manager onglet" - comme aussi dans Lifehacker.com! 
+
+Lorsque vous travaillez avec plusieurs onglets en même temps, il est difficile de se rappeler celui que vous voulez aller. TabJump met fréquemment utilisé des tabulations et onglets connexes ainsi vous pouvez facilement passer d'eux. Et ne jamais s'inquiéter de nouveau sur la fermeture des onglets par accident, pour TabJump peut les protéger, voire de restaurer les onglets fermés! 
+
+Fonctions 
+- Aller à onglets fréquemment utilisés 
+- Aller à onglets connexes (onglets à partir du même site, etc) 
+- Restauration Onglets récemment fermés 
+- Verrouiller un onglet pour empêcher la fermeture accidentelle (ne fonctionnent que pour les onglets chargés après TabJump est installé) 
+
+Disclaimer 
+- En raison de limitations Chrome, les extensions ne peuvent pas restaurer l'historique des onglets fermés. Si vous avez besoin de l'histoire à partir d'un onglet récemment fermé, vous pouvez appuyer sur Ctrl + Maj + T pour les rouvrir une à une. 
+
+Essayez nos autres extensions aussi! 
+- Amis Mural pour Facebook http://bit.ly/cF8PXM ** NOUVEAU ** 
+- TooManyTabs: http://bit.ly/5lGy47 
+- Freshstart Session Manager: http://bit.ly/6aEUJE 
+- TwitterWatch: http://bit.ly/5C6VgI 
+
+Credits
+- http://icons.mysitemyway.com/ for the icons
+- Thanks to Mr. A for German translation!
+- Thanks to David S. Rodrigues for Portuguese translation!
+
+Mots-clés: onglets, gestion des onglets, Find onglets, Jump, onglet de TabKit, FoxTab, TabMixPlus, TreeStyleTabs, trop grand nombre d'onglets, onglet Menu 
+
+En téléchargeant cette extension, vous acceptez nos termes et conditions: 
+http://www.visibotech.com/license/tabjump.html 
+
+Si vous voulez un didacticiel vidéo Molly à demogirl.com a créé un screencast simple sur elle: Merci http://goo.gl/FcIs Molly!

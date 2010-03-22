@@ -1,0 +1,136 @@
+{
+    "name": {
+        "message": "FreshStart - Meerdere Browsers Sessie Manager",
+        "description": "De naam van de extensie"
+    },
+    "description": {
+        "message": "Kunt u wel een simpele Sessie manager gebruiken? Heeft u meerdere gebruikers op Chrome? Dan is FreshStart de oplossingen, de simpele Sessie manager.",
+        "description": "De beschrijving van de extensie"
+    },
+    "extensionBrowserActionTitle": {
+        "message": "FreshStart - Meerdere Browsers Sessie Manager"
+    },
+    "updatedMessage": {
+        "message": "FreshStart is bijgewerk, klik hier op te zien wat er nieuw is"
+    },
+    "saveSession": {
+        "message": "Sessie Opslaan"
+    },
+    "mySession": {
+        "message": "Mijn Sessie"
+    },
+    "smSaveList": {
+        "message": "Deselecteer de Tabs die je niet wilt opslaan."
+    },
+    "restoreSession": {
+        "message": "Sessie Herstellen"
+    },
+    "restoreSession2": {
+        "message": "Klik om te openen in nieuwe window, ctrl-click (Win, Linux) of cmd-click (Mac) om te openen in huidige window."
+    },
+    "options": {
+        "message": "Opties"
+    },
+    "restorePreviousSession": {
+        "message": "Herstel laatste Sessie"
+    },
+    "enableCrashRecovery": {
+        "message": "Zet Crash Herstellen aan."
+    },
+    "noSessionSaved": {
+        "message": "Geen Sessies Opgeslagen"
+    },
+    "clickToRestore": {
+        "message": "Klik hier om Sessie '$name$' te herstellen in een nieuw window",
+        "placeholders": {
+            "name": {    
+                "content": "$1"
+            }
+        }
+    },
+    "tabsCount": {
+        "message": " ($count$ tabs)",
+        "placeholders": {
+            "count": {    
+                "content": "$1"
+            }
+        }
+    },
+    "optionsPageTitle": {
+        "message": "FreshStart Opties"
+    },
+    "optionsEnableCrashRecovery": {
+        "message": "Zet Crash Herstellen aan"
+    },
+    "optionsBackupPeriod":{
+        "message": "Sla alle windows en tabs op elke "
+    },
+    "optionsNewUserTips":{
+        "message": "Nieuw met FreshStart? Bezoek dan onze website <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!"
+    },
+    "minutes":{
+        "message": "minuten"
+    },
+    "optionsBackupPeriodOutOfRange":{
+        "message": "De back-up periode kan niet korter zijn dan 1 minuut of langer 999 minuten"
+    },
+    "save": {
+        "message": "Opslaan"
+    },
+    "optionsSaved": {
+        "message": "Uw Opties zijn opgeslagen"
+    },
+    "supportUs": {
+        "message": "Ondersteun onze ontwikkeling en <br> vertel het je vrienden!"
+    },
+    "contactUs":{
+        "message": "Neem contact met ons op:"
+    },
+    "contactUs2":{
+        "message": "Suggesties of Wensen? Bezoek onze website<a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>hier</a>!"
+    },
+    "contactUs3":{
+        "message": "Problemen? Bezoek onze website<a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>hier</a>. Vaak hebben een screenshot en je versienummer van je OS en Chrome nodig."
+    },
+    "contactUs4":{
+        "message": "We welcome all constructive feedbacks in civilized languages. *wink*"
+    },
+    "copyright":{
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
+    },
+    "crashRestoreTitle":{
+        "message": "Herstel vorige Sessie"
+    },
+    "restoreSavedWindow":{
+        "message": "Opgeslagen window ($count$) - klik hier om hem te herstellen",
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }
+    },
+    "edit": {
+        "message": "Bewerk"
+    },
+    "remove": {
+        "message": "Verwijder"
+    },
+    "smSaveToggle": {
+        "message": "Wissel Selectie"
+    },
+    "smHeadingTitle": {
+        "message": "Tietel"
+    },
+    "smHeadingNew": {
+        "message": "Tabbladen toevoegen (vink aan om toe tevoegen)"
+    },
+    "smHeadingSaved": {
+        "message": "Opgeslagen Tabbladden (Deselecteer om te verwijderen)"
+    },
+    "smEditSave": {
+        "message": "Opslaan"
+    },
+    "smEditCancel": {
+        "message": "Cancel"
+    }
+}  

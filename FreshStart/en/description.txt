@@ -24,6 +24,7 @@ Credits
 - iTweet and famfamfam for some of the icons.
 - Thanks to Gabriel for the Spanish translation!
 - Thanks to David S. Rodrigues for Portuguese translation!
+- Thanks to Coen Roberts for Dutch translation!
 
 Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
 
