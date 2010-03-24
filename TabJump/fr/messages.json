@@ -1,9 +1,9 @@
 {
     "extensionName": {
-        "message": "TabJump - Intelligent Tab Navigator"
+        "message": "TabJump - Navigateur d'onglets intelligent"
     },
     "extensionDescription": {
-        "message": "Une nouvelle façon de naviguer dans vos onglets. Facilement accès aux onglets les plus utilisés, les onglets associés, et onglets fermés. Languette de verrouillage permet aussi."
+        "message": "Une nouvelle façon de naviguer entre vos onglets. Accéder facilement aux onglets les plus utilisés, reliez des onglets ou fermez les. Permet d'épingler des onglets."
     },
     "extensionPageActionTitle": {
         "message": "TabJump!"
@@ -20,7 +20,7 @@
         }
     },
     "sureToLeavePage": {
-        "message": "Etes-vous sûr de quitter cette page?"
+        "message": "Etes vous sûr de vouloir quitter cette page?"
     },
     "jump": {
         "message": "Jump"
@@ -41,12 +41,12 @@
         "message": "Related tabs"
     },
     "unlockPage": {
-        "message": "Débloquer cette page"
+        "message": "Libérer cet page"
     },
     "lockPage": {
-        "message": "Verrouiller cette page"
+        "message": "Epingler cette page"
     },
     "cannotLockPage": {
-        "message": "Ne peut pas verrouiller cette page"
+        "message": "Impossible d'épingler cette page"
     }
 }

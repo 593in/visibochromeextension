@@ -1,33 +1,26 @@
-(Translated with Google Translate - English version here http://bit.ly/cGsDfA
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+"Super Gestionnaire d'onglet" -- comme annoncé sur  Lifehacker.com! 
 
-"Great Manager onglet" - comme aussi dans Lifehacker.com! 
+Quand on travaille sur plusieurs onglets à la fois, il est difficile de se souvenir de celui auquel vous voulez aller ensuite. TabJump s'occupe de sélectionner les onglets fréquemment utilisés pour vous permettre de sauter d'un onglet à l'autre facilement.
+Ne vous inquiétez pas de la fermeture accidentelle d'un onglet, TabJump peut les protéger contre la fermeture, ou même restaurer les onglets fermés
 
-Lorsque vous travaillez avec plusieurs onglets en même temps, il est difficile de se rappeler celui que vous voulez aller. TabJump met fréquemment utilisé des tabulations et onglets connexes ainsi vous pouvez facilement passer d'eux. Et ne jamais s'inquiéter de nouveau sur la fermeture des onglets par accident, pour TabJump peut les protéger, voire de restaurer les onglets fermés! 
+Fonctionnalités:
+- Naviguer entre vos onglets les plus utilisés
+- Naviguer entre les onglets de même nature (onglet d'un même site, etc)
+- Restaurer les onglets fermés accidentellement
+- Epingler des onglets pour ne pas les fermer par accident (fonctionne uniquement pour les onglets ouverts après l'installation de TabJump)
 
-Fonctions 
-- Aller à onglets fréquemment utilisés 
-- Aller à onglets connexes (onglets à partir du même site, etc) 
-- Restauration Onglets récemment fermés 
-- Verrouiller un onglet pour empêcher la fermeture accidentelle (ne fonctionnent que pour les onglets chargés après TabJump est installé) 
+Annonce:
+- Du fait de certaines limitations de Chrome, les extensions ne peuvent pas accéder à l'historique des onglets fermés. Si vous en avez besoin, pressez simplement Ctrl+Shift+T pour les ouvrir un par un.
 
-Disclaimer 
-- En raison de limitations Chrome, les extensions ne peuvent pas restaurer l'historique des onglets fermés. Si vous avez besoin de l'histoire à partir d'un onglet récemment fermé, vous pouvez appuyer sur Ctrl + Maj + T pour les rouvrir une à une. 
+Si vous aimez TabJump, jetez un oeil à nos autres extensions!
+- Incredible StartPage http://bit.ly/a2TzaI **NEW**
+- Friends Mural for Facebook http://bit.ly/cF8PXM
+- TooManyOnglets: http://bit.ly/5lGy47
+- FreshStart Session Manager: http://bit.ly/6aEUJE
+- TwitterWatch: http://bit.ly/5C6VgI
 
-Essayez nos autres extensions aussi! 
-- Amis Mural pour Facebook http://bit.ly/cF8PXM ** NOUVEAU ** 
-- TooManyTabs: http://bit.ly/5lGy47 
-- Freshstart Session Manager: http://bit.ly/6aEUJE 
-- TwitterWatch: http://bit.ly/5C6VgI 
+Mots Clés: Onglets, Onglets Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleOnglets, Too Many Onglets, Tab Menu
+License: http://www.visibotech.com/license/tabjump.html
+Credits: http://www.visibotech.com/chrome/credits.html
 
-Credits
-- http://icons.mysitemyway.com/ for the icons
-- Thanks to Mr. A for German translation!
-- Thanks to David S. Rodrigues for Portuguese translation!
-
-Mots-clés: onglets, gestion des onglets, Find onglets, Jump, onglet de TabKit, FoxTab, TabMixPlus, TreeStyleTabs, trop grand nombre d'onglets, onglet Menu 
-
-En téléchargeant cette extension, vous acceptez nos termes et conditions: 
-http://www.visibotech.com/license/tabjump.html 
-
-Si vous voulez un didacticiel vidéo Molly à demogirl.com a créé un screencast simple sur elle: Merci http://goo.gl/FcIs Molly!
+Si vous voulez un tutoriel vidéo, Molly de demogirl.com vous en propose un ici: http://goo.gl/FcIs Merci Molly!

@@ -1,38 +1,27 @@
-(Translated with Google Translate - English version here http://bit.ly/ajxCV1
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+FriendsMural est un client redesigné pour Facebook !
 
-FriendsMural est un client de Facebook avec style!
+Nouveauté de la version 0.7:
+- Indiquez "J'aime" en un clic!
+- Commentez directement les posts de vos amis depuis Friends Mural
 
-Nouveau dans 0.7:
-- Ajouter "aime" en un clic!
-- Commentaire sur les postes directement dans Friends Mural
+Fonctionnalités:
+- "Friend Mural" est entièrement personalisable pour rester en contact avec vos amis préférés!
+- Consultez vos actualités en un clic depuis l'extension
+- Vous êtes alerté de nouvelles notifications directement dans la barre d'outil de Chrome
+- Fond d'écran au choix pour encore plus de personalisation
+- Tutoriel ici: http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html
 
-Caractéristiques:
-- Tout à fait personnelle "Ami Mural" pour garder à jour sur votre bien-aimés!
-- Un clic pour voir vos dernières nouvelles directement dans l'extension
-- Vous informer des mises à jour à partir de la barre d'outils Chrome
-- Fond d'écran personnalisés pour les points de style supplémentaires
-- Tutoriel à http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html
+Fonctionnalités à venir:
+- Mettre à jour son status depuis Friends Mural
+- Ajoutez vos pages de fan sur le "Mur"
 
-Prochaines fonctionnalités:
-- Mettre à jour votre statut de Friends Mural
-- Ajouter les pages du ventilateur à la murale
-
-Try out our other extensions too!
+Si vous aimez FriendsMural, jetez un oeil à nos autres extensions!
 - Incredible StartPage http://bit.ly/a2TzaI **NEW**
 - TooManyTabs: http://bit.ly/5lGy47
 - FreshStart Session Manager: http://bit.ly/6aEUJE
 - TwitterWatch: http://bit.ly/5C6VgI
 - TabJump: http://bit.ly/cVdnBq
 
-Credits
-- encaustophilia on dafont.com for the handwritten font
-- gjeewaytee@flickr, CC-BY for the wallpaper
-- David S. Rodrigues for Portuguese translation
-
-Keywords: Facebook client, Facebook updates, FriendsMural, FriendMural
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/friendsmural.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
+Mots Clés: client Facebook , Facebook notification, FriendsMural, FriendMural
+License: http://www.visibotech.com/license/friendsmural.html
+Credits: http://www.visibotech.com/chrome/credits.html

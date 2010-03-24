@@ -16,12 +16,6 @@ Try out our other extensions too!
 - FreshStart Session Manager: http://bit.ly/6aEUJE
 - TabJump: http://bit.ly/cVdnBq
 
-Credits
-- Thanks to David S. Rodrigues for Portuguese translation!
-
 Keywords: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/twitterwatch.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
+License: http://www.visibotech.com/license/twitterwatch.html
+Credits: http://www.visibotech.com/chrome/credits.html

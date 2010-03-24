@@ -11,7 +11,7 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 - 保存所有打開的標籤，一個新的會話，或手動選擇保存什麼
 - 會話保存在“FreshStart會話”文件夾中的書籤，讓您同步它與其他計算機
 - 崩潰恢復 - 自動保存您的Windows每隔幾分鐘
-- 還原會議在一個新窗口，或合併，也與當前窗口中按Ctrl鍵（Windows，Linux）和加利福尼亞鍵（Mac）。
+- 還原會議在一個新窗口，或合併，也與當前窗口中按Ctrl鍵（Windows，Linux）和 command 鍵（Mac）。
 
 即將推出的功能
 - 更好的編輯會話對話框
@@ -23,13 +23,6 @@ If you like FreshStart, check out our other extensions too!
 - TwitterWatch: http://bit.ly/5C6VgI
 - TabJump: http://bit.ly/cVdnBq
 
-Credits
-- iTweet and famfamfam for some of the icons.
-- Thanks to Gabriel for the Spanish translation!
-- Thanks to David S. Rodrigues for Portuguese translation!
-- Thanks to Coen Roberts for Dutch translation!
-
 Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/freshstart.html
+License: http://www.visibotech.com/license/freshstart.html
+Credits: http://www.visibotech.com/chrome/credits.html

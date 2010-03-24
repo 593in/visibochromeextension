@@ -25,14 +25,6 @@ Try out our other extensions too!
 - TwitterWatch: http://bit.ly/5C6VgI
 - TabJump: http://bit.ly/cVdnBq
 
-Credits
-- encaustophilia on dafont.com for the handwritten font
-- gjeewaytee@flickr, CC-BY for the wallpaper
-- David S. Rodrigues for Portuguese translation
-
 Keywords: Facebook client, Facebook updates, FriendsMural, FriendMural
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/friendsmural.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
+License: http://www.visibotech.com/license/friendsmural.html
+Credits: http://www.visibotech.com/chrome/credits.html

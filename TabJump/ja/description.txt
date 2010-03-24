@@ -20,14 +20,8 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 - FreshStartセッションマネージャ：http://bit.ly/6aEUJE 
 - TwitterWatch：http://bit.ly/5C6VgI 
 
-Credits
-- http://icons.mysitemyway.com/ for the icons
-- Thanks to Mr. A for German translation!
-- Thanks to David S. Rodrigues for Portuguese translation!
-
 キーワード：タブ、タブ管理、タブ、検索、タブの移動、TabKit、FoxTabの、TabMixPlus、TreeStyleTabs、余りに多くのタブを、タブメニュー 
-
-弊社の利用規約に同意し、この拡張モジュールをダウンロードすることにより： 
-http://www.visibotech.com/license/tabjump.html 
+License: http://www.visibotech.com/license/tabjump.html
+Credits: http://www.visibotech.com/chrome/credits.html
 
 場合は、ビデオチュートリアルモリーdemogirl.comでその上に、単純なスクリーンキャスト：http://goo.gl/FcIsおかげでモリーを作成して欲しい！

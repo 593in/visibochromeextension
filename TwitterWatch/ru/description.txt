@@ -17,13 +17,6 @@
 - FreshStart Session Manager: http://bit.ly/6aEUJE
 - TabJump: http://bit.ly/cVdnBq
 
-Благодарности
-- Спасибо David S. Rodrigues за перевод плагина на португальский язык!
-- Спасибо Nikita Gurianov за перевода плагина на русский языке!
-
 Ключевые слова: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply, твиттер, твит
-
-Скачивая плагин вы автоматически соглашаетесь с соглашением:
-http://www.visibotech.com/license/twitterwatch.html
-
-Мы ищим переводчиков! Можете помочь нам? http://code.google.com/p/visibochromeextension/
+License: http://www.visibotech.com/license/twitterwatch.html
+Credits: http://www.visibotech.com/chrome/credits.html

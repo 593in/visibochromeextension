@@ -18,14 +18,8 @@ Try out our other extensions too!
 - FreshStart Session Manager: http://bit.ly/6aEUJE
 - TwitterWatch: http://bit.ly/5C6VgI
 
-Credits
-- http://icons.mysitemyway.com/ for the icons
-- Thanks to Mr. A for German translation!
-- Thanks to David S. Rodrigues for Portuguese translation!
-
 Keywords: Tabs, Tabs Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/tabjump.html
+License: http://www.visibotech.com/license/tabjump.html
+Credits: http://www.visibotech.com/chrome/credits.html
 
 If you want a video tutorial Molly at demogirl.com has created a simple screencast on it: http://goo.gl/FcIs Thanks Molly!

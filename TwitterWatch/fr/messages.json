@@ -1,18 +1,18 @@
 {
     "name": {
-        "message": "TwitterWatch - Real Time Twitter Update"
+        "message": "TwitterWatch - Client Twitter en temps réel"
     },
     "description": {
-        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too."
+        "message": "Surveillez les termes Twitter qui vous intéressent, grâce à une liaison en temps réel. Fonctionne aussi avec d'autres clients Twitter"
     },
     "noTweetsFound": {
-        "message": "No tweets found!"
+        "message": "Aucun Tweet trouvé!"
     },
     "enterASearchTerm": {
-        "message": "Enter a search term to get latest updates"
+        "message": "Précisez un terme de recherche pour récupérer les dernières actualités"
     },
     "seconds": {
-        "message": "$seconds$ seconds ago",
+        "message": "Il y a $seconds$ secondes",
         "placeholders": {
             "seconds": {
                 "content": "$1"
@@ -20,10 +20,10 @@
         }
     },
     "oneMinute": {
-        "message": "1 minute ago"
+        "message": "Il y a une minute"
     },
     "minutes": {
-        "message": "$minutes$ minutes ago",
+        "message": "Il y a $minutes$ minutes ",
         "placeholders": {
             "minutes": {
                 "content": "$1"
@@ -31,10 +31,10 @@
         }
     },
     "oneHour": {
-        "message": "1 hour ago"
+        "message": "Il y a une heure"
     },
     "hours": {
-        "message": "$hours$ hours ago",
+        "message": "Il y a $hours$ heures",
         "placeholders": {
             "hours": {
                 "content": "$1"
@@ -42,10 +42,10 @@
         }
     }, 
     "oneDay": {
-        "message": "1 day ago"
+        "message": "Il y un un jour"
     },
     "days": {
-        "message": "$days$ days ago",
+        "message": "Il y a $days$ jours",
         "placeholders": {
             "days": {
                 "content": "$1"
@@ -53,54 +53,54 @@
         }
     },
     "oneWeek": {
-        "message": "1 week ago"
+        "message": "Il y a une semaine"
     },
     "severalWeeks": {
-        "message": "Several weeks ago"
+        "message": "Il y a plusieurs semaines"
     },
     "error": {
-        "message": "Error"
+        "message": "Erreur"
     },
     "updateMessage": {
-        "message": "TwitterWatch is updated, click here to see what's new"
+        "message": "TwitterWatch a été mis à jour, cliquez ici pour voir les nouveautés"
     },
     "login": {
-        "message": "Login"
+        "message": "Connexion"
     },
     "logout": {
-        "message": "Logout"
+        "message": "Déconnexion"
     },
     "send": {
-        "message": "Send"
+        "message": "Envoi"
     },
     "retweet": {
         "message": "Retweet"
     },
     "reply": {
-        "message": "Reply"
+        "message": "Répondre"
     },
     "postSuccess": {
-        "message": "Sent successfully"
+        "message": "Envoi réussi"
     },
     "postFail": {
-        "message": "Sent failed, try again?"
+        "message": "L'envoi a échoué, reéssayer?"
     },
     "posting": {
-        "message": "Sending..."
+        "message": "Envoi..."
     },
     "loggingIn": {
-        "message": "Logging in..."
+        "message": "Connexion ..."
     },
     "promptLogin": {
-        "message": "Please login to reply or retweet"
+        "message": "Vous devez vous identifiez pour répondre ou retweeter"
     },
     "twitterWatch": {
         "message": "TwitterWatch"
     },
     "searching": {
-        "message": "Searching"
+        "message": "Recherche en cours"
     },
     "messageTooLong": {
-        "message": "The message is too long!"
+        "message": "Le message est trop long!"
     }
 }

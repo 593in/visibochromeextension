@@ -14,12 +14,6 @@ Disclaimer
 - Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, you can press Ctrl+Shift+T to reopen them one by one.
 - FYI: To get back Chrome's original start page, just go to "Extension" from the "Wrench" menu, and disable/uninstall the extension. 
 
-Credits
-- Thanks to Smerk for German translation!
-
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/incrediblestartpage.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
+License: http://www.visibotech.com/license/incrediblestartpage.html
+Credits: http://www.visibotech.com/chrome/credits.html

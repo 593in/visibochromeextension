@@ -14,12 +14,6 @@ Disclaimer
 - Aufgrund von Chrome Beschränkungen können Erweiterungen nicht den Verlauf von geschlossenen Tabs wiederherstellen. Falls Sie den Verlauf von einem kürzlich geschlossenem Tab benötigen, können Sie mit Strg+Shift+T diesen Verlauf schrittweise wiederherstellen.
 - Zur Information: Um die original Chrome Startseite wiederherzustellen, gehen Sie zu "Erweiterungen" von dem "Schraubenschlüssel" Menü, und deaktivieren/deinstallieren die Erweiterung.
 
-Credits
-- Thanks to Smerk for German translation!
-
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs, Startseite, start seite, Lesezeichen, Notizen, geschlossene Tabs wiederherstellen
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/incrediblestartpage.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
+License: http://www.visibotech.com/license/incrediblestartpage.html
+Credits: http://www.visibotech.com/chrome/credits.html

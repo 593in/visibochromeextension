@@ -1,28 +1,19 @@
-(Translated with Google Translate - English version here http://bit.ly/bo5V9N
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+Incredible StartPage est une page de démarrage super fonctionnelle pour Chrome. Ajoutez vos liens favoris dans une belle fenêtre et profitez de ses nombreuses fonctionalités
 
-StartPage Incredible est un remplacement productifs page de démarrage de Chrome. Mettez tous vos signets préférés dans un cadre magnifique, et profiter de nos fonctionnalités pratiques!
+Comme on peut le voir sur DownloadSquad. http://goo.gl/iyYe
 
-Comme on le voit sur DownloadSquad. http://goo.gl/iyYe
+Fonctionnalités
+- Couleurs des thèmes personnalisable
+- Accédez facilement à tous vos favoris dans une grande fenêtre
+- Gestionnaire d'onglets fermés simple d'utilisation
+- Prennez des notes et ajoutez les à votre Gmail en un seul clic
 
-Fonctions
-- Thème de couleurs personnalisable
-- Accédez facilement à vos signets préférés dans un grand cadre
-- Simple onglet fermé de récupération
-- Prendre des notes et post à votre compte Gmail en un clic
+Un tutoriel complet est disponible sur notre blog http://bit.ly/blK348
 
-Voir un tutoriel complet sur notre blog http://bit.ly/blK348
+Annonce:
+- Du fait de certaines limitations de Chrome, les extensions ne peuvent pas accéder à l'historique des onglets fermés. Si vous en avez besoin, pressez simplement Ctrl+Shift+T pour les ouvrir un par un.
+- FYI: Pour retrouver la page d'accueil initiale de Chrome, rendez vous simplement dans "Extension" du menu principal, et désactivez/désinstallez cette extension. 
 
-Disclaimer
-- En raison de limitations Chrome, les extensions ne peuvent pas restaurer l'historique des onglets fermés. Si vous avez besoin de l'histoire à partir d'un onglet récemment fermé, vous pouvez appuyer sur Ctrl + Maj + T pour les rouvrir une à une.
-- FYI: Pour revenir page de démarrage initial de Chrome, allez simplement sur "Extension" de la "clé" du menu, et de désactiver / désinstaller l'extension.
-
-Credits
-- Thanks to Smerk for German translation!
-
-Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/incrediblestartpage.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
+Mots Clés: StartPage, page d'accueil, favoris, notepad, ouvrir onglets fermés
+License: http://www.visibotech.com/license/incrediblestartpage.html
+Credits: http://www.visibotech.com/chrome/credits.html

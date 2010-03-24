@@ -1,0 +1,38 @@
+{
+    "name": {
+        "message": "Friends Mural pour Facebook"
+    },
+    "description": {
+        "message": "Friends Mural est un client Facebook proposant une nouvelle approche. Vous décidez quels amis afficher sur votre mur, et nous vous affichons leurs dernières actualités!"
+    },
+    "browserActionTitle": {
+        "message": "Friends Mural pour Facebook"
+    },
+    "optionsPageTitle": {
+        "message": "Options Friends Mural pour Facebook "
+    },
+    "optionsLink": {
+        "message": "Options"
+    },
+    "save": {
+        "message": "Sauvegarder"
+    },
+    "clear": {
+        "message": "Supprimer"
+    },
+    "optionsSaved": {
+        "message": "Options sauvegardées"
+    },
+    "contactUs":{
+        "message": "Contactez nous:"
+    },
+    "contactUs2":{
+        "message": "Suggestions? Problèmes? Venez nous en parlez <a href='http://www.facebook.com/apps/application.php?id=269250262098'>ici</a>!"
+    },
+    "contactUs3":{
+        "message": "Nous sommes ouverts à toutes propositions, tant que celle ci est poliment formulée. *wink*"
+    },
+    "copyright":{
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Accueil</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. Tous droits réservés."
+    }
+}

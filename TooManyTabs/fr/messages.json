@@ -1,0 +1,182 @@
+{
+    "name": {
+        "message": "TooManyTabs pour Chrome"
+    },
+    "description": {
+        "message": "Gérez vos onglets, améliorez votre naviguation, ne perdez pas la tête avec trop d'onglets."
+    },
+    "clickToPop": {
+        "message": "Cliquez pour afficher cet onglet dans la colonne TooManyTabs "
+    },
+    "clickToClose": {
+        "message": "Cliquez pour fermer"
+    },
+    "contactingTab": {
+        "message": "Contact de l'onglet..."
+    },
+    "noResponse": {
+        "message": "Hm, pas de réponsde de cet onglet. C'est peut être un panel d'administration, ou alors il est occupé..."
+    },
+    "clickToRestore": {
+        "message": "Cliquez pour restaurer"
+    },
+    "addNewColumn": {
+        "message": "[Nouvelle colonne]"
+    },
+    "removeThisColumn": {
+        "message": "[Supprimer cette colonne]"
+    }, 
+    "areYouSure": {
+        "message": "Etes vous sûr?"
+    },
+    "ok": {
+        "message": "OK"
+    },
+    "clearAll": {
+        "message": "[Supprimer tout]"
+    },
+    "newColumn": {
+        "message": "Nouvelle colonne"
+    },
+    "sortByName": {
+        "message": "Trier par nom"
+    },
+    "sortByAddress": {
+        "message": "Trier par adresse web"
+    },
+    "sortByTime": {
+        "message": "Trier par date de création"
+    },
+    "openOptionPage": {
+        "message": "Ouvrir la page d'option"
+    },
+    "options": {
+        "message": "Options"
+    },
+    "find": {
+        "message": "Chercher"    
+    },
+    "justTypeIn": {
+        "message": "Tapez ici..."
+    },
+    "updateNotes": {
+        "message": "Cliquez ici pour mettre à jour les notes"
+    },
+    "previousColumn": {
+        "message": "Colonne précédente"
+    },
+    "nextColumn": {
+        "message": "Colonne suivante"
+    },
+    "remove": {
+        "message": "Enlever"
+    },
+    "cancel": {
+        "message": "Annuler"
+    },
+    "suspendedTabsTitle": {
+        "message": "Onglets en pause"
+    },
+    "suspendedTabsTip": {
+        "message": "Glissez vos onglets ici pour réduire l'encombrement de la barre de navigation. La mémoire est libérée mais les formulaires et vidéos ne sont pas sauvegardés"
+    },
+    "recentlyClosedTitle": {
+        "message": "Récemment fermés"
+    },
+    "recentlyClosedTip": {
+        "message": "Ne sera pas supprimé avec l'historique. Peut être supprimé manuellement. Cliquez sur l'icône pour ouvrir le sous menu."
+    },
+    "optionsPageTitle": {
+        "message": "TooManyTabs pour Chrome - Options"
+    },
+    "welcomeMessage": {
+        "message": "Nouveau à TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visites notre page d'accueil.</a>"
+    },
+    "popupWidth": {
+        "message": "Largeur des pop up:"
+    },
+    "popupWidth1": {
+        "message": "Large"
+    },
+    "popupWidth2": {
+        "message": "Moyen"
+    },
+    "popupWidth3": {
+        "message": "Petit"
+    },
+    "showTabCount": {
+        "message": "Montrer le nombre d'onglets sur l'icône:"
+    },
+    "optionsYes": {
+        "message": "Oui"
+    },
+    "optionsNo": {
+        "message": "Non"
+    },
+    "customThemeColor": {
+        "message": "Thème de couleur personalisable:"
+    },
+    "advancedFeatures": {
+        "message": "Fonctionnalité avancée"
+    },
+    "customRows1": {
+        "message": "Colonne personalisable"
+    },
+    "customRows2": {
+        "message": "Utiliser les colonnes par défaut"
+    },
+    "customRows3": {
+        "message": "Activer les colonnes par défaut"
+    },
+    "crossWindow": {
+        "message": "Afficher les onglets des fenêtres:"
+    },
+    "crossWindow1": {
+        "message": "Oui"
+    },
+    "crossWindow2": {
+        "message": "Non (Défaut)"
+    },
+    "crossWindow3": {
+        "message": "Google Chrome pour Mac / Linux ne supporte pas le changement de fenêtre pour les onglets. Si vous essayer de glisser un onglet dans un fenêtre, cet onglet sera déplacé dans la fenêtre courante à la place."
+    },
+    "shortcut1": {
+        "message": "Utiliser le raccourci clavier pour afficher la fenêtre TMT: CTRL-"
+    },
+    "shortcut2": {
+        "message": "Le racourci clavier ne fonctionne pas si vous êtes sur une page de configuration système,comme cette page d'option. Certains raccourcis peuvent ne pas fonctionner en fonction de votre système d'exploitation (ex: CTRL-A)."
+    },
+    "quickSupport": {
+        "message": "Aide:"
+    },
+    "quickSupport1": {
+        "message": "Dernières MAJ, astuces et tutoriels <a href='http://www.visibotech.com/TMTChrome/'>ici</a>!"
+    },
+    "quickSupport2": {
+        "message": "Nous ne collectons pas d'informations privées vous concernant et de ce fait nous ne pouvons pas les communiquer."
+    },
+    "contactUs": {
+        "message": "Contactez Nous:"
+    },
+    "contactUs1": {
+        "message": "Suggestions? Preuve d'amitié? Rendez nous visite <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>ici</a>!"
+    },
+    "contactUs2": {
+        "message": "Problème? Bugs? Rendez vous <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>ici</a> aussi. Nous avons souvent besoin d'une copie écran de votre problème ainsi que de votre version de Chrome / Système d'exploitation"
+    },
+    "contactUs3": {
+        "message": "Nous sommes ouverts à toutes propositions, tant que celle ci est poliment formulée. *wink*"
+    },
+    "knownIssues": {
+        "message": "Problème connus - Ne créez pas de bug là dessus, nous somme en contact avec l'équipe Chrome pour les résoudre:"
+    },
+    "knownIssues1": {
+        "message": "Les racourcis clavier ne fonctionnent pas sur les pages systèmede Chrome (ex: Page de démarrage, pages d'options)."
+    },
+    "knownIssues2": {
+        "message": "Les pages propres à Chrome ne répondent pas aux appels de TMT de temps en temps"
+    },
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/'>Accueil</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. Tous droits réservés."
+    }
+}

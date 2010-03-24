@@ -1,40 +1,34 @@
-(Translated with Google Translate - English version here http://bit.ly/9uAWZg
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+Avez vous déjà essayé d'ouvrir 20 onglets voire plus dans Chrome? On ne peut même plus voir les miniatures des onglets, encore moins leur titre! Si cela vous est déjà arrivé, TooManyTabs est l'extension qu'il vous faut pour gérer vos onglets sans y perdre la tête.
 
-Jamais essayé d'avoir 20 onglets ou plus ouvert dans Chrome? Vous pouvez même pas voir l'icône de favori des onglets, de ne pas mentionner le titre de l'onglet! Si cela vous arrive, TooManyTabs est un must-have extension qui gère vos onglets, réduit votre débordement onglet, et enregistre votre santé mentale!
+Par les développeurs de TooManyTabs pour Firefox, TMT s'invite sur Chrome pour faciliter la gestion de vos onglets
 
-Des fabricants de TooManyTabs pour Firefox, TMT est venu de chrome pour aider à tous vos besoins onglet!
+Nouveautés de la version 1.4:
+- Affichage des onglets de toutes les fenêtres
+- Raccourcis claviers personalisables
 
-Nouveau en 1.4
-- Afficher les onglets à partir de toutes les fenêtres
-- Touche de raccourci personnalisée
+Fonctionnalités:
+- Survols de tous les onglets ouverts
+- Prévisualisation claire du contenu de chaque onglet (se remplit au fur et à mesure)
+- Recherche instantanée parmi les onglets
+- Organisez vos onglets par date de création, nom de domaine ou titre
+- Restauration d'onglets récemment fermés
+- Mettre les onglets cachés en pause pour économiser de la mémoire, organisez ces onglets comme bon vous semble
+- Thèmes personalisés
 
-Fonctions
-- Vue à vol d'oiseau de tous les onglets ouverts
-- Extrait claire du contenu de chaque onglet (se remplit progressivement à mesure que vous utilisez)
-- L'onglet de recherche instantanée
-- Onglets Tri par date de création, de domaine ou le titre
-- Restauration Onglets récemment fermés
-- Suspendre les onglets de ralenti et économiser de la mémoire, organiser avec des colonnes personnalisées
-- Thèmes personnalisés
+Fonctionnalités en cours de développement:
+- Recherche dans les onglets en pause
+- Amélioration de la colonne "Pause"
 
-Fonctionnalités à venir
-- Recherche tabs suspendue
-- L'amélioration de la colonne en suspension
+Annonce:
+- Du fait de certaines limitations de Chrome, les extensions ne peuvent pas accéder à l'historique des onglets fermés. Si vous en avez besoin, pressez simplement Ctrl+Shift+T pour les ouvrir un par un.
 
-Disclaimer
-- En raison de limitations Chrome, les extensions ne peuvent pas restaurer l'historique des onglets fermés. Si vous avez besoin de l'histoire à partir d'un onglet récemment fermé, vous pouvez appuyer sur Ctrl+Shift+T pour les rouvrir une à une.
-
-If you like TooManyTabs, check out our other extensions too!
+Si vous aimez TooManyTabs, jetez un oeil à nos autres extensions!
 - Incredible StartPage http://bit.ly/a2TzaI **NEW**
 - Friends Mural for Facebook http://bit.ly/cF8PXM
 - FreshStart Session Manager: http://bit.ly/6aEUJE
+- TwitterWatch: http://bit.ly/5C6VgI
 - TabJump: http://bit.ly/cVdnBq
 
-Credits
-- Thanks to Smerk for German translation!
-
-Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/TMTChrome/license.html
+Mots clé: Onglet, Organisation d'onglet, trouver un onglet, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+License: http://www.visibotech.com/TMTChrome/license.html
+Credits: http://www.visibotech.com/chrome/credits.html

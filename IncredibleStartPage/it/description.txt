@@ -17,12 +17,6 @@ Disclaimer
 - A causa di Chrome limitazioni, le estensioni non è possibile ripristinare la storia da schede chiuse. Se avete bisogno della storia da un tab chiuse di recente, è possibile premere Ctrl + Maiusc + T per riaprire uno per uno.
 - FYI: Per tornare Pagina Chrome inizio originali, basta andare su "estensione" della "Chiave" menu, e disattivare / disinstallare l'estensione.
 
-Credits
-- Thanks to Smerk for German translation!
-
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/incrediblestartpage.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
+License: http://www.visibotech.com/license/incrediblestartpage.html
+Credits: http://www.visibotech.com/chrome/credits.html

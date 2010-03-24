@@ -31,10 +31,6 @@ If you like TooManyTabs, check out our other extensions too!
 - FreshStart Session Manager: http://bit.ly/6aEUJE
 - TabJump: http://bit.ly/cVdnBq
 
-Credits
-- Thanks to Smerk for German translation!
-
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/TMTChrome/license.html
+License: http://www.visibotech.com/TMTChrome/license.html
+Credits: http://www.visibotech.com/chrome/credits.html

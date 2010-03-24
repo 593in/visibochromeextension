@@ -2,7 +2,7 @@
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 
-當使用多分頁同時，很難記住哪個是你想要去下。 TabJump突出經常使用的分頁及相關分頁，以便您可以輕鬆地跳躍它們之間。 ，從不擔心再次引發意外關閉分頁，為 TabJump可以保護他們，甚至恢復關閉的分頁！ 
+當使用多分頁同時，很難記住哪個是你想要去下。 TabJump突出經常使用的分頁及相關分頁，以便您可以輕鬆地跳躍它們之間。 從不擔心再次引發意外關閉分頁，為 TabJump可以保護他們，甚至恢復關閉的分頁！ 
 
 特徵 
 - 跳轉到經常使用的分頁 
@@ -14,19 +14,13 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 - 由於Chrome的限制，擴展無法還原歷史，關閉的分頁。如果您需要的歷史，最近關閉分頁，你可以按Ctrl + Shift + T鍵重新逐一。 
 
 嘗試我們的其他擴展呢！ 
-- 朋友壁畫為 Facebook http://bit.ly/cF8PXM **新** 
+- FriendsMural 為 Facebook http://bit.ly/cF8PXM **新** 
 - TooManyTabs：http://bit.ly/5lGy47 
 - FreshStart會話管理：http://bit.ly/6aEUJE 
 - TwitterWatch：http://bit.ly/5C6VgI 
 
-Credits
-- http://icons.mysitemyway.com/ for the icons
-- Thanks to Mr. A for German translation!
-- Thanks to David S. Rodrigues for Portuguese translation!
-
 關鍵詞：分頁，分頁管理，查找分頁，分頁跳轉，TabKit，FoxTab的，TabMixPlus，TreeStyleTabs，有太多的分頁，分頁菜單 
+License: http://www.visibotech.com/license/tabjump.html
+Credits: http://www.visibotech.com/chrome/credits.html
 
-通過下載此擴展您同意我們的條款和條件： 
-http://www.visibotech.com/license/tabjump.html 
-
-如果你想要一個視頻教程莫莉在demogirl.com創造了一個簡單的截屏強調：http://goo.gl/FcIs感謝 Molly！
+如果你想要一個視頻教程莫莉在demogirl.com創造了一個簡單的截屏：http://goo.gl/FcIs 感謝 Molly！

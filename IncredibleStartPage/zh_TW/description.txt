@@ -1,9 +1,9 @@
 (Translated with Google Translate - English version here http://bit.ly/bo5V9N
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
-令人難以置信的起始頁是一個有建設性的開始頁面替換鉻。把所有您喜愛的書籤在美麗的框架，並享受我們的便捷功能！
+Incredible StartPage是一個有建設性的開始頁面替換鉻。把所有您喜愛的書籤在美麗的框架，並享受我們的便捷功能！
 
-正如看到DownloadSquad。 http://goo.gl/iyYe
+DownloadSquad 有介紹。 http://goo.gl/iyYe
 
 特徵
 - 自定義顏色主題
@@ -14,15 +14,9 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 看到完整教程我們的博客 http://bit.ly/blK348
 
 免責聲明
-- 由於鉻的限制，擴展無法還原歷史，關閉的標籤。如果您需要的歷史，最近關閉標籤，你可以按Ctrl + Shift + T鍵重新逐一。
-- 供參考：為了找回Chrome的原始開始頁面，只要進入“擴展”與“扳手”菜單，並禁用/卸載擴展。
-
-Credits
-- Thanks to Smerk for German translation!
+- 由於 Chrome 的限制，擴展無法還原歷史，關閉的分頁。如果您需要的歷史，最近關閉標籤，你可以按Ctrl + Shift + T鍵重新逐一。
+- 供參考：為了找回 Chrome 的原始開始頁面，只要進入“擴展”與“扳手”菜單，並禁用/卸載擴展。
 
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
-
-By downloading this extension you agree to our terms and conditions:
-http://www.visibotech.com/license/incrediblestartpage.html
-
-We are looking for translators, can you help us? http://code.google.com/p/visibochromeextension/
+License: http://www.visibotech.com/license/incrediblestartpage.html
+Credits: http://www.visibotech.com/chrome/credits.html

@@ -20,14 +20,8 @@ Pruebe nuestras otras extensiones también!
 - Session Manager FreshStart: http://bit.ly/6aEUJE 
 - TwitterWatch: http://bit.ly/5C6VgI 
 
-Credits
-- http://icons.mysitemyway.com/ for the icons
-- Thanks to Mr. A for German translation!
-- Thanks to David S. Rodrigues for Portuguese translation!
-
 Palabras claves: aquí, aquí Management, encontrar partituras, Saltar Tab, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too aquí Muchos, Tab Menu 
-
-Al descargar esta extensión está de acuerdo con nuestros términos y condiciones: 
-http://www.visibotech.com/license/tabjump.html 
+License: http://www.visibotech.com/license/tabjump.html
+Credits: http://www.visibotech.com/chrome/credits.html
 
 Si quieres un tutorial de vídeo en Molly demogirl.com ha creado un screencast sencillo en ella: http://goo.gl/FcIs Gracias Molly!
