@@ -1,6 +1,6 @@
 {
     "name": {
-        "message": "TooManyTabs für Chrome"
+        "message": "TooManyTabs fÃ¼r Chrome"
     },
     "description": {
         "message": "Organisieren Sie Ihre Tabs, verbessern Sie Ihr Browsen, und verlieren Sie nicht Ihren Verstand, wenn Sie mehrere Tabs offen haben."
@@ -15,16 +15,16 @@
         "message": "Kontaktiere Tab..."
     },
     "noResponse": {
-        "message": "Hm, keine Antwort von diesem Tab. Entweder ist es ein System Tab, oder der Tab ist überlastet..."
+        "message": "Hm, keine Antwort von diesem Tab. Entweder ist es ein System Tab, oder der Tab ist Ã¼berlastet..."
     },
     "clickToRestore": {
         "message": "Wiederherstellen"
     },
     "addNewColumn": {
-        "message": "[Füge neue Spalte hinzu]"
+        "message": "[FÃ¼ge neue Spalte hinzu]"
     },
     "removeThisColumn": {
-        "message": "[Lösche diese Spalte]"
+        "message": "[LÃ¶sche diese Spalte]"
     }, 
     "areYouSure": {
         "message": "Sind Sie sicher?"
@@ -33,7 +33,7 @@
         "message": "OK"
     },
     "clearAll": {
-        "message": "[Lösche alle Tabs]"
+        "message": "[LÃ¶sche alle Tabs]"
     },
     "newColumn": {
         "message": "Neue Spalte"
@@ -48,7 +48,7 @@
         "message": "Sortiere nach Erstellungszeitpunkt"
     },
     "openOptionPage": {
-        "message": "Öffne die Optionen"
+        "message": "Ã–ffne die Optionen"
     },
     "options": {
         "message": "Optionen"
@@ -60,13 +60,13 @@
         "message": "einfach eingeben..."
     },
     "updateNotes": {
-        "message": "Klicken Sie hier für die Update Änderungen"
+        "message": "Klicken Sie hier fÃ¼r die Update Ã„nderungen"
     },
     "previousColumn": {
         "message": "Vorherige Spalte"
     },
     "nextColumn": {
-        "message": "Nächste Spalte"
+        "message": "NÃ¤chste Spalte"
     },
     "remove": {
         "message": "Entferne"
@@ -78,16 +78,16 @@
         "message": "Suspended Tabs"
     },
     "suspendedTabsTip": {
-        "message": "Verschieben Sie hier Ihre untätigen Tabs, um Tab Überschwemmung zu verhindern. Der Speicher wird frei, aber Formulare und Videos werden nicht gespeichert."
+        "message": "Verschieben Sie hier Ihre untÃ¤tigen Tabs, um Tab Ãœberschwemmung zu verhindern. Der Speicher wird frei, aber Formulare und Videos werden nicht gespeichert."
     },
     "recentlyClosedTitle": {
-        "message": "Kürzlich geschlossen"
+        "message": "KÃ¼rzlich geschlossen"
     },
     "recentlyClosedTip": {
-        "message": "Wird nicht mit dem Chrome Verlauf gelöscht. Kann man manuell löschen. Klicken Sie auf das Icon für ein Untermenü."
+        "message": "Wird nicht mit dem Chrome Verlauf gelÃ¶scht. Kann man manuell lÃ¶schen. Klicken Sie auf das Icon fÃ¼r ein UntermenÃ¼."
     },
     "optionsPageTitle": {
-        "message": "TooManyTabs für Chrome - Optionen"
+        "message": "TooManyTabs fÃ¼r Chrome - Optionen"
     },
     "welcomeMessage": {
         "message": "Neu bei TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Besuchen Sie unsere Willkommensseite.</a>"
@@ -138,13 +138,13 @@
         "message": "Nein (Standard)"
     },
     "crossWindow3": {
-        "message": "Google Chrome für Mac / Linux unterstützt kein Fenster-Tab Wechsel. Wenn Sie versuchen ein Tab in ein anderes Fenster zu wechseln, wird dieser Tab stattdessen in das aktuelle Fenster verschoben."
+        "message": "Google Chrome fÃ¼r Mac / Linux unterstÃ¼tzt kein Fenster-Tab Wechsel. Wenn Sie versuchen ein Tab in ein anderes Fenster zu wechseln, wird dieser Tab stattdessen in das aktuelle Fenster verschoben."
     },
     "shortcut1": {
-        "message": "Benutze folgendes Tastaturkürzel, um das TMT Fenster hervorzurufen: STRG-"
+        "message": "Benutze folgendes TastaturkÃ¼rzel, um das TMT Fenster hervorzurufen: STRG-"
     },
     "shortcut2": {
-        "message": "Das Tastaturkürzel funktioniert nicht, wenn Sie sich auf einer Systemseite wie Diese befinden. Je nach Betriebssystem funktionieren manche Tastaturkürzel wahrscheinlich nicht (z.B. STRG-A)."
+        "message": "Das TastaturkÃ¼rzel funktioniert nicht, wenn Sie sich auf einer Systemseite wie Diese befinden. Je nach Betriebssystem funktionieren manche TastaturkÃ¼rzel wahrscheinlich nicht (z.B. STRG-A)."
     },
     "quickSupport": {
         "message": "Schnelle Hilfe:"
@@ -159,19 +159,19 @@
         "message": "Kontakt:"
     },
     "contactUs1": {
-        "message": "Vorschläge? Lob? Liebesbekundungen? Besuchen Sie <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>uns</a>!"
+        "message": "VorschlÃ¤ge? Lob? Liebesbekundungen? Besuchen Sie <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>uns</a>!"
     },
     "contactUs2": {
-        "message": "Probleme? Bugs? Besuchen Sie uns auch <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>hier</a>. Wir benötigen oft Screenshots und Ihre OS/Chrome Version."
+        "message": "Probleme? Bugs? Besuchen Sie uns auch <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>hier</a>. Wir benÃ¶tigen oft Screenshots und Ihre OS/Chrome Version."
     },
     "contactUs3": {
-        "message": "Wir begrüßen konstruktives Feedback in gesitteter Form. *zwinker*"
+        "message": "Wir begrÃ¼ÃŸen konstruktives Feedback in gesitteter Form. *zwinker*"
     },
     "knownIssues": {
-        "message": "Bekannte Probleme - legen Sie zu diesen Problemen keine Bug Berichte an, wir halten Kontakt mit dem Chrome Team, um diese Probleme zu lösen:"
+        "message": "Bekannte Probleme - legen Sie zu diesen Problemen keine Bug Berichte an, wir halten Kontakt mit dem Chrome Team, um diese Probleme zu lÃ¶sen:"
     },
     "knownIssues1": {
-        "message": "Tastaturkürzel funktionieren nicht auf Chrome-eigene Seiten (z.B. Standard Homepage, Optionenseite)."
+        "message": "TastaturkÃ¼rzel funktionieren nicht auf Chrome-eigene Seiten (z.B. Standard Homepage, Optionenseite)."
     },
     "knownIssues2": {
         "message": "Chrome-eigene Seiten reagieren zeitweise nicht auf TMT Wachrufe."
