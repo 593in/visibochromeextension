@@ -1,52 +1,53 @@
 {
-    "name": {
-        "message": "TabJump - Navegador de abas inteligente"
-    },
-    "description": {
-        "message": "Uma nova forma de navegar pelas suas abas. Acesse facilmente suas abas mais usadas, relacionadas e fechadas. Também permite bloquear abas."
-    },
-    "extensionPageActionTitle": {
-        "message": "TabJump!"
-    },
-    "loading": {
-        "message": "carregando..."
-    },
+    "cannotLockPage": {
+        "message": "Não é possível bloquear esta página"
+    }, 
     "clickToOpen": {
-        "message": "Clique para abrir \"$title$\"",
+        "message": "Clique para abrir \"$title$\"", 
         "placeholders": {
             "title": {
                 "content": "$1"
             }
         }
-    },
-    "sureToLeavePage": {
-        "message": "Tem certeza que deseja sair desta página?"
-    },
-    "jump": {
-        "message": "Ir até"
-    },
+    }, 
+    "description": {
+        "message": "Uma nova forma de navegar pelas suas abas. Acesse facilmente suas abas mais usadas, relacionadas e fechadas. Também permite bloquear abas."
+    }, 
+    "extensionPageActionTitle": {
+        "message": "TabJump!", 
+        "remark": "PENDING"
+    }, 
     "frequentlyUsedTabs": {
         "message": "Usadas frequentemente"
-    },
-    "undo": {
-        "message": "Desfazer"
-    },
-    "recentlyClosedTabs": {
-        "message": "Fechadas recentemente"
-    },
-    "related": {
-        "message": "Relacionada"
-    },
-    "relatedTabs": {
-        "message": "Abas relacionadas"
-    },
-    "unlockPage": {
-        "message": "Desbloqueie esta página"
-    },
+    }, 
+    "jump": {
+        "message": "Ir até"
+    }, 
+    "loading": {
+        "message": "carregando..."
+    }, 
     "lockPage": {
         "message": "Bloqueie esta página"
-    },
-    "cannotLockPage": {
-        "message": "Não é possível bloquear esta página"
+    }, 
+    "name": {
+        "message": "TabJump - Navegador de abas inteligente"
+    }, 
+    "recentlyClosedTabs": {
+        "message": "Fechadas recentemente"
+    }, 
+    "related": {
+        "message": "Relacionada"
+    }, 
+    "relatedTabs": {
+        "message": "Abas relacionadas"
+    }, 
+    "sureToLeavePage": {
+        "message": "Tem certeza que deseja sair desta página?"
+    }, 
+    "undo": {
+        "message": "Desfazer"
+    }, 
+    "unlockPage": {
+        "message": "Desbloqueie esta página"
     }
 }

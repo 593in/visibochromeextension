@@ -1,52 +1,58 @@
 {
-    "extensionName": {
-        "message": "TabJump - インテリジェントタブナビゲーター"
-    },
-    "extensionDescription": {
-        "message": "あなたのタブをナビゲートする新しい方法です。簡単にアクセスできる最もよく使われるタブ、関連するタブ、閉じたタブ。ことができますタブもロック。"
-    },
-    "extensionPageActionTitle": {
-        "message": "TabJump!"
-    },
-    "loading": {
-        "message": "読み込んでいます..."
-    },
+    "cannotLockPage": {
+        "message": "このページをロックできません"
+    }, 
     "clickToOpen": {
-        "message": "\"$title$\"を開きます",
+        "message": "\"$title$\"を開きます", 
         "placeholders": {
             "title": {
                 "content": "$1"
             }
         }
-    },
-    "sureToLeavePage": {
-        "message": "このページを残してよろしいですか？"
-    },
-    "jump": {
-        "message": "Jump"
-    },
+    }, 
+    "description": {
+        "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.", 
+        "remark": "NEW TERM"
+    }, 
+    "extensionPageActionTitle": {
+        "message": "TabJump!", 
+        "remark": "PENDING"
+    }, 
     "frequentlyUsedTabs": {
         "message": "頻繁にタブを使用する"
-    },
-    "undo": {
-        "message": "Undo"
-    },
-    "recentlyClosedTabs": {
-        "message": "最近閉じたタブ"
-    },
-    "related": {
-        "message": "Related"
-    },
-    "relatedTabs": {
-        "message": "関連するタブ"
-    },
-    "unlockPage": {
-        "message": "ロックを解除するこのページを"
-    },
+    }, 
+    "jump": {
+        "message": "Jump", 
+        "remark": "PENDING"
+    }, 
+    "loading": {
+        "message": "読み込んでいます..."
+    }, 
     "lockPage": {
         "message": "このページのロック"
-    },
-    "cannotLockPage": {
-        "message": "このページをロックできません"
+    }, 
+    "name": {
+        "message": "TabJump - Intelligent Tab Navigator", 
+        "remark": "NEW TERM"
+    }, 
+    "recentlyClosedTabs": {
+        "message": "最近閉じたタブ"
+    }, 
+    "related": {
+        "message": "Related", 
+        "remark": "PENDING"
+    }, 
+    "relatedTabs": {
+        "message": "関連するタブ"
+    }, 
+    "sureToLeavePage": {
+        "message": "このページを残してよろしいですか？"
+    }, 
+    "undo": {
+        "message": "Undo", 
+        "remark": "PENDING"
+    }, 
+    "unlockPage": {
+        "message": "ロックを解除するこのページを"
     }
 }

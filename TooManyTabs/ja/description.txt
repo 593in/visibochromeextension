@@ -1,7 +1,7 @@
 (Translated with Google Translate - English version here http://bit.ly/9uAWZg
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
-これまで20タブ以上Chromeで開いていなくみましたか？さらにではなく、タブのタイトルはもちろん、タブのファビコンが表示されないことができます！もしそうなってしまったら、TooManyTabsで、お客様のタブを管理する拡張子を持つ必要があります、あなたのタブのオーバーフローを低減であり、あなたの正気を節約！
+これまで20タブ以上Chromeで開いていなくみましたか？さらにではなく、タブのタイトルはもちろん、タブのファビコンが表示されないことができます！もしそうなってしまったら、TooManyTabsで、お客様のタブを管理する拡張子を持つ必要があります、あなたのタブのオーバーフローを低減であります！
 
 Firefox用のTooManyTabsのメーカーから、TMTは、すべてのタブのニーズを支援するクロームになってきた！
 

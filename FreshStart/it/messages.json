@@ -1,0 +1,175 @@
+{
+    "clickToRestore": {
+        "message": "Click to restore session '$name$' in new window", 
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs": {
+        "message": "Contact us:", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs2": {
+        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a>!", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs3": {
+        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs4": {
+        "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
+        "remark": "NEW TERM"
+    }, 
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
+        "remark": "NEW TERM"
+    }, 
+    "crashRestoreTitle": {
+        "message": "Restore Previous Session", 
+        "remark": "NEW TERM"
+    }, 
+    "description": {
+        "description": "The extension description", 
+        "message": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.", 
+        "remark": "NEW TERM"
+    }, 
+    "edit": {
+        "message": "Edit", 
+        "remark": "NEW TERM"
+    }, 
+    "enableCrashRecovery": {
+        "message": "Enable crash recovery", 
+        "remark": "NEW TERM"
+    }, 
+    "extensionBrowserActionTitle": {
+        "message": "FreshStart - Cross Browser Session Manager", 
+        "remark": "NEW TERM"
+    }, 
+    "minutes": {
+        "message": "minutes", 
+        "remark": "NEW TERM"
+    }, 
+    "mySession": {
+        "message": "My Session", 
+        "remark": "NEW TERM"
+    }, 
+    "name": {
+        "description": "The extension name", 
+        "message": "FreshStart - Cross Browser Session Manager", 
+        "remark": "NEW TERM"
+    }, 
+    "noSessionSaved": {
+        "message": "No sessions saved", 
+        "remark": "NEW TERM"
+    }, 
+    "options": {
+        "message": "Options", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsBackupPeriod": {
+        "message": "Saves all your windows and tabs every ", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsBackupPeriodOutOfRange": {
+        "message": "Backup period cannot be shorter than 1 minute or larger than 999 minutes", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsEnableCrashRecovery": {
+        "message": "Enable Crash Recovery", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsNewUserTips": {
+        "message": "New to FreshStart? Visit our <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsPageTitle": {
+        "message": "FreshStart Options", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsSaved": {
+        "message": "Options saved", 
+        "remark": "NEW TERM"
+    }, 
+    "remove": {
+        "message": "Remove", 
+        "remark": "NEW TERM"
+    }, 
+    "restorePreviousSession": {
+        "message": "Restore previous session", 
+        "remark": "NEW TERM"
+    }, 
+    "restoreSavedWindow": {
+        "message": "Saved Window ($count$) - click to restore this window", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "NEW TERM"
+    }, 
+    "restoreSession": {
+        "message": "Restore Session", 
+        "remark": "NEW TERM"
+    }, 
+    "restoreSession2": {
+        "message": "Click to open in new window, ctrl-click (Win, Linux) or cmd-click (Mac) to open in current window", 
+        "remark": "NEW TERM"
+    }, 
+    "save": {
+        "message": "Save", 
+        "remark": "NEW TERM"
+    }, 
+    "saveSession": {
+        "message": "Save Session", 
+        "remark": "NEW TERM"
+    }, 
+    "smEditCancel": {
+        "message": "Cancel", 
+        "remark": "NEW TERM"
+    }, 
+    "smEditSave": {
+        "message": "Save", 
+        "remark": "NEW TERM"
+    }, 
+    "smHeadingNew": {
+        "message": "Tabs to Add (check to add)", 
+        "remark": "NEW TERM"
+    }, 
+    "smHeadingSaved": {
+        "message": "Saved Tabs (uncheck to remove)", 
+        "remark": "NEW TERM"
+    }, 
+    "smHeadingTitle": {
+        "message": "Title", 
+        "remark": "NEW TERM"
+    }, 
+    "smSaveList": {
+        "message": "Uncheck tabs that you don't want to be saved.", 
+        "remark": "NEW TERM"
+    }, 
+    "smSaveToggle": {
+        "message": "Toggle Selection", 
+        "remark": "NEW TERM"
+    }, 
+    "supportUs": {
+        "message": "Support our development and<br>share to your friends!", 
+        "remark": "NEW TERM"
+    }, 
+    "tabsCount": {
+        "message": " ($count$ tabs)", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "NEW TERM"
+    }, 
+    "updatedMessage": {
+        "message": "FreshStart is updated, click here to see what's new", 
+        "remark": "NEW TERM"
+    }
+}

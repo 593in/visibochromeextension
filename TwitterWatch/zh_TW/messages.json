@@ -1,106 +1,134 @@
 {
-    "name": {
-        "message": "TwitterWatch - Real Time Twitter Update"
-    },
-    "description": {
-        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too."
-    },
-    "noTweetsFound": {
-        "message": "No tweets found!"
-    },
-    "enterASearchTerm": {
-        "message": "Enter a search term to get latest updates"
-    },
-    "seconds": {
-        "message": "$seconds$ seconds ago",
-        "placeholders": {
-            "seconds": {
-                "content": "$1"
-            }
-        }
-    },
-    "oneMinute": {
-        "message": "1 minute ago"
-    },
-    "minutes": {
-        "message": "$minutes$ minutes ago",
-        "placeholders": {
-            "minutes": {
-                "content": "$1"
-            }
-        }
-    },
-    "oneHour": {
-        "message": "1 hour ago"
-    },
-    "hours": {
-        "message": "$hours$ hours ago",
-        "placeholders": {
-            "hours": {
-                "content": "$1"
-            }
-        }
-    }, 
-    "oneDay": {
-        "message": "1 day ago"
-    },
     "days": {
-        "message": "$days$ days ago",
+        "message": "$days$ days ago", 
         "placeholders": {
             "days": {
                 "content": "$1"
             }
-        }
-    },
-    "oneWeek": {
-        "message": "1 week ago"
-    },
-    "severalWeeks": {
-        "message": "Several weeks ago"
-    },
+        }, 
+        "remark": "PENDING"
+    }, 
+    "description": {
+        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
+        "remark": "PENDING"
+    }, 
+    "enterASearchTerm": {
+        "message": "Enter a search term to get latest updates", 
+        "remark": "PENDING"
+    }, 
     "error": {
-        "message": "Error"
-    },
-    "updateMessage": {
-        "message": "TwitterWatch is updated, click here to see what's new"
-    },
-    "login": {
-        "message": "Login"
-    },
-    "logout": {
-        "message": "Logout"
-    },
-    "send": {
-        "message": "Send"
-    },
-    "retweet": {
-        "message": "Retweet"
-    },
-    "reply": {
-        "message": "Reply"
-    },
-    "postSuccess": {
-        "message": "Sent successfully"
-    },
-    "postFail": {
-        "message": "Sent failed, try again?"
-    },
-    "posting": {
-        "message": "Sending..."
-    },
+        "message": "Error", 
+        "remark": "PENDING"
+    }, 
+    "hours": {
+        "message": "$hours$ hours ago", 
+        "placeholders": {
+            "hours": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "PENDING"
+    }, 
     "loggingIn": {
-        "message": "Logging in..."
-    },
-    "promptLogin": {
-        "message": "Please login to reply or retweet"
-    },
-    "twitterWatch": {
-        "message": "TwitterWatch"
-    },
-    "searching": {
-        "message": "Searching"
-    },
+        "message": "Logging in...", 
+        "remark": "PENDING"
+    }, 
+    "login": {
+        "message": "Login", 
+        "remark": "PENDING"
+    }, 
+    "logout": {
+        "message": "Logout", 
+        "remark": "PENDING"
+    }, 
     "messageTooLong": {
-        "message": "The message is too long!"
+        "message": "The message is too long!", 
+        "remark": "PENDING"
+    }, 
+    "minutes": {
+        "message": "$minutes$ minutes ago", 
+        "placeholders": {
+            "minutes": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "PENDING"
+    }, 
+    "name": {
+        "message": "TwitterWatch - Real Time Twitter Update", 
+        "remark": "PENDING"
+    }, 
+    "noTweetsFound": {
+        "message": "No tweets found!", 
+        "remark": "PENDING"
+    }, 
+    "oneDay": {
+        "message": "1 day ago", 
+        "remark": "PENDING"
+    }, 
+    "oneHour": {
+        "message": "1 hour ago", 
+        "remark": "PENDING"
+    }, 
+    "oneMinute": {
+        "message": "1 minute ago", 
+        "remark": "PENDING"
+    }, 
+    "oneWeek": {
+        "message": "1 week ago", 
+        "remark": "PENDING"
+    }, 
+    "postFail": {
+        "message": "Sent failed, try again?", 
+        "remark": "PENDING"
+    }, 
+    "postSuccess": {
+        "message": "Sent successfully", 
+        "remark": "PENDING"
+    }, 
+    "posting": {
+        "message": "Sending...", 
+        "remark": "PENDING"
+    }, 
+    "promptLogin": {
+        "message": "Please login to reply or retweet", 
+        "remark": "PENDING"
+    }, 
+    "reply": {
+        "message": "Reply", 
+        "remark": "PENDING"
+    }, 
+    "retweet": {
+        "message": "Retweet", 
+        "remark": "PENDING"
+    }, 
+    "searching": {
+        "message": "Searching", 
+        "remark": "PENDING"
+    }, 
+    "seconds": {
+        "message": "$seconds$ seconds ago", 
+        "placeholders": {
+            "seconds": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "PENDING"
+    }, 
+    "send": {
+        "message": "Send", 
+        "remark": "PENDING"
+    }, 
+    "severalWeeks": {
+        "message": "Several weeks ago", 
+        "remark": "PENDING"
+    }, 
+    "twitterWatch": {
+        "message": "TwitterWatch", 
+        "remark": "PENDING"
+    }, 
+    "updateMessage": {
+        "message": "TwitterWatch is updated, click here to see what's new", 
+        "remark": "PENDING"
     }
 }

@@ -1,136 +1,139 @@
 {
-    "name": {
-        "message": "FreshStart - Gestionnaire de Session Multi Navigateurs ",
-        "description": "The extension name"
-    },
-    "description": {
-        "message": "Besoin d'un gestionnaire de session simple? Plusieurs utilisateurs sur le même Chrome? FreshStart est un simple gestionnaire de browser compatible avec différents navigateurs.",
-        "description": "The extension description"
-    },
-    "extensionBrowserActionTitle": {
-        "message": "FreshStart - Gestionnaire de Session Multi Navigateurs"
-    },
-    "updatedMessage": {
-        "message": "FreshStart a été mis a jour, cliquez ici pour voir les nouveautés"
-    },
-    "saveSession": {
-        "message": "Sauvegarder la Session"
-    },
-    "mySession": {
-        "message": "Ma Session"
-    },
-    "smSaveList": {
-        "message": "Décochez les onglets que vous ne voulez pas sauvegarder."
-    },
-    "restoreSession": {
-        "message": "Restaurer la Session"
-    },
-    "restoreSession2": {
-        "message": "Cliquez pour ouvrier dans une nouvelle fenêtre, ctrl-click (Win, Linux) ou cmd-click (Mac) pour ouvrir dans la fenêtre courante"
-    },
-    "options": {
-        "message": "Options"
-    },
-    "restorePreviousSession": {
+    "clickToRestore": {
+        "message": "Cliquez pour restaurer la session '$name$' dans une nouvelle fenêtre", 
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "contactUs": {
+        "message": "Contactez nous:"
+    }, 
+    "contactUs2": {
+        "message": "Suggestions? Chansons? Preuve d'amitié? Venez nous voir <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>ici</a>!"
+    }, 
+    "contactUs3": {
+        "message": "Problèmes? Bugs? Venez nous en parler <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>ici</a> aussi.  Nous avons souvent besoin d'une copie écran de votre problème ainsi que de votre version de Chrome / Système d'exploitation"
+    }, 
+    "contactUs4": {
+        "message": "Nous sommes ouverts à toutes propositions, tant que celle ci est poliment formulée. *wink*"
+    }, 
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Accueil</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. Tous droits réservés."
+    }, 
+    "crashRestoreTitle": {
         "message": "Restaurer la session précédente"
-    },
+    }, 
+    "description": {
+        "description": "The extension description", 
+        "message": "Besoin d'un gestionnaire de session simple? Plusieurs utilisateurs sur le même Chrome? FreshStart est un simple gestionnaire de browser compatible avec différents navigateurs."
+    }, 
+    "edit": {
+        "message": "Edition"
+    }, 
     "enableCrashRecovery": {
         "message": "Activer le récupérateur de crash"
-    },
+    }, 
+    "extensionBrowserActionTitle": {
+        "message": "FreshStart - Gestionnaire de Session Multi Navigateurs"
+    }, 
+    "minutes": {
+        "message": "minutes", 
+        "remark": "PENDING"
+    }, 
+    "mySession": {
+        "message": "Ma Session"
+    }, 
+    "name": {
+        "description": "The extension name", 
+        "message": "FreshStart - Gestionnaire de Session Multi Navigateurs "
+    }, 
     "noSessionSaved": {
         "message": "Pas de session sauvegardée"
-    },
-    "clickToRestore": {
-        "message": "Cliquez pour restaurer la session '$name$' dans une nouvelle fenêtre",
-        "placeholders": {
-            "name": {    
-                "content": "$1"
-            }
-        }
-    },
-    "tabsCount": {
-        "message": " ($count$ tabs)",
-        "placeholders": {
-            "count": {    
-                "content": "$1"
-            }
-        }
-    },
-    "optionsPageTitle": {
-        "message": "Options FreshStart"
-    },
+    }, 
+    "options": {
+        "message": "Options", 
+        "remark": "PENDING"
+    }, 
+    "optionsBackupPeriod": {
+        "message": "Sauvegarder toutes les fenêtres et onglets toutes les: "
+    }, 
+    "optionsBackupPeriodOutOfRange": {
+        "message": "Le délai de sauvegarde automatique ne peut pas être plus court qu'une minute ou plus grand que 999 minutes"
+    }, 
     "optionsEnableCrashRecovery": {
         "message": "Activer le récupérateur de crash"
-    },
-    "optionsBackupPeriod":{
-        "message": "Sauvegarder toutes les fenêtres et onglets toutes les: "
-    },
-    "optionsNewUserTips":{
+    }, 
+    "optionsNewUserTips": {
         "message": "Nouveau à FreshStart? Visitez notre <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Page D'accueil</a>!"
-    },
-    "minutes":{
-        "message": "minutes"
-    },
-    "optionsBackupPeriodOutOfRange":{
-        "message": "Le délai de sauvegarde automatique ne peut pas être plus court qu'une minute ou plus grand que 999 minutes"
-    },
-    "save": {
-        "message": "Sauvegarder"
-    },
+    }, 
+    "optionsPageTitle": {
+        "message": "Options FreshStart"
+    }, 
     "optionsSaved": {
         "message": "Options sauvegardées"
-    },
-    "supportUs": {
-        "message": "Aidez notre dévelopement et<br>partagez avec vos amis!"
-    },
-    "contactUs":{
-        "message": "Contactez nous:"
-    },
-    "contactUs2":{
-        "message": "Suggestions? Chansons? Preuve d'amitié? Venez nous voir <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>ici</a>!"
-    },
-    "contactUs3":{
-        "message": "Problèmes? Bugs? Venez nous en parler <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>ici</a> aussi.  Nous avons souvent besoin d'une copie écran de votre problème ainsi que de votre version de Chrome / Système d'exploitation"
-    },
-    "contactUs4":{
-        "message": "Nous sommes ouverts à toutes propositions, tant que celle ci est poliment formulée. *wink*"
-    },
-    "copyright":{
-        "message": "<a href='http://www.visibotech.com/' target='_blank'>Accueil</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. Tous droits réservés."
-    },
-    "crashRestoreTitle":{
+    }, 
+    "remove": {
+        "message": "Supprimer"
+    }, 
+    "restorePreviousSession": {
         "message": "Restaurer la session précédente"
-    },
-    "restoreSavedWindow":{
-        "message": "($count$) fenêtres sauvegardées - cliquez pour restaurer cette fenêtre",
+    }, 
+    "restoreSavedWindow": {
+        "message": "($count$) fenêtres sauvegardées - cliquez pour restaurer cette fenêtre", 
         "placeholders": {
             "count": {
                 "content": "$1"
             }
         }
-    },
-    "edit": {
-        "message": "Edition"
-    },
-    "remove": {
-        "message": "Supprimer"
-    },
-    "smSaveToggle": {
-        "message": "Inverser la sélection"
-    },
-    "smHeadingTitle": {
-        "message": "Titre"
-    },
-    "smHeadingNew": {
-        "message": "Onglets à ajouter (cocher pour ajouter)"
-    },
-    "smHeadingSaved": {
-        "message": "Onglets sauvegardés (décochez pour suppremier)"
-    },
-    "smEditSave": {
+    }, 
+    "restoreSession": {
+        "message": "Restaurer la Session"
+    }, 
+    "restoreSession2": {
+        "message": "Cliquez pour ouvrier dans une nouvelle fenêtre, ctrl-click (Win, Linux) ou cmd-click (Mac) pour ouvrir dans la fenêtre courante"
+    }, 
+    "save": {
         "message": "Sauvegarder"
-    },
+    }, 
+    "saveSession": {
+        "message": "Sauvegarder la Session"
+    }, 
     "smEditCancel": {
         "message": "Annuler"
+    }, 
+    "smEditSave": {
+        "message": "Sauvegarder"
+    }, 
+    "smHeadingNew": {
+        "message": "Onglets à ajouter (cocher pour ajouter)"
+    }, 
+    "smHeadingSaved": {
+        "message": "Onglets sauvegardés (décochez pour suppremier)"
+    }, 
+    "smHeadingTitle": {
+        "message": "Titre"
+    }, 
+    "smSaveList": {
+        "message": "Décochez les onglets que vous ne voulez pas sauvegarder."
+    }, 
+    "smSaveToggle": {
+        "message": "Inverser la sélection"
+    }, 
+    "supportUs": {
+        "message": "Aidez notre dévelopement et<br>partagez avec vos amis!"
+    }, 
+    "tabsCount": {
+        "message": " ($count$ tabs)", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "PENDING"
+    }, 
+    "updatedMessage": {
+        "message": "FreshStart a été mis a jour, cliquez ici pour voir les nouveautés"
     }
-}  
+}

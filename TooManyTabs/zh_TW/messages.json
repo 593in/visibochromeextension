@@ -1,0 +1,242 @@
+{
+    "addNewColumn": {
+        "message": "[Add New Column]", 
+        "remark": "NEW TERM"
+    }, 
+    "advancedFeatures": {
+        "message": "Advanced features", 
+        "remark": "NEW TERM"
+    }, 
+    "areYouSure": {
+        "message": "Are you sure?", 
+        "remark": "NEW TERM"
+    }, 
+    "cancel": {
+        "message": "Cancel", 
+        "remark": "NEW TERM"
+    }, 
+    "clearAll": {
+        "message": "[Clear All]", 
+        "remark": "NEW TERM"
+    }, 
+    "clickToClose": {
+        "message": "Click to close", 
+        "remark": "NEW TERM"
+    }, 
+    "clickToPop": {
+        "message": "Click to pop this tab to TooManyTabs column", 
+        "remark": "NEW TERM"
+    }, 
+    "clickToRestore": {
+        "message": "Click to restore", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs": {
+        "message": "Contact Us:", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs1": {
+        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs2": {
+        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs3": {
+        "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
+        "remark": "NEW TERM"
+    }, 
+    "contactingTab": {
+        "message": "Contacting tab...", 
+        "remark": "NEW TERM"
+    }, 
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
+        "remark": "NEW TERM"
+    }, 
+    "crossWindow": {
+        "message": "Show tabs across windows:", 
+        "remark": "NEW TERM"
+    }, 
+    "crossWindow1": {
+        "message": "Yes", 
+        "remark": "NEW TERM"
+    }, 
+    "crossWindow2": {
+        "message": "No (Default)", 
+        "remark": "NEW TERM"
+    }, 
+    "crossWindow3": {
+        "message": "Google Chrome for Mac / Linux do not support cross-window tab switching. If you try to switch to a tab in another window, that tab will be moved to the current window instead.", 
+        "remark": "NEW TERM"
+    }, 
+    "customRows1": {
+        "message": "Custom columns", 
+        "remark": "NEW TERM"
+    }, 
+    "customRows2": {
+        "message": "Use default columns", 
+        "remark": "NEW TERM"
+    }, 
+    "customRows3": {
+        "message": "Enable custom columns", 
+        "remark": "NEW TERM"
+    }, 
+    "customThemeColor": {
+        "message": "Custom theme color:", 
+        "remark": "NEW TERM"
+    }, 
+    "description": {
+        "message": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
+        "remark": "NEW TERM"
+    }, 
+    "find": {
+        "message": "Find", 
+        "remark": "NEW TERM"
+    }, 
+    "justTypeIn": {
+        "message": "Just type in...", 
+        "remark": "NEW TERM"
+    }, 
+    "knownIssues": {
+        "message": "Known Issues - do not file bug-reports on these, we are communicating with Chrome team to resolve them:", 
+        "remark": "NEW TERM"
+    }, 
+    "knownIssues1": {
+        "message": "Shortcut key does not work on Chrome's own pages (e.g. default homepage, option pages).", 
+        "remark": "NEW TERM"
+    }, 
+    "knownIssues2": {
+        "message": "Chrome's own pages do not respond to TMT's wake up calls occasionally.", 
+        "remark": "NEW TERM"
+    }, 
+    "name": {
+        "message": "TooManyTabs for Chrome", 
+        "remark": "NEW TERM"
+    }, 
+    "newColumn": {
+        "message": "New Column", 
+        "remark": "NEW TERM"
+    }, 
+    "nextColumn": {
+        "message": "Next column", 
+        "remark": "NEW TERM"
+    }, 
+    "noResponse": {
+        "message": "Hm, no response from that tab. Either it is a system panel, or it's busy...", 
+        "remark": "NEW TERM"
+    }, 
+    "ok": {
+        "message": "OK", 
+        "remark": "NEW TERM"
+    }, 
+    "openOptionPage": {
+        "message": "Open Option Page", 
+        "remark": "NEW TERM"
+    }, 
+    "options": {
+        "message": "Options", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsNo": {
+        "message": "No", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsPageTitle": {
+        "message": "TooManyTabs for Chrome - Options", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsYes": {
+        "message": "Yes", 
+        "remark": "NEW TERM"
+    }, 
+    "popupWidth": {
+        "message": "Popup Width:", 
+        "remark": "NEW TERM"
+    }, 
+    "popupWidth1": {
+        "message": "Wide", 
+        "remark": "NEW TERM"
+    }, 
+    "popupWidth2": {
+        "message": "Narrow", 
+        "remark": "NEW TERM"
+    }, 
+    "popupWidth3": {
+        "message": "Small", 
+        "remark": "NEW TERM"
+    }, 
+    "previousColumn": {
+        "message": "Previous column", 
+        "remark": "NEW TERM"
+    }, 
+    "quickSupport": {
+        "message": "Quick Support:", 
+        "remark": "NEW TERM"
+    }, 
+    "quickSupport1": {
+        "message": "Latest updates, tips and video tutorials <a href='http://www.visibotech.com/TMTChrome/'>here</a>!", 
+        "remark": "NEW TERM"
+    }, 
+    "quickSupport2": {
+        "message": "We do not collect any of your private information and never send them to any servers.", 
+        "remark": "NEW TERM"
+    }, 
+    "recentlyClosedTip": {
+        "message": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu.", 
+        "remark": "NEW TERM"
+    }, 
+    "recentlyClosedTitle": {
+        "message": "Recently Closed", 
+        "remark": "NEW TERM"
+    }, 
+    "remove": {
+        "message": "Remove", 
+        "remark": "NEW TERM"
+    }, 
+    "removeThisColumn": {
+        "message": "[Remove This Column]", 
+        "remark": "NEW TERM"
+    }, 
+    "shortcut1": {
+        "message": "Use shortcut key to bring up TMT window: CTRL-", 
+        "remark": "NEW TERM"
+    }, 
+    "shortcut2": {
+        "message": "The shortcut key doesn't work when you are on system pages, like this option page. Some shortcuts may not work on certain operating systems (e.g. CTRL-A).", 
+        "remark": "NEW TERM"
+    }, 
+    "showTabCount": {
+        "message": "Show tab count on the icon:", 
+        "remark": "NEW TERM"
+    }, 
+    "sortByAddress": {
+        "message": "Sort by Web Address", 
+        "remark": "NEW TERM"
+    }, 
+    "sortByName": {
+        "message": "Sort by Name", 
+        "remark": "NEW TERM"
+    }, 
+    "sortByTime": {
+        "message": "Sort by Creation Time", 
+        "remark": "NEW TERM"
+    }, 
+    "suspendedTabsTip": {
+        "message": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved.", 
+        "remark": "NEW TERM"
+    }, 
+    "suspendedTabsTitle": {
+        "message": "Suspended Tabs", 
+        "remark": "NEW TERM"
+    }, 
+    "updateNotes": {
+        "message": "Click here for update notes", 
+        "remark": "NEW TERM"
+    }, 
+    "welcomeMessage": {
+        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visit our welcome page.</a>", 
+        "remark": "NEW TERM"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "browserActionTitle": {
+        "message": "Friends Mural for Facebook", 
+        "remark": "NEW TERM"
+    }, 
+    "clear": {
+        "message": "Clear", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs": {
+        "message": "Contact us:", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs2": {
+        "message": "Suggestions? Problems? Tell us in <a href='http://www.facebook.com/apps/application.php?id=269250262098'>here</a>!", 
+        "remark": "NEW TERM"
+    }, 
+    "contactUs3": {
+        "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
+        "remark": "NEW TERM"
+    }, 
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
+        "remark": "NEW TERM"
+    }, 
+    "description": {
+        "message": "Friends Mural is a Facebook client with a new approach. You decide which friends to feature on your mural, and we will show you their latest updates!", 
+        "remark": "NEW TERM"
+    }, 
+    "name": {
+        "message": "Friends Mural for Facebook", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsLink": {
+        "message": "Options", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsPageTitle": {
+        "message": "Friends Mural for Facebook Options", 
+        "remark": "NEW TERM"
+    }, 
+    "optionsSaved": {
+        "message": "Options saved", 
+        "remark": "NEW TERM"
+    }, 
+    "save": {
+        "message": "Save", 
+        "remark": "NEW TERM"
+    }
+}

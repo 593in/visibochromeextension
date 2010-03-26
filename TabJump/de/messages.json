@@ -1,55 +1,59 @@
 {
-    "name": {
-        "message": "TabJump - Intelligenter Tab-Navigator"
-    },
-    "description": {
-        "message": "Eine neue Möglichkeit zwischen Registerkarten (Tabs) zu navigieren. Einfacher Zugriff auf die am häufigsten verwendeten Tabs, damit assoziierten Tabs und geschlossenen Tabs. Ermöglicht ebenfalls das Sperren von Registerkarten."
-    },
-    "pageActionTitle": {
-        "message": "TabJump!"
-    },
-    "loading": {
-        "message": "laden..."
-    },
+    "cannotLockPage": {
+        "message": "Seite kann nicht gesperrt werden"
+    }, 
     "clickToOpen": {
-        "message": "Klicken Sie zum Öffnen \"$title$\"",
+        "message": "Klicken Sie zum Öffnen \"$title$\"", 
         "placeholders": {
             "title": {
                 "content": "$1"
             }
         }
-    },
-    "sureToLeavePage": {
-        "message": "Sind Sie sicher, dass Sie diese Seite verlassen möchten?"
-    },
-    "jump": {
-        "message": "Jump"
-    },
+    }, 
+    "description": {
+        "message": "Eine neue Möglichkeit zwischen Registerkarten (Tabs) zu navigieren. Einfacher Zugriff auf die am häufigsten verwendeten Tabs, damit assoziierten Tabs und geschlossenen Tabs. Ermöglicht ebenfalls das Sperren von Registerkarten."
+    }, 
+    "extensionPageActionTitle": {
+        "message": "TabJump!", 
+        "remark": "NEW TERM"
+    }, 
     "frequentlyUsedTabs": {
-        "message": "Frequently used tabs"
-    },
-    "undo": {
-        "message": "Undo"
-    },
-    "recentlyClosedTabs": {
-        "message": "Recently closed tabs"
-    },
-    "related": {
-        "message": "Related"
-    },
-    "relatedTabs": {
-        "message": "Related tabs"
-    },
-    "unlockPage": {
-        "message": "Seite entsperren"
-    },
+        "message": "Frequently used tabs", 
+        "remark": "PENDING"
+    }, 
+    "jump": {
+        "message": "Jump", 
+        "remark": "PENDING"
+    }, 
+    "loading": {
+        "message": "laden..."
+    }, 
     "lockPage": {
         "message": "Seite sperren"
-    },
-    "cannotLockPage": {
-        "message": "Seite kann nicht gesperrt werden"
-    },
-    "clearRecentlyClosedTabsHistory": {
-        "message": "Frei Kürzlich geschlossene Tabs"
+    }, 
+    "name": {
+        "message": "TabJump - Intelligenter Tab-Navigator"
+    }, 
+    "recentlyClosedTabs": {
+        "message": "Recently closed tabs", 
+        "remark": "PENDING"
+    }, 
+    "related": {
+        "message": "Related", 
+        "remark": "PENDING"
+    }, 
+    "relatedTabs": {
+        "message": "Related tabs", 
+        "remark": "PENDING"
+    }, 
+    "sureToLeavePage": {
+        "message": "Sind Sie sicher, dass Sie diese Seite verlassen möchten?"
+    }, 
+    "undo": {
+        "message": "Undo", 
+        "remark": "PENDING"
+    }, 
+    "unlockPage": {
+        "message": "Seite entsperren"
     }
 }

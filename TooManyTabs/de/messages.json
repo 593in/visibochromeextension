@@ -1,182 +1,186 @@
 {
-    "name": {
-        "message": "TooManyTabs für Chrome"
-    },
-    "description": {
-        "message": "Organisieren Sie Ihre Tabs, verbessern Sie Ihr Browsen, und verlieren Sie nicht Ihren Verstand, wenn Sie mehrere Tabs offen haben."
-    },
-    "clickToPop": {
-        "message": "Klicken Sie hier, um diesen Tab in die TooManyTabs Spalte zu verschieben."
-    },
-    "clickToClose": {
-        "message": "Schliessen"
-    },
-    "contactingTab": {
-        "message": "Kontaktiere Tab..."
-    },
-    "noResponse": {
-        "message": "Hm, keine Antwort von diesem Tab. Entweder ist es ein System Tab, oder der Tab ist überlastet..."
-    },
-    "clickToRestore": {
-        "message": "Wiederherstellen"
-    },
     "addNewColumn": {
         "message": "[Füge neue Spalte hinzu]"
-    },
-    "removeThisColumn": {
-        "message": "[Lösche diese Spalte]"
+    }, 
+    "advancedFeatures": {
+        "message": "Erweiterte Funktionen"
     }, 
     "areYouSure": {
         "message": "Sind Sie sicher?"
-    },
-    "ok": {
-        "message": "OK"
-    },
-    "clearAll": {
-        "message": "[Lösche alle Tabs]"
-    },
-    "newColumn": {
-        "message": "Neue Spalte"
-    },
-    "sortByName": {
-        "message": "Sortiere nach Name"
-    },
-    "sortByAddress": {
-        "message": "Sortiere nach Webaddresse"
-    },
-    "sortByTime": {
-        "message": "Sortiere nach Erstellungszeitpunkt"
-    },
-    "openOptionPage": {
-        "message": "Öffne die Optionen"
-    },
-    "options": {
-        "message": "Optionen"
-    },
-    "find": {
-        "message": "Finde"
-    },
-    "justTypeIn": {
-        "message": "einfach eingeben..."
-    },
-    "updateNotes": {
-        "message": "Klicken Sie hier für die Update Änderungen"
-    },
-    "previousColumn": {
-        "message": "Vorherige Spalte"
-    },
-    "nextColumn": {
-        "message": "Nächste Spalte"
-    },
-    "remove": {
-        "message": "Entferne"
-    },
+    }, 
     "cancel": {
         "message": "Abbrechen"
-    },
-    "suspendedTabsTitle": {
-        "message": "Suspended Tabs"
-    },
-    "suspendedTabsTip": {
-        "message": "Verschieben Sie hier Ihre untätigen Tabs, um Tab Überschwemmung zu verhindern. Der Speicher wird frei, aber Formulare und Videos werden nicht gespeichert."
-    },
-    "recentlyClosedTitle": {
-        "message": "Kürzlich geschlossen"
-    },
-    "recentlyClosedTip": {
-        "message": "Wird nicht mit dem Chrome Verlauf gelöscht. Kann man manuell löschen. Klicken Sie auf das Icon für ein Untermenü."
-    },
-    "optionsPageTitle": {
-        "message": "TooManyTabs für Chrome - Optionen"
-    },
-    "welcomeMessage": {
-        "message": "Neu bei TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Besuchen Sie unsere Willkommensseite.</a>"
-    },
-    "popupWidth": {
-        "message": "Popup Breite:"
-    },
-    "popupWidth1": {
-        "message": "weit"
-    },
-    "popupWidth2": {
-        "message": "eng"
-    },
-    "popupWidth3": {
-        "message": "klein"
-    },
-    "showTabCount": {
-        "message": "Zeige Tabanzahl auf dem Icon:"
-    },
-    "optionsYes": {
-        "message": "Ja"
-    },
-    "optionsNo": {
-        "message": "Nein"
-    },
-    "customThemeColor": {
-        "message": "Eigene Design Farbe:"
-    },
-    "advancedFeatures": {
-        "message": "Erweiterte Funktionen"
-    },
-    "customRows1": {
-        "message": "Eigene Spalten"
-    },
-    "customRows2": {
-        "message": "Benutze Standard Spalten"
-    },
-    "customRows3": {
-        "message": "Aktiviere eigene Spalten"
-    },
-    "crossWindow": {
-        "message": "Show tabs across windows:"
-    },
-    "crossWindow1": {
-        "message": "Ja"
-    },
-    "crossWindow2": {
-        "message": "Nein (Standard)"
-    },
-    "crossWindow3": {
-        "message": "Google Chrome für Mac / Linux unterstützt kein Fenster-Tab Wechsel. Wenn Sie versuchen ein Tab in ein anderes Fenster zu wechseln, wird dieser Tab stattdessen in das aktuelle Fenster verschoben."
-    },
-    "shortcut1": {
-        "message": "Benutze folgendes Tastaturkürzel, um das TMT Fenster hervorzurufen: STRG-"
-    },
-    "shortcut2": {
-        "message": "Das Tastaturkürzel funktioniert nicht, wenn Sie sich auf einer Systemseite wie Diese befinden. Je nach Betriebssystem funktionieren manche Tastaturkürzel wahrscheinlich nicht (z.B. STRG-A)."
-    },
-    "quickSupport": {
-        "message": "Schnelle Hilfe:"
-    },
-    "quickSupport1": {
-        "message": "Aktuelle Updates, Tipps und Video Tutorials finden Sie <a href='http://www.visibotech.com/TMTChrome/'>hier</a>!"
-    },
-    "quickSupport2": {
-        "message": "Wir sammeln keine Ihrer privaten Daten und senden Diese auch nie zu irgendwelchen Servern."
-    },
+    }, 
+    "clearAll": {
+        "message": "[Lösche alle Tabs]"
+    }, 
+    "clickToClose": {
+        "message": "Schliessen"
+    }, 
+    "clickToPop": {
+        "message": "Klicken Sie hier, um diesen Tab in die TooManyTabs Spalte zu verschieben."
+    }, 
+    "clickToRestore": {
+        "message": "Wiederherstellen"
+    }, 
     "contactUs": {
         "message": "Kontakt:"
-    },
+    }, 
     "contactUs1": {
         "message": "Vorschläge? Lob? Liebesbekundungen? Besuchen Sie <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>uns</a>!"
-    },
+    }, 
     "contactUs2": {
         "message": "Probleme? Bugs? Besuchen Sie uns auch <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>hier</a>. Wir benötigen oft Screenshots und Ihre OS/Chrome Version."
-    },
+    }, 
     "contactUs3": {
         "message": "Wir begrüßen konstruktives Feedback in gesitteter Form. *zwinker*"
-    },
+    }, 
+    "contactingTab": {
+        "message": "Kontaktiere Tab..."
+    }, 
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
+        "remark": "PENDING"
+    }, 
+    "crossWindow": {
+        "message": "Show tabs across windows:", 
+        "remark": "PENDING"
+    }, 
+    "crossWindow1": {
+        "message": "Ja"
+    }, 
+    "crossWindow2": {
+        "message": "Nein (Standard)"
+    }, 
+    "crossWindow3": {
+        "message": "Google Chrome für Mac / Linux unterstützt kein Fenster-Tab Wechsel. Wenn Sie versuchen ein Tab in ein anderes Fenster zu wechseln, wird dieser Tab stattdessen in das aktuelle Fenster verschoben."
+    }, 
+    "customRows1": {
+        "message": "Eigene Spalten"
+    }, 
+    "customRows2": {
+        "message": "Benutze Standard Spalten"
+    }, 
+    "customRows3": {
+        "message": "Aktiviere eigene Spalten"
+    }, 
+    "customThemeColor": {
+        "message": "Eigene Design Farbe:"
+    }, 
+    "description": {
+        "message": "Organisieren Sie Ihre Tabs, verbessern Sie Ihr Browsen, und verlieren Sie nicht Ihren Verstand, wenn Sie mehrere Tabs offen haben."
+    }, 
+    "find": {
+        "message": "Finde"
+    }, 
+    "justTypeIn": {
+        "message": "einfach eingeben..."
+    }, 
     "knownIssues": {
         "message": "Bekannte Probleme - legen Sie zu diesen Problemen keine Bug Berichte an, wir halten Kontakt mit dem Chrome Team, um diese Probleme zu lösen:"
-    },
+    }, 
     "knownIssues1": {
         "message": "Tastaturkürzel funktionieren nicht auf Chrome-eigene Seiten (z.B. Standard Homepage, Optionenseite)."
-    },
+    }, 
     "knownIssues2": {
         "message": "Chrome-eigene Seiten reagieren zeitweise nicht auf TMT Wachrufe."
-    },
-    "copyright": {
-        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
+    }, 
+    "name": {
+        "message": "TooManyTabs für Chrome"
+    }, 
+    "newColumn": {
+        "message": "Neue Spalte"
+    }, 
+    "nextColumn": {
+        "message": "Nächste Spalte"
+    }, 
+    "noResponse": {
+        "message": "Hm, keine Antwort von diesem Tab. Entweder ist es ein System Tab, oder der Tab ist überlastet..."
+    }, 
+    "ok": {
+        "message": "OK", 
+        "remark": "PENDING"
+    }, 
+    "openOptionPage": {
+        "message": "Öffne die Optionen"
+    }, 
+    "options": {
+        "message": "Optionen"
+    }, 
+    "optionsNo": {
+        "message": "Nein"
+    }, 
+    "optionsPageTitle": {
+        "message": "TooManyTabs für Chrome - Optionen"
+    }, 
+    "optionsYes": {
+        "message": "Ja"
+    }, 
+    "popupWidth": {
+        "message": "Popup Breite:"
+    }, 
+    "popupWidth1": {
+        "message": "weit"
+    }, 
+    "popupWidth2": {
+        "message": "eng"
+    }, 
+    "popupWidth3": {
+        "message": "klein"
+    }, 
+    "previousColumn": {
+        "message": "Vorherige Spalte"
+    }, 
+    "quickSupport": {
+        "message": "Schnelle Hilfe:"
+    }, 
+    "quickSupport1": {
+        "message": "Aktuelle Updates, Tipps und Video Tutorials finden Sie <a href='http://www.visibotech.com/TMTChrome/'>hier</a>!"
+    }, 
+    "quickSupport2": {
+        "message": "Wir sammeln keine Ihrer privaten Daten und senden Diese auch nie zu irgendwelchen Servern."
+    }, 
+    "recentlyClosedTip": {
+        "message": "Wird nicht mit dem Chrome Verlauf gelöscht. Kann man manuell löschen. Klicken Sie auf das Icon für ein Untermenü."
+    }, 
+    "recentlyClosedTitle": {
+        "message": "Kürzlich geschlossen"
+    }, 
+    "remove": {
+        "message": "Entferne"
+    }, 
+    "removeThisColumn": {
+        "message": "[Lösche diese Spalte]"
+    }, 
+    "shortcut1": {
+        "message": "Benutze folgendes Tastaturkürzel, um das TMT Fenster hervorzurufen: STRG-"
+    }, 
+    "shortcut2": {
+        "message": "Das Tastaturkürzel funktioniert nicht, wenn Sie sich auf einer Systemseite wie Diese befinden. Je nach Betriebssystem funktionieren manche Tastaturkürzel wahrscheinlich nicht (z.B. STRG-A)."
+    }, 
+    "showTabCount": {
+        "message": "Zeige Tabanzahl auf dem Icon:"
+    }, 
+    "sortByAddress": {
+        "message": "Sortiere nach Webaddresse"
+    }, 
+    "sortByName": {
+        "message": "Sortiere nach Name"
+    }, 
+    "sortByTime": {
+        "message": "Sortiere nach Erstellungszeitpunkt"
+    }, 
+    "suspendedTabsTip": {
+        "message": "Verschieben Sie hier Ihre untätigen Tabs, um Tab Überschwemmung zu verhindern. Der Speicher wird frei, aber Formulare und Videos werden nicht gespeichert."
+    }, 
+    "suspendedTabsTitle": {
+        "message": "Suspended Tabs", 
+        "remark": "PENDING"
+    }, 
+    "updateNotes": {
+        "message": "Klicken Sie hier für die Update Änderungen"
+    }, 
+    "welcomeMessage": {
+        "message": "Neu bei TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Besuchen Sie unsere Willkommensseite.</a>"
     }
 }

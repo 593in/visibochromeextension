@@ -1,52 +1,61 @@
 {
-    "extensionName": {
-        "message": "TabJump - Intelligent Tab Navigator"
-    },
-    "extensionDescription": {
-        "message": "Un nuovo modo per navigare le vostre schede. Accedere facilmente a schede più utilizzati, schede associate, e le schede chiuse. Consente linguetta di bloccaggio troppo."
-    },
-    "extensionPageActionTitle": {
-        "message": "TabJump!"
-    },
-    "loading": {
-        "message": "caricamento..."
-    },
+    "cannotLockPage": {
+        "message": "Non può bloccare questa pagina"
+    }, 
     "clickToOpen": {
-        "message": "Clicca per aprire \"$title$\"",
+        "message": "Clicca per aprire \"$title$\"", 
         "placeholders": {
             "title": {
                 "content": "$1"
             }
         }
-    },
-    "sureToLeavePage": {
-        "message": "Sei sicuro di voler uscire da questa pagina?"
-    },
-    "jump": {
-        "message": "Jump"
-    },
+    }, 
+    "description": {
+        "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.", 
+        "remark": "NEW TERM"
+    }, 
+    "extensionPageActionTitle": {
+        "message": "TabJump!", 
+        "remark": "PENDING"
+    }, 
     "frequentlyUsedTabs": {
-        "message": "Frequently used tabs"
-    },
-    "undo": {
-        "message": "Undo"
-    },
-    "recentlyClosedTabs": {
-        "message": "Recently closed tabs"
-    },
-    "related": {
-        "message": "Related"
-    },
-    "relatedTabs": {
-        "message": "Related tabs"
-    },
-    "unlockPage": {
-        "message": "sbloccare questa pagina"
-    },
+        "message": "Frequently used tabs", 
+        "remark": "PENDING"
+    }, 
+    "jump": {
+        "message": "Jump", 
+        "remark": "PENDING"
+    }, 
+    "loading": {
+        "message": "caricamento..."
+    }, 
     "lockPage": {
         "message": "Bloccare questa pagina"
-    },
-    "cannotLockPage": {
-        "message": "Non può bloccare questa pagina"
+    }, 
+    "name": {
+        "message": "TabJump - Intelligent Tab Navigator", 
+        "remark": "NEW TERM"
+    }, 
+    "recentlyClosedTabs": {
+        "message": "Recently closed tabs", 
+        "remark": "PENDING"
+    }, 
+    "related": {
+        "message": "Related", 
+        "remark": "PENDING"
+    }, 
+    "relatedTabs": {
+        "message": "Related tabs", 
+        "remark": "PENDING"
+    }, 
+    "sureToLeavePage": {
+        "message": "Sei sicuro di voler uscire da questa pagina?"
+    }, 
+    "undo": {
+        "message": "Undo", 
+        "remark": "PENDING"
+    }, 
+    "unlockPage": {
+        "message": "sbloccare questa pagina"
     }
 }

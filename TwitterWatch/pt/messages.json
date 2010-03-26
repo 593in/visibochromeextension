@@ -1,73 +1,119 @@
 {
-    "extensionName": {
-        "message": "TwitterWatch - Atualizações do Twitter em Tempo-real"
-    },
-    "extensionDescription": {
-        "message": "Vigie o Twitter por termos interessantes, com atualização em tempo-real! Funciona perfeitamente com outros clientes Twitter também."
-    },
-    "noTweetsFound": {
-        "message": "Nenhum tweets encontrado!"
-    },
-    "enterASearchTerm": {
-        "message": "Insira um termo de pesquisa para obter as últimas atualizações"
-    },
-    "seconds": {
-        "message": "$seconds$ segundos atrás",
-        "placeholders": {
-            "seconds": {
-                "content": "$1"
-            }
-        }
-    },
-    "oneMinute": {
-        "message": "1 minuto atrás"
-    },
-    "minutes": {
-        "message": "$minutes$ minutos atrás",
-        "placeholders": {
-            "minutes": {
-                "content": "$1"
-            }
-        }
-    },
-    "oneHour": {
-        "message": "1 hora atrás"
-    },
-    "hours": {
-        "message": "$hours$ horas atrás",
-        "placeholders": {
-            "hours": {
-                "content": "$1"
-            }
-        }
-    },
-    "oneDay": {
-        "message": "1 dia atrás"
-    },
     "days": {
-        "message": "$days$ dias atrás",
+        "message": "$days$ dias atrás", 
         "placeholders": {
             "days": {
                 "content": "$1"
             }
         }
-    },
-    "oneWeek": {
-        "message": "1 semana atrás"
-    },
-    "severalWeeks": {
-        "message": "Várias semanas atrás"
-    },
+    }, 
+    "description": {
+        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
+        "remark": "NEW TERM"
+    }, 
+    "enterASearchTerm": {
+        "message": "Insira um termo de pesquisa para obter as últimas atualizações"
+    }, 
     "error": {
         "message": "Erro"
-    },
-    "updateMessage": {
-        "message": "TwitterWatch foi atualizado, clique para ver o que há de novo"
-    },
+    }, 
+    "hours": {
+        "message": "$hours$ horas atrás", 
+        "placeholders": {
+            "hours": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "loggingIn": {
+        "message": "Logging in...", 
+        "remark": "NEW TERM"
+    }, 
     "login": {
         "message": "Conectar"
-    },
+    }, 
     "logout": {
         "message": "Sair"
+    }, 
+    "messageTooLong": {
+        "message": "The message is too long!", 
+        "remark": "NEW TERM"
+    }, 
+    "minutes": {
+        "message": "$minutes$ minutos atrás", 
+        "placeholders": {
+            "minutes": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "name": {
+        "message": "TwitterWatch - Real Time Twitter Update", 
+        "remark": "NEW TERM"
+    }, 
+    "noTweetsFound": {
+        "message": "Nenhum tweets encontrado!"
+    }, 
+    "oneDay": {
+        "message": "1 dia atrás"
+    }, 
+    "oneHour": {
+        "message": "1 hora atrás"
+    }, 
+    "oneMinute": {
+        "message": "1 minuto atrás"
+    }, 
+    "oneWeek": {
+        "message": "1 semana atrás"
+    }, 
+    "postFail": {
+        "message": "Sent failed, try again?", 
+        "remark": "NEW TERM"
+    }, 
+    "postSuccess": {
+        "message": "Sent successfully", 
+        "remark": "NEW TERM"
+    }, 
+    "posting": {
+        "message": "Sending...", 
+        "remark": "NEW TERM"
+    }, 
+    "promptLogin": {
+        "message": "Please login to reply or retweet", 
+        "remark": "NEW TERM"
+    }, 
+    "reply": {
+        "message": "Reply", 
+        "remark": "NEW TERM"
+    }, 
+    "retweet": {
+        "message": "Retweet", 
+        "remark": "NEW TERM"
+    }, 
+    "searching": {
+        "message": "Searching", 
+        "remark": "NEW TERM"
+    }, 
+    "seconds": {
+        "message": "$seconds$ segundos atrás", 
+        "placeholders": {
+            "seconds": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "send": {
+        "message": "Send", 
+        "remark": "NEW TERM"
+    }, 
+    "severalWeeks": {
+        "message": "Várias semanas atrás"
+    }, 
+    "twitterWatch": {
+        "message": "TwitterWatch", 
+        "remark": "NEW TERM"
+    }, 
+    "updateMessage": {
+        "message": "TwitterWatch foi atualizado, clique para ver o que há de novo"
     }
 }

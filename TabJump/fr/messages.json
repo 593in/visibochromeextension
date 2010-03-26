@@ -1,52 +1,61 @@
 {
-    "extensionName": {
-        "message": "TabJump - Navigateur d'onglets intelligent"
-    },
-    "extensionDescription": {
-        "message": "Une nouvelle façon de naviguer entre vos onglets. Accéder facilement aux onglets les plus utilisés, reliez des onglets ou fermez les. Permet d'épingler des onglets."
-    },
-    "extensionPageActionTitle": {
-        "message": "TabJump!"
-    },
-    "loading": {
-        "message": "chargement..."
-    },
+    "cannotLockPage": {
+        "message": "Impossible d'épingler cette page"
+    }, 
     "clickToOpen": {
-        "message": "Cliquez pour ouvrir \"$title$\"",
+        "message": "Cliquez pour ouvrir \"$title$\"", 
         "placeholders": {
             "title": {
                 "content": "$1"
             }
         }
-    },
-    "sureToLeavePage": {
-        "message": "Etes vous sûr de vouloir quitter cette page?"
-    },
-    "jump": {
-        "message": "Jump"
-    },
+    }, 
+    "description": {
+        "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.", 
+        "remark": "NEW TERM"
+    }, 
+    "extensionPageActionTitle": {
+        "message": "TabJump!", 
+        "remark": "PENDING"
+    }, 
     "frequentlyUsedTabs": {
-        "message": "Frequently used tabs"
-    },
-    "undo": {
-        "message": "Undo"
-    },
-    "recentlyClosedTabs": {
-        "message": "Recently closed tabs"
-    },
-    "related": {
-        "message": "Related"
-    },
-    "relatedTabs": {
-        "message": "Related tabs"
-    },
-    "unlockPage": {
-        "message": "Libérer cet page"
-    },
+        "message": "Frequently used tabs", 
+        "remark": "PENDING"
+    }, 
+    "jump": {
+        "message": "Jump", 
+        "remark": "PENDING"
+    }, 
+    "loading": {
+        "message": "chargement..."
+    }, 
     "lockPage": {
         "message": "Epingler cette page"
-    },
-    "cannotLockPage": {
-        "message": "Impossible d'épingler cette page"
+    }, 
+    "name": {
+        "message": "TabJump - Intelligent Tab Navigator", 
+        "remark": "NEW TERM"
+    }, 
+    "recentlyClosedTabs": {
+        "message": "Recently closed tabs", 
+        "remark": "PENDING"
+    }, 
+    "related": {
+        "message": "Related", 
+        "remark": "PENDING"
+    }, 
+    "relatedTabs": {
+        "message": "Related tabs", 
+        "remark": "PENDING"
+    }, 
+    "sureToLeavePage": {
+        "message": "Etes vous sûr de vouloir quitter cette page?"
+    }, 
+    "undo": {
+        "message": "Undo", 
+        "remark": "PENDING"
+    }, 
+    "unlockPage": {
+        "message": "Libérer cet page"
     }
 }
