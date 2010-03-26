@@ -1,0 +1,39 @@
+{
+    "name": {
+        "message": "Incredible StartPage - Productive Start Page for Chrome!"
+    },
+    "description": {
+        "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse."
+    },
+    "recentlyClosedTitle": {
+        "message": "Closed"
+    },
+    "bookmarkBrowserTitle": {
+        "message": "Bookmarks"
+    },
+    "clearClosedText": {
+        "message": "Clear"
+    },
+    "backToParentText": {
+        "message": "Back"
+    },
+    "toggleOptionsBtn": {
+        "message": "Options"
+    },
+    "shareToMail": {
+        "message": "Post to Gmail"
+    },
+    "bookmarkBarHelpContent": {
+        "message": "This area shows the items in your bookmark toolbar, folders are hidden."
+    },
+    "bookmarkBarHelpDismiss": {
+        "message": "[Close]"
+    },
+    "defaultNotepadText": {
+        "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!"
+    },
+    "bookmarkBrowserHelp": {
+        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right"
+    }
+}
+

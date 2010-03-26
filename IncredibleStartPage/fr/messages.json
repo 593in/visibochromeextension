@@ -1,0 +1,50 @@
+{
+    "backToParentText": {
+        "message": "Back", 
+        "remark": "NEW TERM"
+    }, 
+    "bookmarkBarHelpContent": {
+        "message": "This area shows the items in your bookmark toolbar, folders are hidden.", 
+        "remark": "NEW TERM"
+    }, 
+    "bookmarkBarHelpDismiss": {
+        "message": "[Close]", 
+        "remark": "NEW TERM"
+    }, 
+    "bookmarkBrowserHelp": {
+        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right", 
+        "remark": "NEW TERM"
+    }, 
+    "bookmarkBrowserTitle": {
+        "message": "Bookmarks", 
+        "remark": "NEW TERM"
+    }, 
+    "clearClosedText": {
+        "message": "Clear", 
+        "remark": "NEW TERM"
+    }, 
+    "defaultNotepadText": {
+        "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!", 
+        "remark": "NEW TERM"
+    }, 
+    "description": {
+        "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
+        "remark": "NEW TERM"
+    }, 
+    "name": {
+        "message": "Incredible StartPage - Productive Start Page for Chrome!", 
+        "remark": "NEW TERM"
+    }, 
+    "recentlyClosedTitle": {
+        "message": "Closed", 
+        "remark": "NEW TERM"
+    }, 
+    "shareToMail": {
+        "message": "Post to Gmail", 
+        "remark": "NEW TERM"
+    }, 
+    "toggleOptionsBtn": {
+        "message": "Options", 
+        "remark": "NEW TERM"
+    }
+}

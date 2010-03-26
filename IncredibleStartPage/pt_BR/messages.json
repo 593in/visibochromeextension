@@ -1,38 +1,38 @@
 {
-   "backToParentText": {
-      "message": "Voltar"
-   },
-   "bookmarkBarHelpContent": {
-      "message": "Aqui estão as páginas da sua barra de favoritos, as pastas estão ocultas"
-   },
-   "bookmarkBarHelpDismiss": {
-      "message": "[Fechar]"
-   },
-   "bookmarkBrowserHelp": {
-      "message": "Esta caixa permite que você rapidamente navegue em seus favoritos. Você pode arrastar os mais importantes para a caixa a direita."
-   },
-   "bookmarkBrowserTitle": {
-      "message": "Favoritos"
-   },
-   "clearClosedText": {
-      "message": "Limpar"
-   },
-   "defaultNotepadText": {
-      "message": "Obrigado por instalar\nIncredible StartPage!\n \nEste seu bloco de anotações. Você pode escrever notas aqui!"
-   },
-   "description": {
-      "message": "Uma nova e customizável guia inicial para o Chrome. Encontre facilmente seus favoritos e guias fechadas recentemente. Faça anotações enquanto navega."
-   },
-   "name": {
-      "message": "Incredible StartPage - Nova guia produtiva para o Chrome!"
-   },
-   "recentlyClosedTitle": {
-      "message": "Fechadas"
-   },
-   "shareToMail": {
-      "message": "Postar no Gmail"
-   },
-   "toggleOptionsBtn": {
-      "message": "Opções"
-   }
+    "backToParentText": {
+        "message": "Voltar"
+    }, 
+    "bookmarkBarHelpContent": {
+        "message": "Aqui estão as páginas da sua barra de favoritos, as pastas estão ocultas"
+    }, 
+    "bookmarkBarHelpDismiss": {
+        "message": "[Fechar]"
+    }, 
+    "bookmarkBrowserHelp": {
+        "message": "Esta caixa permite que você rapidamente navegue em seus favoritos. Você pode arrastar os mais importantes para a caixa a direita."
+    }, 
+    "bookmarkBrowserTitle": {
+        "message": "Favoritos"
+    }, 
+    "clearClosedText": {
+        "message": "Limpar"
+    }, 
+    "defaultNotepadText": {
+        "message": "Obrigado por instalar\nIncredible StartPage!\n \nEste seu bloco de anotações. Você pode escrever notas aqui!"
+    }, 
+    "description": {
+        "message": "Uma nova e customizável guia inicial para o Chrome. Encontre facilmente seus favoritos e guias fechadas recentemente. Faça anotações enquanto navega."
+    }, 
+    "name": {
+        "message": "Incredible StartPage - Nova guia produtiva para o Chrome!"
+    }, 
+    "recentlyClosedTitle": {
+        "message": "Fechadas"
+    }, 
+    "shareToMail": {
+        "message": "Postar no Gmail"
+    }, 
+    "toggleOptionsBtn": {
+        "message": "Opções"
+    }
 }
