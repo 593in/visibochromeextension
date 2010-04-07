@@ -40,11 +40,11 @@
     }, 
     "copyright": {
         "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "crossWindow": {
         "message": "Show tabs across windows:", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "crossWindow1": {
         "message": "Ja"
@@ -99,7 +99,7 @@
     }, 
     "ok": {
         "message": "OK", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "openOptionPage": {
         "message": "Öffne die Optionen"
@@ -175,7 +175,7 @@
     }, 
     "suspendedTabsTitle": {
         "message": "Suspended Tabs", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "updateNotes": {
         "message": "Klicken Sie hier für die Update Änderungen"

@@ -12,19 +12,19 @@
     }, 
     "description": {
         "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "extensionPageActionTitle": {
         "message": "TabJump!", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
         "message": "Frequently used tabs", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "jump": {
         "message": "Jump", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "loading": {
         "message": "Cargando..."
@@ -34,26 +34,26 @@
     }, 
     "name": {
         "message": "TabJump - Intelligent Tab Navigator", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTabs": {
         "message": "Recently closed tabs", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "related": {
         "message": "Related", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "relatedTabs": {
         "message": "Related tabs", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "sureToLeavePage": {
         "message": "¿Estás seguro de dejar esta página?"
     }, 
     "undo": {
         "message": "Undo", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
         "message": "Desbloquear esta página"

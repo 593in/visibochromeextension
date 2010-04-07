@@ -9,7 +9,7 @@
     }, 
     "description": {
         "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "enterASearchTerm": {
         "message": "Введите поисковый запрос выше для того, чтобы получить список последних Твитов по этому запросу"
@@ -27,7 +27,7 @@
     }, 
     "loggingIn": {
         "message": "Logging in...", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "login": {
         "message": "Вход"
@@ -37,7 +37,7 @@
     }, 
     "messageTooLong": {
         "message": "The message is too long!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "minutes": {
         "message": "$minutes$ минут назад", 
@@ -49,7 +49,7 @@
     }, 
     "name": {
         "message": "TwitterWatch - Real Time Twitter Update", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "noTweetsFound": {
         "message": "Ничего не найдено!"
@@ -68,31 +68,31 @@
     }, 
     "postFail": {
         "message": "Sent failed, try again?", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "postSuccess": {
         "message": "Sent successfully", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "posting": {
         "message": "Sending...", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "promptLogin": {
         "message": "Please login to reply or retweet", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "reply": {
         "message": "Reply", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "retweet": {
         "message": "Retweet", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "searching": {
         "message": "Searching", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "seconds": {
         "message": "$seconds$ секунд назад", 
@@ -104,14 +104,14 @@
     }, 
     "send": {
         "message": "Send", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "severalWeeks": {
         "message": "Несколько недель назад"
     }, 
     "twitterWatch": {
         "message": "TwitterWatch", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "updateMessage": {
         "message": "Плагин TwitterWatch был обновалён, нажмите здесь для просмотра нововведений и изменений"

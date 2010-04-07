@@ -15,15 +15,15 @@
     }, 
     "extensionPageActionTitle": {
         "message": "TabJump!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
         "message": "Frequently used tabs", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "jump": {
         "message": "Jump", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "loading": {
         "message": "laden..."
@@ -36,22 +36,22 @@
     }, 
     "recentlyClosedTabs": {
         "message": "Recently closed tabs", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "related": {
         "message": "Related", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "relatedTabs": {
         "message": "Related tabs", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "sureToLeavePage": {
         "message": "Sind Sie sicher, dass Sie diese Seite verlassen möchten?"
     }, 
     "undo": {
         "message": "Undo", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
         "message": "Seite entsperren"

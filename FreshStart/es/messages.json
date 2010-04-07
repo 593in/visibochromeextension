@@ -31,7 +31,7 @@
     }, 
     "edit": {
         "message": "Edit", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "enableCrashRecovery": {
         "message": "Habilitar recuperación por cerrado inesperado"
@@ -101,30 +101,30 @@
     }, 
     "smEditCancel": {
         "message": "Cancel", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "smEditSave": {
         "message": "Save", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "smHeadingNew": {
         "message": "Tabs to Add (check to add)", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "smHeadingSaved": {
         "message": "Saved Tabs (uncheck to remove)", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "smHeadingTitle": {
         "message": "Title", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "smSaveList": {
         "message": "Desmarque las pestañas que no desea guardar."
     }, 
     "smSaveToggle": {
         "message": "Toggle Selection", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "supportUs": {
         "message": "¡Apoya nuestra extensión y<br>compártela con tus amigos!"

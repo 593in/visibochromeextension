@@ -1,50 +1,94 @@
 {
     "browserActionTitle": {
         "message": "Friends Mural for Facebook", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "clear": {
         "message": "Clear", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
+    }, 
+    "clickToAddFriend": {
+        "message": "Click to add this friend to Friends Mural", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "clickToRemoveFriend": {
+        "message": "Click to remove this friend from Friends Mural", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "comment": {
+        "message": "Comment", 
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs": {
         "message": "Contact us:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs2": {
         "message": "Suggestions? Problems? Tell us in <a href='http://www.facebook.com/apps/application.php?id=269250262098'>here</a>!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs3": {
         "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "copyright": {
         "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "description": {
         "message": "Friends Mural is a Facebook client with a new approach. You decide which friends to feature on your mural, and we will show you their latest updates!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
+    }, 
+    "inputYourStatus": {
+        "message": "Write your new status", 
+        "remark": "NEED TRANSLATION"
     }, 
     "name": {
         "message": "Friends Mural for Facebook", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsLink": {
         "message": "Options", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsPageTitle": {
         "message": "Friends Mural for Facebook Options", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsSaved": {
         "message": "Options saved", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
+    }, 
+    "ownerFeedIconStatusToggle": {
+        "message": "Toggle between friend status and your own status", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "postingComment": {
+        "message": "Posting...", 
+        "remark": "NEED TRANSLATION"
     }, 
     "save": {
         "message": "Save", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
+    }, 
+    "share": {
+        "message": "Update Status", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "updatedMessage": {
+        "message": "Friends Mural for Facebook is updated, click here to see what's new", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "userLike": {
+        "message": "You like this", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "viewAllComments": {
+        "message": "View all comments", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "yourStatus": {
+        "message": "Your Status", 
+        "remark": "NEED TRANSLATION"
     }
 }

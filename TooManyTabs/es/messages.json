@@ -1,242 +1,242 @@
 {
     "addNewColumn": {
         "message": "[Add New Column]", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "advancedFeatures": {
         "message": "Advanced features", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "areYouSure": {
         "message": "Are you sure?", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "cancel": {
         "message": "Cancel", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "clearAll": {
         "message": "[Clear All]", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "clickToClose": {
         "message": "Click to close", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "clickToPop": {
         "message": "Click to pop this tab to TooManyTabs column", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "clickToRestore": {
         "message": "Click to restore", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs": {
         "message": "Contact Us:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs1": {
         "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs2": {
         "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs3": {
         "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactingTab": {
         "message": "Contacting tab...", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "copyright": {
         "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "crossWindow": {
         "message": "Show tabs across windows:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "crossWindow1": {
         "message": "Yes", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "crossWindow2": {
         "message": "No (Default)", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "crossWindow3": {
         "message": "Google Chrome for Mac / Linux do not support cross-window tab switching. If you try to switch to a tab in another window, that tab will be moved to the current window instead.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "customRows1": {
         "message": "Custom columns", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "customRows2": {
         "message": "Use default columns", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "customRows3": {
         "message": "Enable custom columns", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "customThemeColor": {
         "message": "Custom theme color:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "description": {
         "message": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "find": {
         "message": "Find", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "justTypeIn": {
         "message": "Just type in...", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "knownIssues": {
         "message": "Known Issues - do not file bug-reports on these, we are communicating with Chrome team to resolve them:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "knownIssues1": {
         "message": "Shortcut key does not work on Chrome's own pages (e.g. default homepage, option pages).", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "knownIssues2": {
         "message": "Chrome's own pages do not respond to TMT's wake up calls occasionally.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "name": {
         "message": "TooManyTabs for Chrome", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "newColumn": {
         "message": "New Column", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "nextColumn": {
         "message": "Next column", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "noResponse": {
         "message": "Hm, no response from that tab. Either it is a system panel, or it's busy...", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "ok": {
         "message": "OK", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "openOptionPage": {
         "message": "Open Option Page", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "options": {
         "message": "Options", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsNo": {
         "message": "No", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsPageTitle": {
         "message": "TooManyTabs for Chrome - Options", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsYes": {
         "message": "Yes", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "popupWidth": {
         "message": "Popup Width:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "popupWidth1": {
         "message": "Wide", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "popupWidth2": {
         "message": "Narrow", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "popupWidth3": {
         "message": "Small", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "previousColumn": {
         "message": "Previous column", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "quickSupport": {
         "message": "Quick Support:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "quickSupport1": {
         "message": "Latest updates, tips and video tutorials <a href='http://www.visibotech.com/TMTChrome/'>here</a>!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "quickSupport2": {
         "message": "We do not collect any of your private information and never send them to any servers.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTip": {
         "message": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTitle": {
         "message": "Recently Closed", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "remove": {
         "message": "Remove", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "removeThisColumn": {
         "message": "[Remove This Column]", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "shortcut1": {
         "message": "Use shortcut key to bring up TMT window: CTRL-", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "shortcut2": {
         "message": "The shortcut key doesn't work when you are on system pages, like this option page. Some shortcuts may not work on certain operating systems (e.g. CTRL-A).", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "showTabCount": {
         "message": "Show tab count on the icon:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "sortByAddress": {
         "message": "Sort by Web Address", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "sortByName": {
         "message": "Sort by Name", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "sortByTime": {
         "message": "Sort by Creation Time", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "suspendedTabsTip": {
         "message": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "suspendedTabsTitle": {
         "message": "Suspended Tabs", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "updateNotes": {
         "message": "Click here for update notes", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "welcomeMessage": {
         "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visit our welcome page.</a>", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }
 }

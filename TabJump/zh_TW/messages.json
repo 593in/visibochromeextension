@@ -12,18 +12,18 @@
     }, 
     "description": {
         "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "extensionPageActionTitle": {
         "message": "TabJump!", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
         "message": "經常使用的分頁"
     }, 
     "jump": {
         "message": "Jump", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "loading": {
         "message": "載入中..."
@@ -33,14 +33,14 @@
     }, 
     "name": {
         "message": "TabJump - Intelligent Tab Navigator", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTabs": {
         "message": "最近關閉的分頁"
     }, 
     "related": {
         "message": "Related", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "relatedTabs": {
         "message": "相關分頁"
@@ -50,7 +50,7 @@
     }, 
     "undo": {
         "message": "Undo", 
-        "remark": "PENDING"
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
         "message": "鎖定此頁"

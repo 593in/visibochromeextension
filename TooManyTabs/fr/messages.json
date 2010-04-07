@@ -97,14 +97,14 @@
     }, 
     "ok": {
         "message": "OK", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "openOptionPage": {
         "message": "Ouvrir la page d'option"
     }, 
     "options": {
         "message": "Options", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsNo": {
         "message": "Non"

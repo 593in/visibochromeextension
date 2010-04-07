@@ -6,101 +6,101 @@
                 "content": "$1"
             }
         }, 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs": {
         "message": "Contact us:", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs2": {
         "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a>!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs3": {
         "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs4": {
         "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "copyright": {
         "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "crashRestoreTitle": {
         "message": "Restore Previous Session", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "description": {
         "description": "The extension description", 
         "message": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "edit": {
         "message": "Edit", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "enableCrashRecovery": {
         "message": "Enable crash recovery", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "extensionBrowserActionTitle": {
         "message": "FreshStart - Cross Browser Session Manager", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "minutes": {
         "message": "minutes", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "mySession": {
         "message": "My Session", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "name": {
         "description": "The extension name", 
         "message": "FreshStart - Cross Browser Session Manager", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "noSessionSaved": {
         "message": "No sessions saved", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "options": {
         "message": "Options", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsBackupPeriod": {
         "message": "Saves all your windows and tabs every ", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsBackupPeriodOutOfRange": {
         "message": "Backup period cannot be shorter than 1 minute or larger than 999 minutes", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsEnableCrashRecovery": {
         "message": "Enable Crash Recovery", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsNewUserTips": {
         "message": "New to FreshStart? Visit our <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsPageTitle": {
         "message": "FreshStart Options", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsSaved": {
         "message": "Options saved", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "remove": {
         "message": "Remove", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "restorePreviousSession": {
         "message": "Restore previous session", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "restoreSavedWindow": {
         "message": "Saved Window ($count$) - click to restore this window", 
@@ -109,55 +109,55 @@
                 "content": "$1"
             }
         }, 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "restoreSession": {
         "message": "Restore Session", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "restoreSession2": {
         "message": "Click to open in new window, ctrl-click (Win, Linux) or cmd-click (Mac) to open in current window", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "save": {
         "message": "Save", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "saveSession": {
         "message": "Save Session", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "smEditCancel": {
         "message": "Cancel", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "smEditSave": {
         "message": "Save", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "smHeadingNew": {
         "message": "Tabs to Add (check to add)", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "smHeadingSaved": {
         "message": "Saved Tabs (uncheck to remove)", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "smHeadingTitle": {
         "message": "Title", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "smSaveList": {
         "message": "Uncheck tabs that you don't want to be saved.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "smSaveToggle": {
         "message": "Toggle Selection", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "supportUs": {
         "message": "Support our development and<br>share to your friends!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "tabsCount": {
         "message": " ($count$ tabs)", 
@@ -166,10 +166,10 @@
                 "content": "$1"
             }
         }, 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "updatedMessage": {
         "message": "FreshStart is updated, click here to see what's new", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }
 }

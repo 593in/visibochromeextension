@@ -34,6 +34,39 @@
     },
     "copyright":{
         "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
+    },
+    "comment":{
+        "message": "Comment"
+    },
+    "postingComment":{
+        "message": "Posting..."
+    },
+    "viewAllComments": {
+        "message": "View all comments"
+    },
+    "userLike": {
+        "message": "You like this"
+    },
+    "updatedMessage" :{
+        "message": "Friends Mural for Facebook is updated, click here to see what's new"
+    },
+    "clickToAddFriend" :{
+        "message": "Click to add this friend to Friends Mural"
+    },
+    "clickToRemoveFriend" :{
+        "message": "Click to remove this friend from Friends Mural"
+    },
+    "inputYourStatus" :{
+        "message": "Write your new status"
+    },
+    "share" :{
+        "message": "Update Status"
+    },
+    "yourStatus": {
+        "message": "Your Status"
+    },
+    "ownerFeedIconStatusToggle": {
+        "message": "Toggle between friend status and your own status"
     }
 }
 

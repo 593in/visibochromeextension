@@ -40,7 +40,7 @@
     }, 
     "minutes": {
         "message": "minutes", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "mySession": {
         "message": "Ma Session"
@@ -54,7 +54,7 @@
     }, 
     "options": {
         "message": "Options", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsBackupPeriod": {
         "message": "Sauvegarder toutes les fenêtres et onglets toutes les: "
@@ -131,7 +131,7 @@
                 "content": "$1"
             }
         }, 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "updatedMessage": {
         "message": "FreshStart a été mis a jour, cliquez ici pour voir les nouveautés"

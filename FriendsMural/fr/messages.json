@@ -5,6 +5,18 @@
     "clear": {
         "message": "Supprimer"
     }, 
+    "clickToAddFriend": {
+        "message": "Click to add this friend to Friends Mural", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "clickToRemoveFriend": {
+        "message": "Click to remove this friend from Friends Mural", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "comment": {
+        "message": "Comment", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "contactUs": {
         "message": "Contactez nous:"
     }, 
@@ -20,12 +32,16 @@
     "description": {
         "message": "Friends Mural est un client Facebook proposant une nouvelle approche. Vous décidez quels amis afficher sur votre mur, et nous vous affichons leurs dernières actualités!"
     }, 
+    "inputYourStatus": {
+        "message": "Write your new status", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "name": {
         "message": "Friends Mural pour Facebook"
     }, 
     "optionsLink": {
         "message": "Options", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsPageTitle": {
         "message": "Options Friends Mural pour Facebook "
@@ -33,7 +49,35 @@
     "optionsSaved": {
         "message": "Options sauvegardées"
     }, 
+    "ownerFeedIconStatusToggle": {
+        "message": "Toggle between friend status and your own status", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "postingComment": {
+        "message": "Posting...", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "save": {
         "message": "Sauvegarder"
+    }, 
+    "share": {
+        "message": "Update Status", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "updatedMessage": {
+        "message": "Friends Mural for Facebook is updated, click here to see what's new", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "userLike": {
+        "message": "You like this", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "viewAllComments": {
+        "message": "View all comments", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "yourStatus": {
+        "message": "Your Status", 
+        "remark": "NEED TRANSLATION"
     }
 }

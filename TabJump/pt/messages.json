@@ -15,13 +15,14 @@
     }, 
     "extensionPageActionTitle": {
         "message": "TabJump!", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
         "message": "Usadas frequentemente"
     }, 
     "jump": {
-        "message": "Ir até"
+        "message": "Jump", 
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "loading": {
         "message": "carregando..."
@@ -36,7 +37,8 @@
         "message": "Fechadas recentemente"
     }, 
     "related": {
-        "message": "Relacionada"
+        "message": "Related", 
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "relatedTabs": {
         "message": "Abas relacionadas"
@@ -45,7 +47,8 @@
         "message": "Tem certeza que deseja sair desta página?"
     }, 
     "undo": {
-        "message": "Desfazer"
+        "message": "Undo", 
+        "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
         "message": "Desbloqueie esta página"

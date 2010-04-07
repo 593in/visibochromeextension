@@ -79,7 +79,7 @@
     }, 
     "retweet": {
         "message": "Retweet", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "searching": {
         "message": "Recherche en cours"
@@ -100,7 +100,7 @@
     }, 
     "twitterWatch": {
         "message": "TwitterWatch", 
-        "remark": "PENDING"
+        "remark": "NEED TRANSLATION"
     }, 
     "updateMessage": {
         "message": "TwitterWatch a été mis à jour, cliquez ici pour voir les nouveautés"

@@ -1,50 +1,50 @@
 {
     "backToParentText": {
         "message": "Back", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBarHelpContent": {
         "message": "This area shows the items in your bookmark toolbar, folders are hidden.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBarHelpDismiss": {
         "message": "[Close]", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBrowserHelp": {
         "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBrowserTitle": {
         "message": "Bookmarks", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "clearClosedText": {
         "message": "Clear", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "defaultNotepadText": {
         "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "description": {
         "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "name": {
         "message": "Incredible StartPage - Productive Start Page for Chrome!", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTitle": {
         "message": "Closed", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "shareToMail": {
         "message": "Post to Gmail", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }, 
     "toggleOptionsBtn": {
         "message": "Options", 
-        "remark": "NEW TERM"
+        "remark": "NEED TRANSLATION"
     }
 }
