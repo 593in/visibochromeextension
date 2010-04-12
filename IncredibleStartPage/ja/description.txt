@@ -1,21 +1,18 @@
-(Translated with Google Translate - English version here http://bit.ly/bo5V9N
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+Incredible StartPageはChromeのスタートページをとても使いやすいものに差し替えます。美しいフレームのからブックマークにアクセスでき、タブも閉じることができます。是非便利な機能を使ってみてください！
 
-信じられないほどのスタートページのクロムのため、生産開始ページを置き換えるものです。美しいフレームでは、すべてあなたのお気に入りのブックマークを入れ、当社の便利な機能をお楽しみください！
+DownloadSquadで見てみてください。 http://goo.gl/iyYe
 
-としてDownloadSquadに見られる。 http://goo.gl/iyYe
+特長
+- ブックマークは大きなフレームの中に表示されているので、お気に入りサイトに簡単にアクセスできます。
+- カラーのカスタマイズができます。
+- 閉じたタブを簡単に復元できます。
+- ノートを取って、ワンクリックでGmailから送信することができます。
 
-特徴
-- カスタマイズ可能なカラーテーマ
-- 簡単に大規模なフレームにお気に入りのブックマークにアクセス
-- シンプルな回復タブを閉じ
-- ノートに乗り、Gmailへのポスト、ワンクリックで
+より詳しい使い方は私たちのblog http://bit.ly/blK348 を参照してください
 
-私たちのブログ http://bit.ly/blK348 にフルチュートリアルを参照してください
-
-免責事項
-- のための制限のクロムには、拡張子を閉じたタブから歴史を復元することはできません。場合は、Ctrlキーを押しすることができます+ Shift + Tキーを1つずつそれらを再開する、最近閉じたタブの履歴が必要です。
-- 参考：、ちょうど拡張"に行く""レンチ"メニューから、クロムのオリジナルのスタートページのバックアップを取得すると無効化/拡張機能をアンインストールします。
+注意事項
+- Chromeの仕様による制限で、ヒストリから閉じたタブを復元することはできません。最近閉じたタブから履歴を取り出したい場合には、Ctrl+Shift+Tを押すことで1つずつ取り出すことができます。
+- 参考：Chromeのオリジナルスタートページに戻したい場合には、Chromeの右上の工具アイコンから「拡張機能」を開き、このExtensionの無効化またはアンインストールをしてください。
 
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 License: http://www.visibotech.com/license/incrediblestartpage.html

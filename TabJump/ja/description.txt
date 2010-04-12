@@ -1,27 +1,24 @@
-(Translated with Google Translate - English version here http://bit.ly/cGsDfA
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+"素晴らしいタブマネージャ" - として、Lifehacker.comに紹介されました！ 
 
-"偉大なタブマネージャ" - などLifehacker.comに登場！ 
+同時にたくさんのタブを開いているとき、次にどこに行きたいか覚えておくのが大変じゃありませんか？TamJumpはよく使うタブや関連するタブをハイライトするので、簡単にそれらのタブの間を移動できます。間違ってタブを閉じる心配からも解放されます。TabJumpは特定のタブを保護したり、一旦閉じたタブを復元することもできます。
 
-ときは、同時に多くのタブでの作業、それはあなたの横に行きたいの1つ覚えておくのは難しい。 TabJump頻繁にそれらを簡単に間を移動することができますタブと関連するタブを使用強調表示します。再び事故でタブを閉じて心配はないのためTabJump、またはそれらを保護することも、閉じたタブを復元する！ 
+特長
+- 頻繁に使用するタブに移動することができます。
+- 関連するタブに移動することもできます(同じサイトから開いたタブなど)。 
+- 最近閉じたタブを復元します。 
+- 特定のタブをロックして、誤って閉じられることを回避できます(TabJumpがインストールされた後のタブから有効)。
 
-特徴 
-頻繁に使用するタブに移動 - 移動 
-- 移動関連するタブ（タブには、同じサイト等から） 
-- 復元最近閉じたタブ 
-- ロックタブをタブの後TabJumpインストールされて読み込まれる（のみ動作します）誤って閉鎖を防ぐために 
+注意事項
+- Chromeの仕様による制限で、閲覧履歴から閉じたタブを復元することはできません。最近閉じたタブから履歴を取り出したい場合には、Ctrl+Shift+Tを押すことで1つずつ取り出すことができます。
 
-免責事項 
-- のための制限のクロムには、拡張子を閉じたタブから歴史を復元することはできません。場合は、Ctrlキーを押しすることができます+ Shift + Tキーを1つずつそれらを再開する、最近閉じたタブの履歴が必要です。 
-
-も私たちの他の拡張機能をお試しください！ 
-- 友人の壁画Facebookを利用しhttp://bit.ly/cF8PXM用**新しい** 
+私たちの他の作品も是非試してください！ 
+- Friends Mural for Facebook：http://bit.ly/cF8PXM **NEW** 
 - TooManyTabs：http://bit.ly/5lGy47 
-- FreshStartセッションマネージャ：http://bit.ly/6aEUJE 
+-  FreshStart Session Manager：http://bit.ly/6aEUJE 
 - TwitterWatch：http://bit.ly/5C6VgI 
 
-キーワード：タブ、タブ管理、タブ、検索、タブの移動、TabKit、FoxTabの、TabMixPlus、TreeStyleTabs、余りに多くのタブを、タブメニュー 
+Keywords: Tabs, Tabs Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 License: http://www.visibotech.com/license/tabjump.html
 Credits: http://www.visibotech.com/chrome/credits.html
 
-場合は、ビデオチュートリアルモリーdemogirl.comでその上に、単純なスクリーンキャスト：http://goo.gl/FcIsおかげでモリーを作成して欲しい！
+demogirl.comのMollyが作ってくれたシンプルなスクリーンキャストによるビデオチュートリアルも見て頂くことが出来ます。：http://goo.gl/FcIs Mollyありがとう！

@@ -11,15 +11,14 @@
         }
     }, 
     "description": {
-        "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.", 
-        "remark": "NEED TRANSLATION"
+        "message": "タブをナビゲートする新しい方法です。よく使うタブ、関連するタブ、閉じられたタブに簡単にアクセスできます。タブのロックもできます。"
     }, 
     "extensionPageActionTitle": {
         "message": "TabJump!", 
         "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
-        "message": "頻繁にタブを使用する"
+        "message": "よく使うタブ"
     }, 
     "jump": {
         "message": "Jump", 
@@ -32,8 +31,7 @@
         "message": "このページのロック"
     }, 
     "name": {
-        "message": "TabJump - Intelligent Tab Navigator", 
-        "remark": "NEED TRANSLATION"
+        "message": "TabJump - 洗練されたタブナビゲーター"
     }, 
     "recentlyClosedTabs": {
         "message": "最近閉じたタブ"
@@ -53,6 +51,6 @@
         "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
-        "message": "ロックを解除するこのページを"
+        "message": "このページのロックを解除する"
     }
 }

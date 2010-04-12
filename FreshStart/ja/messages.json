@@ -1,61 +1,50 @@
 {
     "clickToRestore": {
-        "message": "Click to restore session '$name$' in new window", 
+        "message": "クリックしてセッション '$name$' を新しいウインドウで復元", 
         "placeholders": {
             "name": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "contactUs": {
-        "message": "Contact us:", 
-        "remark": "NEED TRANSLATION"
+        "message": "コンタクト:"
     }, 
     "contactUs2": {
-        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a>!", 
-        "remark": "NEED TRANSLATION"
+        "message": "ご提案、賞賛の声、励ましのお言葉などは<a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>こちらへ</a>!"
     }, 
     "contactUs3": {
-        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
-        "remark": "NEED TRANSLATION"
+        "message": "問題、バグの報告は<a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>こちらへ</a> スクリーンショットやお使いのOS/Chromeのバージョンを添えて頂けると助かります。"
     }, 
     "contactUs4": {
-        "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "remark": "NEED TRANSLATION"
+        "message": "皆様からの発展的なフィードバックを歓迎致します(^-^)"
     }, 
     "copyright": {
         "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
         "remark": "NEED TRANSLATION"
     }, 
     "crashRestoreTitle": {
-        "message": "Restore Previous Session", 
-        "remark": "NEED TRANSLATION"
+        "message": "前回のセッションを復元"
     }, 
     "description": {
         "description": "The extension description", 
-        "message": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.", 
-        "remark": "NEED TRANSLATION"
+        "message": "シンプルなセッション管理が必要ですか？複数のユーザで同じChromeを使っていませんか？FreshStartは、シンプルに異なるブラウザセッションを管理します。"
     }, 
     "edit": {
-        "message": "Edit", 
-        "remark": "NEED TRANSLATION"
+        "message": "編集"
     }, 
     "enableCrashRecovery": {
-        "message": "Enable crash recovery", 
-        "remark": "NEED TRANSLATION"
+        "message": "クラッシュリカバリーを有効化"
     }, 
     "extensionBrowserActionTitle": {
         "message": "FreshStart - Cross Browser Session Manager", 
         "remark": "NEED TRANSLATION"
     }, 
     "minutes": {
-        "message": "minutes", 
-        "remark": "NEED TRANSLATION"
+        "message": "分"
     }, 
     "mySession": {
-        "message": "My Session", 
-        "remark": "NEED TRANSLATION"
+        "message": "私のセッション"
     }, 
     "name": {
         "description": "The extension name", 
@@ -63,101 +52,79 @@
         "remark": "NEED TRANSLATION"
     }, 
     "noSessionSaved": {
-        "message": "No sessions saved", 
-        "remark": "NEED TRANSLATION"
+        "message": "セッションは保存されていません"
     }, 
     "options": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "オプション"
     }, 
     "optionsBackupPeriod": {
-        "message": "Saves all your windows and tabs every ", 
-        "remark": "NEED TRANSLATION"
+        "message": "開いているすべのウインドウとタブを保存：毎"
     }, 
     "optionsBackupPeriodOutOfRange": {
-        "message": "Backup period cannot be shorter than 1 minute or larger than 999 minutes", 
-        "remark": "NEED TRANSLATION"
+        "message": "バックアップ周期は、1分以内または999分以上に設定することはできません。"
     }, 
     "optionsEnableCrashRecovery": {
-        "message": "Enable Crash Recovery", 
-        "remark": "NEED TRANSLATION"
+        "message": "クラッシュリカバリーを有効化"
     }, 
     "optionsNewUserTips": {
-        "message": "New to FreshStart? Visit our <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!", 
-        "remark": "NEED TRANSLATION"
+        "message": "FreshStartの新機能：ウェブサイトを参照<a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!"
     }, 
     "optionsPageTitle": {
-        "message": "FreshStart Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "FreshStartオプション"
     }, 
     "optionsSaved": {
-        "message": "Options saved", 
-        "remark": "NEED TRANSLATION"
+        "message": "オプションが保存されました。"
     }, 
     "remove": {
-        "message": "Remove", 
-        "remark": "NEED TRANSLATION"
+        "message": "削除"
     }, 
     "restorePreviousSession": {
-        "message": "Restore previous session", 
-        "remark": "NEED TRANSLATION"
+        "message": "前回のセッションを復元"
     }, 
     "restoreSavedWindow": {
-        "message": "Saved Window ($count$) - click to restore this window", 
+        "message": "保存されたウインドウ ($count$) -クリックして復元", 
         "placeholders": {
             "count": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "restoreSession": {
-        "message": "Restore Session", 
-        "remark": "NEED TRANSLATION"
+        "message": "セッションの復元"
     }, 
     "restoreSession2": {
-        "message": "Click to open in new window, ctrl-click (Win, Linux) or cmd-click (Mac) to open in current window", 
-        "remark": "NEED TRANSLATION"
+        "message": "クリックして新しいウインドウで開く:Ctrl+クリック(Win, Linux)またはcmd+クリック(Mac)で現在のウインドウで開く"
     }, 
     "save": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "保存"
     }, 
     "saveSession": {
-        "message": "Save Session", 
-        "remark": "NEED TRANSLATION"
+        "message": "セッションを保存"
     }, 
     "smEditCancel": {
-        "message": "Cancel", 
-        "remark": "NEED TRANSLATION"
+        "message": "キャンセル"
     }, 
     "smEditSave": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "保存"
     }, 
     "smHeadingNew": {
-        "message": "Tabs to Add (check to add)", 
-        "remark": "NEED TRANSLATION"
+        "message": "追加するタブ(チェックして追加)"
     }, 
     "smHeadingSaved": {
         "message": "Saved Tabs (uncheck to remove)", 
         "remark": "NEED TRANSLATION"
     }, 
     "smHeadingTitle": {
-        "message": "Title", 
-        "remark": "NEED TRANSLATION"
+        "message": "タイトル"
     }, 
     "smSaveList": {
-        "message": "Uncheck tabs that you don't want to be saved.", 
-        "remark": "NEED TRANSLATION"
+        "message": "保存したくないタブのチェックを解除"
     }, 
     "smSaveToggle": {
-        "message": "Toggle Selection", 
-        "remark": "NEED TRANSLATION"
+        "message": "トグル選択"
     }, 
     "supportUs": {
-        "message": "Support our development and<br>share to your friends!", 
-        "remark": "NEED TRANSLATION"
+        "message": "開発への貢献、またはお友達へ紹介"
     }, 
     "tabsCount": {
         "message": " ($count$ tabs)", 
@@ -169,7 +136,6 @@
         "remark": "NEED TRANSLATION"
     }, 
     "updatedMessage": {
-        "message": "FreshStart is updated, click here to see what's new", 
-        "remark": "NEED TRANSLATION"
+        "message": "FreshStartが更新されました。ここをクリックして更新内容を確認できます。"
     }
 }

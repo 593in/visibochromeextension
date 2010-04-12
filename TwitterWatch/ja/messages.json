@@ -1,134 +1,107 @@
 {
     "days": {
-        "message": "$days$ days ago", 
+        "message": "$days$ 日前", 
         "placeholders": {
             "days": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "description": {
-        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
-        "remark": "NEED TRANSLATION"
+        "message": "興味のある言葉でリアルタイムにアップデートを見ます。他のツイッタークライアントとも相性が良いです。"
     }, 
     "enterASearchTerm": {
-        "message": "Enter a search term to get latest updates", 
-        "remark": "NEED TRANSLATION"
+        "message": "最新のアップデートを取得するために検索ワードを入力"
     }, 
     "error": {
-        "message": "Error", 
-        "remark": "NEED TRANSLATION"
+        "message": "エラー"
     }, 
     "hours": {
-        "message": "$hours$ hours ago", 
+        "message": "$hours$ 時間前", 
         "placeholders": {
             "hours": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "loggingIn": {
-        "message": "Logging in...", 
-        "remark": "NEED TRANSLATION"
+        "message": "ログイン中..."
     }, 
     "login": {
-        "message": "Login", 
-        "remark": "NEED TRANSLATION"
+        "message": "ログイン"
     }, 
     "logout": {
-        "message": "Logout", 
-        "remark": "NEED TRANSLATION"
+        "message": "ログアウト"
     }, 
     "messageTooLong": {
-        "message": "The message is too long!", 
-        "remark": "NEED TRANSLATION"
+        "message": "メッセージが長すぎます！"
     }, 
     "minutes": {
-        "message": "$minutes$ minutes ago", 
+        "message": "$minutes$ 分前", 
         "placeholders": {
             "minutes": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "name": {
-        "message": "TwitterWatch - Real Time Twitter Update", 
-        "remark": "NEED TRANSLATION"
+        "message": "TwitterWatch - リアルタイムツイッター更新"
     }, 
     "noTweetsFound": {
-        "message": "No tweets found!", 
-        "remark": "NEED TRANSLATION"
+        "message": "ツイートが見つかりません！"
     }, 
     "oneDay": {
-        "message": "1 day ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "1日前"
     }, 
     "oneHour": {
-        "message": "1 hour ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "1時間前"
     }, 
     "oneMinute": {
-        "message": "1 minute ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "1分前"
     }, 
     "oneWeek": {
-        "message": "1 week ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "1週間前"
     }, 
     "postFail": {
-        "message": "Sent failed, try again?", 
-        "remark": "NEED TRANSLATION"
+        "message": "送信に失敗しました。再送しますか？"
     }, 
     "postSuccess": {
-        "message": "Sent successfully", 
-        "remark": "NEED TRANSLATION"
+        "message": "送信が完了しました"
     }, 
     "posting": {
-        "message": "Sending...", 
-        "remark": "NEED TRANSLATION"
+        "message": "送信中..."
     }, 
     "promptLogin": {
-        "message": "Please login to reply or retweet", 
-        "remark": "NEED TRANSLATION"
+        "message": "返信またはリツイートするためにログインしてください"
     }, 
     "reply": {
-        "message": "Reply", 
-        "remark": "NEED TRANSLATION"
+        "message": "返信"
     }, 
     "retweet": {
-        "message": "Retweet", 
-        "remark": "NEED TRANSLATION"
+        "message": "リツイート"
     }, 
     "searching": {
-        "message": "Searching", 
-        "remark": "NEED TRANSLATION"
+        "message": "検索中"
     }, 
     "seconds": {
-        "message": "$seconds$ seconds ago", 
+        "message": "$seconds$ 秒前", 
         "placeholders": {
             "seconds": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "send": {
-        "message": "Send", 
-        "remark": "NEED TRANSLATION"
+        "message": "送信"
     }, 
     "severalWeeks": {
-        "message": "Several weeks ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "数週間前"
     }, 
     "twitterWatch": {
         "message": "TwitterWatch", 
         "remark": "NEED TRANSLATION"
     }, 
     "updateMessage": {
-        "message": "TwitterWatch is updated, click here to see what's new", 
-        "remark": "NEED TRANSLATION"
+        "message": "TwitterWatchが更新されました。クリックして更新内容を確認。"
     }
 }

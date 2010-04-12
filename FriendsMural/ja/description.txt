@@ -1,24 +1,21 @@
-(Translated with Google Translate - English version here http://bit.ly/ajxCV1
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+FriendsMuralは、スタイリッシュなFacebookクライアントです！
 
-FriendsMuralスタイルで、Facebookのクライアントです！
-
-新しい0.7インチ：
-- "を追加する"ワンクリックで好きだ！
-お友達の壁画の投稿にコメント - コメントを直接
+0.7での新機能：
+- より大きなレイアウトを使えます。
+- FrandsMuralからあなたのステータスを更新できます。
 
 特長：
-- 完全に個人的な"友達の壁画"あなたの最愛のものに更新さを維持する！
-- ワンクリックを直接拡張機能であなたのニュースフィードを表示する
-- 更新は、Chromeのツールバーからあなたに通知
-余分なスタイルのポイント - カスタム壁紙
-- チュートリアルhttp://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.htmlで
+- "Freind Mural"であなたのお気に入りの友達の更新を完璧にとらえます！
+- 拡張機能の中で、ワンクリックで直接新しいニュースフィードを表示できます。
+- Chromeツールバーからアップデートを通知します。
+- いろいろなスタイルで壁紙を変更できます。
+- チュートリアルはこちら：http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html
 
-今後の機能：
-- お友達の壁画から - アップデートのステータスを
-- 壁画にファンページを追加
+今後の拡張機能：
+- Friend Muralからステータスを更新可能にします。
+- ファンページを追加します。
 
-Try out our other extensions too!
+私たちの他の作品も是非お試しください！
 - Incredible StartPage http://bit.ly/a2TzaI **NEW**
 - TooManyTabs: http://bit.ly/5lGy47
 - FreshStart Session Manager: http://bit.ly/6aEUJE

@@ -4,91 +4,71 @@
         "remark": "NEED TRANSLATION"
     }, 
     "clear": {
-        "message": "Clear", 
-        "remark": "NEED TRANSLATION"
+        "message": "クリア"
     }, 
     "clickToAddFriend": {
-        "message": "Click to add this friend to Friends Mural", 
-        "remark": "NEED TRANSLATION"
+        "message": "クリックしてFriends Muralにこの友達を追加"
     }, 
     "clickToRemoveFriend": {
-        "message": "Click to remove this friend from Friends Mural", 
-        "remark": "NEED TRANSLATION"
+        "message": "クリックしてFriends Muralからこの友達を削除"
     }, 
     "comment": {
-        "message": "Comment", 
-        "remark": "NEED TRANSLATION"
+        "message": "コメント"
     }, 
     "contactUs": {
-        "message": "Contact us:", 
-        "remark": "NEED TRANSLATION"
+        "message": "コンタクト:"
     }, 
     "contactUs2": {
-        "message": "Suggestions? Problems? Tell us in <a href='http://www.facebook.com/apps/application.php?id=269250262098'>here</a>!", 
-        "remark": "NEED TRANSLATION"
+        "message": "ご提案、賞賛の声、励ましのお言葉などは<a href='http://www.facebook.com/apps/application.php?id=269250262098'>こちらへ</a>！"
     }, 
     "contactUs3": {
-        "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "remark": "NEED TRANSLATION"
+        "message": "皆様からの発展的なフィードバックを歓迎致します(^-^)"
     }, 
     "copyright": {
         "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
         "remark": "NEED TRANSLATION"
     }, 
     "description": {
-        "message": "Friends Mural is a Facebook client with a new approach. You decide which friends to feature on your mural, and we will show you their latest updates!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Friends Muralは新しい形のFacebookクライアントです。あなたの壁面にどの友達を表示するかを指定すれば、最新の更新を表示します！"
     }, 
     "inputYourStatus": {
-        "message": "Write your new status", 
-        "remark": "NEED TRANSLATION"
+        "message": "新しいステータスを書き込む"
     }, 
     "name": {
         "message": "Friends Mural for Facebook", 
         "remark": "NEED TRANSLATION"
     }, 
     "optionsLink": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "オプション"
     }, 
     "optionsPageTitle": {
-        "message": "Friends Mural for Facebook Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Friends Mural for Facebook オプション"
     }, 
     "optionsSaved": {
-        "message": "Options saved", 
-        "remark": "NEED TRANSLATION"
+        "message": "オプションが保存されました"
     }, 
     "ownerFeedIconStatusToggle": {
-        "message": "Toggle between friend status and your own status", 
-        "remark": "NEED TRANSLATION"
+        "message": "友達のステータスとあなたのステータスの間で切り替える"
     }, 
     "postingComment": {
-        "message": "Posting...", 
-        "remark": "NEED TRANSLATION"
+        "message": "投稿中..."
     }, 
     "save": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "保存"
     }, 
     "share": {
-        "message": "Update Status", 
-        "remark": "NEED TRANSLATION"
+        "message": "更新ステータス"
     }, 
     "updatedMessage": {
-        "message": "Friends Mural for Facebook is updated, click here to see what's new", 
-        "remark": "NEED TRANSLATION"
+        "message": "Friends Mural for Facebookが更新されました。新しい機能はこちらをクリックしてください。"
     }, 
     "userLike": {
-        "message": "You like this", 
-        "remark": "NEED TRANSLATION"
+        "message": "あなたはこれが好きです"
     }, 
     "viewAllComments": {
-        "message": "View all comments", 
-        "remark": "NEED TRANSLATION"
+        "message": "すべてのコメントを見る"
     }, 
     "yourStatus": {
-        "message": "Your Status", 
-        "remark": "NEED TRANSLATION"
+        "message": "あなたのステータス"
     }
 }

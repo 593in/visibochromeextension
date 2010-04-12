@@ -1,50 +1,38 @@
 {
     "backToParentText": {
-        "message": "Back", 
-        "remark": "NEED TRANSLATION"
+        "message": "戻る"
     }, 
     "bookmarkBarHelpContent": {
-        "message": "This area shows the items in your bookmark toolbar, folders are hidden.", 
-        "remark": "NEED TRANSLATION"
+        "message": "このエリアにブックマークツールバーの内容が表示されます。フォルダは非表示です。"
     }, 
     "bookmarkBarHelpDismiss": {
-        "message": "[Close]", 
-        "remark": "NEED TRANSLATION"
+        "message": "[閉じる]"
     }, 
     "bookmarkBrowserHelp": {
-        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right", 
-        "remark": "NEED TRANSLATION"
+        "message": "ここからブックマークにアクセスすることができます。中でもお気に入りのブックマークはドラッグで右のエリアに表示ことができます。"
     }, 
     "bookmarkBrowserTitle": {
-        "message": "Bookmarks", 
-        "remark": "NEED TRANSLATION"
+        "message": "ブックマーク"
     }, 
     "clearClosedText": {
-        "message": "Clear", 
-        "remark": "NEED TRANSLATION"
+        "message": "クリア"
     }, 
     "defaultNotepadText": {
-        "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!", 
-        "remark": "NEED TRANSLATION"
+        "message": "インストールして頂きありがとうございます。Incredible StartPage!\n \nこのエリアはメモ帳です。ここでメモを取ることが出来ますよ！"
     }, 
     "description": {
-        "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Chromeのスタートページを新鮮でカスタマイズ可能にします。簡単にブックマークや閉じたタブにアクセスできます。ブラウズしながらメモを取ることもできます。"
     }, 
     "name": {
-        "message": "Incredible StartPage - Productive Start Page for Chrome!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Incredible StartPage - より使いやすいChromeのスタートページ"
     }, 
     "recentlyClosedTitle": {
-        "message": "Closed", 
-        "remark": "NEED TRANSLATION"
+        "message": "閉じたタブ"
     }, 
     "shareToMail": {
-        "message": "Post to Gmail", 
-        "remark": "NEED TRANSLATION"
+        "message": "Gmailから送信"
     }, 
     "toggleOptionsBtn": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "オプション"
     }
 }
