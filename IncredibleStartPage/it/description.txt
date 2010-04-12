@@ -1,4 +1,4 @@
-(Translated with Google Translate - English version here http://bit.ly/bo5V9N
+(Translated with Google Translate - English version here http://goo.gl/qCOW
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 StartPage Incredible è un sostituto produttiva pagina iniziale di Chrome. Mettere tutti i vostri bookmarks in una splendida cornice, e godetevi le nostre caratteristiche portata di mano!
@@ -11,7 +11,7 @@ Caratteristiche
 - Semplice chiuso scheda di recupero
 - Prendere appunti e post a Gmail in un clic
 
-Vedere un tutorial completo sul nostro blog http://bit.ly/blK348
+Vedere un tutorial completo sul nostro blog http://goo.gl/zHxq
 
 Disclaimer
 - A causa di Chrome limitazioni, le estensioni non è possibile ripristinare la storia da schede chiuse. Se avete bisogno della storia da un tab chiuse di recente, è possibile premere Ctrl + Maiusc + T per riaprire uno per uno.

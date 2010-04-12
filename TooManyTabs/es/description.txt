@@ -1,4 +1,4 @@
-(Translated with Google Translate - English version here http://bit.ly/9uAWZg
+(Translated with Google Translate - English version here http://goo.gl/VEXV
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 ¿Alguna vez intentó tener 20 o más pestañas abiertas en Chrome? Ni siquiera se puede ver el favicon de las fichas, por no mencionar los títulos de las fichas! Si eso le sucede a usted, TooManyTabs es un deber-tener la extensión que gestiona las pestañas, reduce el desbordamiento de la ficha, y guarda tu cordura!
@@ -26,10 +26,11 @@ Descargo de responsabilidad
 - Debido a las limitaciones de Chrome, las extensiones no puede restaurar la historia de las pestañas cerradas. Si usted necesita de la historia de una pestaña cerrada hace poco, puede pulsar Ctrl+Shift+T para abrir una por una.
 
 If you like TooManyTabs, check out our other extensions too!
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- Friends Mural for Facebook http://bit.ly/cF8PXM
-- FreshStart Session Manager: http://bit.ly/6aEUJE
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
 
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 License: http://www.visibotech.com/TMTChrome/license.html

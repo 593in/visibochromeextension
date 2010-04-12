@@ -23,11 +23,11 @@ Annonce:
 - Du fait de certaines limitations de Chrome, les extensions ne peuvent pas accéder à l'historique des onglets fermés. Si vous en avez besoin, pressez simplement Ctrl+Shift+T pour les ouvrir un par un.
 
 Si vous aimez TooManyTabs, jetez un oeil à nos autres extensions!
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- Friends Mural for Facebook http://bit.ly/cF8PXM
-- FreshStart Session Manager: http://bit.ly/6aEUJE
-- TwitterWatch: http://bit.ly/5C6VgI
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
 
 Mots clé: Onglet, Organisation d'onglet, trouver un onglet, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 License: http://www.visibotech.com/TMTChrome/license.html

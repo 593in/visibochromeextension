@@ -1,4 +1,4 @@
-(Translated with Google Translate - English version here http://bit.ly/9uAWZg
+(Translated with Google Translate - English version here http://goo.gl/VEXV
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 Mai provato con 20 o più schede aperte in Chrome? Non si può nemmeno vedere la favicon delle schede, per non parlare dei titoli scheda! Se ciò accade a voi, TooManyTabs è un must-have extension che gestisce le schede, riduce la tab overflow, e salva la tua sanità mentale!
@@ -26,11 +26,11 @@ Disclaimer
 - A causa di Chrome limitazioni, le estensioni non è possibile ripristinare la storia da schede chiuse. Se avete bisogno della storia da un tab chiuse di recente, è possibile premere Ctrl+Shift+T per riaprire uno per uno.
 
 If you like TooManyTabs, check out our other extensions too!
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- Friends Mural for Facebook http://bit.ly/cF8PXM
-- FreshStart Session Manager: http://bit.ly/6aEUJE
-- TwitterWatch: http://bit.ly/5C6VgI
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
 
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 License: http://www.visibotech.com/TMTChrome/license.html

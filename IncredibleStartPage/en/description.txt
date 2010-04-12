@@ -8,7 +8,7 @@ Features
 - Simple closed tab recovery
 - Take notes and post to Gmail in one click
 
-See a full tutorial on our blog http://bit.ly/blK348
+See a full tutorial on our blog http://goo.gl/zHxq
 
 Disclaimer
 - Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, you can press Ctrl+Shift+T to reopen them one by one.

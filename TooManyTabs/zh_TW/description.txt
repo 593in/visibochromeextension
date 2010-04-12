@@ -1,4 +1,4 @@
-(Translated with Google Translate - English version here http://bit.ly/9uAWZg
+(Translated with Google Translate - English version here http://goo.gl/VEXV
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 是否嘗試過有20或更多的開放標籤在Chrome？你甚至無法看到圖標的標籤，更遑論標籤名稱！如果發生這種情況給你，TooManyTabs是必須具備的擴展，管理您的標籤，降低您的標籤溢出，並節省您的理智！
@@ -26,11 +26,11 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 - 由於鉻的限制，擴展無法還原歷史，關閉的標籤。如果您需要的歷史，最近關閉標籤，你可以按 Ctrl+Shift+T 鍵重新逐一。
 
 If you like TooManyTabs, check out our other extensions too!
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- Friends Mural for Facebook http://bit.ly/cF8PXM
-- FreshStart Session Manager: http://bit.ly/6aEUJE
-- TwitterWatch: http://bit.ly/5C6VgI
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
 
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 License: http://www.visibotech.com/TMTChrome/license.html

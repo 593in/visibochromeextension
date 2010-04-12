@@ -15,11 +15,11 @@ Prochaines Fonctionnalités
 - Meilleure interface d'édition de session
 
 Si vous aimez FreshStart, allez jeter un oeil sur nos autres extensions!
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- Friends Mural for Facebook http://bit.ly/cF8PXM
-- TooManyTabs: http://bit.ly/5lGy47
-- TwitterWatch: http://bit.ly/5C6VgI
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- TooManyTabs: http://goo.gl/AI2X
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
 
 Mots Clés: Gestion de Session , Gestionnaire de session ,cross browser, réupérateur de crash, restaurateur de session, favoris,Fresh Start, Tab Mix Plus, Morning Coffee
 License: http://www.visibotech.com/license/freshstart.html

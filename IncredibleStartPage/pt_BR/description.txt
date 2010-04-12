@@ -8,7 +8,7 @@ Recursos
 - Simples recuperação de guias fechadas
 - Envie notas e mensagens para o Gmail em um clique
 
-Veja um tutorial completo em nosso blog http://bit.ly/blK348
+Veja um tutorial completo em nosso blog http://goo.gl/zHxq
 
 Aviso
 - Devido a limitações do Chrome, extensões não podem restaurar o histórico de guias fechadas. Se precisar do histórico de uma guia fechada recentemente, você pode pressionar Ctrl + Shift + T para reabrí-los um por um.

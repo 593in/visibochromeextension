@@ -1,4 +1,4 @@
-(Translated with Google Translate - English version here http://bit.ly/cGsDfA
+(Translated with Google Translate - English version here http://goo.gl/ZkHz
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 
@@ -14,10 +14,11 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 - 由於Chrome的限制，擴展無法還原歷史，關閉的分頁。如果您需要的歷史，最近關閉分頁，你可以按Ctrl + Shift + T鍵重新逐一。 
 
 嘗試我們的其他擴展呢！ 
-- FriendsMural 為 Facebook http://bit.ly/cF8PXM **新** 
-- TooManyTabs：http://bit.ly/5lGy47 
-- FreshStart會話管理：http://bit.ly/6aEUJE 
-- TwitterWatch：http://bit.ly/5C6VgI 
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- TooManyTabs: http://goo.gl/AI2X
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
 
 關鍵詞：分頁，分頁管理，查找分頁，分頁跳轉，TabKit，FoxTab的，TabMixPlus，TreeStyleTabs，有太多的分頁，分頁菜單 
 License: http://www.visibotech.com/license/tabjump.html

@@ -10,11 +10,11 @@ Recursos
 - Funciona muito bem com outros clientes Twitter
 
 Try out our other extensions too!
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- Friends Mural for Facebook http://bit.ly/cF8PXM
-- TooManyTabs: http://bit.ly/5lGy47
-- FreshStart Session Manager: http://bit.ly/6aEUJE
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- TooManyTabs: http://goo.gl/AI2X
+- FreshStart Session Manager: http://goo.gl/249h
+- TabJump: http://goo.gl/r5EY
 
 Keywords: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
 License: http://www.visibotech.com/license/twitterwatch.html

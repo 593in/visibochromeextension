@@ -12,10 +12,11 @@
 - Chromeの仕様による制限で、閲覧履歴から閉じたタブを復元することはできません。最近閉じたタブから履歴を取り出したい場合には、Ctrl+Shift+Tを押すことで1つずつ取り出すことができます。
 
 私たちの他の作品も是非試してください！ 
-- Friends Mural for Facebook：http://bit.ly/cF8PXM **NEW** 
-- TooManyTabs：http://bit.ly/5lGy47 
--  FreshStart Session Manager：http://bit.ly/6aEUJE 
-- TwitterWatch：http://bit.ly/5C6VgI 
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- TooManyTabs: http://goo.gl/AI2X
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
 
 Keywords: Tabs, Tabs Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 License: http://www.visibotech.com/license/tabjump.html

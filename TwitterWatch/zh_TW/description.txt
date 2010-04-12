@@ -1,4 +1,4 @@
-(Translated with Google Translate - English version here http://bit.ly/cCBCkO
+(Translated with Google Translate - English version here http://goo.gl/nxCC
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 TwitterWatch是最簡單的工具，在炎熱的守望Twitter的關鍵字！輸入關鍵字，按搜索，你完成。 TwitterWatch可以共存與其他Twitter的客戶，不消耗更新配額。
@@ -13,11 +13,11 @@ TwitterWatch是最簡單的工具，在炎熱的守望Twitter的關鍵字！輸�
 - 工程很好地與其他Twitter的客戶
 
 Try out our other extensions too!
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- Friends Mural for Facebook http://bit.ly/cF8PXM
-- TooManyTabs: http://bit.ly/5lGy47
-- FreshStart Session Manager: http://bit.ly/6aEUJE
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- TooManyTabs: http://goo.gl/AI2X
+- FreshStart Session Manager: http://goo.gl/249h
+- TabJump: http://goo.gl/r5EY
 
 Keywords: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
 License: http://www.visibotech.com/license/twitterwatch.html

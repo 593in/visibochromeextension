@@ -1,4 +1,4 @@
-(Translated with Google Translate - English version here http://bit.ly/cGsDfA
+(Translated with Google Translate - English version here http://goo.gl/ZkHz
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 "Manager scheda Grande" - come consigliati a Lifehacker.com! 
@@ -15,10 +15,11 @@ Disclaimer
 - A causa di Chrome limitazioni, le estensioni non è possibile ripristinare la storia da schede chiuse. Se avete bisogno della storia da un tab chiuse di recente, è possibile premere Ctrl + Maiusc + T per riaprire uno per uno. 
 
 Prova il nostro estensioni anche altri! 
-- Amici murale per Facebook http://bit.ly/cF8PXM ** NEW ** 
-- TooManyTabs: http://bit.ly/5lGy47 
-- Session Manager FreshStart: http://bit.ly/6aEUJE 
-- TwitterWatch: http://bit.ly/5C6VgI 
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- TooManyTabs: http://goo.gl/AI2X
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
 
 Parole chiave: Tabs, Tabs Management, Trova le schede, Vai Tab, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too molte schede, Tab Menu 
 License: http://www.visibotech.com/license/tabjump.html

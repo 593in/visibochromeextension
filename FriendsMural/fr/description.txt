@@ -16,11 +16,11 @@ Fonctionnalités à venir:
 - Ajoutez vos pages de fan sur le "Mur"
 
 Si vous aimez FriendsMural, jetez un oeil à nos autres extensions!
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- TooManyTabs: http://bit.ly/5lGy47
-- FreshStart Session Manager: http://bit.ly/6aEUJE
-- TwitterWatch: http://bit.ly/5C6VgI
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- TooManyTabs: http://goo.gl/AI2X
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
 
 Mots Clés: client Facebook , Facebook notification, FriendsMural, FriendMural
 License: http://www.visibotech.com/license/friendsmural.html

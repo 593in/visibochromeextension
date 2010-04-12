@@ -8,7 +8,7 @@ Fonctionnalités
 - Gestionnaire d'onglets fermés simple d'utilisation
 - Prennez des notes et ajoutez les à votre Gmail en un seul clic
 
-Un tutoriel complet est disponible sur notre blog http://bit.ly/blK348
+Un tutoriel complet est disponible sur notre blog http://goo.gl/zHxq
 
 Annonce:
 - Du fait de certaines limitations de Chrome, les extensions ne peuvent pas accéder à l'historique des onglets fermés. Si vous en avez besoin, pressez simplement Ctrl+Shift+T pour les ouvrir un par un.

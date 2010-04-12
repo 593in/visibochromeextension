@@ -1,4 +1,4 @@
-(Translated with Google Translate - English version here http://bit.ly/bo5V9N
+(Translated with Google Translate - English version here http://goo.gl/qCOW
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 Incredible StartPage是一個有建設性的開始頁面替換鉻。把所有您喜愛的書籤在美麗的框架，並享受我們的便捷功能！
@@ -11,7 +11,7 @@ DownloadSquad 有介紹。 http://goo.gl/iyYe
 - 簡單的關閉標籤的恢復
 - 做筆記，並在使用Gmail後點擊一下鼠標
 
-看到完整教程我們的博客 http://bit.ly/blK348
+看到完整教程我們的博客 http://goo.gl/zHxq
 
 免責聲明
 - 由於 Chrome 的限制，擴展無法還原歷史，關閉的分頁。如果您需要的歷史，最近關閉標籤，你可以按Ctrl + Shift + T鍵重新逐一。

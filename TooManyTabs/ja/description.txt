@@ -23,11 +23,11 @@ Firefox用として生まれたTooManyTabsは、Chrome向けにもやってき�
 - Chromeの仕様による制限で、閲覧履歴から閉じたタブを復元することはできません。最近閉じたタブから履歴を取り出したい場合には、Ctrl+Shift+Tを押すことで1つずつ取り出すことができます。
 
 TooManyTabsを気に入ってくれたら、私たちの他の作品も是非確認してみてください！
-- Incredible StartPage http://bit.ly/a2TzaI **NEW**
-- Friends Mural for Facebook http://bit.ly/cF8PXM
-- FreshStart Session Manager: http://bit.ly/6aEUJE
-- TwitterWatch: http://bit.ly/5C6VgI
-- TabJump: http://bit.ly/cVdnBq
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- Friends Mural for Facebook http://goo.gl/bICN
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
 
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 License: http://www.visibotech.com/TMTChrome/license.html

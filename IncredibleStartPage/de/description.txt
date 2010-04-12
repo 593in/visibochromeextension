@@ -8,7 +8,7 @@ Funktionen:
 - leichtes Wiederherstellen von geschlossenen Tabs
 - Machen Sie Notizen und schicken Sie Diese mit einem Klick zu Gmail.
 
-Schauen Sie sich ein vollständiges Tutorial auf unserem Blog an: http://bit.ly/blK348
+Schauen Sie sich ein vollständiges Tutorial auf unserem Blog an: http://goo.gl/zHxq
 
 Disclaimer
 - Aufgrund von Chrome Beschränkungen können Erweiterungen nicht den Verlauf von geschlossenen Tabs wiederherstellen. Falls Sie den Verlauf von einem kürzlich geschlossenem Tab benötigen, können Sie mit Strg+Shift+T diesen Verlauf schrittweise wiederherstellen.
