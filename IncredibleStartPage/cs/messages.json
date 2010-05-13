@@ -70,7 +70,8 @@
         "message": "Poslat Gmailem"
     }, 
     "toggleOptionsBtn": {
-        "message": "Nastav"
+        "message": "Theme Options", 
+        "remark": "NEED TRANSLATION"
     }, 
     "wallpaperOptionTitle": {
         "message": "Wallpapers", 

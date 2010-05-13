@@ -73,7 +73,8 @@
         "message": "Postar no Gmail"
     }, 
     "toggleOptionsBtn": {
-        "message": "Opções"
+        "message": "Theme Options", 
+        "remark": "NEED TRANSLATION"
     }, 
     "wallpaperOptionTitle": {
         "message": "Wallpapers", 

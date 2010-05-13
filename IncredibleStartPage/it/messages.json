@@ -15,20 +15,20 @@
         "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBarHelpContent": {
-        "message": "Quest'area mostra gli oggetti contenuti nella barra dei segnalibri, le cartelle sono nascoste"
+        "message": "Questa area mostra le voci nella tua barra dei preferiti, le cartelle sono nascoste."
     }, 
     "bookmarkBarHelpDismiss": {
         "message": "[Chiudi]"
     }, 
     "bookmarkBrowserHelp": {
-        "message": "Questo box permette di navigare velocemente tra i segnalibri. Puoi trascinare i più importanti nel box a destra"
+        "message": "Questo box ti permette di navigare velocemente tra i tuoi preferiti. Puoi trascinare quelli importanti nel box sulla destra"
     }, 
     "bookmarkBrowserPin": {
         "message": "Show as main", 
         "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBrowserTitle": {
-        "message": "Segnalibri"
+        "message": "Preferiti"
     }, 
     "bookmarkBrowserTop": {
         "message": "Home", 
@@ -42,10 +42,10 @@
         "message": "Pulisci"
     }, 
     "defaultNotepadText": {
-        "message": "Grazie per aver scelto \nIncredible StartPage!\n \nTQuesto è lo spazio per le note. Qui puoi scrivere i tuoi appunti"
+        "message": "Grazie per aver installato\nIncredible StartPage!\n \nQuesto è il tuo blocco note. Puoi annotare i tuoi appunti qua!"
     }, 
     "description": {
-        "message": "Una nuova start page per Chrome personalizzabile, Cerca con semplicità tra i segnalibri e le schede chiuse. Prendi appunti mentre navighi"
+        "message": "Una nuova, personalizzabile pagina iniziale per Chrome. Trova facilmente i tuoi preferiti e le schede chiuse. Prendi appunti mentre navighi."
     }, 
     "fontColorOptionTitle": {
         "message": "Font Color", 
@@ -56,24 +56,25 @@
         "remark": "NEED TRANSLATION"
     }, 
     "name": {
-        "message": "Incredible StartPage - Start Page produttiva per Chrome!"
+        "message": "Incredible StartPage - Pagina iniziale produttiva per Chrome!"
     }, 
     "postTo": {
         "message": "Post to", 
         "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTitle": {
-        "message": "Chiuso"
+        "message": "Chiuse"
     }, 
     "shareToCalendar": {
         "message": "Calendar", 
         "remark": "NEED TRANSLATION"
     }, 
     "shareToMail": {
-        "message": "Invia a Gmail"
+        "message": "Posta su Gmail"
     }, 
     "toggleOptionsBtn": {
-        "message": "Opzioni"
+        "message": "Theme Options", 
+        "remark": "NEED TRANSLATION"
     }, 
     "wallpaperOptionTitle": {
         "message": "Wallpapers", 
