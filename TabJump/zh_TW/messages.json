@@ -2,6 +2,10 @@
     "cannotLockPage": {
         "message": "無法鎖定此頁"
     }, 
+    "clearRecentlyClosedTabsHistory": {
+        "message": "Clear recently closed tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clickToOpen": {
         "message": "打開 \"$title$\"", 
         "placeholders": {
@@ -12,10 +16,6 @@
     }, 
     "description": {
         "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.", 
-        "remark": "NEED TRANSLATION"
-    }, 
-    "extensionPageActionTitle": {
-        "message": "TabJump!", 
         "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
@@ -33,6 +33,10 @@
     }, 
     "name": {
         "message": "TabJump - Intelligent Tab Navigator", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "pageActionTitle": {
+        "message": "TabJump!", 
         "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTabs": {

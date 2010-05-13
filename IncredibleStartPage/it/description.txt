@@ -1,17 +1,14 @@
-(Translated with Google Translate - English version here http://goo.gl/qCOW
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+Incredible StartPage è uno strumento di produttività che si sostituisce alla pagina inizale di Chrome. Permette di inserire i segnalibri preferiti in una splendida cornice, e godersi la praticità delle funzioni disponibili.
 
-StartPage Incredible è un sostituto produttiva pagina iniziale di Chrome. Mettere tutti i vostri bookmarks in una splendida cornice, e godetevi le nostre caratteristiche portata di mano!
-
-As seen on DownloadSquad. http://goo.gl/iyYe
+Come già visto su DownloadSquad. http://goo.gl/iyYe
 
 Caratteristiche
-- Tema di colori personalizzabili
-- Facilmente accedere ai tuoi segnalibri preferiti in un frame di grandi dimensioni
-- Semplice chiuso scheda di recupero
-- Prendere appunti e post a Gmail in un clic
+- Colori del tema personalizzabili
+- Accesso semplificato ai segnalibri in un frame di grandi dimensioni
+- Semplice ripristino delle schede chiuse
+- Prendi appunti ed invia a Gmail con un solo click
 
-Vedere un tutorial completo sul nostro blog http://goo.gl/zHxq
+Guarda il tutorial completo nel nostro blog: http://goo.gl/zHxq
 
 Disclaimer
 - A causa di Chrome limitazioni, le estensioni non è possibile ripristinare la storia da schede chiuse. Se avete bisogno della storia da un tab chiuse di recente, è possibile premere Ctrl + Maiusc + T per riaprire uno per uno.

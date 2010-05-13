@@ -2,6 +2,10 @@
     "addNewColumn": {
         "message": "[Adicionar nova coluna]"
     }, 
+    "addNewColumnButton": {
+        "message": "Add", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "advancedFeatures": {
         "message": "Opções avançadas"
     }, 
@@ -13,6 +17,10 @@
     }, 
     "clearAll": {
         "message": "[Limpar todas]"
+    }, 
+    "clearAllButton": {
+        "message": "Clear", 
+        "remark": "NEED TRANSLATION"
     }, 
     "clickToClose": {
         "message": "Clique para fechar"
@@ -150,6 +158,14 @@
     }, 
     "removeThisColumn": {
         "message": "[Remover esta coluna]"
+    }, 
+    "removeThisColumnButton": {
+        "message": "Remove", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "removeThisColumnDisabled": {
+        "message": "This column cannot be removed", 
+        "remark": "NEED TRANSLATION"
     }, 
     "shortcut1": {
         "message": "Usar tecla de atalho para exibir a janela do TMT: CTRL-"

@@ -1,4 +1,8 @@
 {
+    "addTab": {
+        "message": "Add new tab", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "days": {
         "message": "Il y a $days$ jours", 
         "placeholders": {
@@ -47,6 +51,10 @@
     "name": {
         "message": "TwitterWatch - Client Twitter en temps réel"
     }, 
+    "newTab": {
+        "message": "[NEW]", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "noTweetsFound": {
         "message": "Aucun Tweet trouvé!"
     }, 
@@ -81,6 +89,10 @@
         "message": "Retweet", 
         "remark": "NEED TRANSLATION"
     }, 
+    "search": {
+        "message": "Search", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "searching": {
         "message": "Recherche en cours"
     }, 
@@ -98,11 +110,23 @@
     "severalWeeks": {
         "message": "Il y a plusieurs semaines"
     }, 
+    "stopSearch": {
+        "message": "Stop this search", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "tooManyTabs": {
+        "message": "Maximum 5 tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "twitterWatch": {
         "message": "TwitterWatch", 
         "remark": "NEED TRANSLATION"
     }, 
     "updateMessage": {
         "message": "TwitterWatch a été mis à jour, cliquez ici pour voir les nouveautés"
+    }, 
+    "useLastTab": {
+        "message": "Please use the [NEW] tab first", 
+        "remark": "NEED TRANSLATION"
     }
 }

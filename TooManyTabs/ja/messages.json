@@ -2,6 +2,10 @@
     "addNewColumn": {
         "message": "[新しいカラムの追加]"
     }, 
+    "addNewColumnButton": {
+        "message": "Add", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "advancedFeatures": {
         "message": "拡張機能"
     }, 
@@ -13,6 +17,10 @@
     }, 
     "clearAll": {
         "message": "[すべてクリア]"
+    }, 
+    "clearAllButton": {
+        "message": "Clear", 
+        "remark": "NEED TRANSLATION"
     }, 
     "clickToClose": {
         "message": "クリックして閉じる"
@@ -150,6 +158,14 @@
     }, 
     "removeThisColumn": {
         "message": "[このタブを削除]"
+    }, 
+    "removeThisColumnButton": {
+        "message": "Remove", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "removeThisColumnDisabled": {
+        "message": "This column cannot be removed", 
+        "remark": "NEED TRANSLATION"
     }, 
     "shortcut1": {
         "message": "TooManyTabsウインドウを起動するショートカットキー"

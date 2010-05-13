@@ -20,8 +20,14 @@
     "toggleOptionsBtn": {
         "message": "Options"
     },
+    "postTo": {
+       "message": "Post to"    
+    },
     "shareToMail": {
-        "message": "Post to Gmail"
+        "message": "Gmail"
+    },
+    "shareToCalendar": {
+        "message": "Calendar"
     },
     "bookmarkBarHelpContent": {
         "message": "This area shows the items in your bookmark toolbar, folders are hidden."
@@ -33,7 +39,41 @@
         "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!"
     },
     "bookmarkBrowserHelp": {
-        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right"
+        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.",
+        "remark": "PENDING"
+    },
+    "bookmarkBrowserPin": {
+        "message": "Show as main"
+    },
+    "bookmarkBrowserTop": {
+        "message": "Home"
+    },
+    "bookmarkControlsHelpMsg": {
+        "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'."
+    },
+    "backgroundColorOptionTitle":{
+        "message":"Background Color"
+    },
+    "backgroundColorSelectionTips":{
+        "message":"Select a theme color:"
+    },
+    "backgroundColorCustomTips":{
+        "message":"Or choose a custom background:"
+    },
+    "fontColorOptionTitle":{
+        "message":"Font Color"
+    },
+    "fontColorSelectionTips":{
+        "message":"Select your font color:"
+    },
+    "wallpaperOptionTitle":{
+        "message":"Wallpapers"
+    },
+    "wallpaperThemeSelectionTips":{
+        "message":"Choose wallpaper from a theme:"
+    },
+    "wallpaperThemeCustomTips":{
+        "message":"Or use a gradient as the background:"
     }
 }
 

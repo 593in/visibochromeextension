@@ -2,6 +2,18 @@
     "backToParentText": {
         "message": "戻る"
     }, 
+    "backgroundColorCustomTips": {
+        "message": "Or choose a custom background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorOptionTitle": {
+        "message": "Background Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorSelectionTips": {
+        "message": "Select a theme color:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "bookmarkBarHelpContent": {
         "message": "このエリアにブックマークツールバーの内容が表示されます。フォルダは非表示です。"
     }, 
@@ -11,8 +23,20 @@
     "bookmarkBrowserHelp": {
         "message": "ここからブックマークにアクセスすることができます。中でもお気に入りのブックマークはドラッグで右のエリアに表示ことができます。"
     }, 
+    "bookmarkBrowserPin": {
+        "message": "Show as main", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "bookmarkBrowserTitle": {
         "message": "ブックマーク"
+    }, 
+    "bookmarkBrowserTop": {
+        "message": "Home", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "bookmarkControlsHelpMsg": {
+        "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'.", 
+        "remark": "NEED TRANSLATION"
     }, 
     "clearClosedText": {
         "message": "クリア"
@@ -23,16 +47,44 @@
     "description": {
         "message": "Chromeのスタートページを新鮮でカスタマイズ可能にします。簡単にブックマークや閉じたタブにアクセスできます。ブラウズしながらメモを取ることもできます。"
     }, 
+    "fontColorOptionTitle": {
+        "message": "Font Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "fontColorSelectionTips": {
+        "message": "Select your font color:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "name": {
         "message": "Incredible StartPage - より使いやすいChromeのスタートページ"
     }, 
+    "postTo": {
+        "message": "Post to", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "recentlyClosedTitle": {
         "message": "閉じたタブ"
+    }, 
+    "shareToCalendar": {
+        "message": "Calendar", 
+        "remark": "NEED TRANSLATION"
     }, 
     "shareToMail": {
         "message": "Gmailから送信"
     }, 
     "toggleOptionsBtn": {
         "message": "オプション"
+    }, 
+    "wallpaperOptionTitle": {
+        "message": "Wallpapers", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeCustomTips": {
+        "message": "Or use a gradient as the background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeSelectionTips": {
+        "message": "Choose wallpaper from a theme:", 
+        "remark": "NEED TRANSLATION"
     }
 }

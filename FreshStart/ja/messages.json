@@ -1,4 +1,8 @@
 {
+    "cancel": {
+        "message": "Cancel", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clickToRestore": {
         "message": "クリックしてセッション '$name$' を新しいウインドウで復元", 
         "placeholders": {
@@ -6,6 +10,14 @@
                 "content": "$1"
             }
         }
+    }, 
+    "confirm": {
+        "message": "Confirm", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "confirmDeleteQuestion": {
+        "message": "Are you sure to remove this sessions?", 
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs": {
         "message": "コンタクト:"
@@ -36,8 +48,24 @@
     "enableCrashRecovery": {
         "message": "クラッシュリカバリーを有効化"
     }, 
+    "export": {
+        "message": "Export", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "exportedSessionCopyTips": {
+        "message": "Ctrl+c or Cmd+c to copy your session", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "extensionBrowserActionTitle": {
         "message": "FreshStart - Cross Browser Session Manager", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importedSessionTips": {
+        "message": "Paste your session here", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "middleClickTips": {
+        "message": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac).", 
         "remark": "NEED TRANSLATION"
     }, 
     "minutes": {
@@ -62,6 +90,10 @@
     }, 
     "optionsBackupPeriodOutOfRange": {
         "message": "バックアップ周期は、1分以内または999分以上に設定することはできません。"
+    }, 
+    "optionsDateFormat": {
+        "message": "Date format:", 
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsEnableCrashRecovery": {
         "message": "クラッシュリカバリーを有効化"
@@ -100,6 +132,14 @@
     }, 
     "saveSession": {
         "message": "セッションを保存"
+    }, 
+    "sessionTextBoxClose": {
+        "message": "Close", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "sessionTextBoxImport": {
+        "message": "Import session", 
+        "remark": "NEED TRANSLATION"
     }, 
     "smEditCancel": {
         "message": "キャンセル"

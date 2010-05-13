@@ -2,6 +2,10 @@
     "cannotLockPage": {
         "message": "Não é possível bloquear esta página"
     }, 
+    "clearRecentlyClosedTabsHistory": {
+        "message": "Clear recently closed tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clickToOpen": {
         "message": "Clique para abrir \"$title$\"", 
         "placeholders": {
@@ -12,10 +16,6 @@
     }, 
     "description": {
         "message": "Uma nova forma de navegar pelas suas abas. Acesse facilmente suas abas mais usadas, relacionadas e fechadas. Também permite bloquear abas."
-    }, 
-    "extensionPageActionTitle": {
-        "message": "TabJump!", 
-        "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
         "message": "Usadas frequentemente"
@@ -32,6 +32,10 @@
     }, 
     "name": {
         "message": "TabJump - Navegador de abas inteligente"
+    }, 
+    "pageActionTitle": {
+        "message": "TabJump!", 
+        "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTabs": {
         "message": "Fechadas recentemente"

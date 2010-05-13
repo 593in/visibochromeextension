@@ -1,4 +1,8 @@
 {
+    "addTab": {
+        "message": "Add new tab", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "days": {
         "message": "$days$ 日前", 
         "placeholders": {
@@ -47,6 +51,10 @@
     "name": {
         "message": "TwitterWatch - リアルタイムツイッター更新"
     }, 
+    "newTab": {
+        "message": "[NEW]", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "noTweetsFound": {
         "message": "ツイートが見つかりません！"
     }, 
@@ -80,6 +88,10 @@
     "retweet": {
         "message": "リツイート"
     }, 
+    "search": {
+        "message": "Search", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "searching": {
         "message": "検索中"
     }, 
@@ -97,11 +109,23 @@
     "severalWeeks": {
         "message": "数週間前"
     }, 
+    "stopSearch": {
+        "message": "Stop this search", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "tooManyTabs": {
+        "message": "Maximum 5 tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "twitterWatch": {
         "message": "TwitterWatch", 
         "remark": "NEED TRANSLATION"
     }, 
     "updateMessage": {
         "message": "TwitterWatchが更新されました。クリックして更新内容を確認。"
+    }, 
+    "useLastTab": {
+        "message": "Please use the [NEW] tab first", 
+        "remark": "NEED TRANSLATION"
     }
 }

@@ -102,5 +102,23 @@
     },
     "messageTooLong": {
         "message": "The message is too long!"
+    },
+    "addTab": {
+        "message": "Add new tab"
+    },
+    "tooManyTabs": {
+        "message": "Maximum 5 tabs"
+    },
+    "useLastTab": {
+        "message": "Please use the [NEW] tab first"
+    },
+    "newTab": {
+        "message": "[NEW]"
+    },
+    "search": {
+        "message": "Search"
+    },
+    "stopSearch": {
+        "message": "Stop this search"
     }
 }

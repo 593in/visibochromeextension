@@ -3,6 +3,18 @@
         "message": "Back", 
         "remark": "NEED TRANSLATION"
     }, 
+    "backgroundColorCustomTips": {
+        "message": "Or choose a custom background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorOptionTitle": {
+        "message": "Background Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorSelectionTips": {
+        "message": "Select a theme color:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "bookmarkBarHelpContent": {
         "message": "This area shows the items in your bookmark toolbar, folders are hidden.", 
         "remark": "NEED TRANSLATION"
@@ -12,11 +24,22 @@
         "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBrowserHelp": {
-        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right", 
+        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right"
+    }, 
+    "bookmarkBrowserPin": {
+        "message": "Show as main", 
         "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBrowserTitle": {
         "message": "Bookmarks", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "bookmarkBrowserTop": {
+        "message": "Home", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "bookmarkControlsHelpMsg": {
+        "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'.", 
         "remark": "NEED TRANSLATION"
     }, 
     "clearClosedText": {
@@ -31,20 +54,47 @@
         "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
         "remark": "NEED TRANSLATION"
     }, 
+    "fontColorOptionTitle": {
+        "message": "Font Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "fontColorSelectionTips": {
+        "message": "Select your font color:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "name": {
         "message": "Incredible StartPage - Productive Start Page for Chrome!", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "postTo": {
+        "message": "Post to", 
         "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTitle": {
         "message": "Closed", 
         "remark": "NEED TRANSLATION"
     }, 
-    "shareToMail": {
-        "message": "Post to Gmail", 
+    "shareToCalendar": {
+        "message": "Calendar", 
         "remark": "NEED TRANSLATION"
+    }, 
+    "shareToMail": {
+        "message": "Post to Gmail"
     }, 
     "toggleOptionsBtn": {
         "message": "Options", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperOptionTitle": {
+        "message": "Wallpapers", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeCustomTips": {
+        "message": "Or use a gradient as the background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeSelectionTips": {
+        "message": "Choose wallpaper from a theme:", 
         "remark": "NEED TRANSLATION"
     }
 }

@@ -5,7 +5,7 @@
     "description": {
         "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too."
     },
-    "extensionPageActionTitle": {
+    "pageActionTitle": {
         "message": "TabJump!"
     },
     "loading": {
@@ -51,5 +51,8 @@
     },
     "cannotLockPage": {
         "message": "Cannot lock this page"
+    },
+    "clearRecentlyClosedTabsHistory": {
+        "message": "Clear recently closed tabs"
     }
 }

@@ -1,4 +1,8 @@
 {
+    "cancel": {
+        "message": "Cancel", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clickToRestore": {
         "message": "Cliquez pour restaurer la session '$name$' dans une nouvelle fenêtre", 
         "placeholders": {
@@ -6,6 +10,14 @@
                 "content": "$1"
             }
         }
+    }, 
+    "confirm": {
+        "message": "Confirm", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "confirmDeleteQuestion": {
+        "message": "Are you sure to remove this sessions?", 
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs": {
         "message": "Contactez nous:"
@@ -35,12 +47,27 @@
     "enableCrashRecovery": {
         "message": "Activer le récupérateur de crash"
     }, 
+    "export": {
+        "message": "Export", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "exportedSessionCopyTips": {
+        "message": "Ctrl+c or Cmd+c to copy your session", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "extensionBrowserActionTitle": {
         "message": "FreshStart - Gestionnaire de Session Multi Navigateurs"
     }, 
-    "minutes": {
-        "message": "minutes", 
+    "importedSessionTips": {
+        "message": "Paste your session here", 
         "remark": "NEED TRANSLATION"
+    }, 
+    "middleClickTips": {
+        "message": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac).", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "minutes": {
+        "message": "minutes"
     }, 
     "mySession": {
         "message": "Ma Session"
@@ -61,6 +88,10 @@
     }, 
     "optionsBackupPeriodOutOfRange": {
         "message": "Le délai de sauvegarde automatique ne peut pas être plus court qu'une minute ou plus grand que 999 minutes"
+    }, 
+    "optionsDateFormat": {
+        "message": "Date format:", 
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsEnableCrashRecovery": {
         "message": "Activer le récupérateur de crash"
@@ -99,6 +130,14 @@
     }, 
     "saveSession": {
         "message": "Sauvegarder la Session"
+    }, 
+    "sessionTextBoxClose": {
+        "message": "Close", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "sessionTextBoxImport": {
+        "message": "Import session", 
+        "remark": "NEED TRANSLATION"
     }, 
     "smEditCancel": {
         "message": "Annuler"

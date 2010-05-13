@@ -1,4 +1,8 @@
 {
+    "addTab": {
+        "message": "Add new tab", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "days": {
         "message": "$days$ дней назад", 
         "placeholders": {
@@ -51,6 +55,10 @@
         "message": "TwitterWatch - Real Time Twitter Update", 
         "remark": "NEED TRANSLATION"
     }, 
+    "newTab": {
+        "message": "[NEW]", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "noTweetsFound": {
         "message": "Ничего не найдено!"
     }, 
@@ -90,6 +98,10 @@
         "message": "Retweet", 
         "remark": "NEED TRANSLATION"
     }, 
+    "search": {
+        "message": "Search", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "searching": {
         "message": "Searching", 
         "remark": "NEED TRANSLATION"
@@ -109,11 +121,23 @@
     "severalWeeks": {
         "message": "Несколько недель назад"
     }, 
+    "stopSearch": {
+        "message": "Stop this search", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "tooManyTabs": {
+        "message": "Maximum 5 tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "twitterWatch": {
         "message": "TwitterWatch", 
         "remark": "NEED TRANSLATION"
     }, 
     "updateMessage": {
         "message": "Плагин TwitterWatch был обновалён, нажмите здесь для просмотра нововведений и изменений"
+    }, 
+    "useLastTab": {
+        "message": "Please use the [NEW] tab first", 
+        "remark": "NEED TRANSLATION"
     }
 }

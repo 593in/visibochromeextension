@@ -2,6 +2,10 @@
     "cannotLockPage": {
         "message": "Seite kann nicht gesperrt werden"
     }, 
+    "clearRecentlyClosedTabsHistory": {
+        "message": "Clear recently closed tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clickToOpen": {
         "message": "Klicken Sie zum Öffnen \"$title$\"", 
         "placeholders": {
@@ -12,10 +16,6 @@
     }, 
     "description": {
         "message": "Eine neue Möglichkeit zwischen Registerkarten (Tabs) zu navigieren. Einfacher Zugriff auf die am häufigsten verwendeten Tabs, damit assoziierten Tabs und geschlossenen Tabs. Ermöglicht ebenfalls das Sperren von Registerkarten."
-    }, 
-    "extensionPageActionTitle": {
-        "message": "TabJump!", 
-        "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
         "message": "Frequently used tabs", 
@@ -33,6 +33,10 @@
     }, 
     "name": {
         "message": "TabJump - Intelligenter Tab-Navigator"
+    }, 
+    "pageActionTitle": {
+        "message": "TabJump!", 
+        "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTabs": {
         "message": "Recently closed tabs", 

@@ -2,6 +2,18 @@
     "backToParentText": {
         "message": "Voltar"
     }, 
+    "backgroundColorCustomTips": {
+        "message": "Or choose a custom background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorOptionTitle": {
+        "message": "Background Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorSelectionTips": {
+        "message": "Select a theme color:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "bookmarkBarHelpContent": {
         "message": "Aqui estão as páginas da sua barra de favoritos, as pastas estão ocultas"
     }, 
@@ -11,8 +23,20 @@
     "bookmarkBrowserHelp": {
         "message": "Esta caixa permite que você rapidamente navegue em seus favoritos. Você pode arrastar os mais importantes para a caixa a direita."
     }, 
+    "bookmarkBrowserPin": {
+        "message": "Show as main", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "bookmarkBrowserTitle": {
         "message": "Favoritos"
+    }, 
+    "bookmarkBrowserTop": {
+        "message": "Home", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "bookmarkControlsHelpMsg": {
+        "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'.", 
+        "remark": "NEED TRANSLATION"
     }, 
     "clearClosedText": {
         "message": "Limpar"
@@ -23,16 +47,44 @@
     "description": {
         "message": "Uma nova e customizável guia inicial para o Chrome. Encontre facilmente seus favoritos e guias fechadas recentemente. Faça anotações enquanto navega."
     }, 
+    "fontColorOptionTitle": {
+        "message": "Font Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "fontColorSelectionTips": {
+        "message": "Select your font color:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "name": {
         "message": "Incredible StartPage - Nova guia produtiva para o Chrome!"
     }, 
+    "postTo": {
+        "message": "Post to", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "recentlyClosedTitle": {
         "message": "Fechadas"
+    }, 
+    "shareToCalendar": {
+        "message": "Calendar", 
+        "remark": "NEED TRANSLATION"
     }, 
     "shareToMail": {
         "message": "Postar no Gmail"
     }, 
     "toggleOptionsBtn": {
         "message": "Opções"
+    }, 
+    "wallpaperOptionTitle": {
+        "message": "Wallpapers", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeCustomTips": {
+        "message": "Or use a gradient as the background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeSelectionTips": {
+        "message": "Choose wallpaper from a theme:", 
+        "remark": "NEED TRANSLATION"
     }
 }

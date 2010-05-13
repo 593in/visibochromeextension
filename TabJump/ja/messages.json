@@ -2,6 +2,10 @@
     "cannotLockPage": {
         "message": "このページをロックできません"
     }, 
+    "clearRecentlyClosedTabsHistory": {
+        "message": "Clear recently closed tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clickToOpen": {
         "message": "\"$title$\"を開きます", 
         "placeholders": {
@@ -12,10 +16,6 @@
     }, 
     "description": {
         "message": "タブをナビゲートする新しい方法です。よく使うタブ、関連するタブ、閉じられたタブに簡単にアクセスできます。タブのロックもできます。"
-    }, 
-    "extensionPageActionTitle": {
-        "message": "TabJump!", 
-        "remark": "NEED TRANSLATION"
     }, 
     "frequentlyUsedTabs": {
         "message": "よく使うタブ"
@@ -32,6 +32,10 @@
     }, 
     "name": {
         "message": "TabJump - 洗練されたタブナビゲーター"
+    }, 
+    "pageActionTitle": {
+        "message": "TabJump!", 
+        "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTabs": {
         "message": "最近閉じたタブ"

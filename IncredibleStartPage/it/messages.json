@@ -1,50 +1,90 @@
 {
     "backToParentText": {
-        "message": "Back", 
+        "message": "Indietro"
+    }, 
+    "backgroundColorCustomTips": {
+        "message": "Or choose a custom background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorOptionTitle": {
+        "message": "Background Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorSelectionTips": {
+        "message": "Select a theme color:", 
         "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBarHelpContent": {
-        "message": "This area shows the items in your bookmark toolbar, folders are hidden.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Quest'area mostra gli oggetti contenuti nella barra dei segnalibri, le cartelle sono nascoste"
     }, 
     "bookmarkBarHelpDismiss": {
-        "message": "[Close]", 
-        "remark": "NEED TRANSLATION"
+        "message": "[Chiudi]"
     }, 
     "bookmarkBrowserHelp": {
-        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right", 
+        "message": "Questo box permette di navigare velocemente tra i segnalibri. Puoi trascinare i più importanti nel box a destra"
+    }, 
+    "bookmarkBrowserPin": {
+        "message": "Show as main", 
         "remark": "NEED TRANSLATION"
     }, 
     "bookmarkBrowserTitle": {
-        "message": "Bookmarks", 
+        "message": "Segnalibri"
+    }, 
+    "bookmarkBrowserTop": {
+        "message": "Home", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "bookmarkControlsHelpMsg": {
+        "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'.", 
         "remark": "NEED TRANSLATION"
     }, 
     "clearClosedText": {
-        "message": "Clear", 
-        "remark": "NEED TRANSLATION"
+        "message": "Pulisci"
     }, 
     "defaultNotepadText": {
-        "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Grazie per aver scelto \nIncredible StartPage!\n \nTQuesto è lo spazio per le note. Qui puoi scrivere i tuoi appunti"
     }, 
     "description": {
-        "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
+        "message": "Una nuova start page per Chrome personalizzabile, Cerca con semplicità tra i segnalibri e le schede chiuse. Prendi appunti mentre navighi"
+    }, 
+    "fontColorOptionTitle": {
+        "message": "Font Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "fontColorSelectionTips": {
+        "message": "Select your font color:", 
         "remark": "NEED TRANSLATION"
     }, 
     "name": {
-        "message": "Incredible StartPage - Productive Start Page for Chrome!", 
+        "message": "Incredible StartPage - Start Page produttiva per Chrome!"
+    }, 
+    "postTo": {
+        "message": "Post to", 
         "remark": "NEED TRANSLATION"
     }, 
     "recentlyClosedTitle": {
-        "message": "Closed", 
+        "message": "Chiuso"
+    }, 
+    "shareToCalendar": {
+        "message": "Calendar", 
         "remark": "NEED TRANSLATION"
     }, 
     "shareToMail": {
-        "message": "Post to Gmail", 
-        "remark": "NEED TRANSLATION"
+        "message": "Invia a Gmail"
     }, 
     "toggleOptionsBtn": {
-        "message": "Options", 
+        "message": "Opzioni"
+    }, 
+    "wallpaperOptionTitle": {
+        "message": "Wallpapers", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeCustomTips": {
+        "message": "Or use a gradient as the background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeSelectionTips": {
+        "message": "Choose wallpaper from a theme:", 
         "remark": "NEED TRANSLATION"
     }
 }

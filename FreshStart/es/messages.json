@@ -1,4 +1,8 @@
 {
+    "cancel": {
+        "message": "Cancel", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clickToRestore": {
         "message": "Click para restaurar la sesión '$name$' en una nueva ventana", 
         "placeholders": {
@@ -6,6 +10,14 @@
                 "content": "$1"
             }
         }
+    }, 
+    "confirm": {
+        "message": "Confirm", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "confirmDeleteQuestion": {
+        "message": "Are you sure to remove this sessions?", 
+        "remark": "NEED TRANSLATION"
     }, 
     "contactUs": {
         "message": "Cont&aacute;ctanos:"
@@ -36,8 +48,24 @@
     "enableCrashRecovery": {
         "message": "Habilitar recuperación por cerrado inesperado"
     }, 
+    "export": {
+        "message": "Export", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "exportedSessionCopyTips": {
+        "message": "Ctrl+c or Cmd+c to copy your session", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "extensionBrowserActionTitle": {
         "message": "FreshStart - Administrador de sesiones entre varios navegadores"
+    }, 
+    "importedSessionTips": {
+        "message": "Paste your session here", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "middleClickTips": {
+        "message": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac).", 
+        "remark": "NEED TRANSLATION"
     }, 
     "minutes": {
         "message": "minutos"
@@ -60,6 +88,10 @@
     }, 
     "optionsBackupPeriodOutOfRange": {
         "message": "El tiempo entre backups no puede ser más corto que 1 minuto o más largo que 999"
+    }, 
+    "optionsDateFormat": {
+        "message": "Date format:", 
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsEnableCrashRecovery": {
         "message": "Habilitar Recuperaci&oacute;n en caso de cierre incorrecto"
@@ -98,6 +130,14 @@
     }, 
     "saveSession": {
         "message": "Guardar sesi&oacute;n"
+    }, 
+    "sessionTextBoxClose": {
+        "message": "Close", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "sessionTextBoxImport": {
+        "message": "Import session", 
+        "remark": "NEED TRANSLATION"
     }, 
     "smEditCancel": {
         "message": "Cancel", 

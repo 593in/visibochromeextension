@@ -2,6 +2,10 @@
     "addNewColumn": {
         "message": "[Füge neue Spalte hinzu]"
     }, 
+    "addNewColumnButton": {
+        "message": "Add", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "advancedFeatures": {
         "message": "Erweiterte Funktionen"
     }, 
@@ -13,6 +17,10 @@
     }, 
     "clearAll": {
         "message": "[Lösche alle Tabs]"
+    }, 
+    "clearAllButton": {
+        "message": "Clear", 
+        "remark": "NEED TRANSLATION"
     }, 
     "clickToClose": {
         "message": "Schliessen"
@@ -151,6 +159,14 @@
     }, 
     "removeThisColumn": {
         "message": "[Lösche diese Spalte]"
+    }, 
+    "removeThisColumnButton": {
+        "message": "Remove", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "removeThisColumnDisabled": {
+        "message": "This column cannot be removed", 
+        "remark": "NEED TRANSLATION"
     }, 
     "shortcut1": {
         "message": "Benutze folgendes Tastaturkürzel, um das TMT Fenster hervorzurufen: STRG-"

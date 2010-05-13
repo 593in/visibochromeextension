@@ -1,6 +1,9 @@
 {
     "addNewColumn": {
-        "message": "[Add New Column]", 
+        "message": "[Add New Column]"
+    }, 
+    "addNewColumnButton": {
+        "message": "Add", 
         "remark": "NEED TRANSLATION"
     }, 
     "advancedFeatures": {
@@ -16,7 +19,10 @@
         "remark": "NEED TRANSLATION"
     }, 
     "clearAll": {
-        "message": "[Clear All]", 
+        "message": "[Clear All]"
+    }, 
+    "clearAllButton": {
+        "message": "Clear", 
         "remark": "NEED TRANSLATION"
     }, 
     "clickToClose": {
@@ -196,7 +202,14 @@
         "remark": "NEED TRANSLATION"
     }, 
     "removeThisColumn": {
-        "message": "[Remove This Column]", 
+        "message": "[Remove This Column]"
+    }, 
+    "removeThisColumnButton": {
+        "message": "Remove", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "removeThisColumnDisabled": {
+        "message": "This column cannot be removed", 
         "remark": "NEED TRANSLATION"
     }, 
     "shortcut1": {

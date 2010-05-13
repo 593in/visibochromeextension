@@ -1,4 +1,8 @@
 {
+    "cancel": {
+        "message": "Cancel", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clickToRestore": {
         "message": "Click to restore session '$name$' in new window", 
         "placeholders": {
@@ -6,6 +10,14 @@
                 "content": "$1"
             }
         }, 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "confirm": {
+        "message": "Confirm", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "confirmDeleteQuestion": {
+        "message": "Are you sure to remove this sessions?", 
         "remark": "NEED TRANSLATION"
     }, 
     "contactUs": {
@@ -45,13 +57,28 @@
         "message": "Enable crash recovery", 
         "remark": "NEED TRANSLATION"
     }, 
+    "export": {
+        "message": "Export", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "exportedSessionCopyTips": {
+        "message": "Ctrl+c or Cmd+c to copy your session", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "extensionBrowserActionTitle": {
         "message": "FreshStart - Cross Browser Session Manager", 
         "remark": "NEED TRANSLATION"
     }, 
-    "minutes": {
-        "message": "minutes", 
+    "importedSessionTips": {
+        "message": "Paste your session here", 
         "remark": "NEED TRANSLATION"
+    }, 
+    "middleClickTips": {
+        "message": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac).", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "minutes": {
+        "message": "minutes"
     }, 
     "mySession": {
         "message": "My Session", 
@@ -76,6 +103,10 @@
     }, 
     "optionsBackupPeriodOutOfRange": {
         "message": "Backup period cannot be shorter than 1 minute or larger than 999 minutes", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "optionsDateFormat": {
+        "message": "Date format:", 
         "remark": "NEED TRANSLATION"
     }, 
     "optionsEnableCrashRecovery": {
@@ -125,6 +156,14 @@
     }, 
     "saveSession": {
         "message": "Save Session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "sessionTextBoxClose": {
+        "message": "Close", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "sessionTextBoxImport": {
+        "message": "Import session", 
         "remark": "NEED TRANSLATION"
     }, 
     "smEditCancel": {

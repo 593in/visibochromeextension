@@ -21,10 +21,19 @@
         "message": "Click to restore"
     },
     "addNewColumn": {
-        "message": "[Add New Column]"
+        "message": "Add New Column"
+    },
+    "addNewColumnButton": {
+        "message": "Add"
     },
     "removeThisColumn": {
-        "message": "[Remove This Column]"
+        "message": "Remove This Column"
+    }, 
+    "removeThisColumnButton": {
+        "message": "Remove"
+    }, 
+    "removeThisColumnDisabled": {
+        "message": "This column cannot be removed"
     }, 
     "areYouSure": {
         "message": "Are you sure?"
@@ -33,7 +42,10 @@
         "message": "OK"
     },
     "clearAll": {
-        "message": "[Clear All]"
+        "message": "Clear All Items in this Column"
+    },
+    "clearAllButton": {
+        "message": "Clear"
     },
     "newColumn": {
         "message": "New Column"
