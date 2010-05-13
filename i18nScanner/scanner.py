@@ -14,7 +14,7 @@ visibochromeextensionBasePath = path
 productNames = ['FreshStart', 'FriendsMural', 'IncredibleStartPage', 'TabJump', 'TooManyTabs', 'TwitterWatch']
 
 # langList should not include en
-langList = ['ja', 'ru', 'es', 'it', 'pt', 'pt_BR', 'de', 'fr', 'zh_TW']
+langList = ['ja', 'ru', 'es', 'it', 'pt', 'pt_BR', 'de', 'fr', 'zh_TW', 'cs']
 
 # loop each folder
 for productName in productNames:

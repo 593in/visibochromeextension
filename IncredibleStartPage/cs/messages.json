@@ -1,0 +1,87 @@
+{
+    "backToParentText": {
+        "message": "Zpět"
+    }, 
+    "backgroundColorCustomTips": {
+        "message": "Or choose a custom background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorOptionTitle": {
+        "message": "Background Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "backgroundColorSelectionTips": {
+        "message": "Select a theme color:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "bookmarkBarHelpContent": {
+        "message": "Tato oblast ukazuje Tvou lištu záložek; složky jsou skryty."
+    }, 
+    "bookmarkBarHelpDismiss": {
+        "message": "[Zavřít]"
+    }, 
+    "bookmarkBrowserHelp": {
+        "message": "S tímto obdélníkem se snadno dostaneš k záložkám. Ty důležité lze přetáhnout do oblasti napravo.<br><br>Oblast vpravo bude nabízet jinou složku, pokud se k ní zde dostaneš a klikneš na 'Na nástěnku'."
+    }, 
+    "bookmarkBrowserPin": {
+        "message": "Na nástěnku"
+    }, 
+    "bookmarkBrowserTitle": {
+        "message": "Záložky"
+    }, 
+    "bookmarkBrowserTop": {
+        "message": "Domů"
+    }, 
+    "bookmarkControlsHelpMsg": {
+        "message": "Nyní lze přizpůsobit složku v pravém panelu - doklikej do preferované a klikni na 'Na nástěnku'."
+    }, 
+    "clearClosedText": {
+        "message": "Vymazat"
+    }, 
+    "defaultNotepadText": {
+        "message": "Děkujeme za nainstalování\nNeuvěřitelné startovní stránky!\n \nTohle je Tvůj zápisník, kam můžeš zapisovat poznámky!"
+    }, 
+    "description": {
+        "message": "Nová a přizpůsobitelná startovní stránka pro Chrome. Snadno najdi záložky a zavřené karty. Piš si poznámky při brouzdání."
+    }, 
+    "fontColorOptionTitle": {
+        "message": "Font Color", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "fontColorSelectionTips": {
+        "message": "Select your font color:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "name": {
+        "message": "Neuvěřitelná startovní stránka - produktivní nová karta pro Chrome!"
+    }, 
+    "postTo": {
+        "message": "Post to", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "recentlyClosedTitle": {
+        "message": "Uzavřené"
+    }, 
+    "shareToCalendar": {
+        "message": "Calendar", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "shareToMail": {
+        "message": "Poslat Gmailem"
+    }, 
+    "toggleOptionsBtn": {
+        "message": "Nastav"
+    }, 
+    "wallpaperOptionTitle": {
+        "message": "Wallpapers", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeCustomTips": {
+        "message": "Or use a gradient as the background:", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "wallpaperThemeSelectionTips": {
+        "message": "Choose wallpaper from a theme:", 
+        "remark": "NEED TRANSLATION"
+    }
+}
