@@ -35,8 +35,24 @@
     "bookmarkControlsHelpMsg": {
         "message": "Nyní lze přizpůsobit složku v pravém panelu - doklikej do preferované a klikni na 'Na nástěnku'."
     }, 
+    "chromeBuggedText": {
+        "message": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab.", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "chromeSyncBug": {
+        "message": "This Chrome version does not support sync feature.", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "clearClosedText": {
         "message": "Vymazat"
+    }, 
+    "closeBtn": {
+        "message": "Cancel", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "contactUs": {
+        "message": "Contact us at", 
+        "remark": "NEED TRANSLATION"
     }, 
     "defaultNotepadText": {
         "message": "Děkujeme za nainstalování\nNeuvěřitelné startovní stránky!\n \nTohle je Tvůj zápisník, kam můžeš zapisovat poznámky!"
@@ -52,8 +68,76 @@
         "message": "Select your font color:", 
         "remark": "NEED TRANSLATION"
     }, 
+    "gmailAccount": {
+        "message": "Gmail Account", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "googleAppsAccount": {
+        "message": "Google Apps account, Domain", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "googleAppsAccountDescription": {
+        "message": "Enter only your Apps domain without \"http\", e.g., abcapps.com", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "incredibleStartPage": {
+        "message": "Incredible StartPage", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "incredibleStartPageDescription": {
+        "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/2010/03/incredible-startpage-for-chrome.html'>Click here</a> for a simple tutorial.", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "maximumRecentlyClosedTabs": {
+        "message": "Maximum recently closed tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "message": {
+        "message": "Please type your custom wallpaper URL:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "name": {
         "message": "Neuvěřitelná startovní stránka - produktivní nová karta pro Chrome!"
+    }, 
+    "notRememberClosedTabs": {
+        "message": "Do not remember closed tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "noteUpdatedAtOtherPlacesText": {
+        "message": "The note has been updated from other places, please reload this page.", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "notepadFont": {
+        "message": "Notepad Font", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "notepadSync": {
+        "message": "Notepad Sync", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "notepadSyncDescription": {
+        "message": "Sync the notepad content with Google Accounts", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "notepadSyncDescription2": {
+        "message": "Chrome Bookmark Sync must be enabled first, click <a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a> for more information", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "option": {
+        "message": "Options", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "optionsEffect": {
+        "message": "Setting is effective after reload your startpage.", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "optionsSaved": {
+        "message": "Saved", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "pagetitle": {
+        "message": "Incredible StartPage Options", 
+        "remark": "NEED TRANSLATION"
     }, 
     "postTo": {
         "message": "Post to", 
@@ -61,6 +145,18 @@
     }, 
     "recentlyClosedTitle": {
         "message": "Uzavřené"
+    }, 
+    "save": {
+        "message": "Save", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "saveBtn": {
+        "message": "Save", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "shareNotepadTo": {
+        "message": "Share notepad to", 
+        "remark": "NEED TRANSLATION"
     }, 
     "shareToCalendar": {
         "message": "Calendar", 

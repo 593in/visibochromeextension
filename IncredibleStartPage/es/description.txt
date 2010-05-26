@@ -1,21 +1,18 @@
-(Translated with Google Translate - English version here http://goo.gl/qCOW
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+Incredible StartPage es una alternativa a la página de inicio de Chrome. Sitúa tus marcadores favoritos en un bonito panel, y disfruta de útiles características.
 
-StartPage Increíble es una producción de reemplazo de páginas de inicio de Chrome. Ponga todos sus favoritos en un marco incomparable, y disfrutar de nuestras características prácticas!
-
-Como se ha visto en DownloadSquad. http://goo.gl/iyYe
+Puedes ver lo que cuentan de nosotros en DownloadSquad. http://goo.gl/iyYe
 
 Características
-- Tema de color personalizable
-- Acceso fácil a tus marcadores favoritos en un marco de grandes
-- Simple cerrado ficha de recuperación
-- Tome notas y después a Gmail con un solo clic
+- Tema con colores personalizables
+- Acceso fácil a tus marcadores favoritos en un panel de gran tamaño
+- Recupera las pestaña cerradas fácilmente
+- Tome notas y después envíalas a Gmail con un solo clic
 
-Ver un tutorial completo en nuestro blog http://goo.gl/zHxq
+Puedes ver un tutorial completo en nuestro blog http://goo.gl/zHxq
 
-Descargo de responsabilidad
-- Debido a las limitaciones de Chrome, las extensiones no puede restaurar la historia de las pestañas cerradas. Si usted necesita de la historia de una pestaña cerrada hace poco, puede pulsar Ctrl + Shift + T para abrir una por una.
-- FYI: Para volver a la página de inicio original de Chrome, basta con ir a "extensión" del menú "llave", y deshabilitar / desinstalar la extensión.
+Disclaimer
+- Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, you can press Ctrl+Shift+T to reopen them one by one.
+- FYI: To get back Chrome's original start page, just go to "Extension" from the "Wrench" menu, and disable/uninstall the extension. 
 
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 License: http://www.visibotech.com/license/incrediblestartpage.html

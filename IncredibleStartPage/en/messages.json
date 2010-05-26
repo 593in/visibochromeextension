@@ -74,6 +74,78 @@
     },
     "wallpaperThemeCustomTips":{
         "message":"Or use a gradient as the background:"
+    },
+    "chromeSyncBug":{
+        "message":"This Chrome version does not support sync feature."
+    },
+    "pagetitle": {
+        "message": "Incredible StartPage Options"
+    },
+    "incredibleStartPage": {
+        "message": "Incredible StartPage"
+    },
+    "incredibleStartPageDescription": {
+        "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/2010/03/incredible-startpage-for-chrome.html'>Click here</a> for a simple tutorial."
+    },
+    "option": {
+        "message": "Options"
+    },
+    "notepadFont": {
+        "message": "Notepad Font"
+    },
+    "maximumRecentlyClosedTabs": {
+        "message": "Maximum recently closed tabs"
+    },
+    "notRememberClosedTabs": {
+        "message": "Do not remember closed tabs"
+    },
+    "notepadSync": {
+        "message": "Notepad Sync"
+    },
+    "notepadSyncDescription": {
+        "message": "Sync the notepad content with Google Accounts"
+    },
+    "notepadSyncDescription2": {
+        "message": "Chrome Bookmark Sync must be enabled first, click <a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a> for more information"
+    },
+    "shareNotepadTo":{
+        "message": "Share notepad to"
+    },
+    "gmailAccount": {
+        "message": "Gmail Account"
+    },
+    "googleAppsAccount": {
+        "message": "Google Apps account, Domain"
+    },
+    "googleAppsAccountDescription": {
+        "message": "Enter only your Apps domain without \"http\", e.g., abcapps.com"
+    },
+    "save": {
+        "message": "Save"
+    },
+    "optionsSaved": {
+        "message": "Saved"
+    },
+    "optionsEffect": {
+        "message": "Setting is effective after reload your startpage."
+    },
+    "contactUs": {
+        "message": "Contact us at"
+    },
+    "message": {
+        "message": "Please type your custom wallpaper URL:"
+    },
+    "closeBtn": {
+        "message": "Cancel"
+    },
+    "saveBtn": {
+        "message": "Save"
+    },
+    "noteUpdatedAtOtherPlacesText": {
+        "message": "The note has been updated from other places, please reload this page."
+    },
+    "chromeBuggedText": {
+        "message": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab."
     }
 }
 
