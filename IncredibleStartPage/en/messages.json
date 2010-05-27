@@ -103,22 +103,22 @@
         "message": "Notepad Sync"
     },
     "notepadSyncDescription": {
-        "message": "Sync the notepad content with Google Accounts"
+        "message": "Sync notepad contents with your Google Account"
     },
     "notepadSyncDescription2": {
-        "message": "Chrome Bookmark Sync must be enabled first, click <a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a> for more information"
+        "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information"
     },
     "shareNotepadTo":{
-        "message": "Share notepad to"
+        "message": "Post notes to"
     },
     "gmailAccount": {
-        "message": "Gmail Account"
+        "message": "Google Account"
     },
     "googleAppsAccount": {
-        "message": "Google Apps account, Domain"
+        "message": "Google Apps Account, Domain"
     },
     "googleAppsAccountDescription": {
-        "message": "Enter only your Apps domain without \"http\", e.g., abcapps.com"
+        "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com"
     },
     "save": {
         "message": "Save"

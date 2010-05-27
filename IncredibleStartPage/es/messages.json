@@ -64,15 +64,15 @@
         "message": "Selecciona el color de la fuenta:"
     }, 
     "gmailAccount": {
-        "message": "Gmail Account", 
+        "message": "Google Account", 
         "remark": "NEED TRANSLATION"
     }, 
     "googleAppsAccount": {
-        "message": "Google Apps account, Domain", 
+        "message": "Google Apps Account, Domain", 
         "remark": "NEED TRANSLATION"
     }, 
     "googleAppsAccountDescription": {
-        "message": "Enter only your Apps domain without \"http\", e.g., abcapps.com", 
+        "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com", 
         "remark": "NEED TRANSLATION"
     }, 
     "incredibleStartPage": {
@@ -111,11 +111,11 @@
         "remark": "NEED TRANSLATION"
     }, 
     "notepadSyncDescription": {
-        "message": "Sync the notepad content with Google Accounts", 
+        "message": "Sync notepad contents with your Google Account", 
         "remark": "NEED TRANSLATION"
     }, 
     "notepadSyncDescription2": {
-        "message": "Chrome Bookmark Sync must be enabled first, click <a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a> for more information", 
+        "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information", 
         "remark": "NEED TRANSLATION"
     }, 
     "option": {
@@ -149,7 +149,7 @@
         "remark": "NEED TRANSLATION"
     }, 
     "shareNotepadTo": {
-        "message": "Share notepad to", 
+        "message": "Post notes to", 
         "remark": "NEED TRANSLATION"
     }, 
     "shareToCalendar": {
