@@ -156,7 +156,8 @@
         "message": "Calendario"
     }, 
     "shareToMail": {
-        "message": "Enviar a Gmail"
+        "message": "Gmail", 
+        "remark": "NEED TRANSLATION"
     }, 
     "toggleOptionsBtn": {
         "message": "Opciones del tema"

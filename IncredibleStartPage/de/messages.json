@@ -175,7 +175,8 @@
         "remark": "NEED TRANSLATION"
     }, 
     "shareToMail": {
-        "message": "Post to Gmail"
+        "message": "Gmail", 
+        "remark": "NEED TRANSLATION"
     }, 
     "toggleOptionsBtn": {
         "message": "Theme Options", 

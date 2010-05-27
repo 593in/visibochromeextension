@@ -166,7 +166,8 @@
         "remark": "NEED TRANSLATION"
     }, 
     "shareToMail": {
-        "message": "Gmailから送信"
+        "message": "Gmail", 
+        "remark": "NEED TRANSLATION"
     }, 
     "toggleOptionsBtn": {
         "message": "Theme Options", 

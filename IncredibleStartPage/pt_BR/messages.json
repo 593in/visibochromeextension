@@ -166,7 +166,8 @@
         "remark": "NEED TRANSLATION"
     }, 
     "shareToMail": {
-        "message": "Postar no Gmail"
+        "message": "Gmail", 
+        "remark": "NEED TRANSLATION"
     }, 
     "toggleOptionsBtn": {
         "message": "Theme Options", 
