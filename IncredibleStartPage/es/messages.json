@@ -1,4 +1,8 @@
 {
+    "advancedOptionsBtn": {
+        "message": "Advanced Options", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "backToParentText": {
         "message": "Volver"
     }, 

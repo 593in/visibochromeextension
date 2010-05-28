@@ -69,7 +69,7 @@
         "message": "Nieuw met FreshStart? Bezoek dan onze website <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!"
     },
     "minutes":{
-        "message": "minuten"
+        "message": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine."
     },
     "optionsBackupPeriodOutOfRange":{
         "message": "De back-up periode kan niet korter zijn dan 1 minuut of langer 999 minuten"

@@ -68,7 +68,8 @@
         "remark": "NEED TRANSLATION"
     }, 
     "minutes": {
-        "message": "minutos"
+        "message": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine.", 
+        "remark": "NEED TRANSLATION"
     }, 
     "mySession": {
         "message": "Mi Sesión"

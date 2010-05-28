@@ -1,202 +1,156 @@
 {
     "cancel": {
-        "message": "Cancel", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cancella"
     }, 
     "clickToRestore": {
-        "message": "Click to restore session '$name$' in new window", 
+        "message": "Clicca per ripristinare la sessione '$name$' in una nuova finestra", 
         "placeholders": {
             "name": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "confirm": {
-        "message": "Confirm", 
-        "remark": "NEED TRANSLATION"
+        "message": "Conferma"
     }, 
     "confirmDeleteQuestion": {
-        "message": "Are you sure to remove this sessions?", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sei sicuro di voler rimuovere questa sessione?"
     }, 
     "contactUs": {
-        "message": "Contact us:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Contattaci:"
     }, 
     "contactUs2": {
-        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a>!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Suggerimenti? Elogi? Adorate? Visitateci <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>qua</a>!"
     }, 
     "contactUs3": {
-        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Problemi? Difetti? Visitateci<a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>qua</a> as well. We often need screenshots and your OS/Chrome version."
     }, 
     "contactUs4": {
-        "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "remark": "NEED TRANSLATION"
+        "message": "Apprezziamo tutti i commenti costruttivii in un linguaggio civile. *wink*"
     }, 
     "copyright": {
-        "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "NEED TRANSLATION"
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Pagina iniziale</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
     }, 
     "crashRestoreTitle": {
-        "message": "Restore Previous Session", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ripristina la sessione precedente"
     }, 
     "description": {
-        "description": "The extension description", 
-        "message": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.", 
-        "remark": "NEED TRANSLATION"
+        "description": "Descrizione dell’estensione", 
+        "message": "Hai bisogno di una gestione semplice delle sessioni? Molti utenti sullo stesso Chrome? FreshStart è un semplice gestore di sessioni browser."
     }, 
     "edit": {
-        "message": "Edit", 
-        "remark": "NEED TRANSLATION"
+        "message": "Modifica"
     }, 
     "enableCrashRecovery": {
-        "message": "Enable crash recovery", 
-        "remark": "NEED TRANSLATION"
+        "message": "Abilita il recupero da crash"
     }, 
     "export": {
-        "message": "Export", 
-        "remark": "NEED TRANSLATION"
+        "message": "Esporta"
     }, 
     "exportedSessionCopyTips": {
-        "message": "Ctrl+c or Cmd+c to copy your session", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ctrl+c o Cmd+c per copiare la tua sessione"
     }, 
     "extensionBrowserActionTitle": {
-        "message": "FreshStart - Cross Browser Session Manager", 
-        "remark": "NEED TRANSLATION"
+        "message": "FreshStart – Gestore di Sessioni Browser"
     }, 
     "importedSessionTips": {
-        "message": "Paste your session here", 
-        "remark": "NEED TRANSLATION"
+        "message": "Incolla qui la tua sessione"
     }, 
     "middleClickTips": {
-        "message": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac).", 
-        "remark": "NEED TRANSLATION"
+        "message": "Suggerimento: come opzione predefinita FreshStart ripristina le tue sessioni in una nuova finestra. Per aprire una sessione nella finestra attuale, usa ctrl-clic (su Windows, Linux) o cmd-clic (su Mac)."
     }, 
     "minutes": {
-        "message": "minutes"
+        "message": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine.", 
+        "remark": "NEED TRANSLATION"
     }, 
     "mySession": {
-        "message": "My Session", 
-        "remark": "NEED TRANSLATION"
+        "message": "Mia Sessione"
     }, 
     "name": {
-        "description": "The extension name", 
-        "message": "FreshStart - Cross Browser Session Manager", 
-        "remark": "NEED TRANSLATION"
+        "message": "FreshStart – Gestore di Sessioni Browser"
     }, 
     "noSessionSaved": {
-        "message": "No sessions saved", 
-        "remark": "NEED TRANSLATION"
+        "message": "Nessuna sessione salvata"
     }, 
     "options": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opzioni"
     }, 
     "optionsBackupPeriod": {
-        "message": "Saves all your windows and tabs every ", 
-        "remark": "NEED TRANSLATION"
+        "message": "Salva ogni tua finestra e scheda"
     }, 
     "optionsBackupPeriodOutOfRange": {
-        "message": "Backup period cannot be shorter than 1 minute or larger than 999 minutes", 
-        "remark": "NEED TRANSLATION"
+        "message": "Il periodo di backup non può essere più corto di 1 minuto o più lungo di 999 minuti"
     }, 
     "optionsDateFormat": {
-        "message": "Date format:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Formato data:"
     }, 
     "optionsEnableCrashRecovery": {
-        "message": "Enable Crash Recovery", 
-        "remark": "NEED TRANSLATION"
+        "message": "Abilita il recupero da crash"
     }, 
     "optionsNewUserTips": {
-        "message": "New to FreshStart? Visit our <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Nuovo in FreshStart? Visita la nostra <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Pagina di Benvenuto</a>!"
     }, 
     "optionsPageTitle": {
-        "message": "FreshStart Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opzioni FreshStart"
     }, 
     "optionsSaved": {
-        "message": "Options saved", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opzioni salvate"
     }, 
     "remove": {
-        "message": "Remove", 
-        "remark": "NEED TRANSLATION"
+        "message": "Rimuovi"
     }, 
     "restorePreviousSession": {
-        "message": "Restore previous session", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ripristina la sessione precedente"
     }, 
     "restoreSavedWindow": {
-        "message": "Saved Window ($count$) - click to restore this window", 
+        "message": "Finestra salvata ($count$) – clicca per ripristinare questa finestra", 
         "placeholders": {
             "count": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "restoreSession": {
-        "message": "Restore Session", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ripristina Sessione"
     }, 
     "restoreSession2": {
-        "message": "Click to open in new window, ctrl-click (Win, Linux) or cmd-click (Mac) to open in current window", 
-        "remark": "NEED TRANSLATION"
+        "message": "Clicca per aprire in una nuova finestra, ctrl-clic (Win, Linux) o cmd-clic (Mac) per aprire nella finestra corrente"
     }, 
     "save": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "Salva"
     }, 
     "saveSession": {
-        "message": "Save Session", 
-        "remark": "NEED TRANSLATION"
+        "message": "Salva Sessione"
     }, 
     "sessionTextBoxClose": {
-        "message": "Close", 
-        "remark": "NEED TRANSLATION"
+        "message": "Chiudi"
     }, 
     "sessionTextBoxImport": {
-        "message": "Import session", 
-        "remark": "NEED TRANSLATION"
+        "message": "Importa sessione"
     }, 
     "smEditCancel": {
-        "message": "Cancel", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cancella"
     }, 
     "smEditSave": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "Salva"
     }, 
     "smHeadingNew": {
-        "message": "Tabs to Add (check to add)", 
-        "remark": "NEED TRANSLATION"
+        "message": "Schede da aggiungere (spunta per aggiungere)"
     }, 
     "smHeadingSaved": {
-        "message": "Saved Tabs (uncheck to remove)", 
-        "remark": "NEED TRANSLATION"
+        "message": "Schede Salvate (togli la spunta per rimuovere)"
     }, 
     "smHeadingTitle": {
-        "message": "Title", 
-        "remark": "NEED TRANSLATION"
+        "message": "Titolo"
     }, 
     "smSaveList": {
-        "message": "Uncheck tabs that you don't want to be saved.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Togli la spunta dalle schede che non vuoi che vengano salvate."
     }, 
     "smSaveToggle": {
-        "message": "Toggle Selection", 
-        "remark": "NEED TRANSLATION"
+        "message": "Alterna Selezione"
     }, 
     "supportUs": {
-        "message": "Support our development and<br>share to your friends!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Supporta il nostro sviluppo e <br>condiviti con gli amici!"
     }, 
     "tabsCount": {
         "message": " ($count$ tabs)", 
@@ -208,7 +162,6 @@
         "remark": "NEED TRANSLATION"
     }, 
     "updatedMessage": {
-        "message": "FreshStart is updated, click here to see what's new", 
-        "remark": "NEED TRANSLATION"
+        "message": "FreshStart è aggiornato, clicca qua per vedere cosa c’è di nuovo"
     }
 }

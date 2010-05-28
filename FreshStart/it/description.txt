@@ -1,20 +1,15 @@
-(Translated with Google Translate - English version here http://goo.gl/Ix4a
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+Gestisci la tua sessione browser facilmente con FreshStart. Se hai diversi insiemi di siti web che per te sono importanti a lavoro, a casa o in qualsiasi altro contesto, oppure se ci sono diversi utenti che usano il tuo browser Chrome, dovresti provare questa estensione Chrome!
 
-Gestisci la tua sessione di navigazione facilmente con FreshStart! Se si dispone di diversi insiemi di siti web che ti interessano al lavoro, a casa o in momenti diversi, o se si dispone di più utenti sul tuo Chrome, si dovrebbe dare a questo una prova!
+Nuove caratteristiche nella versione 1.4:
+- Importazione ed esportazione delle sessioni. Puoi esportare le tue sessioni come testo normale, mandarle ad un amico o importarle da un altro computer.
+- Aggiunta una finestra di dialogo per la cancellazione delle sessioni.
 
-New in 1.3
-- Editing di seduta è qui! Facilmente si fondono nuove schede in una sessione esistente o rimuovere le schede indesiderati
-- Aggiunto un pulsante per selezionare tutti i / le schede nessuno da uno scatto
-
-Caratteristiche
-- Salvare tutte le schede aperte per una nuova sessione, a mano o scegliere cosa essere salvato
-- Le sessioni vengono salvati nel "FreshStart Sessions" nella cartella dei preferiti, consente di sincronizzare con altri computer
-- Recupero di Crash - autosave le finestre ogni pochi minuti
-- Ripristino configurazione di una sessione in una nuova finestra, o si fondono con la finestra corrente da ctrl-click (Windows, Linux) o cmd-click (Mac).
-
-Prossimi Caratteristiche
-- Meglio sessione di modifica di dialogo
+Caratteristiche:
+- Salva tutte le schede aperte in una nuova sessione o tieni selezionato solo le schede che vuoi salvare.
+- Le sessioni vengono salvate nella cartella "FreshStart Sessions" tra i preferiti, permettendoti di sincronizzarle con altri computer.
+- Recupero dei crash - le tue finestre vengono salvate ogni pochi minuti.
+- Riapri una sessione in una nuova finestra, o uniscila con la finestra corrente con ctrl-click (Windows, Linux) o cmd-click (Mac).
+- Puoi modificare facilmente la sessione e aggiungere nuove schede alle sessioni esistenti.
 
 If you like FreshStart, check out our other extensions too!
 - Incredible StartPage http://goo.gl/he9o **NEW**
