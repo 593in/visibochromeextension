@@ -102,7 +102,8 @@
         "message": "Hm, nessuna risposta da quella scheda. O è un pannello di sistema, o è occupata..."
     }, 
     "ok": {
-        "message": "OK"
+        "message": "OK", 
+        "remark": "NEED TRANSLATION"
     }, 
     "openOptionPage": {
         "message": "Apri la Pagina delle Opzioni"
@@ -111,7 +112,8 @@
         "message": "Opzioni"
     }, 
     "optionsNo": {
-        "message": "No"
+        "message": "No", 
+        "remark": "NEED TRANSLATION"
     }, 
     "optionsPageTitle": {
         "message": "TooManyTabs per Chrome - Optzioni"
@@ -159,7 +161,7 @@
         "message": "Rimuovi"
     }, 
     "removeThisColumnDisabled": {
-        "message": "Questa colonna non può essere rimossa”
+        "message": "Questa colonna non può essere rimossa"
     }, 
     "shortcut1": {
         "message": "Usa le scelte rapide da tastiera per richiamare la finestra di TooManyTabs: CTRL-"

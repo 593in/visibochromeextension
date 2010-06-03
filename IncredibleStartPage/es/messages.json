@@ -72,7 +72,8 @@
         "message": "Introduce sólo tu dominio de Google Appls sin \"www\", por ejemplo visibotech.com"
     }, 
     "incredibleStartPage": {
-        "message": "Incredible StartPage"
+        "message": "Incredible StartPage", 
+        "remark": "NEED TRANSLATION"
     }, 
     "incredibleStartPageDescription": {
         "message": "Incredible StartPage reemplaza tu página de inicio por defecto con una vista personalizable de tus marcadores, recordatorios y pestañas recientes.<br><a href='http://blog.visibotech.com/2010/03/incredible-startpage-for-chrome.html'>Haz clic aquí</a> para conocerlo."
@@ -135,7 +136,8 @@
         "message": "Calendario"
     }, 
     "shareToMail": {
-        "message": "Gmail"
+        "message": "Gmail", 
+        "remark": "NEED TRANSLATION"
     }, 
     "toggleOptionsBtn": {
         "message": "Opciones del tema"
