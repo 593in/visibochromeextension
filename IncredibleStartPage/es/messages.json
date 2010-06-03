@@ -1,7 +1,6 @@
 {
     "advancedOptionsBtn": {
-        "message": "Advanced Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opciones Avanzadas"
     }, 
     "backToParentText": {
         "message": "Volver"
@@ -16,7 +15,7 @@
         "message": "Selecciona un color para el tema:"
     }, 
     "bookmarkBarHelpContent": {
-        "message": "Esta área muestra los elementos de tu barra de marcadores, las carpetas no se muestran."
+        "message": "Esta zona muestra los elementos de tu barra de marcadores, las carpetas no se muestran."
     }, 
     "bookmarkBarHelpDismiss": {
         "message": "[Cerrar]"
@@ -37,23 +36,19 @@
         "message": "Puedes personalizar la carpeta que se mostrará en el panel de la derecha - navega a la carpeta y pulsa sobre 'Mostrar como principal'."
     }, 
     "chromeBuggedText": {
-        "message": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Los marcadores de Google Chrome no están listos aún. Por favor, cierre esta pestaña y abra la página de inicio en una nueva."
     }, 
     "chromeSyncBug": {
-        "message": "This Chrome version does not support sync feature.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Esta versión de Google Chrome no soporta la sincronización."
     }, 
     "clearClosedText": {
         "message": "Borrar"
     }, 
     "closeBtn": {
-        "message": "Cancel", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cancelar"
     }, 
     "contactUs": {
-        "message": "Contact us at", 
-        "remark": "NEED TRANSLATION"
+        "message": "Contacta con nosotros en"
     }, 
     "defaultNotepadText": {
         "message": "Gracias por instalar\nIncredible StartPage!\n \nÉste es tu bloc de notas. ¡Puedes tomar tus notas aquí!"
@@ -68,75 +63,58 @@
         "message": "Selecciona el color de la fuenta:"
     }, 
     "gmailAccount": {
-        "message": "Google Account", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cuenta de Google"
     }, 
     "googleAppsAccount": {
-        "message": "Google Apps Account, Domain", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cuenta de Google Apps, Dominio"
     }, 
     "googleAppsAccountDescription": {
-        "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com", 
-        "remark": "NEED TRANSLATION"
+        "message": "Introduce sólo tu dominio de Google Appls sin \"www\", por ejemplo visibotech.com"
     }, 
     "incredibleStartPage": {
-        "message": "Incredible StartPage", 
-        "remark": "NEED TRANSLATION"
+        "message": "Incredible StartPage"
     }, 
     "incredibleStartPageDescription": {
-        "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/2010/03/incredible-startpage-for-chrome.html'>Click here</a> for a simple tutorial.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Incredible StartPage reemplaza tu página de inicio por defecto con una vista personalizable de tus marcadores, recordatorios y pestañas recientes.<br><a href='http://blog.visibotech.com/2010/03/incredible-startpage-for-chrome.html'>Haz clic aquí</a> para conocerlo."
     }, 
     "maximumRecentlyClosedTabs": {
-        "message": "Maximum recently closed tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "Máximo de pestañas cerradas recientemente"
     }, 
     "message": {
-        "message": "Please type your custom wallpaper URL:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Por favor, introduzca la dirección URL de su fondo personalizado:"
     }, 
     "name": {
         "message": "Incredible StartPage - Página de inicio mejorada para Chrome!"
     }, 
     "notRememberClosedTabs": {
-        "message": "0 (Do not remember closed tabs)", 
-        "remark": "NEED TRANSLATION"
+        "message": "0 (No recordar pestañas cerradas)"
     }, 
     "noteUpdatedAtOtherPlacesText": {
-        "message": "The note has been updated from other places, please reload this page.", 
-        "remark": "NEED TRANSLATION"
+        "message": "esta nota ha sido actualizada desde otros lugares, por favor vuelva a cargar esta página."
     }, 
     "notepadFont": {
-        "message": "Notepad Font", 
-        "remark": "NEED TRANSLATION"
+        "message": "Fuente del bloc de notas"
     }, 
     "notepadSync": {
-        "message": "Notepad Sync", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sincronizar bloc de notas"
     }, 
     "notepadSyncDescription": {
-        "message": "Sync notepad contents with your Google Account", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sincronizar el contenido del bloc de notas con su cuenta de Google"
     }, 
     "notepadSyncDescription2": {
-        "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information", 
-        "remark": "NEED TRANSLATION"
+        "message": "La sincronización de marcadores de Google Chrome debe de estar activada, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] para más información"
     }, 
     "option": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opciones"
     }, 
     "optionsEffect": {
-        "message": "Setting is effective after reload your startpage.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Los cambios se harán efectivos cuando vuelva a cargar su página de inicio."
     }, 
     "optionsSaved": {
-        "message": "Saved", 
-        "remark": "NEED TRANSLATION"
+        "message": "Guardado"
     }, 
     "pagetitle": {
-        "message": "Incredible StartPage Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opciones de Incredible StartPage"
     }, 
     "postTo": {
         "message": "Enviar a"
@@ -145,23 +123,19 @@
         "message": "Cerrado"
     }, 
     "save": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "Guardar"
     }, 
     "saveBtn": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "Guardar"
     }, 
     "shareNotepadTo": {
-        "message": "Post notes to", 
-        "remark": "NEED TRANSLATION"
+        "message": "Postear notas en"
     }, 
     "shareToCalendar": {
         "message": "Calendario"
     }, 
     "shareToMail": {
-        "message": "Gmail", 
-        "remark": "NEED TRANSLATION"
+        "message": "Gmail"
     }, 
     "toggleOptionsBtn": {
         "message": "Opciones del tema"

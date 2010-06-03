@@ -1,22 +1,15 @@
-(Translated with Google Translate - English version here http://goo.gl/4Nyr
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
-
-FriendsMural è un client di Facebook con stile!
-
-New in 0.7:
-- Add "ama" in un click!
-- Commenta posti direttamente in Amici Mural
+L'estensione Chrome Murale Amici è un client Facebook con stile. 
 
 Caratteristiche:
-- Del tutto personale "Amico Murali" per mantenere aggiornato il tuo cari!
-- Un click per vedere i tuoi feed news direttamente nella proroga
-- Notifica degli aggiornamenti dalla barra degli strumenti Chrome
-- Sfondo personalizzato per i punti extra di stile
-- Tutorial a http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html
+- Murale Amici completamente personalizzabile per essere aggiornato sugli amici preferiti.
+- Un solo click per vedere i tuoi news feed direttamente dall'estensione.
+- Ricevi le notifiche di aggiornamento dalla barra di Chrome.
+- Leggi il tutorial su http://blog.visibotech.com/2010/02/facebook-friends-mural-for-google.html.
 
-Prossimi caratteristiche:
-- Aggiorna il tuo status da Friends Mural
-- Aggiungere pagine della ventola al Mural
+Nuove caratteristiche nella versione 0.8:
+- Aggiungi "mi piace" con un solo click.
+- Commenta i post direttamente da Murale Amici.
+- Aggiorna lo stato da Murale Amici.
 
 Try out our other extensions too!
 - Incredible StartPage http://goo.gl/he9o **NEW**

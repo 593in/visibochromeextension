@@ -1,29 +1,32 @@
-(Translated with Google Translate - English version here http://goo.gl/VEXV
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+Estensione Chrome per gestire le tue schede, migliorare la tua navigazione e mantenere la tua sanità di mente quando hai troppe schede aperte.
 
-Mai provato con 20 o più schede aperte in Chrome? Non si può nemmeno vedere la favicon delle schede, per non parlare dei titoli scheda! Se ciò accade a voi, TooManyTabs è un must-have extension che gestisce le schede, riduce la tab overflow, e salva la tua sanità mentale!
-
-Dai creatori di TooManyTabs per Firefox, TMT è venuto a Chrome per aiutare tutti i vostri bisogni scheda!
-
-New in 1.4
-- Mostra le schede da tutte le finestre
-- Tasto di scelta rapida personalizzato
+Se avete già provato ad avere pù di 20 schede Chrome aperte contemporaneamente, vi siete resi conto che non si vede nemmeno l'icona della scheda, e quindi nemmeno il titolo della scheda stessa.
+L'Estensione Troppe Schede Chrome serve proprio per gestire meglio questo elevato numero di schede ed è stato sviluppato dagli stessi creatori di TooManyTabs per Firefox
 
 Caratteristiche
-- Linea d'aria di tutte le schede aperte
-- Chiara anteprima dei contenuti di ciascuna scheda's (si riempie a poco a poco, come si usa)
-- Scheda Instant Search
-- Schede Ordina per data di creazione, di dominio o di un titolo
-- Ripristino configurazione di schede chiuse di recente
-- Sospendere le schede di inattività e di risparmiare memoria, organizzare con colonne personalizzate
-- Custom temi
+- Hai una vista panoramica di tutte le schede aperte
+- Hai una anteprima chiara del contenuto di ogni scheda che si aggiorna mentre si usa l'estensione
+- Ricerchi istantaneamente le schede
+- Ordini le schede per data di creazione, per dominio o per titolo
+- Ripristini le schede chiuse di recente
+- Sospendi le schede inutilizzate per salvare memoria,
+- Organizza le schede con colonne personalizzate
+- Personalizza i temi
+- Puoi ridimensionare la finestra
+- Puoi scegliere se mostrare il numero di schede sull'icona presente sulla barra degli strumenti Chrome
 
-Prossimi Caratteristiche
-- Ricerca schede sospesi
-- Il miglioramento della colonna Sospeso
+Novità nella versione 1.4
+- Visualizza le schede di tutte le finestre
+- Scelte rapide da tastiera personalizzabili
 
-Disclaimer
-- A causa di Chrome limitazioni, le estensioni non è possibile ripristinare la storia da schede chiuse. Se avete bisogno della storia da un tab chiuse di recente, è possibile premere Ctrl+Shift+T per riaprire uno per uno.
+Caratteristiche in corso di sviluppo
+- Ricerca delle schede sospese
+- Miglioramenti nelle colonne sospese
+
+Attenzione
+
+Per caratteristiche proprie di Chrome, le estensioni non possono ripristinare la cronologia delle schede chiuse.
+Se vuoi riaprire una scheda chiusa di recente, puoi premere i tasti Ctrl+Shift+T e riaprire le schede chiuse una per una.
 
 If you like TooManyTabs, check out our other extensions too!
 - Incredible StartPage http://goo.gl/he9o **NEW**

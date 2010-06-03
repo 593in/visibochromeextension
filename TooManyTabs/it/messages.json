@@ -3,253 +3,192 @@
         "message": "[Add New Column]"
     }, 
     "addNewColumnButton": {
-        "message": "Add", 
-        "remark": "NEED TRANSLATION"
+        "message": "Aggiungi"
     }, 
     "advancedFeatures": {
-        "message": "Advanced features", 
-        "remark": "NEED TRANSLATION"
+        "message": "Caratteristiche Avanzate"
     }, 
     "areYouSure": {
-        "message": "Are you sure?", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sei sicuro?"
     }, 
     "cancel": {
-        "message": "Cancel", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cancella"
     }, 
     "clearAll": {
         "message": "[Clear All]"
     }, 
     "clearAllButton": {
-        "message": "Clear", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cancella"
     }, 
     "clickToClose": {
-        "message": "Click to close", 
-        "remark": "NEED TRANSLATION"
+        "message": "Clicca per chiudere"
     }, 
     "clickToPop": {
-        "message": "Click to pop this tab to TooManyTabs column", 
-        "remark": "NEED TRANSLATION"
+        "message": "Clicca per mettere questa scheda su una colonna TooManyTabs"
     }, 
     "clickToRestore": {
-        "message": "Click to restore", 
-        "remark": "NEED TRANSLATION"
+        "message": "Clicca per ripristinare"
     }, 
     "contactUs": {
-        "message": "Contact Us:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Contattaci:"
     }, 
     "contactUs1": {
-        "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sugerimenti? Elogi? Apprezzamenti? Visitaci <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!"
     }, 
     "contactUs2": {
-        "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Problemi? Difetti? Visitaci <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>. Abbiamo bisogno di screenshot e la versione del tuo sistema operativo e di Chrome."
     }, 
     "contactUs3": {
-        "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "remark": "NEED TRANSLATION"
+        "message": "Apprezziamo tutti i commenti costruttivi in un linguaggio civile. *wink*"
     }, 
     "contactingTab": {
-        "message": "Contacting tab...", 
-        "remark": "NEED TRANSLATION"
+        "message": "Contattando la scheda..."
     }, 
     "copyright": {
-        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "NEED TRANSLATION"
+        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. Tutti i diritti riservati."
     }, 
     "crossWindow": {
-        "message": "Show tabs across windows:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Mostra le schede tra le finestre:"
     }, 
     "crossWindow1": {
-        "message": "Yes", 
-        "remark": "NEED TRANSLATION"
+        "message": "Si"
     }, 
     "crossWindow2": {
-        "message": "No (Default)", 
-        "remark": "NEED TRANSLATION"
+        "message": "No (Predefinito)"
     }, 
     "crossWindow3": {
-        "message": "Google Chrome for Mac / Linux do not support cross-window tab switching. If you try to switch to a tab in another window, that tab will be moved to the current window instead.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Google Chrome per Mac / Linux non supporta il passaggio delle schede da una finestra all’altra. Se provi a spostare una scheda in un’altra finestra, tale scheda verrà invece spostata nella finestra corrente."
     }, 
     "customRows1": {
-        "message": "Custom columns", 
-        "remark": "NEED TRANSLATION"
+        "message": "Colonne personalizzate"
     }, 
     "customRows2": {
-        "message": "Use default columns", 
-        "remark": "NEED TRANSLATION"
+        "message": "Usa colonne predefinite"
     }, 
     "customRows3": {
-        "message": "Enable custom columns", 
-        "remark": "NEED TRANSLATION"
+        "message": "Abilita colonne predefinite "
     }, 
     "customThemeColor": {
-        "message": "Custom theme color:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Colore di sfondo personalizzato:"
     }, 
     "description": {
-        "message": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Gestisci le tue schede, migliora la tua navigazione, e mantieni la tua sanità mentale quando hai tante schede aperte."
     }, 
     "find": {
-        "message": "Find", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cerca"
     }, 
     "justTypeIn": {
-        "message": "Just type in...", 
-        "remark": "NEED TRANSLATION"
+        "message": "Digita..."
     }, 
     "knownIssues": {
-        "message": "Known Issues - do not file bug-reports on these, we are communicating with Chrome team to resolve them:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Problemi Conosciuti – non mandateci rapporti su questi problemi, stiamo già comunicando con il gruppo Chrome per risolverli:"
     }, 
     "knownIssues1": {
-        "message": "Shortcut key does not work on Chrome's own pages (e.g. default homepage, option pages).", 
-        "remark": "NEED TRANSLATION"
+        "message": "Le scelte rapide da tastiera non funzionano sulle pagine di Chrome (ad es. . homepage predefinita, pagine di opzione)."
     }, 
     "knownIssues2": {
-        "message": "Chrome's own pages do not respond to TMT's wake up calls occasionally.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Di tanto in tanto le pagine di Chrome non rispondono alle chiamate di TooManyTabs."
     }, 
     "name": {
-        "message": "TooManyTabs for Chrome", 
-        "remark": "NEED TRANSLATION"
+        "message": "TooManyTabs per Chrome"
     }, 
     "newColumn": {
-        "message": "New Column", 
-        "remark": "NEED TRANSLATION"
+        "message": "Nuova colonna"
     }, 
     "nextColumn": {
-        "message": "Next column", 
-        "remark": "NEED TRANSLATION"
+        "message": "Prossima colonna"
     }, 
     "noResponse": {
-        "message": "Hm, no response from that tab. Either it is a system panel, or it's busy...", 
-        "remark": "NEED TRANSLATION"
+        "message": "Hm, nessuna risposta da quella scheda. O è un pannello di sistema, o è occupata..."
     }, 
     "ok": {
-        "message": "OK", 
-        "remark": "NEED TRANSLATION"
+        "message": "OK"
     }, 
     "openOptionPage": {
-        "message": "Open Option Page", 
-        "remark": "NEED TRANSLATION"
+        "message": "Apri la Pagina delle Opzioni"
     }, 
     "options": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opzioni"
     }, 
     "optionsNo": {
-        "message": "No", 
-        "remark": "NEED TRANSLATION"
+        "message": "No"
     }, 
     "optionsPageTitle": {
-        "message": "TooManyTabs for Chrome - Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "TooManyTabs per Chrome - Optzioni"
     }, 
     "optionsYes": {
-        "message": "Yes", 
-        "remark": "NEED TRANSLATION"
+        "message": "Si"
     }, 
     "popupWidth": {
-        "message": "Popup Width:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Larghezza della Finestra:"
     }, 
     "popupWidth1": {
-        "message": "Wide", 
-        "remark": "NEED TRANSLATION"
+        "message": "Altezza della Finestra:"
     }, 
     "popupWidth2": {
-        "message": "Narrow", 
-        "remark": "NEED TRANSLATION"
+        "message": "Stretta"
     }, 
     "popupWidth3": {
-        "message": "Small", 
-        "remark": "NEED TRANSLATION"
+        "message": "Piccola"
     }, 
     "previousColumn": {
-        "message": "Previous column", 
-        "remark": "NEED TRANSLATION"
+        "message": "Colonna precedente"
     }, 
     "quickSupport": {
-        "message": "Quick Support:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Supporto veloce:"
     }, 
     "quickSupport1": {
-        "message": "Latest updates, tips and video tutorials <a href='http://www.visibotech.com/TMTChrome/'>here</a>!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ultimi aggiornamenti, suggerimenti e video tutorial <a href='http://www.visibotech.com/TMTChrome/'>qua</a>!"
     }, 
     "quickSupport2": {
-        "message": "We do not collect any of your private information and never send them to any servers.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Non conserviamo nessuna delle vostre informazioni private e non le mandiamo mai a nessun server."
     }, 
     "recentlyClosedTip": {
-        "message": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Non saranno cancellati con la cronologia. Possono essere cancellati manualmente. Clicca sull’icona per un sotto-menu."
     }, 
     "recentlyClosedTitle": {
-        "message": "Recently Closed", 
-        "remark": "NEED TRANSLATION"
+        "message": "Recentemente chniusi"
     }, 
     "remove": {
-        "message": "Remove", 
-        "remark": "NEED TRANSLATION"
+        "message": "Rimuovi"
     }, 
     "removeThisColumn": {
         "message": "[Remove This Column]"
     }, 
     "removeThisColumnButton": {
-        "message": "Remove", 
-        "remark": "NEED TRANSLATION"
+        "message": "Rimuovi"
     }, 
     "removeThisColumnDisabled": {
-        "message": "This column cannot be removed", 
-        "remark": "NEED TRANSLATION"
+        "message": "Questa colonna non può essere rimossa”
     }, 
     "shortcut1": {
-        "message": "Use shortcut key to bring up TMT window: CTRL-", 
-        "remark": "NEED TRANSLATION"
+        "message": "Usa le scelte rapide da tastiera per richiamare la finestra di TooManyTabs: CTRL-"
     }, 
     "shortcut2": {
-        "message": "The shortcut key doesn't work when you are on system pages, like this option page. Some shortcuts may not work on certain operating systems (e.g. CTRL-A).", 
-        "remark": "NEED TRANSLATION"
+        "message": "La scelta rapida da tastiera non funziona quando sei su pagine di sistema, come questa pagina opzioni. Alcune scelte rapide da tastiera possono non funzionare su alcuni sistemi operativi (per es. CTRL-A)."
     }, 
     "showTabCount": {
-        "message": "Show tab count on the icon:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Mostra il conteggio delle schede sull’icona:"
     }, 
     "sortByAddress": {
-        "message": "Sort by Web Address", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ordina per Indirizzo Web"
     }, 
     "sortByName": {
-        "message": "Sort by Name", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ordina per Nome"
     }, 
     "sortByTime": {
-        "message": "Sort by Creation Time", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ordina per Cronologia"
     }, 
     "suspendedTabsTip": {
-        "message": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Metti qui le tue schede inattive per ridurre il sovraccarico. Verrà risparmiato spazio in memoria ma i form e i video non vengono salvati."
     }, 
     "suspendedTabsTitle": {
-        "message": "Suspended Tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "Schede Sospese"
     }, 
     "updateNotes": {
-        "message": "Click here for update notes", 
-        "remark": "NEED TRANSLATION"
+        "message": "Clicca qua per aggiornamenti"
     }, 
     "welcomeMessage": {
-        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visit our welcome page.</a>", 
-        "remark": "NEED TRANSLATION"
+        "message": "Nuovo in TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visita la nostra pagina di benvenuto.</a>"
     }
 }

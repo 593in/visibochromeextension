@@ -1,94 +1,71 @@
 {
     "browserActionTitle": {
-        "message": "Friends Mural for Facebook", 
-        "remark": "NEED TRANSLATION"
+        "message": "Murale Amici per Facebook"
     }, 
     "clear": {
-        "message": "Clear", 
-        "remark": "NEED TRANSLATION"
+        "message": "Pulisci"
     }, 
     "clickToAddFriend": {
-        "message": "Click to add this friend to Friends Mural", 
-        "remark": "NEED TRANSLATION"
+        "message": "Clicca per aggiungere questo amico a Murale Amici"
     }, 
     "clickToRemoveFriend": {
-        "message": "Click to remove this friend from Friends Mural", 
-        "remark": "NEED TRANSLATION"
+        "message": "Clicca per rimuovere questo amico da Murale Amici"
     }, 
     "comment": {
-        "message": "Comment", 
-        "remark": "NEED TRANSLATION"
+        "message": "Commenta"
     }, 
     "contactUs": {
-        "message": "Contact us:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Contattaci"
     }, 
     "contactUs2": {
-        "message": "Suggestions? Problems? Tell us in <a href='http://www.facebook.com/apps/application.php?id=269250262098'>here</a>!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Suggerimenti? Problemi? Raccontacelo <a href='http://www.facebook.com/apps/application.php?id=269250262098'>qua</a>!"
     }, 
     "contactUs3": {
-        "message": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sono ben accetti commenti costruttivi in un linguaggio civile. *wink*"
     }, 
     "copyright": {
-        "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "NEED TRANSLATION"
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. Tutti i diritti riservati."
     }, 
     "description": {
-        "message": "Friends Mural is a Facebook client with a new approach. You decide which friends to feature on your mural, and we will show you their latest updates!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Murale Amici è un client Facebook con un nuovo approccio. Tu decidi quali amici far comparire sul tuo murale, e noi ti mostreremo i loro ultimi aggiornamenti!"
     }, 
     "inputYourStatus": {
-        "message": "Write your new status", 
-        "remark": "NEED TRANSLATION"
+        "message": "Scrivi il tuo nuovo stato"
     }, 
     "name": {
-        "message": "Friends Mural for Facebook", 
-        "remark": "NEED TRANSLATION"
+        "message": "Murale Amici per Facebook"
     }, 
     "optionsLink": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opzioni"
     }, 
     "optionsPageTitle": {
-        "message": "Friends Mural for Facebook Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opzioni di Murale Amici per Facebook"
     }, 
     "optionsSaved": {
-        "message": "Options saved", 
-        "remark": "NEED TRANSLATION"
+        "message": "Opzioni salvate"
     }, 
     "ownerFeedIconStatusToggle": {
-        "message": "Toggle between friend status and your own status", 
-        "remark": "NEED TRANSLATION"
+        "message": "Passa tra lo stato degli amici e il tuo stato"
     }, 
     "postingComment": {
-        "message": "Posting...", 
-        "remark": "NEED TRANSLATION"
+        "message": "In spedizione..."
     }, 
     "save": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "Salva"
     }, 
     "share": {
-        "message": "Update Status", 
-        "remark": "NEED TRANSLATION"
+        "message": "Aggiorna lo stato"
     }, 
     "updatedMessage": {
-        "message": "Friends Mural for Facebook is updated, click here to see what's new", 
-        "remark": "NEED TRANSLATION"
+        "message": "Murale Amici per Facebook è aggiornato, clicca qua per vedere cosa c'è di nuovo"
     }, 
     "userLike": {
-        "message": "You like this", 
-        "remark": "NEED TRANSLATION"
+        "message": "Ti piace"
     }, 
     "viewAllComments": {
-        "message": "View all comments", 
-        "remark": "NEED TRANSLATION"
+        "message": "Guarda tutti i commenti"
     }, 
     "yourStatus": {
-        "message": "Your Status", 
-        "remark": "NEED TRANSLATION"
+        "message": "Il tuo stato"
     }
 }
