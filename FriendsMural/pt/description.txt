@@ -1,5 +1,10 @@
 FriendsMural é um cliente Facebook com estilo!
 
+New in 0.8:
+- Add "likes" in one click!
+- Comment on posts directly in Friends Mural
+- Update your status from Friends Mural
+
 Recursos:
 - Personaliza completamente o "Mural de Amigos", atualizando os contatos que você ama!
 - Com um clique é possível ver atualizações nesta extensão

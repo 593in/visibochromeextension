@@ -3,9 +3,9 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 Beheer uw sessie gemakkelijk met FreshStart! Als u verschillende sets van websites die voor u op het werk, thuis of op verschillende tijdstippen, of als u meerdere gebruikers op je Chrome, dient u dit een keer te proberen!
 
-Nieuw in 1.3
-- Sessie editing is hier! Gemakkelijk fuseren nieuwe tabbladen in een bestaande sessie of verwijderen van ongewenste tabbladen
-- Added een knop om alle / geen tabs te selecteren door een klik
+New in 1.4
+- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
+- Added confirmation dialogs when deleting sessions
 
 Bevat
 - Sla alle open tabbladen om een nieuwe sessie, of hand selecteren wat om gered te worden

@@ -2,6 +2,13 @@ Incredible StartPage è uno strumento di produttività che si sostituisce alla p
 
 Come già visto su DownloadSquad. http://goo.gl/iyYe
 
+New in 0.9
+- Notepad sync
+- Post notes to Google App accounts
+- More theme options, including using custom gradient as background
+- Bundled default wallpaper for faster loading
+- Recently closed tabs options
+
 Caratteristiche
 - Colori del tema personalizzabili
 - Accesso semplificato ai segnalibri in un frame di grandi dimensioni

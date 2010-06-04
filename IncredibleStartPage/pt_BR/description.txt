@@ -2,6 +2,13 @@ Incredible StartPage é uma produtiva extensão que aperfeiçoa a página "Nova 
 
 Como visto no DownloadSquad. http://goo.gl/iyYe
 
+New in 0.9
+- Notepad sync
+- Post notes to Google App accounts
+- More theme options, including using custom gradient as background
+- Bundled default wallpaper for faster loading
+- Recently closed tabs options
+
 Recursos
 - Tema de cores personalizável
 - Fácil acesso aos seus sites favoritos destacados por uma imagem personalizável

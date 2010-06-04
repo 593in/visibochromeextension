@@ -1,16 +1,18 @@
 TwitterWatch is the simplest tool to keep watch on hot Twitter keywords! Enter a keyword, press search, and you are done. TwitterWatch can coexist with other Twitter clients, without depleting update quotas.
 
-New in 0.7
-- Send tweets, retweet and reply directly from TwitterWatch!
+New in 0.8
+- Watch multiple keywords!
+- You can choose when to mark as read in options
 
 Features
 - Watch for latest tweets with keyword
 - Show update count in real time
 - Very light resource usage
 - Works nicely with other Twitter clients
+- Send tweets, retweet and reply directly from TwitterWatch!
 
 Try out our other extensions too!
-- Incredible StartPage http://goo.gl/he9o **NEW**
+- Incredible StartPage http://goo.gl/he9o
 - Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - FreshStart Session Manager: http://goo.gl/249h

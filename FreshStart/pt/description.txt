@@ -1,8 +1,8 @@
 Gerencie suas sessões de navegação facilmente com FreshStart! Se você visita diferentes tipos de sites que são importantes enquanto trabalha, em casa ou em outras horas, ainda que possua vários usuários utilizando o Chrome no seu computador, você deve tentar esta extensão!
 
-Novidades na versão 1.3
-- Permite editar sessões - adiciona ou remove abas de uma sessão já existente
-- Novo botão que permite selecionar todas ou nenhuma aba em um clique
+New in 1.4
+- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
+- Added confirmation dialogs when deleting sessions
 
 Recursos
 - Salve todas abas abertas em uma nova sessão, você também pode selecionar quais serão salvas manualmente

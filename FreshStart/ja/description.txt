@@ -1,8 +1,8 @@
 FreshStartを使えば、簡単にブラウザのセッションを管理することができます。仕事や自宅、いろんな場面で異なるウェブサイトのタブ履歴を管理したい場合、または複数のユーザでChromeを使っている場合など、是非ともトライしてみてください！
 
-1.3での新機能
-- セッションの編集ができます！簡単に既存のセッション履歴に新しいタブを追加、または不要なタブを削除することができます。
-- ワンクリックで、タブのすべて選択/すべて解除ができるボタンを追加しました。
+New in 1.4
+- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
+- Added confirmation dialogs when deleting sessions
 
 特長
 - 開いているすべてのタブを1つのセッションとして保存することが出来ます。または、保存の際に手動でタブを選択することもできます。

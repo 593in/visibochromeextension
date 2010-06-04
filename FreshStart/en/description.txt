@@ -1,20 +1,18 @@
 Manage your browsing session easily with FreshStart! If you have different sets of websites that matter to you at work, at home or at different times, or if you have multiple users on your Chrome, you should give this a try!
 
-New in 1.3
-- Session editing is here! Easily merge new tabs into an existing session or remove unwanted tabs
-- Added a button to select all/none tabs by one click
+New in 1.4
+- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
+- Added confirmation dialogs when deleting sessions
 
 Features
 - Save all open tabs to a new session, or hand select what to be saved
 - Sessions are saved in the "FreshStart Sessions" folder in bookmarks, allowing you to synchronize it with other computers
 - Crash recovery - autosave your windows every few minutes
 - Restore a session in a new window, or merge it with the current window by ctrl-click (Windows, Linux) or cmd-click (Mac).
-
-Upcoming features
-- Better edit session dialog
+- Session editing and easily merge new tabs into existing sessions
 
 If you like FreshStart, check out our other extensions too!
-- Incredible StartPage http://goo.gl/he9o **NEW**
+- Incredible StartPage http://goo.gl/he9o
 - Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - TwitterWatch: http://goo.gl/7AkW

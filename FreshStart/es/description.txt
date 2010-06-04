@@ -3,9 +3,9 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 Administre su sesión de navegación fácilmente con FreshStart! Si usted tiene diferentes conjuntos de sitios web que son importantes para usted en el trabajo, en casa o en diferentes momentos, o si tienes varios usuarios en su Chrome, debe dar a este un intento!
 
-Nuevo en el 1,3
-- Edición de la sesión está aquí! Combinar fácilmente las nuevas pestañas en una sesión existente o quitar las fichas no deseadas
-- Añadido un botón para seleccionar todos / ninguno aquí por un solo clic
+New in 1.4
+- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
+- Added confirmation dialogs when deleting sessions
 
 Características
 - Guardar todas las pestañas abiertas para una nueva sesión, o en la mano seleccionar lo que se guarden

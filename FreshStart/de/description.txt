@@ -3,9 +3,9 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 Verwalten Sie Ihre Browser-Sitzung leicht mit FreshStart! Wenn Sie verschiedene Arten von Websites, die Ihnen wichtig bei der Arbeit, zu Hause oder zu verschiedenen Zeiten, oder wenn Sie mehrere Benutzer auf Ihrem Chrome, sollten Sie diese einfach aus!
 
-Neu in 1.3
-- Session-Bearbeitung ist hier! Leicht vermischen neue Tabs in eine bestehende Sitzung oder Entfernen unerwünschter Registerkarten
-- Added eine Schaltfläche, um alle / keine Tabs mit einem Klick auswählen
+New in 1.4
+- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
+- Added confirmation dialogs when deleting sessions
 
 Merkmale
 - Speichern Sie alle geöffneten Registerkarten, um eine neue Sitzung starten, oder wählen Sie die Hand, was zu retten

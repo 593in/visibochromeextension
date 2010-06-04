@@ -2,6 +2,13 @@ Incredible StartPage ist ein produktiver Startseiten-Esatz für Chrome. Schenken
 
 Wie auf DownloadSquad gesehen: http://goo.gl/iyYe
 
+New in 0.9
+- Notepad sync
+- Post notes to Google App accounts
+- More theme options, including using custom gradient as background
+- Bundled default wallpaper for faster loading
+- Recently closed tabs options
+
 Funktionen:
 - anpassbares, farbiges Design
 - einfacher Zugriff auf Ihre Lesezeichen, welche sich in einem großen Rahmen befinden.

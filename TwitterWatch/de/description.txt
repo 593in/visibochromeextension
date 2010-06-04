@@ -3,8 +3,8 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 TwitterWatch ist das einfachste Instrument, um zu sehen an heißen Twitter Stichworte zu halten! Geben Sie ein Stichwort ein, drücken Sie suchen, und Sie sind fertig. TwitterWatch kann mit anderen Twitter-Clients existieren, ohne Abbau der Quoten aktualisieren.
 
-Neu in 0.7
-- Senden Sie tweets, retweet und direkt von TwitterWatch Antwort!
+New in 0.8
+- Watch multiple keywords!
 
 Merkmale
 - Achten Sie auf neuesten tweets mit Stichwort

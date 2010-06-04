@@ -5,6 +5,13 @@ Incredible StartPage是一個有建設性的開始頁面替換鉻。把所有您
 
 DownloadSquad 有介紹。 http://goo.gl/iyYe
 
+New in 0.9
+- Notepad sync
+- Post notes to Google App accounts
+- More theme options, including using custom gradient as background
+- Bundled default wallpaper for faster loading
+- Recently closed tabs options
+
 特徵
 - 自定義顏色主題
 - 輕鬆訪問您最喜愛的書籤在一個大框架
@@ -12,6 +19,9 @@ DownloadSquad 有介紹。 http://goo.gl/iyYe
 - 做筆記，並在使用Gmail後點擊一下鼠標
 
 看到完整教程我們的博客 http://goo.gl/zHxq
+
+- If you use ad-blockers such as AdBlock and AdThwart, you may need to disable them in the StartPage (add "newtab" and "ncdfeghkpohnalmpblddmnppfooljekh" to the whitelist)
+- If you get "Chrome Bookmarks are not ready", it means Chrome is still starting up, just wait a few seconds and reload Incredible StartPage
 
 免責聲明
 - 由於 Chrome 的限制，擴展無法還原歷史，關閉的分頁。如果您需要的歷史，最近關閉標籤，你可以按Ctrl + Shift + T鍵重新逐一。

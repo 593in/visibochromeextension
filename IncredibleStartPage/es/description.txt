@@ -2,6 +2,13 @@ Incredible StartPage es una alternativa a la página de inicio de Chrome. Sitúa
 
 Puedes ver lo que cuentan de nosotros en DownloadSquad. http://goo.gl/iyYe
 
+New in 0.9
+- Notepad sync
+- Post notes to Google App accounts
+- More theme options, including using custom gradient as background
+- Bundled default wallpaper for faster loading
+- Recently closed tabs options
+
 Características
 - Tema con colores personalizables
 - Acceso fácil a tus marcadores favoritos en un panel de gran tamaño

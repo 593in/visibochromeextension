@@ -1,8 +1,9 @@
 FriendsMural est un client redesigné pour Facebook !
 
-Nouveauté de la version 0.7:
-- Indiquez "J'aime" en un clic!
-- Commentez directement les posts de vos amis depuis Friends Mural
+New in 0.8:
+- Add "likes" in one click!
+- Comment on posts directly in Friends Mural
+- Update your status from Friends Mural
 
 Fonctionnalités:
 - "Friend Mural" est entièrement personalisable pour rester en contact avec vos amis préférés!

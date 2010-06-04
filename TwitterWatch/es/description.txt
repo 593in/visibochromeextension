@@ -3,8 +3,8 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 TwitterWatch es la más sencilla herramienta para vigilar caliente palabras Twitter! Introduzca una palabra clave, la búsqueda de prensa, y ya está. TwitterWatch puede coexistir con otros clientes de Twitter, sin cuotas de actualización de ozono.
 
-Nuevo en el 0,7
-- Enviar tweets, retweet y responder directamente de TwitterWatch!
+Nuevo en el 0,8
+- Watch multiple keywords!
 
 Características
 - Mira para los últimos tweets con la palabra clave

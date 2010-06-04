@@ -1,7 +1,7 @@
 TwitterWatch l'outil le plus simple pour garder un oeil sur des mots clés Twitter ! Entrez un mot clé, appuyez sur Recherche et c'est parti. TwitterWatch peut coexister avec d'autres clients Twitter , sans gêner la mise à jour de nouveauté.
 
-NNouveauté de la version 0.7
-- Envoyer des tweets, retweeter and répondez directement depuis TwitterWatch!
+New in 0.8
+- Watch multiple keywords!
 
 Fonctionnalités
 - Rester au courant des derniers Tweets grâce aux mots clés

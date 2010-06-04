@@ -3,9 +3,9 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 管理您的瀏覽會話容易與 FreshStart！如果您有兩套不同的網站，無論你在工作中，在家裡或在不同的時間，或者如果您有多個用戶在您的鉻，你應該試試這個！
 
-新的1.3
-- 會話編輯就在這裡！新標籤輕鬆合併到現有的會議或刪除不需要的標籤
-- 新增一個按鈕，選擇所有/無標籤的一次點擊
+New in 1.4
+- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
+- Added confirmation dialogs when deleting sessions
 
 特徵
 - 保存所有打開的標籤，一個新的會話，或手動選擇保存什麼

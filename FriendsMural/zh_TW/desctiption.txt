@@ -3,9 +3,10 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 FriendsMural是Facebook的客戶端與風格！
 
-新的0.7：
-- 添加“喜歡”的一按！
-- 評職位直接在朋友壁畫
+New in 0.8:
+- Add "likes" in one click!
+- Comment on posts directly in Friends Mural
+- Update your status from Friends Mural
 
 特點：
 - 完全個人的“朋友壁畫”，可以隨時了解您心愛的！

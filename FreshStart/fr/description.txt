@@ -1,8 +1,8 @@
 Gérez au mieux vos sessions de navigation facilement avec FreshStart! ! Si vous avez des groupes de sites web importants au travail comme à la maison, ou si vous avez plusieurs utilisateurs sur votre Google Chrome, vous devriez essayer cette extension!
 
-Nouveautés de la version 1.3
-- L'édition de session est arrivée! Regroupez facilement de nouveaux onglets dans une nouvelle session, ou supprimez des onglets non désirés
-- Ajout d'un bouton pour sélectionner tous/aucun onglets en un seul clic
+New in 1.4
+- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
+- Added confirmation dialogs when deleting sessions
 
 Fonctionnalités
 - Sauvegardez tous vos onglets ouverts dans une nouvelle session, ou sélectionnez à la main ceux que vous voulez

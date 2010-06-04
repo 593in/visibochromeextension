@@ -1,7 +1,9 @@
-Estensione Chrome per gestire le tue schede, migliorare la tua navigazione e mantenere la tua sanità di mente quando hai troppe schede aperte.
-
 Se avete già provato ad avere pù di 20 schede Chrome aperte contemporaneamente, vi siete resi conto che non si vede nemmeno l'icona della scheda, e quindi nemmeno il titolo della scheda stessa.
 L'Estensione Troppe Schede Chrome serve proprio per gestire meglio questo elevato numero di schede ed è stato sviluppato dagli stessi creatori di TooManyTabs per Firefox
+
+Novità nella versione 1.4
+- Visualizza le schede di tutte le finestre
+- Scelte rapide da tastiera personalizzabili
 
 Caratteristiche
 - Hai una vista panoramica di tutte le schede aperte
@@ -14,10 +16,6 @@ Caratteristiche
 - Personalizza i temi
 - Puoi ridimensionare la finestra
 - Puoi scegliere se mostrare il numero di schede sull'icona presente sulla barra degli strumenti Chrome
-
-Novità nella versione 1.4
-- Visualizza le schede di tutte le finestre
-- Scelte rapide da tastiera personalizzabili
 
 Caratteristiche in corso di sviluppo
 - Ricerca delle schede sospese

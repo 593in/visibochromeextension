@@ -1,10 +1,10 @@
-(Translated with Google Translate - English version here http://goo.gl/nxCC
+Translated with Google Translate - English version here http://goo.gl/nxCC
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 TwitterWatch è lo strumento più semplice per sorvegliare il caldo parole chiave Twitter! Immettere una parola chiave, di ricerca stampa, e si è fatto. TwitterWatch può coesistere con altri client di Twitter, senza quote di riduzione di aggiornamento.
 
-New in 0.7
-- Inviare tweets, retweet e risposta direttamente da TwitterWatch!
+New in 0.8
+- Watch multiple keywords!
 
 Caratteristiche
 - Guarda per tweets tardi con una parola chiave

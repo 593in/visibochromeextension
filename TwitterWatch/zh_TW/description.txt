@@ -3,8 +3,8 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 TwitterWatch是最簡單的工具，在炎熱的守望Twitter的關鍵字！輸入關鍵字，按搜索，你完成。 TwitterWatch可以共存與其他Twitter的客戶，不消耗更新配額。
 
-新的0.7
-- 發送啁啾聲，retweet並直接回复來自 TwitterWatch！
+New in 0.8
+- Watch multiple keywords!
 
 特徵
 - 留意最新的鳴叫與關鍵字
