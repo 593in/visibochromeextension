@@ -1,0 +1,16 @@
+Ýnanýlmaz Baþlangýç Sayfasý, Chrome için üretken bir baþlangýç sayfasýdýr. Beðendiðiniz yer imlerinizi güzel bir çerçeve içine alýn kullanýþlý özelliklerimiz ile eðlenin! DownloadSquad'da görüldüðü gibi. http://goo.gl/iyYe
+
+Features
+- Kiþiselleþtirilebilir renkli tema- Yer imlerinize geniþ bir çerçeve içinde kolayca ulaþýn- Kapatýlmýþ sekmeleri basitçe kurtarma- Notlar alýn ve tek týkla Gmail'e gönderin
+
+Blogumuzdaki tam dersimizi okuyun http://bit.ly/blK348
+
+Disclaimer
+- Chrome Sýnýrlamalarý nedeniyle, Bu uzantý geçmiþte kapatýlan sekmeleri geri yükleyemez.Eðer geçmiþte kapatýlan sekmeler ihtiyacýnýz varsa, Ctrl+Shift+T 'ye basarak, onlarý tek tek açabilirsiniz.- FYI: Chrome'ýn orjinal baþlangýç sayfasýna dönmek için, sadece "Ýngiliz Anahtarý" menüsünden "Uzantýlar"a gidin ve Devre dýþý býrak/Yüklemeyi Kaldýr'a týklayýn.
+
+
+Anahtar kelimeler, baþlangýçsayfasý, baþlangýç sayfasý, yer imleri, not defteri, kapanan sekmeleri geri al
+Lisans: http://www.visibotech.com/license/incrediblestartpage.html
+
+Emeði Geçenler:http://www.visibotech.com/chrome/credits.html
+

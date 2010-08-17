@@ -37,6 +37,10 @@
         "message": "Click to restore", 
         "remark": "NEED TRANSLATION"
     }, 
+    "confirm": {
+        "message": "Confirm", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "contactUs": {
         "message": "Contact Us:", 
         "remark": "NEED TRANSLATION"
@@ -97,8 +101,44 @@
         "message": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
         "remark": "NEED TRANSLATION"
     }, 
+    "export": {
+        "message": "Export", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "exportDescription": {
+        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "find": {
         "message": "Find", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "formatError": {
+        "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again.", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "import": {
+        "message": "Import", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importAndExport": {
+        "message": "Import/Export", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importDescription": {
+        "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importDescription2": {
+        "message": "Warning: You current columns and tabs will be overwritten", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importPageTitle": {
+        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importedSuccessfully": {
+        "message": "Columns and tabs imported successfully!", 
         "remark": "NEED TRANSLATION"
     }, 
     "justTypeIn": {
@@ -135,6 +175,10 @@
     }, 
     "ok": {
         "message": "OK", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "openImportAndExportPage": {
+        "message": "Open Import/Export Page", 
         "remark": "NEED TRANSLATION"
     }, 
     "openOptionPage": {
@@ -249,7 +293,6 @@
         "remark": "NEED TRANSLATION"
     }, 
     "welcomeMessage": {
-        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visit our welcome page.</a>", 
-        "remark": "NEED TRANSLATION"
+        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visit our welcome page.</a>"
     }
 }

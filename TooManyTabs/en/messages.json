@@ -65,6 +65,12 @@
     "options": {
         "message": "Options"
     },
+    "importAndExport": {
+        "message": "Import/Export"
+    },
+    "openImportAndExportPage": {
+        "message": "Open Import/Export Page"
+    },
     "find": {
         "message": "Find"    
     },
@@ -98,11 +104,14 @@
     "recentlyClosedTip": {
         "message": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu."
     },
+    "importPageTitle": {
+        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs"
+    },
     "optionsPageTitle": {
         "message": "TooManyTabs for Chrome - Options"
     },
     "welcomeMessage": {
-        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visit our welcome page.</a>"
+        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update150.html'>Visit our welcome page.</a>"
     },
     "popupWidth": {
         "message": "Popup Width:"
@@ -190,5 +199,29 @@
     },
     "copyright": {
         "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
+    },
+    "export": {
+        "message": "Export"
+    },
+    "import": {
+        "message": "Import"
+    },
+    "confirm": {
+        "message": "Confirm"
+    },
+    "formatError": {
+        "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again."
+    },
+    "importDescription": {
+        "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button."
+    },
+    "importDescription2": {
+        "message": "Warning: You current columns and tabs will be overwritten"
+    },
+    "exportDescription": {
+        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers."
+    },
+    "importedSuccessfully": {
+        "message": "Columns and tabs imported successfully!"
     }
 }

@@ -31,6 +31,10 @@
     "clickToRestore": {
         "message": "クリックして復元"
     }, 
+    "confirm": {
+        "message": "Confirm", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "contactUs": {
         "message": "コンタクト:"
     }, 
@@ -76,8 +80,44 @@
     "description": {
         "message": "たくさんのタブを開いたときに、タブの管理、ブラウジングの改善と整理をします。"
     }, 
+    "export": {
+        "message": "Export", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "exportDescription": {
+        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "find": {
         "message": "検索"
+    }, 
+    "formatError": {
+        "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again.", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "import": {
+        "message": "Import", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importAndExport": {
+        "message": "Import/Export", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importDescription": {
+        "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importDescription2": {
+        "message": "Warning: You current columns and tabs will be overwritten", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importPageTitle": {
+        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "importedSuccessfully": {
+        "message": "Columns and tabs imported successfully!", 
+        "remark": "NEED TRANSLATION"
     }, 
     "justTypeIn": {
         "message": "検索文字を入力..."
@@ -105,6 +145,10 @@
     }, 
     "ok": {
         "message": "OK", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "openImportAndExportPage": {
+        "message": "Open Import/Export Page", 
         "remark": "NEED TRANSLATION"
     }, 
     "openOptionPage": {
