@@ -18,6 +18,7 @@ build
 *.crx
 *.pem
 .*
+*.pyc
 
 syntax: regexp
 
