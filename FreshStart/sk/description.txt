@@ -1,0 +1,24 @@
+Spravujte vaše relácie prehliadania s FreshStart-om! Ak máte rozdielne súpravy webstránok na ktorých vám záleží v práci, doma alebo v rôzne časy, alebo máte viacej užívatelov na vašom Chrome, vyskúšajte toto!
+
+Nové v 1.4
+- Import a Export relácií! Exportujte vaše relácie ako čistý text, pošlite priateľovi alebo ich importujte na iný počítač
+- Pridané potvrdzovacie dialógy pri odstraňovaní relácií
+
+Funkcie
+- Uložte všetko do novej relácie, alebo vyberte čo sa má uložiť
+- Relácie sú uložené v "FreshStart Sessions" zložke v záložkách, takže ich môžete synchronizovať aj s inými počítačmi
+- Havarijná obnova - automaticky uloží vaše tabuľky každých niekoľko minút
+- Obnovte reláciu v novom okne, alebo ju zlúčte s aktuálnym oknom pomocou ctrl+klik (pre Windows, Linux) alebo cmd+klik (pre Mac).
+- Upravte uloženú reláciu a jednoducho zlúčte nové tabuľky do existujúcej uloženej relácie
+
+Ak sa vám páči FreshStart, prezrite si aj naše ostatné rozšírenia!
+- Incredible StartPage http://goo.gl/he9o
+- Friends Mural for Facebook http://goo.gl/bICN
+- TooManyTabs: http://goo.gl/AI2X
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
+
+Kľúčové slová: Správa relácií, správca relácií, prhliadač, obnova po havárií, obnova relácií, záložky, ranná káva
+Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
+Licencia: http://www.visibotech.com/license/freshstart.html
+Vývojári: http://www.visibotech.com/chrome/credits.html

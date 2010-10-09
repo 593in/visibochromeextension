@@ -1,0 +1,169 @@
+{
+    "cancel": {
+        "message": "Zruši"
+    }, 
+    "clickToRestore": {
+        "message": "Kliknite pre obnovenie relácie'$name$' v novom okne", 
+        "placeholders": {
+            "name": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "confirm": {
+        "message": "Potvrdi"
+    }, 
+    "confirmDeleteQuestion": {
+        "message": "Ste si istý, že chcete vymaza túto reláciu?"
+    }, 
+    "contactUs": {
+        "message": "Kontaktujte nás:"
+    }, 
+    "contactUs2": {
+        "message": "Návrh? Pochvala? Priazeò? Navštívte nás <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>TU</a>!"
+    }, 
+    "contactUs3": {
+        "message": "Problémy? Chyba? Navštívte nás <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>TU</a> tiež. Obvykle potrebujeme screenshot-y a vašu verziu OS/Chrome."
+    }, 
+    "contactUs4": {
+        "message": "Uvítame akúko¾vek konštruktívnu reakciu v civilizovanom jazyku. *žmurk*"
+    }, 
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. Všetky práva vyhradené."
+    }, 
+    "crashRestoreTitle": {
+        "message": "Obnovi predošlú reláciu"
+    }, 
+    "description": {
+        "description": "The extension description", 
+        "message": "Potrebujete jednoduchého správcu relácií? Nieko¾ko užívate¾ov na jednom úète? FreshStart je jednoduchý správca relácii pre mnohé prehliadaèe."
+    }, 
+    "edit": {
+        "message": "Upravi"
+    }, 
+    "enableCrashRecovery": {
+        "message": "Povoli obnovenie relácie po havárií"
+    }, 
+    "export": {
+        "message": "Exportova"
+    }, 
+    "exportedSessionCopyTips": {
+        "message": "Ctrl+c alebo Cmd+c na kopírovanie vašej relácie"
+    }, 
+    "extensionBrowserActionTitle": {
+        "message": "FreshStart - Jednoduchý správca relácii pre mnohé prehliadaèe"
+    }, 
+    "importedSessionTips": {
+        "message": "Sem vložte vašu reláciu "
+    }, 
+    "middleClickTips": {
+        "message": "Tipy: FreshStart obnoví reláciu štandartne v novom okne. Pre otvorenie relácie v aktuálnom okne, použite ctrl+klik (pre Windows, Linux) alebo cmd+klik (pre Mac)."
+    }, 
+    "minutes": {
+        "message": "minút.<br>Odporúèaných: 5 minút. Príliš èasté  <br> auto-ukladanie môže spomali váš poèítaè."
+    }, 
+    "mySession": {
+        "message": "Moja relácia"
+    }, 
+    "name": {
+        "description": "The extension name", 
+        "message": "FreshStart - Cross Browser Session Manager", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "noSessionSaved": {
+        "message": "Žiadne relácie nie sú uložené"
+    }, 
+    "options": {
+        "message": "Nastavenia"
+    }, 
+    "optionsBackupPeriod": {
+        "message": "Uloží všetky vaše tabu¾ky každých "
+    }, 
+    "optionsBackupPeriodOutOfRange": {
+        "message": "Zálohovacia perióda nemôže by kratšia ako 1 minútu, alebo dlhšia ako 999 minút"
+    }, 
+    "optionsDateFormat": {
+        "message": "Formát dátumu:"
+    }, 
+    "optionsEnableCrashRecovery": {
+        "message": "Povoli obnovenie relácie po havárií"
+    }, 
+    "optionsNewUserTips": {
+        "message": "Nový užívate¾ FreshStart-u? Navštívte našu <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>uvítaciu stránku</a>!"
+    }, 
+    "optionsPageTitle": {
+        "message": "FreshStart nastavenia"
+    }, 
+    "optionsSaved": {
+        "message": "Nastavenia uložené"
+    }, 
+    "remove": {
+        "message": "Vymaza"
+    }, 
+    "restorePreviousSession": {
+        "message": "Obnovi predošlú reláciu"
+    }, 
+    "restoreSavedWindow": {
+        "message": "Saved Window ($count$) - click to restore this window", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSession": {
+        "message": "Obnovi  reláciu"
+    }, 
+    "restoreSession2": {
+        "message": "Kliknite pre otvorenie v novom okne, ctrl+klik (Win, Linux) alebo cmd+klik (Mac) pre otvorenie v aktuálnom okne."
+    }, 
+    "save": {
+        "message": "Uloži"
+    }, 
+    "saveSession": {
+        "message": "Uložit reláciu"
+    }, 
+    "sessionTextBoxClose": {
+        "message": "Zavrie"
+    }, 
+    "sessionTextBoxImport": {
+        "message": "Importova reláciu"
+    }, 
+    "smEditCancel": {
+        "message": "Zruši"
+    }, 
+    "smEditSave": {
+        "message": "Uloži"
+    }, 
+    "smHeadingNew": {
+        "message": "Tabu¾ky na pridanie (oznaète pre pridanie)"
+    }, 
+    "smHeadingSaved": {
+        "message": "Uložené Tabu¾ky (odznaète pre vymazanie)"
+    }, 
+    "smHeadingTitle": {
+        "message": "Názov"
+    }, 
+    "smSaveList": {
+        "message": "Odznaète tabu¾ky, ktoré nechcete aby sa uložili."
+    }, 
+    "smSaveToggle": {
+        "message": "Prepnú výber"
+    }, 
+    "supportUs": {
+        "message": "Podporte náš vývoj a zdie¾ajte<br>vašim priate¾om!"
+    }, 
+    "tabsCount": {
+        "message": " ($count$ tabs)", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "updatedMessage": {
+        "message": "FreshStart je updatovaný, kliknite sem a zistite èo je nové"
+    }
+}
