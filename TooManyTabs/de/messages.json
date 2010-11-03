@@ -192,6 +192,10 @@
     "quickSupport2": {
         "message": "Wir sammeln keine Ihrer privaten Daten und senden Diese auch nie zu irgendwelchen Servern."
     }, 
+    "recentClosedMsg": {
+        "message": "Number of recently closed tabs:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "recentlyClosedTip": {
         "message": "Wird nicht mit dem Chrome Verlauf gelöscht. Kann man manuell löschen. Klicken Sie auf das Icon für ein Untermenü."
     }, 
@@ -229,6 +233,10 @@
     }, 
     "sortByTime": {
         "message": "Sortiere nach Erstellungszeitpunkt"
+    }, 
+    "supportMsg": {
+        "message": "Support our development!", 
+        "remark": "NEED TRANSLATION"
     }, 
     "suspendedTabsTip": {
         "message": "Verschieben Sie hier Ihre untätigen Tabs, um Tab Überschwemmung zu verhindern. Der Speicher wird frei, aber Formulare und Videos werden nicht gespeichert."

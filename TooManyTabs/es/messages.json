@@ -233,6 +233,10 @@
         "message": "We do not collect any of your private information and never send them to any servers.", 
         "remark": "NEED TRANSLATION"
     }, 
+    "recentClosedMsg": {
+        "message": "Number of recently closed tabs:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "recentlyClosedTip": {
         "message": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu.", 
         "remark": "NEED TRANSLATION"
@@ -278,6 +282,10 @@
     }, 
     "sortByTime": {
         "message": "Sort by Creation Time", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "supportMsg": {
+        "message": "Support our development!", 
         "remark": "NEED TRANSLATION"
     }, 
     "suspendedTabsTip": {

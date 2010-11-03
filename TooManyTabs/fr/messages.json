@@ -191,6 +191,10 @@
     "quickSupport2": {
         "message": "Nous ne collectons pas d'informations privées vous concernant et de ce fait nous ne pouvons pas les communiquer."
     }, 
+    "recentClosedMsg": {
+        "message": "Number of recently closed tabs:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "recentlyClosedTip": {
         "message": "Ne sera pas supprimé avec l'historique. Peut être supprimé manuellement. Cliquez sur l'icône pour ouvrir le sous menu."
     }, 
@@ -228,6 +232,10 @@
     }, 
     "sortByTime": {
         "message": "Trier par date de création"
+    }, 
+    "supportMsg": {
+        "message": "Support our development!", 
+        "remark": "NEED TRANSLATION"
     }, 
     "suspendedTabsTip": {
         "message": "Glissez vos onglets ici pour réduire l'encombrement de la barre de navigation. La mémoire est libérée mais les formulaires et vidéos ne sont pas sauvegardés"

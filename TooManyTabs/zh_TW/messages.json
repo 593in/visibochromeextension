@@ -178,6 +178,10 @@
     "quickSupport2": {
         "message": "我們不會收集任何您的隱私資料，也不會散布到其他伺服器。"
     }, 
+    "recentClosedMsg": {
+        "message": "Number of recently closed tabs:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "recentlyClosedTip": {
         "message": "這裡的資料不會隨歷史紀錄被刪除，但可以手動清理。點擊這些分頁的小圖示，可以看到刪除的子選單。"
     }, 
@@ -213,6 +217,10 @@
     }, 
     "sortByTime": {
         "message": "依建立時間排序"
+    }, 
+    "supportMsg": {
+        "message": "Support our development!", 
+        "remark": "NEED TRANSLATION"
     }, 
     "suspendedTabsTip": {
         "message": "將你閒置的分頁移到這裡，以避免分頁列溢出。記憶體將會被釋放，但影音與表單資料不會被儲存。"

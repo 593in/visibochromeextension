@@ -191,6 +191,10 @@
     "quickSupport2": {
         "message": "Nós não coletamos qualquer informação privada sua e nunca enviaremos nada para qualquer servidor."
     }, 
+    "recentClosedMsg": {
+        "message": "Number of recently closed tabs:", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "recentlyClosedTip": {
         "message": "Não serão removidas juntas com o histórico. Poderão ser removidas manualmente. Clique no ícone para um sub-menu."
     }, 
@@ -228,6 +232,10 @@
     }, 
     "sortByTime": {
         "message": "Organizar pela data de criação"
+    }, 
+    "supportMsg": {
+        "message": "Support our development!", 
+        "remark": "NEED TRANSLATION"
     }, 
     "suspendedTabsTip": {
         "message": "Coloque suas abas inativas aqui para reduzir a sobre-carga de abas. A memória será liberada, porém, os formulários e vídeos não serão salvos."
