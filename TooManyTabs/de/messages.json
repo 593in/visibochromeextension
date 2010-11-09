@@ -3,8 +3,7 @@
         "message": "[Füge neue Spalte hinzu]"
     }, 
     "addNewColumnButton": {
-        "message": "Add", 
-        "remark": "NEED TRANSLATION"
+        "message": "Hinzufügen"
     }, 
     "advancedFeatures": {
         "message": "Erweiterte Funktionen"
@@ -19,8 +18,7 @@
         "message": "[Lösche alle Tabs]"
     }, 
     "clearAllButton": {
-        "message": "Clear", 
-        "remark": "NEED TRANSLATION"
+        "message": "Löschen"
     }, 
     "clickToClose": {
         "message": "Schliessen"
@@ -32,8 +30,7 @@
         "message": "Wiederherstellen"
     }, 
     "confirm": {
-        "message": "Confirm", 
-        "remark": "NEED TRANSLATION"
+        "message": "Bestätigen"
     }, 
     "contactUs": {
         "message": "Kontakt:"
@@ -45,7 +42,7 @@
         "message": "Probleme? Bugs? Besuchen Sie uns auch <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>hier</a>. Wir benötigen oft Screenshots und Ihre OS/Chrome Version."
     }, 
     "contactUs3": {
-        "message": "Wir begrüßen konstruktives Feedback in gesitteter Form. *zwinker*"
+        "message": "Wir begrüßen konstruktives Feedback in gesitteter Form. ;-)"
     }, 
     "contactingTab": {
         "message": "Kontaktiere Tab..."
@@ -55,8 +52,7 @@
         "remark": "NEED TRANSLATION"
     }, 
     "crossWindow": {
-        "message": "Show tabs across windows:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Zeige Tabs über dem Fenster:"
     }, 
     "crossWindow1": {
         "message": "Ja"
@@ -83,43 +79,34 @@
         "message": "Organisieren Sie Ihre Tabs, verbessern Sie Ihr Browsen, und verlieren Sie nicht Ihren Verstand, wenn Sie mehrere Tabs offen haben."
     }, 
     "export": {
-        "message": "Export", 
-        "remark": "NEED TRANSLATION"
+        "message": "Exportieren"
     }, 
     "exportDescription": {
-        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Klicke auf den  'Export' Button um Spalten und Tabs zu exportieren. Du kannst den Inhlat in eine Datei speichern und auf einen anderen Computer übertragen."
     }, 
     "find": {
-        "message": "Finde"
+        "message": "Suchen"
     }, 
     "formatError": {
-        "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Der importierte Inhalt enthält Fehler! Ihre bestehenden Tabs sind nicht betroffen. Versuche den Export und Import erneut."
     }, 
     "import": {
-        "message": "Import", 
-        "remark": "NEED TRANSLATION"
+        "message": "Importieren"
     }, 
     "importAndExport": {
-        "message": "Import/Export", 
-        "remark": "NEED TRANSLATION"
+        "message": "Importieren/Exportieren"
     }, 
     "importDescription": {
-        "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Klicke den 'Import' Button um mit den Import der Spalten und Tabs zuu beginnen. Füge den exportierten Text in die Box ein und klicke den 'Confirm' Button."
     }, 
     "importDescription2": {
-        "message": "Warning: You current columns and tabs will be overwritten", 
-        "remark": "NEED TRANSLATION"
+        "message": "Warnung: Ihre aktuellen Spalten und Tabs werden überschrieben"
     }, 
     "importPageTitle": {
-        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "TooManyTabs für Chrome - Import / Export der Spalten und Tabs"
     }, 
     "importedSuccessfully": {
-        "message": "Columns and tabs imported successfully!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Spalten und Tabs erfolgreich importiert!"
     }, 
     "justTypeIn": {
         "message": "einfach eingeben..."
@@ -150,8 +137,7 @@
         "remark": "NEED TRANSLATION"
     }, 
     "openImportAndExportPage": {
-        "message": "Open Import/Export Page", 
-        "remark": "NEED TRANSLATION"
+        "message": "Öffne Import/Export Seite"
     }, 
     "openOptionPage": {
         "message": "Öffne die Optionen"
@@ -187,14 +173,13 @@
         "message": "Schnelle Hilfe:"
     }, 
     "quickSupport1": {
-        "message": "Aktuelle Updates, Tipps und Video Tutorials finden Sie <a href='http://www.visibotech.com/TMTChrome/'>hier</a>!"
+        "message": "Aktuelle Updates, Tipps und Video Tutorials finden Sie <a href='http://blog.visibotech.com/p/toomanytabs.html'>hier</a>!"
     }, 
     "quickSupport2": {
         "message": "Wir sammeln keine Ihrer privaten Daten und senden Diese auch nie zu irgendwelchen Servern."
     }, 
     "recentClosedMsg": {
-        "message": "Number of recently closed tabs:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Anzahl der kürzlich geschlossenen Tabs:"
     }, 
     "recentlyClosedTip": {
         "message": "Wird nicht mit dem Chrome Verlauf gelöscht. Kann man manuell löschen. Klicken Sie auf das Icon für ein Untermenü."
@@ -209,12 +194,10 @@
         "message": "[Lösche diese Spalte]"
     }, 
     "removeThisColumnButton": {
-        "message": "Remove", 
-        "remark": "NEED TRANSLATION"
+        "message": "Entfernen"
     }, 
     "removeThisColumnDisabled": {
-        "message": "This column cannot be removed", 
-        "remark": "NEED TRANSLATION"
+        "message": "Diese Spalte kann nicht gelöscht werden"
     }, 
     "shortcut1": {
         "message": "Benutze folgendes Tastaturkürzel, um das TMT Fenster hervorzurufen: STRG-"
@@ -235,20 +218,18 @@
         "message": "Sortiere nach Erstellungszeitpunkt"
     }, 
     "supportMsg": {
-        "message": "Support our development!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Unterstütze unsere Entwicklung!"
     }, 
     "suspendedTabsTip": {
         "message": "Verschieben Sie hier Ihre untätigen Tabs, um Tab Überschwemmung zu verhindern. Der Speicher wird frei, aber Formulare und Videos werden nicht gespeichert."
     }, 
     "suspendedTabsTitle": {
-        "message": "Suspended Tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "Abgelegte Tabs"
     }, 
     "updateNotes": {
         "message": "Klicken Sie hier für die Update Änderungen"
     }, 
     "welcomeMessage": {
-        "message": "Neu bei TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Besuchen Sie unsere Willkommensseite.</a>"
+        "message": "Neu bei TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Besuchen Sie unsere Willkommensseite.</a>"
     }
 }

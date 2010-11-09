@@ -173,7 +173,7 @@
         "message": "快速支援:"
     }, 
     "quickSupport1": {
-        "message": "最新版本、使用秘訣、影音教學請看<a href='http://www.visibotech.com/TMTChrome/'>這裡(English)</a>！"
+        "message": "最新版本、使用秘訣、影音教學請看<a href='http://blog.visibotech.com/p/toomanytabs-for-chrome.html'>這裡(English)</a>！"
     }, 
     "quickSupport2": {
         "message": "我們不會收集任何您的隱私資料，也不會散布到其他伺服器。"
@@ -232,6 +232,6 @@
         "message": "了解更多更新資訊"
     }, 
     "welcomeMessage": {
-        "message": "有新版本的 TooManyTabs 嗎？<a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>拜訪我們的網站</a>"
+        "message": "有新版本的 TooManyTabs 嗎？<a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>拜訪我們的網站</a>"
     }
 }

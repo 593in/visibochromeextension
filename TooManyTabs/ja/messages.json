@@ -186,7 +186,7 @@
         "message": "クイックサポート:"
     }, 
     "quickSupport1": {
-        "message": "最新版、便利な使い方、ビデオチュートリアルは<a href='http://www.visibotech.com/TMTChrome/'>こちらへ</a>！"
+        "message": "最新版、便利な使い方、ビデオチュートリアルは<a href='http://blog.visibotech.com/p/toomanytabs.html'>こちらへ</a>！"
     }, 
     "quickSupport2": {
         "message": "あなたのプライベートな情報を集めたり、どこかのサーバに送信したりすることはありません。"
@@ -247,6 +247,6 @@
         "message": "クリックしてアップデート内容を確認"
     }, 
     "welcomeMessage": {
-        "message": "TooManyTabsの新機能は→<a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>私たちのサイトへようこそ</a>"
+        "message": "TooManyTabsの新機能は→<a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>私たちのサイトへようこそ</a>"
     }
 }

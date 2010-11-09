@@ -184,7 +184,7 @@
         "message": "Supporto veloce:"
     }, 
     "quickSupport1": {
-        "message": "Ultimi aggiornamenti, suggerimenti e video tutorial <a href='http://www.visibotech.com/TMTChrome/'>qua</a>!"
+        "message": "Ultimi aggiornamenti, suggerimenti e video tutorial <a href='http://blog.visibotech.com/p/toomanytabs.html'>qua</a>!"
     }, 
     "quickSupport2": {
         "message": "Non conserviamo nessuna delle vostre informazioni private e non le mandiamo mai a nessun server."
@@ -243,6 +243,6 @@
         "message": "Clicca qua per aggiornamenti"
     }, 
     "welcomeMessage": {
-        "message": "Nuovo in TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visita la nostra pagina di benvenuto.</a>"
+        "message": "Nuovo in TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Visita la nostra pagina di benvenuto.</a>"
     }
 }

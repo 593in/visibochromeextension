@@ -226,7 +226,7 @@
         "remark": "NEED TRANSLATION"
     }, 
     "quickSupport1": {
-        "message": "Latest updates, tips and video tutorials <a href='http://www.visibotech.com/TMTChrome/'>here</a>!", 
+        "message": "Latest updates, tips and video tutorials <a href='http://blog.visibotech.com/p/toomanytabs.html'>here</a>!", 
         "remark": "NEED TRANSLATION"
     }, 
     "quickSupport2": {
@@ -301,6 +301,7 @@
         "remark": "NEED TRANSLATION"
     }, 
     "welcomeMessage": {
-        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://www.visibotech.com/TMTChrome/update140.html'>Visit our welcome page.</a>"
+        "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Visit our welcome page.</a>", 
+        "remark": "NEED TRANSLATION"
     }
 }
