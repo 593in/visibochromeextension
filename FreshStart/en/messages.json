@@ -69,7 +69,7 @@
         "message": "Date format:"
     },
     "optionsNewUserTips":{
-        "message": "New to FreshStart? Visit our <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!"
+        "message": "New to FreshStart? Visit our <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Welcome Page</a>!"
     },
     "minutes":{
         "message": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine."
@@ -108,13 +108,25 @@
     "crashRestoreTitle":{
         "message": "Restore Previous Session"
     },
-    "restoreSavedWindow":{
-        "message": "Saved Window ($count$) - click to restore this window",
+    "savedWindow": {
+        "message": "Saved Window ($count$)",
         "placeholders": {
             "count": {
                 "content": "$1"
             }
         }
+    },
+    "restoreSessionButton":{
+        "message": "Restore this window"
+    },
+    "restoreSessionButtonDescription": {
+        "message": "Click to restore this window"
+    },
+    "saveSessionButton": {
+        "message": "Save as FreshStart session"
+    },
+    "saveSessionButtonDescription": {
+        "message": "Click here to save this as a new FreshStart session"
     },
     "edit": {
         "message": "Edit"
@@ -163,5 +175,14 @@
     },
     "importedSessionTips":{
         "message": "Paste your session here"   
+    },
+    "noSessionToRestore": {
+        "message": "There are no saved sessions."
+    },
+    "enterSessionName": {
+        "message": "Please enter the name of the session"
+    },
+    "restoreSessionOn": {
+        "message": "Restore session on "
     }
 }  

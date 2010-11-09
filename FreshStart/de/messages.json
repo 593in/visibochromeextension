@@ -57,6 +57,10 @@
         "message": "Enable crash recovery", 
         "remark": "NEED TRANSLATION"
     }, 
+    "enterSessionName": {
+        "message": "Please enter the name of the session", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "export": {
         "message": "Export", 
         "remark": "NEED TRANSLATION"
@@ -94,6 +98,10 @@
         "message": "No sessions saved", 
         "remark": "NEED TRANSLATION"
     }, 
+    "noSessionToRestore": {
+        "message": "There are no saved sessions.", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "options": {
         "message": "Options", 
         "remark": "NEED TRANSLATION"
@@ -115,7 +123,7 @@
         "remark": "NEED TRANSLATION"
     }, 
     "optionsNewUserTips": {
-        "message": "New to FreshStart? Visit our <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!", 
+        "message": "New to FreshStart? Visit our <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Welcome Page</a>!", 
         "remark": "NEED TRANSLATION"
     }, 
     "optionsPageTitle": {
@@ -134,15 +142,6 @@
         "message": "Restore previous session", 
         "remark": "NEED TRANSLATION"
     }, 
-    "restoreSavedWindow": {
-        "message": "Saved Window ($count$) - click to restore this window", 
-        "placeholders": {
-            "count": {
-                "content": "$1"
-            }
-        }, 
-        "remark": "NEED TRANSLATION"
-    }, 
     "restoreSession": {
         "message": "Restore Session", 
         "remark": "NEED TRANSLATION"
@@ -151,12 +150,41 @@
         "message": "Click to open in new window, ctrl-click (Win, Linux) or cmd-click (Mac) to open in current window", 
         "remark": "NEED TRANSLATION"
     }, 
+    "restoreSessionButton": {
+        "message": "Restore this window", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSessionButtonDescription": {
+        "message": "Click to restore this window", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSessionOn": {
+        "message": "Restore session on ", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "save": {
         "message": "Save", 
         "remark": "NEED TRANSLATION"
     }, 
     "saveSession": {
         "message": "Save Session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "saveSessionButton": {
+        "message": "Save as FreshStart session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "saveSessionButtonDescription": {
+        "message": "Click here to save this as a new FreshStart session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "savedWindow": {
+        "message": "Saved Window ($count$)", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
         "remark": "NEED TRANSLATION"
     }, 
     "sessionTextBoxClose": {

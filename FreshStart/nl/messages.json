@@ -66,7 +66,7 @@
         "message": "Sla alle windows en tabs op elke "
     },
     "optionsNewUserTips":{
-        "message": "Nieuw met FreshStart? Bezoek dan onze website <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Welcome Page</a>!"
+        "message": "Nieuw met FreshStart? Bezoek dan onze website <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Welcome Page</a>!"
     },
     "minutes":{
         "message": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine."

@@ -47,6 +47,10 @@
     "enableCrashRecovery": {
         "message": "Ativar recuperação pós-travamento"
     }, 
+    "enterSessionName": {
+        "message": "Please enter the name of the session", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "export": {
         "message": "Export", 
         "remark": "NEED TRANSLATION"
@@ -80,6 +84,10 @@
     "noSessionSaved": {
         "message": "Nenhuma sessão salva"
     }, 
+    "noSessionToRestore": {
+        "message": "There are no saved sessions.", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "options": {
         "message": "Opções"
     }, 
@@ -97,7 +105,7 @@
         "message": "Ativar recuperação pós-travamento"
     }, 
     "optionsNewUserTips": {
-        "message": "Novo no FreshStart? Visite nossa <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>página de bem-vindo</a>!"
+        "message": "Novo no FreshStart? Visite nossa <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>página de bem-vindo</a>!"
     }, 
     "optionsPageTitle": {
         "message": "FreshStart Opções"
@@ -111,25 +119,46 @@
     "restorePreviousSession": {
         "message": "Restaurar última sessão"
     }, 
-    "restoreSavedWindow": {
-        "message": "Janela salva ($count$) - clique para restaurar esta janela", 
-        "placeholders": {
-            "count": {
-                "content": "$1"
-            }
-        }
-    }, 
     "restoreSession": {
         "message": "Restaurar sessão"
     }, 
     "restoreSession2": {
         "message": "Clique para abrir em uma nova janela. CTRL-clique ou CMD-clique para abrir na atual"
     }, 
+    "restoreSessionButton": {
+        "message": "Restore this window", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSessionButtonDescription": {
+        "message": "Click to restore this window", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSessionOn": {
+        "message": "Restore session on ", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "save": {
         "message": "Salvar"
     }, 
     "saveSession": {
         "message": "Salvar Sessão"
+    }, 
+    "saveSessionButton": {
+        "message": "Save as FreshStart session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "saveSessionButtonDescription": {
+        "message": "Click here to save this as a new FreshStart session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "savedWindow": {
+        "message": "Saved Window ($count$)", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "NEED TRANSLATION"
     }, 
     "sessionTextBoxClose": {
         "message": "Close", 

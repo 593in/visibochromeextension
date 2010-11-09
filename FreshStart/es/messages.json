@@ -48,6 +48,10 @@
     "enableCrashRecovery": {
         "message": "Habilitar recuperación por cerrado inesperado"
     }, 
+    "enterSessionName": {
+        "message": "Please enter the name of the session", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "export": {
         "message": "Export", 
         "remark": "NEED TRANSLATION"
@@ -81,6 +85,10 @@
     "noSessionSaved": {
         "message": "No hay sesiones guardadas"
     }, 
+    "noSessionToRestore": {
+        "message": "There are no saved sessions.", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "options": {
         "message": "Opciones"
     }, 
@@ -98,7 +106,7 @@
         "message": "Habilitar Recuperaci&oacute;n en caso de cierre incorrecto"
     }, 
     "optionsNewUserTips": {
-        "message": "&#191;Nuevo en FreshStart? &#161;Visita nuestra <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>Página de Bienvenida</a>!"
+        "message": "&#191;Nuevo en FreshStart? &#161;Visita nuestra <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Página de Bienvenida</a>!"
     }, 
     "optionsPageTitle": {
         "message": "Opciones de FreshStart"
@@ -112,25 +120,46 @@
     "restorePreviousSession": {
         "message": "Restaurar sesión anterior"
     }, 
-    "restoreSavedWindow": {
-        "message": "Ventana guardada ($count$) - click para restaurar esta ventana", 
-        "placeholders": {
-            "count": {
-                "content": "$1"
-            }
-        }
-    }, 
     "restoreSession": {
         "message": "Restaurar sesi&oacute;n"
     }, 
     "restoreSession2": {
         "message": "Click izquierdo para abrir en una nueva ventana o ctrl-click para desplegar en esta ventana"
     }, 
+    "restoreSessionButton": {
+        "message": "Restore this window", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSessionButtonDescription": {
+        "message": "Click to restore this window", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSessionOn": {
+        "message": "Restore session on ", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "save": {
         "message": "Guardar"
     }, 
     "saveSession": {
         "message": "Guardar sesi&oacute;n"
+    }, 
+    "saveSessionButton": {
+        "message": "Save as FreshStart session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "saveSessionButtonDescription": {
+        "message": "Click here to save this as a new FreshStart session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "savedWindow": {
+        "message": "Saved Window ($count$)", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "NEED TRANSLATION"
     }, 
     "sessionTextBoxClose": {
         "message": "Close", 

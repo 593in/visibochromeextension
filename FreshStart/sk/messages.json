@@ -44,6 +44,10 @@
     "enableCrashRecovery": {
         "message": "Povoli obnovenie relácie po havárií"
     }, 
+    "enterSessionName": {
+        "message": "Please enter the name of the session", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "export": {
         "message": "Exportova"
     }, 
@@ -73,6 +77,10 @@
     "noSessionSaved": {
         "message": "Žiadne relácie nie sú uložené"
     }, 
+    "noSessionToRestore": {
+        "message": "There are no saved sessions.", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "options": {
         "message": "Nastavenia"
     }, 
@@ -89,7 +97,7 @@
         "message": "Povoli obnovenie relácie po havárií"
     }, 
     "optionsNewUserTips": {
-        "message": "Nový užívate¾ FreshStart-u? Navštívte našu <a href='http://www.visibotech.com/FreshStart/welcome.html' target='_blank'>uvítaciu stránku</a>!"
+        "message": "Nový užívate¾ FreshStart-u? Navštívte našu <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>uvítaciu stránku</a>!"
     }, 
     "optionsPageTitle": {
         "message": "FreshStart nastavenia"
@@ -103,26 +111,46 @@
     "restorePreviousSession": {
         "message": "Obnovi predošlú reláciu"
     }, 
-    "restoreSavedWindow": {
-        "message": "Saved Window ($count$) - click to restore this window", 
-        "placeholders": {
-            "count": {
-                "content": "$1"
-            }
-        }, 
-        "remark": "NEED TRANSLATION"
-    }, 
     "restoreSession": {
         "message": "Obnovi  reláciu"
     }, 
     "restoreSession2": {
         "message": "Kliknite pre otvorenie v novom okne, ctrl+klik (Win, Linux) alebo cmd+klik (Mac) pre otvorenie v aktuálnom okne."
     }, 
+    "restoreSessionButton": {
+        "message": "Restore this window", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSessionButtonDescription": {
+        "message": "Click to restore this window", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "restoreSessionOn": {
+        "message": "Restore session on ", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "save": {
         "message": "Uloži"
     }, 
     "saveSession": {
         "message": "Uložit reláciu"
+    }, 
+    "saveSessionButton": {
+        "message": "Save as FreshStart session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "saveSessionButtonDescription": {
+        "message": "Click here to save this as a new FreshStart session", 
+        "remark": "NEED TRANSLATION"
+    }, 
+    "savedWindow": {
+        "message": "Saved Window ($count$)", 
+        "placeholders": {
+            "count": {
+                "content": "$1"
+            }
+        }, 
+        "remark": "NEED TRANSLATION"
     }, 
     "sessionTextBoxClose": {
         "message": "Zavrie"
