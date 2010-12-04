@@ -21,25 +21,13 @@
     },
     "sureToLeavePage": {
         "message": "Are you sure to leave this page?"
-    },
-    "jump": {
-        "message": "Jump",
-        "remark": "NO NEED TO TRANSLATE"
-    },
+    },   
     "frequentlyUsedTabs": {
         "message": "Frequently used tabs"
-    },
-    "undo": {
-        "message": "Undo",
-        "remark": "NO NEED TO TRANSLATE"
-    },
+    },    
     "recentlyClosedTabs": {
         "message": "Recently closed tabs"
-    },
-    "related": {
-        "message": "Related",
-        "remark": "NO NEED TO TRANSLATE"
-    },
+    },   
     "relatedTabs": {
         "message": "Related tabs"
     },

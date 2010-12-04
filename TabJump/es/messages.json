@@ -1,63 +1,44 @@
 {
     "cannotLockPage": {
         "message": "No se puede bloquear esta página"
-    }, 
+    },
     "clearRecentlyClosedTabsHistory": {
-        "message": "Clear recently closed tabs", 
-        "remark": "NEED TRANSLATION"
-    }, 
+        "message": "Borrar las pestañas cerradas recientemente"
+    },
     "clickToOpen": {
-        "message": "Haga clic para abrir \"$title$\"", 
+        "message": "Haz clic para abrir \"$title$\"",
         "placeholders": {
             "title": {
                 "content": "$1"
             }
         }
-    }, 
+    },
     "description": {
-        "message": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.", 
-        "remark": "NEED TRANSLATION"
-    }, 
+        "message": "Una nueva manera de navegar tus pestañas. Accede fácilmente a las pestañas más utilizadas, a pestañas relacionadas y a las pestañas cerradas. Tmabién puedes bloquear las pestañas."
+    },
     "frequentlyUsedTabs": {
-        "message": "Frequently used tabs", 
-        "remark": "NEED TRANSLATION"
-    }, 
-    "jump": {
-        "message": "Jump", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
+        "message": "Pestañas usadas frecuentemente"
+    },
     "loading": {
         "message": "Cargando..."
-    }, 
+    },
     "lockPage": {
         "message": "Bloquear esta página"
-    }, 
+    },
     "name": {
-        "message": "TabJump - Intelligent Tab Navigator", 
-        "remark": "NEED TRANSLATION"
-    }, 
+        "message": "TabJump - Navegador de Pestañas Inteligente"
+    },
     "pageActionTitle": {
-        "message": "TabJump!", 
-        "remark": "NEED TRANSLATION"
-    }, 
+        "message": "TabJump!"
+    },
     "recentlyClosedTabs": {
-        "message": "Recently closed tabs", 
-        "remark": "NEED TRANSLATION"
-    }, 
-    "related": {
-        "message": "Related", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
+        "message": "Pestañas cerradas recientemente"
+    },
     "relatedTabs": {
-        "message": "Related tabs", 
-        "remark": "NEED TRANSLATION"
-    }, 
+        "message": "Pestañas Relacionadas"
+    },
     "sureToLeavePage": {
         "message": "¿Estás seguro de dejar esta página?"
-    }, 
-    "undo": {
-        "message": "Undo", 
-        "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
         "message": "Desbloquear esta página"

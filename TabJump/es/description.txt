@@ -1,28 +1,27 @@
 (Translated with Google Translate - English version here http://goo.gl/ZkHz
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
-"Administrador de la ficha Grande" - como se presenta en Lifehacker.com! 
+Como dijo Lifehacker.com -- "Gran administrador de pestañas"!
 
-Cuando se trabaja con varias pestañas al mismo tiempo, es difícil recordar que uno quiere ir. TabJump destaca frecuentemente utilizado fichas y partituras relacionadas de manera que puede saltar fácilmente entre ellas. Y nunca se preocupe de nuevo sobre el cierre aquí por accidente, por TabJump puede protegerlos, o incluso restaurar pestañas cerradas! 
+Cuando trabajas con varias pestañas al mismo tiempo, es difícil recordar cuál es la próxima a la que quieres ir. TabJump destaca pestañas usadas frecuentemente, así como también pestañas relacionadas, para que puedas saltar fácilmente entre ellas. ¡Y nunca volverás a preocuparte por cerrar pestañas por accidente, ya que TabJump puede proteger e incluso restaurar las pestañas cerradas!
 
 Características 
-- Saltar a partituras de uso frecuente 
-- Saltar a partituras correspondientes (fichas del mismo sitio, etc) 
-- Restaurar pestañas cerradas recientemente 
-- Bloqueo de una pestaña para evitar el cierre accidental (sólo para el trabajo aquí cargado después de instalar TabJump) 
+- Saltar a pestañas usadas frecuentemente
+- Saltar a pestañas relacionadas (pestañas del mismo sitio, etc) 
+- Restaurar pestañas cerradas recientemente
+- Bloquea una pestaña para evitar el cierre accidental (sólo funciona para pestañas abiertas luego de la instalación de TabJump) 
 
 Descargo de responsabilidad 
-- Debido a las limitaciones de Chrome, las extensiones no puede restaurar la historia de las pestañas cerradas. Si usted necesita de la historia de una pestaña cerrada hace poco, puede pulsar Ctrl + Shift + T para abrir una por una. 
+- Debido a las limitaciones de Chrome, las extensiones no pueden restaurar el historial de las pestañas cerradas. Si necesitas el historial de una pestaña cerrada hace poco, puedes pulsar Ctrl + Shift + T para abrir una por una.
 
-Pruebe nuestras otras extensiones también! 
+¡Prueba también nuestras otras extensiones!
 - Incredible StartPage http://goo.gl/he9o **NEW**
 - Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - FreshStart Session Manager: http://goo.gl/249h
 - TwitterWatch: http://goo.gl/7AkW 
 
-Palabras claves: aquí, aquí Management, encontrar partituras, Saltar Tab, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too aquí Muchos, Tab Menu 
-License: http://www.visibotech.com/license/tabjump.html
-Credits: http://www.visibotech.com/chrome/credits.html
+Palabras clave: Pestañas, Gestión de Pestañas, Encontrar Pestañas, TabJump, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+Licencia: http://www.visibotech.com/license/tabjump.html
 
-Si quieres un tutorial de vídeo en Molly demogirl.com ha creado un screencast sencillo en ella: http://goo.gl/FcIs Gracias Molly!
+Si quieres un video tutorial, en demogirl.com Molly a creado un screencast sencillo: http://goo.gl/FcIs Gracias Molly!

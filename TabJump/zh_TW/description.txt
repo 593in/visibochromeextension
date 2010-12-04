@@ -22,6 +22,5 @@ Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
 關鍵詞：分頁，分頁管理，查找分頁，分頁跳轉，TabKit，FoxTab的，TabMixPlus，TreeStyleTabs，有太多的分頁，分頁菜單 
 License: http://www.visibotech.com/license/tabjump.html
-Credits: http://www.visibotech.com/chrome/credits.html
 
 如果你想要一個視頻教程莫莉在demogirl.com創造了一個簡單的截屏：http://goo.gl/FcIs 感謝 Molly！

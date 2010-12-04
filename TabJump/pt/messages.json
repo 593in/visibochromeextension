@@ -20,10 +20,6 @@
     "frequentlyUsedTabs": {
         "message": "Usadas frequentemente"
     }, 
-    "jump": {
-        "message": "Jump", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
     "loading": {
         "message": "carregando..."
     }, 
@@ -40,19 +36,11 @@
     "recentlyClosedTabs": {
         "message": "Fechadas recentemente"
     }, 
-    "related": {
-        "message": "Related", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
     "relatedTabs": {
         "message": "Abas relacionadas"
     }, 
     "sureToLeavePage": {
         "message": "Tem certeza que deseja sair desta página?"
-    }, 
-    "undo": {
-        "message": "Undo", 
-        "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
         "message": "Desbloqueie esta página"

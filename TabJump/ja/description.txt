@@ -20,6 +20,5 @@
 
 Keywords: Tabs, Tabs Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 License: http://www.visibotech.com/license/tabjump.html
-Credits: http://www.visibotech.com/chrome/credits.html
 
 demogirl.comのMollyが作ってくれたシンプルなスクリーンキャストによるビデオチュートリアルも見て頂くことが出来ます。：http://goo.gl/FcIs Mollyありがとう！

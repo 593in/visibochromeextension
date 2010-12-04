@@ -20,10 +20,6 @@
     "frequentlyUsedTabs": {
         "message": "よく使うタブ"
     }, 
-    "jump": {
-        "message": "Jump", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
     "loading": {
         "message": "読み込んでいます..."
     }, 
@@ -40,19 +36,11 @@
     "recentlyClosedTabs": {
         "message": "最近閉じたタブ"
     }, 
-    "related": {
-        "message": "Related", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
     "relatedTabs": {
         "message": "関連するタブ"
     }, 
     "sureToLeavePage": {
         "message": "このページを残してよろしいですか？"
-    }, 
-    "undo": {
-        "message": "Undo", 
-        "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
         "message": "このページのロックを解除する"

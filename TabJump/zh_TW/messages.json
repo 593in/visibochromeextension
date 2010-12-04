@@ -21,10 +21,6 @@
     "frequentlyUsedTabs": {
         "message": "經常使用的分頁"
     }, 
-    "jump": {
-        "message": "Jump", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
     "loading": {
         "message": "載入中..."
     }, 
@@ -42,19 +38,11 @@
     "recentlyClosedTabs": {
         "message": "最近關閉的分頁"
     }, 
-    "related": {
-        "message": "Related", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
-    "relatedTabs": {
+     "relatedTabs": {
         "message": "相關分頁"
     }, 
     "sureToLeavePage": {
         "message": "確定要離開此頁面？"
-    }, 
-    "undo": {
-        "message": "Undo", 
-        "remark": "NO NEED TO TRANSLATE"
     }, 
     "unlockPage": {
         "message": "鎖定此頁"

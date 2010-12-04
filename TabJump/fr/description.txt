@@ -21,6 +21,5 @@ Si vous aimez TabJump, jetez un oeil à nos autres extensions!
 
 Mots Clés: Onglets, Onglets Management, Find tabs, Tab Jump, TabKit, FoxTab, TabMixPlus, TreeStyleOnglets, Too Many Onglets, Tab Menu
 License: http://www.visibotech.com/license/tabjump.html
-Credits: http://www.visibotech.com/chrome/credits.html
 
 Si vous voulez un tutoriel vidéo, Molly de demogirl.com vous en propose un ici: http://goo.gl/FcIs Merci Molly!

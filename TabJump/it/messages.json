@@ -22,10 +22,6 @@
         "message": "Frequently used tabs", 
         "remark": "NEED TRANSLATION"
     }, 
-    "jump": {
-        "message": "Jump", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
     "loading": {
         "message": "caricamento..."
     }, 
@@ -44,21 +40,13 @@
         "message": "Recently closed tabs", 
         "remark": "NEED TRANSLATION"
     }, 
-    "related": {
-        "message": "Related", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
     "relatedTabs": {
         "message": "Related tabs", 
         "remark": "NEED TRANSLATION"
     }, 
     "sureToLeavePage": {
         "message": "Sei sicuro di voler uscire da questa pagina?"
-    }, 
-    "undo": {
-        "message": "Undo", 
-        "remark": "NO NEED TO TRANSLATE"
-    }, 
+    },     
     "unlockPage": {
         "message": "sbloccare questa pagina"
     }
