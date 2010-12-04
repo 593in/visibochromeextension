@@ -1,42 +1,43 @@
 {
     "cannotLockPage": {
         "message": "No se puede bloquear esta página"
-    },
+    }, 
     "clearRecentlyClosedTabsHistory": {
         "message": "Borrar las pestañas cerradas recientemente"
-    },
+    }, 
     "clickToOpen": {
-        "message": "Haz clic para abrir \"$title$\"",
+        "message": "Haz clic para abrir \"$title$\"", 
         "placeholders": {
             "title": {
                 "content": "$1"
             }
         }
-    },
+    }, 
     "description": {
         "message": "Una nueva manera de navegar tus pestañas. Accede fácilmente a las pestañas más utilizadas, a pestañas relacionadas y a las pestañas cerradas. Tmabién puedes bloquear las pestañas."
-    },
+    }, 
     "frequentlyUsedTabs": {
         "message": "Pestañas usadas frecuentemente"
-    },
+    }, 
     "loading": {
         "message": "Cargando..."
-    },
+    }, 
     "lockPage": {
         "message": "Bloquear esta página"
-    },
+    }, 
     "name": {
         "message": "TabJump - Navegador de Pestañas Inteligente"
-    },
+    }, 
     "pageActionTitle": {
-        "message": "TabJump!"
-    },
+        "message": "TabJump!", 
+        "remark": "NEED TRANSLATION"
+    }, 
     "recentlyClosedTabs": {
         "message": "Pestañas cerradas recientemente"
-    },
+    }, 
     "relatedTabs": {
         "message": "Pestañas Relacionadas"
-    },
+    }, 
     "sureToLeavePage": {
         "message": "¿Estás seguro de dejar esta página?"
     }, 

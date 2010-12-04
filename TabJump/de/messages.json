@@ -20,7 +20,7 @@
     "frequentlyUsedTabs": {
         "message": "Frequently used tabs", 
         "remark": "NEED TRANSLATION"
-    },     
+    }, 
     "loading": {
         "message": "laden..."
     }, 
@@ -37,14 +37,14 @@
     "recentlyClosedTabs": {
         "message": "Recently closed tabs", 
         "remark": "NEED TRANSLATION"
-    },   
+    }, 
     "relatedTabs": {
         "message": "Related tabs", 
         "remark": "NEED TRANSLATION"
     }, 
     "sureToLeavePage": {
         "message": "Sind Sie sicher, dass Sie diese Seite verlassen möchten?"
-    },    
+    }, 
     "unlockPage": {
         "message": "Seite entsperren"
     }
