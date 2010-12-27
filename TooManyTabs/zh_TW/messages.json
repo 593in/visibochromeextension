@@ -48,8 +48,7 @@
         "message": "正在連接分頁..."
     }, 
     "copyright": {
-        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "NEED TRANSLATION"
+        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
     }, 
     "crossWindow": {
         "message": "同時顯示不同視窗的分頁："
@@ -121,8 +120,7 @@
         "message": "Chrome 本身的頁面偶爾不會回應 TMT 的喚醒指示。"
     }, 
     "name": {
-        "message": "TooManyTabs for Chrome", 
-        "remark": "NEED TRANSLATION"
+        "message": "TooManyTabs for Chrome"
     }, 
     "newColumn": {
         "message": "新增分頁收集欄"
@@ -179,8 +177,7 @@
         "message": "我們不會收集任何您的隱私資料，也不會散布到其他伺服器。"
     }, 
     "recentClosedMsg": {
-        "message": "Number of recently closed tabs:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Number of recently closed tabs:"
     }, 
     "recentlyClosedTip": {
         "message": "這裡的資料不會隨歷史紀錄被刪除，但可以手動清理。點擊這些分頁的小圖示，可以看到刪除的子選單。"
@@ -219,8 +216,7 @@
         "message": "依建立時間排序"
     }, 
     "supportMsg": {
-        "message": "Support our development!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Support our development!"
     }, 
     "suspendedTabsTip": {
         "message": "將你閒置的分頁移到這裡，以避免分頁列溢出。記憶體將會被釋放，但影音與表單資料不會被儲存。"

@@ -48,8 +48,7 @@
         "message": "Kontaktiere Tab..."
     }, 
     "copyright": {
-        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
-        "remark": "NEED TRANSLATION"
+        "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
     }, 
     "crossWindow": {
         "message": "Zeige Tabs über dem Fenster:"
@@ -133,8 +132,7 @@
         "message": "Hm, keine Antwort von diesem Tab. Entweder ist es ein System Tab, oder der Tab ist überlastet..."
     }, 
     "ok": {
-        "message": "OK", 
-        "remark": "NEED TRANSLATION"
+        "message": "OK"
     }, 
     "openImportAndExportPage": {
         "message": "Öffne Import/Export Seite"

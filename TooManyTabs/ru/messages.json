@@ -1,0 +1,233 @@
+{
+    "addNewColumn": {
+        "message": "Добавить новый список"
+    }, 
+    "addNewColumnButton": {
+        "message": "Добавить"
+    }, 
+    "advancedFeatures": {
+        "message": "Расширенные функции"
+    }, 
+    "areYouSure": {
+        "message": "Вы серьезно?"
+    }, 
+    "cancel": {
+        "message": "Отмена"
+    }, 
+    "clearAll": {
+        "message": "Очистить этот список"
+    }, 
+    "clearAllButton": {
+        "message": "Очистить"
+    }, 
+    "clickToClose": {
+        "message": "Закрыть"
+    }, 
+    "clickToPop": {
+        "message": "Нажми что бы отправить эту вкладку в списки TooManyTabs "
+    }, 
+    "clickToRestore": {
+        "message": "Восстановить"
+    }, 
+    "confirm": {
+        "message": "Подтвердить"
+    }, 
+    "contactUs": {
+        "message": "Связаться с Нами:"
+    }, 
+    "contactUs1": {
+        "message": "Предложения? Хвала? Любовь? посетите нас <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>тут</a>!"
+    }, 
+    "contactUs2": {
+        "message": "Проблемы? Ошибки? Свяжитесь в нами <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>ту</a>. Сделайте скиншоты, запишите версии ОС и браузера"
+    }, 
+    "contactUs3": {
+        "message": "Мы приветствуем все конструктивные предложения на интернациональных языках. *wink*"
+    }, 
+    "contactingTab": {
+        "message": "Связь с  вкладкой..."
+    }, 
+    "copyright": {
+        "message": "<a href='http://www.visibotech.com/'>Домашняя</a> | <a href='http://blog.visibotech.com/'>Блог</a> | <a href='http://twitter.com/visibo'>Твиттер</a> | Copyright 2010 Visibo Ltd. All rights reserved."
+    }, 
+    "crossWindow": {
+        "message": "Переключение вкладки:"
+    }, 
+    "crossWindow1": {
+        "message": "Да"
+    }, 
+    "crossWindow2": {
+        "message": "Нет (Стандартно)"
+    }, 
+    "crossWindow3": {
+        "message": "Google Chrome для Mac / Linux не поддерживают переключение вкладки. При попытке перейти на вкладку в другое окно, что вкладка будет перемещен в текущем окне вместо."
+    }, 
+    "customRows1": {
+        "message": "Свой список"
+    }, 
+    "customRows2": {
+        "message": "Использовать стандартные списки"
+    }, 
+    "customRows3": {
+        "message": "Включить свои списки"
+    }, 
+    "customThemeColor": {
+        "message": "Настройка цвета темы:"
+    }, 
+    "description": {
+        "message": "Управляйте вашими вкладками, улучшите свой просмотр, и поддержите свое здравомыслие, когда у Вас есть много открытых вкладок."
+    }, 
+    "export": {
+        "message": "Экспорт"
+    }, 
+    "exportDescription": {
+        "message": "Щелкни \"Экспорт \", чтобы экспортировать твои списки и вкладки. вы можите сохранить содержимое в файл и импортировать их на другом компьютере."
+    }, 
+    "find": {
+        "message": "Найти"
+    }, 
+    "formatError": {
+        "message": "Импортируемое содержимое содержит ошибки! Это не влият на ваши вкладки. Пожалуйста, выполните Импотр/Экспорт снова."
+    }, 
+    "import": {
+        "message": "Import"
+    }, 
+    "importAndExport": {
+        "message": "Импорт/Экспорт"
+    }, 
+    "importDescription": {
+        "message": "Нажмите кнопку \"Импорт \", чтобы начать процесс импорта списков и вкладок. Вставьте экспортируемый текст в окно, затем нажмите кнопку \"Подтвердить \"."
+    }, 
+    "importDescription2": {
+        "message": "Внимание:Текущие списки и вкладки будут перезаписаны."
+    }, 
+    "importPageTitle": {
+        "message": "TooManyTabs для Chrome - Импорт / Экспорт Списков и вкладок"
+    }, 
+    "importedSuccessfully": {
+        "message": "Списки и вкладки успешно импортированны!"
+    }, 
+    "justTypeIn": {
+        "message": "Просто пиши..."
+    }, 
+    "knownIssues": {
+        "message": "Известные Проблемы - не регистрируют отчеты об ошибках на них, мы общаемся с командой Chrome, чтобы решить их:"
+    }, 
+    "knownIssues1": {
+        "message": "Сочетание клавиш не работает на собственных страницах Chrome (например, домашней странице)."
+    }, 
+    "knownIssues2": {
+        "message": "Chrome не отвечают иногда в TMT "
+    }, 
+    "name": {
+        "message": "TooManyTabs для Chrome"
+    }, 
+    "newColumn": {
+        "message": "Новый список"
+    }, 
+    "nextColumn": {
+        "message": "Вперед"
+    }, 
+    "noResponse": {
+        "message": "Хм, нет ответа от той вкладки."
+    }, 
+    "ok": {
+        "message": "ОК"
+    }, 
+    "openImportAndExportPage": {
+        "message": "Открыть страницу Импорта/Экспорта"
+    }, 
+    "openOptionPage": {
+        "message": "Открыть страницу настроек"
+    }, 
+    "options": {
+        "message": "Настройки"
+    }, 
+    "optionsNo": {
+        "message": "Нет"
+    }, 
+    "optionsPageTitle": {
+        "message": "TooManyTabs for Chrome - Настройки"
+    }, 
+    "optionsYes": {
+        "message": "Да"
+    }, 
+    "popupWidth": {
+        "message": "Ширина окна:"
+    }, 
+    "popupWidth1": {
+        "message": "Широкий"
+    }, 
+    "popupWidth2": {
+        "message": "Средняя"
+    }, 
+    "popupWidth3": {
+        "message": "Малая"
+    }, 
+    "previousColumn": {
+        "message": "Назад"
+    }, 
+    "quickSupport": {
+        "message": "Поддержка:"
+    }, 
+    "quickSupport1": {
+        "message": "Последние обновления, советы и видео уроки <a href='http://blog.visibotech.com/p/toomanytabs.html'>сдесь</a>!"
+    }, 
+    "quickSupport2": {
+        "message": "Мы не собираем ваших конфидециальных данных и не отправляем их не на какие сервера."
+    }, 
+    "recentClosedMsg": {
+        "message": "Количество недавно закрытых вкладок:"
+    }, 
+    "recentlyClosedTip": {
+        "message": "Не будет очищен наряду с историей. Может быть вручную очищен."
+    }, 
+    "recentlyClosedTitle": {
+        "message": "Недавно закрытые"
+    }, 
+    "remove": {
+        "message": "Удалить"
+    }, 
+    "removeThisColumn": {
+        "message": "Удалить этот список"
+    }, 
+    "removeThisColumnButton": {
+        "message": "Удалить"
+    }, 
+    "removeThisColumnDisabled": {
+        "message": "Этот список нельзя удалить"
+    }, 
+    "shortcut1": {
+        "message": "Используйте сочетание клавиш для вызова окна: CTRL-"
+    }, 
+    "shortcut2": {
+        "message": "Сочетания клавиш не работают на системных страницах, таких как эта. Некоторые сочетания не работают на некоторых ОС (например CTRL-A)."
+    }, 
+    "showTabCount": {
+        "message": "Показать количество вкладок на значке:"
+    }, 
+    "sortByAddress": {
+        "message": "Сортировать по адресу"
+    }, 
+    "sortByName": {
+        "message": "Сортировать по имени"
+    }, 
+    "sortByTime": {
+        "message": "Сортировать по времени"
+    }, 
+    "supportMsg": {
+        "message": "Поддержи наше развитие!"
+    }, 
+    "suspendedTabsTip": {
+        "message": "Поместите свои неактивные вкладки сюда, для того чтобы уменьшить количество открытых вкладок. Память будет освобождена, но формы, и видео не сохранены."
+    }, 
+    "suspendedTabsTitle": {
+        "message": "Убранные вкладки"
+    }, 
+    "updateNotes": {
+        "message": "Обновить примечания"
+    }, 
+    "welcomeMessage": {
+        "message": "Новое в TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Поситите нашу страницу.</a>"
+    }
+}

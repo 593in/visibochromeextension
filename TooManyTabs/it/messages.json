@@ -30,8 +30,7 @@
         "message": "Clicca per ripristinare"
     }, 
     "confirm": {
-        "message": "Confirm", 
-        "remark": "NEED TRANSLATION"
+        "message": "Confirm"
     }, 
     "contactUs": {
         "message": "Contattaci:"
@@ -79,43 +78,34 @@
         "message": "Estensione Chrome per gestire le tue schede, migliorare la tua navigazione e mantenere la tua sanità di mente quando hai troppe schede aperte."
     }, 
     "export": {
-        "message": "Export", 
-        "remark": "NEED TRANSLATION"
+        "message": "Export"
     }, 
     "exportDescription": {
-        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers."
     }, 
     "find": {
         "message": "Cerca"
     }, 
     "formatError": {
-        "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again.", 
-        "remark": "NEED TRANSLATION"
+        "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again."
     }, 
     "import": {
-        "message": "Import", 
-        "remark": "NEED TRANSLATION"
+        "message": "Import"
     }, 
     "importAndExport": {
-        "message": "Import/Export", 
-        "remark": "NEED TRANSLATION"
+        "message": "Import/Export"
     }, 
     "importDescription": {
-        "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button."
     }, 
     "importDescription2": {
-        "message": "Warning: You current columns and tabs will be overwritten", 
-        "remark": "NEED TRANSLATION"
+        "message": "Warning: You current columns and tabs will be overwritten"
     }, 
     "importPageTitle": {
-        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs"
     }, 
     "importedSuccessfully": {
-        "message": "Columns and tabs imported successfully!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Columns and tabs imported successfully!"
     }, 
     "justTypeIn": {
         "message": "Digita..."
@@ -142,12 +132,10 @@
         "message": "Hm, nessuna risposta da quella scheda. O è un pannello di sistema, o è occupata..."
     }, 
     "ok": {
-        "message": "OK", 
-        "remark": "NEED TRANSLATION"
+        "message": "OK"
     }, 
     "openImportAndExportPage": {
-        "message": "Open Import/Export Page", 
-        "remark": "NEED TRANSLATION"
+        "message": "Open Import/Export Page"
     }, 
     "openOptionPage": {
         "message": "Apri la Pagina delle Opzioni"
@@ -156,8 +144,7 @@
         "message": "Opzioni"
     }, 
     "optionsNo": {
-        "message": "No", 
-        "remark": "NEED TRANSLATION"
+        "message": "No"
     }, 
     "optionsPageTitle": {
         "message": "TooManyTabs per Chrome - Optzioni"
@@ -190,8 +177,7 @@
         "message": "Non conserviamo nessuna delle vostre informazioni private e non le mandiamo mai a nessun server."
     }, 
     "recentClosedMsg": {
-        "message": "Number of recently closed tabs:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Number of recently closed tabs:"
     }, 
     "recentlyClosedTip": {
         "message": "Non saranno cancellati con la cronologia. Possono essere cancellati manualmente. Clicca sull’icona per un sotto-menu."
@@ -230,8 +216,7 @@
         "message": "Ordina per Cronologia"
     }, 
     "supportMsg": {
-        "message": "Support our development!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Support our development!"
     }, 
     "suspendedTabsTip": {
         "message": "Metti qui le tue schede inattive per ridurre il sovraccarico. Verrà risparmiato spazio in memoria ma i form e i video non vengono salvati."

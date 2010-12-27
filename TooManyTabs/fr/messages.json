@@ -3,8 +3,7 @@
         "message": "[Nouvelle colonne]"
     }, 
     "addNewColumnButton": {
-        "message": "Add", 
-        "remark": "NEED TRANSLATION"
+        "message": "Add"
     }, 
     "advancedFeatures": {
         "message": "Fonctionnalité avancée"
@@ -19,8 +18,7 @@
         "message": "[Supprimer tout]"
     }, 
     "clearAllButton": {
-        "message": "Clear", 
-        "remark": "NEED TRANSLATION"
+        "message": "Clear"
     }, 
     "clickToClose": {
         "message": "Cliquez pour fermer"
@@ -32,8 +30,7 @@
         "message": "Cliquez pour restaurer"
     }, 
     "confirm": {
-        "message": "Confirm", 
-        "remark": "NEED TRANSLATION"
+        "message": "Confirm"
     }, 
     "contactUs": {
         "message": "Contactez Nous:"
@@ -81,43 +78,34 @@
         "message": "Gérez vos onglets, améliorez votre naviguation, ne perdez pas la tête avec trop d'onglets."
     }, 
     "export": {
-        "message": "Export", 
-        "remark": "NEED TRANSLATION"
+        "message": "Export"
     }, 
     "exportDescription": {
-        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers."
     }, 
     "find": {
         "message": "Chercher"
     }, 
     "formatError": {
-        "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again.", 
-        "remark": "NEED TRANSLATION"
+        "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again."
     }, 
     "import": {
-        "message": "Import", 
-        "remark": "NEED TRANSLATION"
+        "message": "Import"
     }, 
     "importAndExport": {
-        "message": "Import/Export", 
-        "remark": "NEED TRANSLATION"
+        "message": "Import/Export"
     }, 
     "importDescription": {
-        "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button."
     }, 
     "importDescription2": {
-        "message": "Warning: You current columns and tabs will be overwritten", 
-        "remark": "NEED TRANSLATION"
+        "message": "Warning: You current columns and tabs will be overwritten"
     }, 
     "importPageTitle": {
-        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs"
     }, 
     "importedSuccessfully": {
-        "message": "Columns and tabs imported successfully!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Columns and tabs imported successfully!"
     }, 
     "justTypeIn": {
         "message": "Tapez ici..."
@@ -144,19 +132,16 @@
         "message": "Hm, pas de réponsde de cet onglet. C'est peut être un panel d'administration, ou alors il est occupé..."
     }, 
     "ok": {
-        "message": "OK", 
-        "remark": "NEED TRANSLATION"
+        "message": "OK"
     }, 
     "openImportAndExportPage": {
-        "message": "Open Import/Export Page", 
-        "remark": "NEED TRANSLATION"
+        "message": "Open Import/Export Page"
     }, 
     "openOptionPage": {
         "message": "Ouvrir la page d'option"
     }, 
     "options": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Options"
     }, 
     "optionsNo": {
         "message": "Non"
@@ -192,8 +177,7 @@
         "message": "Nous ne collectons pas d'informations privées vous concernant et de ce fait nous ne pouvons pas les communiquer."
     }, 
     "recentClosedMsg": {
-        "message": "Number of recently closed tabs:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Number of recently closed tabs:"
     }, 
     "recentlyClosedTip": {
         "message": "Ne sera pas supprimé avec l'historique. Peut être supprimé manuellement. Cliquez sur l'icône pour ouvrir le sous menu."
@@ -208,12 +192,10 @@
         "message": "[Supprimer cette colonne]"
     }, 
     "removeThisColumnButton": {
-        "message": "Remove", 
-        "remark": "NEED TRANSLATION"
+        "message": "Remove"
     }, 
     "removeThisColumnDisabled": {
-        "message": "This column cannot be removed", 
-        "remark": "NEED TRANSLATION"
+        "message": "This column cannot be removed"
     }, 
     "shortcut1": {
         "message": "Utiliser le raccourci clavier pour afficher la fenêtre TMT: CTRL-"
@@ -234,8 +216,7 @@
         "message": "Trier par date de création"
     }, 
     "supportMsg": {
-        "message": "Support our development!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Support our development!"
     }, 
     "suspendedTabsTip": {
         "message": "Glissez vos onglets ici pour réduire l'encombrement de la barre de navigation. La mémoire est libérée mais les formulaires et vidéos ne sont pas sauvegardés"
