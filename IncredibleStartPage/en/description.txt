@@ -1,19 +1,21 @@
 Incredible StartPage is a productive start page replacement for Chrome. Put all your favorite bookmarks in a beautiful frame, and enjoy our handy features!
 
+Support us by giving us 5 stars!
+
 As seen on DownloadSquad. http://goo.gl/iyYe
 
-New in 0.9
-- Notepad sync
-- Post notes to Google App accounts
-- More theme options, including using custom gradient as background
-- Bundled default wallpaper for faster loading
-- Recently closed tabs options
+* Incredible Startpage is Chrome Web Store ready! *
+
+## Important ###
+To Uninstall: Please go to "chrome://extensions/" to uninstall start page or script extensions of all kinds. :P
 
 Features
+- Manage & launch web apps
+- Post notes to Google/Google App accounts
+- Notepad sync across computers by Chrome Sync
 - Customizable color theme
 - Easily access your favorite bookmarks in a large frame
-- Simple closed tab recovery
-- Take notes and post to Gmail in one click
+- Recently closed tab recovery
 
 See a full tutorial on our blog http://goo.gl/zHxq
 
@@ -29,8 +31,8 @@ Known issues
 
 Disclaimer
 - Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, press Ctrl+Shift+T to reopen them one by one.
-- To get back Chrome's original start page, just go to "Extension" from the "Wrench" menu, and disable/uninstall the extension. 
 
+[No need to translate text below]
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 License: http://www.visibotech.com/license/incrediblestartpage.html
-Credits: http://www.visibotech.com/chrome/credits.html
+Translation & Credits: http://goo.gl/qG89Z
