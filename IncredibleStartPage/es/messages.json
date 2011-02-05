@@ -32,6 +32,9 @@
     "bookmarkBrowserTop": {
         "message": "Volver"
     }, 
+    "bookmarkControlsHelpDismiss": {
+        "message": "[Close]"
+    }, 
     "bookmarkControlsHelpMsg": {
         "message": "Puedes personalizar la carpeta que se mostrará en el panel de la derecha - navega a la carpeta y pulsa sobre 'Mostrar como principal'."
     }, 
@@ -46,6 +49,22 @@
     }, 
     "closeBtn": {
         "message": "Cancelar"
+    }, 
+    "columnInAppLabel": {
+        "message": "Show 3 columns in 'My Apps'"
+    }, 
+    "columnInBookmarkLabel": {
+        "message": "Show 3 columns in 'My Bookmarks'"
+    }, 
+    "confirm_uninstall": {
+        "description": "Confirm to uninstall webapp", 
+        "message": "Are you sure you wish to uninstall \"$title$\" ?", 
+        "placeholders": {
+            "title": {
+                "content": "$1", 
+                "example": "[The name of the webapp]"
+            }
+        }
     }, 
     "contactUs": {
         "message": "Contacta con nosotros en"
@@ -72,11 +91,10 @@
         "message": "Introduce sólo tu dominio de Google Appls sin \"www\", por ejemplo visibotech.com"
     }, 
     "incredibleStartPage": {
-        "message": "Incredible StartPage", 
-        "remark": "NEED TRANSLATION"
+        "message": "Incredible StartPage"
     }, 
     "incredibleStartPageDescription": {
-        "message": "Incredible StartPage reemplaza tu página de inicio por defecto con una vista personalizable de tus marcadores, recordatorios y pestañas recientes.<br><a href='http://blog.visibotech.com/2010/03/incredible-startpage-for-chrome.html'>Haz clic aquí</a> para conocerlo."
+        "message": "Incredible StartPage reemplaza tu página de inicio por defecto con una vista personalizable de tus marcadores, recordatorios y pestañas recientes.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Haz clic aquí</a> para conocerlo."
     }, 
     "maximumRecentlyClosedTabs": {
         "message": "Máximo de pestañas cerradas recientemente"
@@ -86,6 +104,9 @@
     }, 
     "name": {
         "message": "Incredible StartPage - Página de inicio mejorada para Chrome!"
+    }, 
+    "noColumnsLabel": {
+        "message": "Number of columns"
     }, 
     "notRememberClosedTabs": {
         "message": "0 (No recordar pestañas cerradas)"
@@ -114,6 +135,9 @@
     "optionsSaved": {
         "message": "Guardado"
     }, 
+    "optionsTitle": {
+        "message": "Options"
+    }, 
     "pagetitle": {
         "message": "Opciones de Incredible StartPage"
     }, 
@@ -136,11 +160,13 @@
         "message": "Calendario"
     }, 
     "shareToMail": {
-        "message": "Gmail", 
-        "remark": "NEED TRANSLATION"
+        "message": "Gmail"
     }, 
     "toggleOptionsBtn": {
         "message": "Opciones del tema"
+    }, 
+    "uninstallApp": {
+        "message": "Uninstall"
     }, 
     "wallpaperOptionTitle": {
         "message": "Fondos"

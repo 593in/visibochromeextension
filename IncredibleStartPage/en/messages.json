@@ -1,154 +1,181 @@
 {
-    "name": {
-        "message": "Incredible StartPage - Productive Start Page for Chrome!"
-    },
-    "description": {
-        "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse."
-    },
-    "recentlyClosedTitle": {
-        "message": "Closed"
-    },
-    "bookmarkBrowserTitle": {
-        "message": "Bookmarks"
-    },
-    "clearClosedText": {
-        "message": "Clear"
-    },
-    "backToParentText": {
-        "message": "Back"
-    },
-    "toggleOptionsBtn": {
-        "message": "Theme Options"
-    },
     "advancedOptionsBtn": {
         "message": "Advanced Options"
-    },
-    "postTo": {
-       "message": "Post to"    
-    },
-    "shareToMail": {
-        "message": "Gmail"
-    },
-    "shareToCalendar": {
-        "message": "Calendar"
-    },
+    }, 
+    "backToParentText": {
+        "message": "Back"
+    }, 
+    "backgroundColorCustomTips": {
+        "message": "Or choose a custom background:"
+    }, 
+    "backgroundColorOptionTitle": {
+        "message": "Background Color"
+    }, 
+    "backgroundColorSelectionTips": {
+        "message": "Select a theme color:"
+    }, 
     "bookmarkBarHelpContent": {
         "message": "This area shows the items in your bookmark toolbar, folders are hidden."
-    },
+    }, 
     "bookmarkBarHelpDismiss": {
         "message": "[Close]"
-    },
-    "defaultNotepadText": {
-        "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!"
-    },
+    }, 
     "bookmarkBrowserHelp": {
-        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.",
+        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.", 
         "remark": "PENDING"
-    },
+    }, 
     "bookmarkBrowserPin": {
         "message": "Show as main"
-    },
+    }, 
+    "bookmarkBrowserTitle": {
+        "message": "Bookmarks"
+    }, 
     "bookmarkBrowserTop": {
         "message": "Home"
-    },
+    }, 
+    "bookmarkControlsHelpDismiss": {
+        "message": "[Close]"
+    }, 
     "bookmarkControlsHelpMsg": {
         "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'."
-    },
-    "backgroundColorOptionTitle":{
-        "message":"Background Color"
-    },
-    "backgroundColorSelectionTips":{
-        "message":"Select a theme color:"
-    },
-    "backgroundColorCustomTips":{
-        "message":"Or choose a custom background:"
-    },
-    "fontColorOptionTitle":{
-        "message":"Font Color"
-    },
-    "fontColorSelectionTips":{
-        "message":"Select your font color:"
-    },
-    "wallpaperOptionTitle":{
-        "message":"Wallpapers"
-    },
-    "wallpaperThemeSelectionTips":{
-        "message":"Choose wallpaper from a theme:"
-    },
-    "wallpaperThemeCustomTips":{
-        "message":"Or use a gradient as the background:"
-    },
-    "chromeSyncBug":{
-        "message":"This Chrome version does not support sync feature."
-    },
-    "pagetitle": {
-        "message": "Incredible StartPage Options"
-    },
-    "incredibleStartPage": {
-        "message": "Incredible StartPage"
-    },
-    "incredibleStartPageDescription": {
-        "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/2010/03/incredible-startpage-for-chrome.html'>Click here</a> for a simple tutorial."
-    },
-    "option": {
-        "message": "Options"
-    },
-    "notepadFont": {
-        "message": "Notepad Font"
-    },
-    "maximumRecentlyClosedTabs": {
-        "message": "Maximum recently closed tabs"
-    },
-    "notRememberClosedTabs": {
-        "message": "0 (Do not remember closed tabs)"
-    },
-    "notepadSync": {
-        "message": "Notepad Sync"
-    },
-    "notepadSyncDescription": {
-        "message": "Sync notepad contents with your Google Account"
-    },
-    "notepadSyncDescription2": {
-        "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information"
-    },
-    "shareNotepadTo":{
-        "message": "Post notes to"
-    },
-    "gmailAccount": {
-        "message": "Google Account"
-    },
-    "googleAppsAccount": {
-        "message": "Google Apps Account, Domain"
-    },
-    "googleAppsAccountDescription": {
-        "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com"
-    },
-    "save": {
-        "message": "Save"
-    },
-    "optionsSaved": {
-        "message": "Saved"
-    },
-    "optionsEffect": {
-        "message": "Setting is effective after reload your startpage."
-    },
-    "contactUs": {
-        "message": "Contact us at"
-    },
-    "message": {
-        "message": "Please type your custom wallpaper URL:"
-    },
-    "closeBtn": {
-        "message": "Cancel"
-    },
-    "saveBtn": {
-        "message": "Save"
-    },
-    "noteUpdatedAtOtherPlacesText": {
-        "message": "The note has been updated from other places, please reload this page."
-    },
+    }, 
     "chromeBuggedText": {
         "message": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab."
+    }, 
+    "chromeSyncBug": {
+        "message": "This Chrome version does not support bookmark sync."
+    }, 
+    "clearClosedText": {
+        "message": "Clear"
+    }, 
+    "closeBtn": {
+        "message": "Cancel"
+    }, 
+    "columnInAppLabel": {
+        "message": "Show 3 columns in 'My Apps'"
+    }, 
+    "columnInBookmarkLabel": {
+        "message": "Show 3 columns in 'My Bookmarks'"
+    }, 
+    "confirm_uninstall": {
+        "description": "Confirm to uninstall webapp", 
+        "message": "Are you sure you wish to uninstall \"$title$\" ?", 
+        "placeholders": {
+            "title": {
+                "content": "$1", 
+                "example": "[The name of the webapp]"
+            }
+        }
+    }, 
+    "contactUs": {
+        "message": "Contact us at"
+    }, 
+    "defaultNotepadText": {
+        "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!"
+    }, 
+    "description": {
+        "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse."
+    }, 
+    "fontColorOptionTitle": {
+        "message": "Font Color"
+    }, 
+    "fontColorSelectionTips": {
+        "message": "Select your font color:"
+    }, 
+    "gmailAccount": {
+        "message": "Google Account"
+    }, 
+    "googleAppsAccount": {
+        "message": "Google Apps Account, Domain"
+    }, 
+    "googleAppsAccountDescription": {
+        "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com"
+    }, 
+    "incredibleStartPage": {
+        "message": "Incredible StartPage"
+    }, 
+    "incredibleStartPageDescription": {
+        "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> for a simple tutorial."
+    }, 
+    "maximumRecentlyClosedTabs": {
+        "message": "Maximum recently closed tabs"
+    }, 
+    "message": {
+        "message": "Please type your custom wallpaper URL:"
+    }, 
+    "name": {
+        "message": "Incredible StartPage - Productive Start Page for Chrome!"
+    }, 
+    "noColumnsLabel": {
+        "message": "Number of columns"
+    }, 
+    "notRememberClosedTabs": {
+        "message": "0 (Do not remember closed tabs)"
+    }, 
+    "noteUpdatedAtOtherPlacesText": {
+        "message": "The note has been updated from other places, please reload this page."
+    }, 
+    "notepadFont": {
+        "message": "Notepad Font"
+    }, 
+    "notepadSync": {
+        "message": "Notepad Sync"
+    }, 
+    "notepadSyncDescription": {
+        "message": "Sync notepad contents with your Google Account"
+    }, 
+    "notepadSyncDescription2": {
+        "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information"
+    }, 
+    "option": {
+        "message": "Options"
+    }, 
+    "optionsEffect": {
+        "message": "Setting is effective after reload your startpage."
+    }, 
+    "optionsSaved": {
+        "message": "Saved"
+    }, 
+    "optionsTitle": {
+        "message": "Options"
+    }, 
+    "pagetitle": {
+        "message": "Incredible StartPage Options"
+    }, 
+    "postTo": {
+        "message": "Post to"
+    }, 
+    "recentlyClosedTitle": {
+        "message": "Closed"
+    }, 
+    "save": {
+        "message": "Save"
+    }, 
+    "saveBtn": {
+        "message": "Save"
+    }, 
+    "shareNotepadTo": {
+        "message": "Post notes to"
+    }, 
+    "shareToCalendar": {
+        "message": "Calendar"
+    }, 
+    "shareToMail": {
+        "message": "Gmail"
+    }, 
+    "toggleOptionsBtn": {
+        "message": "Theme Options"
+    }, 
+    "uninstallApp": {
+        "message": "Uninstall"
+    }, 
+    "wallpaperOptionTitle": {
+        "message": "Wallpapers"
+    }, 
+    "wallpaperThemeCustomTips": {
+        "message": "Or use a gradient as the background:"
+    }, 
+    "wallpaperThemeSelectionTips": {
+        "message": "Choose wallpaper from a theme:"
     }
 }
-

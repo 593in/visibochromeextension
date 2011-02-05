@@ -1,22 +1,18 @@
 {
     "advancedOptionsBtn": {
-        "message": "Advanced Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Advanced Options"
     }, 
     "backToParentText": {
         "message": "戻る"
     }, 
     "backgroundColorCustomTips": {
-        "message": "Or choose a custom background:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Or choose a custom background:"
     }, 
     "backgroundColorOptionTitle": {
-        "message": "Background Color", 
-        "remark": "NEED TRANSLATION"
+        "message": "Background Color"
     }, 
     "backgroundColorSelectionTips": {
-        "message": "Select a theme color:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Select a theme color:"
     }, 
     "bookmarkBarHelpContent": {
         "message": "このエリアにブックマークツールバーの内容が表示されます。フォルダは非表示です。"
@@ -28,23 +24,22 @@
         "message": "ここからブックマークにアクセスすることができます。中でもお気に入りのブックマークはドラッグで右のエリアに表示ことができます。"
     }, 
     "bookmarkBrowserPin": {
-        "message": "Show as main", 
-        "remark": "NEED TRANSLATION"
+        "message": "Show as main"
     }, 
     "bookmarkBrowserTitle": {
         "message": "ブックマーク"
     }, 
     "bookmarkBrowserTop": {
-        "message": "Home", 
-        "remark": "NEED TRANSLATION"
+        "message": "Home"
+    }, 
+    "bookmarkControlsHelpDismiss": {
+        "message": "[Close]"
     }, 
     "bookmarkControlsHelpMsg": {
-        "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'.", 
-        "remark": "NEED TRANSLATION"
+        "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'."
     }, 
     "chromeBuggedText": {
-        "message": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab."
     }, 
     "chromeSyncBug": {
         "message": "This Chrome version does not support sync feature.", 
@@ -54,12 +49,26 @@
         "message": "クリア"
     }, 
     "closeBtn": {
-        "message": "Cancel", 
-        "remark": "NEED TRANSLATION"
+        "message": "Cancel"
+    }, 
+    "columnInAppLabel": {
+        "message": "Show 3 columns in 'My Apps'"
+    }, 
+    "columnInBookmarkLabel": {
+        "message": "Show 3 columns in 'My Bookmarks'"
+    }, 
+    "confirm_uninstall": {
+        "description": "Confirm to uninstall webapp", 
+        "message": "Are you sure you wish to uninstall \"$title$\" ?", 
+        "placeholders": {
+            "title": {
+                "content": "$1", 
+                "example": "[The name of the webapp]"
+            }
+        }
     }, 
     "contactUs": {
-        "message": "Contact us at", 
-        "remark": "NEED TRANSLATION"
+        "message": "Contact us at"
     }, 
     "defaultNotepadText": {
         "message": "インストールして頂きありがとうございます。Incredible StartPage!\n \nこのエリアはメモ帳です。ここでメモを取ることが出来ますよ！"
@@ -68,125 +77,105 @@
         "message": "Chromeのスタートページを新鮮でカスタマイズ可能にします。簡単にブックマークや閉じたタブにアクセスできます。ブラウズしながらメモを取ることもできます。"
     }, 
     "fontColorOptionTitle": {
-        "message": "Font Color", 
-        "remark": "NEED TRANSLATION"
+        "message": "Font Color"
     }, 
     "fontColorSelectionTips": {
-        "message": "Select your font color:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Select your font color:"
     }, 
     "gmailAccount": {
-        "message": "Google Account", 
-        "remark": "NEED TRANSLATION"
+        "message": "Google Account"
     }, 
     "googleAppsAccount": {
-        "message": "Google Apps Account, Domain", 
-        "remark": "NEED TRANSLATION"
+        "message": "Google Apps Account, Domain"
     }, 
     "googleAppsAccountDescription": {
-        "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com", 
-        "remark": "NEED TRANSLATION"
+        "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com"
     }, 
     "incredibleStartPage": {
-        "message": "Incredible StartPage", 
-        "remark": "NEED TRANSLATION"
+        "message": "Incredible StartPage"
     }, 
     "incredibleStartPageDescription": {
-        "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/2010/03/incredible-startpage-for-chrome.html'>Click here</a> for a simple tutorial.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> for a simple tutorial."
     }, 
     "maximumRecentlyClosedTabs": {
-        "message": "Maximum recently closed tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "Maximum recently closed tabs"
     }, 
     "message": {
-        "message": "Please type your custom wallpaper URL:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Please type your custom wallpaper URL:"
     }, 
     "name": {
         "message": "Incredible StartPage - より使いやすいChromeのスタートページ"
     }, 
+    "noColumnsLabel": {
+        "message": "Number of columns"
+    }, 
     "notRememberClosedTabs": {
-        "message": "0 (Do not remember closed tabs)", 
-        "remark": "NEED TRANSLATION"
+        "message": "0 (Do not remember closed tabs)"
     }, 
     "noteUpdatedAtOtherPlacesText": {
-        "message": "The note has been updated from other places, please reload this page.", 
-        "remark": "NEED TRANSLATION"
+        "message": "The note has been updated from other places, please reload this page."
     }, 
     "notepadFont": {
-        "message": "Notepad Font", 
-        "remark": "NEED TRANSLATION"
+        "message": "Notepad Font"
     }, 
     "notepadSync": {
-        "message": "Notepad Sync", 
-        "remark": "NEED TRANSLATION"
+        "message": "Notepad Sync"
     }, 
     "notepadSyncDescription": {
-        "message": "Sync notepad contents with your Google Account", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sync notepad contents with your Google Account"
     }, 
     "notepadSyncDescription2": {
-        "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information", 
-        "remark": "NEED TRANSLATION"
+        "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information"
     }, 
     "option": {
-        "message": "Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Options"
     }, 
     "optionsEffect": {
-        "message": "Setting is effective after reload your startpage.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Setting is effective after reload your startpage."
     }, 
     "optionsSaved": {
-        "message": "Saved", 
-        "remark": "NEED TRANSLATION"
+        "message": "Saved"
+    }, 
+    "optionsTitle": {
+        "message": "Options"
     }, 
     "pagetitle": {
-        "message": "Incredible StartPage Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Incredible StartPage Options"
     }, 
     "postTo": {
-        "message": "Post to", 
-        "remark": "NEED TRANSLATION"
+        "message": "Post to"
     }, 
     "recentlyClosedTitle": {
         "message": "閉じたタブ"
     }, 
     "save": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "Save"
     }, 
     "saveBtn": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "message": "Save"
     }, 
     "shareNotepadTo": {
-        "message": "Post notes to", 
-        "remark": "NEED TRANSLATION"
+        "message": "Post notes to"
     }, 
     "shareToCalendar": {
-        "message": "Calendar", 
-        "remark": "NEED TRANSLATION"
+        "message": "Calendar"
     }, 
     "shareToMail": {
-        "message": "Gmail", 
-        "remark": "NEED TRANSLATION"
+        "message": "Gmail"
     }, 
     "toggleOptionsBtn": {
-        "message": "Theme Options", 
-        "remark": "NEED TRANSLATION"
+        "message": "Theme Options"
+    }, 
+    "uninstallApp": {
+        "message": "Uninstall"
     }, 
     "wallpaperOptionTitle": {
-        "message": "Wallpapers", 
-        "remark": "NEED TRANSLATION"
+        "message": "Wallpapers"
     }, 
     "wallpaperThemeCustomTips": {
-        "message": "Or use a gradient as the background:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Or use a gradient as the background:"
     }, 
     "wallpaperThemeSelectionTips": {
-        "message": "Choose wallpaper from a theme:", 
-        "remark": "NEED TRANSLATION"
+        "message": "Choose wallpaper from a theme:"
     }
 }
