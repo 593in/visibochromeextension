@@ -1,24 +1,29 @@
 (Translated with Google Translate - English version here http://goo.gl/nxCC
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
-TwitterWatch es la más sencilla herramienta para vigilar caliente palabras Twitter! Introduzca una palabra clave, la búsqueda de prensa, y ya está. TwitterWatch puede coexistir con otros clientes de Twitter, sin cuotas de actualización de ozono.
+¡TwitterWatch es herramienta más sencilla ver las novedades de su Twitter! Es tan fácil como introducir una palabra clave y buscar. TwitterWatch puede coexistir con otros clientes de Twitter.
 
-Nuevo en el 0,8
-- Watch multiple keywords!
+Bug fix in 0.9.0: Actualizado con la nueva autorización de Twitter. Mire el siguiente post para obtener detalles http://blog.visibotech.com/2011/05/twitterwatch-updated-to-090.html
+
+Nuevo en la versión 0.8
+- ¡Reciba novedades de varias palabras clave a la vez!
 
 Características
-- Mira para los últimos tweets con la palabra clave
-- Mostrar recuento de actualización en tiempo real
-- Muy uso de los recursos de luz
+- Vea los últimos tweets de diversas palabras clave.
+- Vea el contador de actualizaciones en tiempo real.
+- Uso de recursos muy reducido.
 - Funciona muy bien con otros clientes de Twitter
 
-Try out our other extensions too!
+- ¡Envie tweets, retwitee y responda a tweets directamente desde TwitterWatch!
+
+¡Pruebe nuestras otras extensiones!
+- Incredible StartPage http://goo.gl/he9o
 - Incredible StartPage http://goo.gl/he9o **NEW**
 - Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - FreshStart Session Manager: http://goo.gl/249h
 - TabJump: http://goo.gl/r5EY
 
-Keywords: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
-License: http://www.visibotech.com/license/twitterwatch.html
-Credits: http://www.visibotech.com/chrome/credits.html
++Palabras clave: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
++Licencia: http://www.visibotech.com/license/twitterwatch.html
++Créditos: http://code.google.com/p/visibochromeextension/issues/list
