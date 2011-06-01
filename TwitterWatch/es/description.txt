@@ -24,6 +24,6 @@ Características
 - FreshStart Session Manager: http://goo.gl/249h
 - TabJump: http://goo.gl/r5EY
 
-+Palabras clave: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
-+Licencia: http://www.visibotech.com/license/twitterwatch.html
-+Créditos: http://code.google.com/p/visibochromeextension/issues/list
+Palabras clave: Twitter client, tweet, search, real time update, Chromed Bird, Twitter Watch, channel, retweet, reply
+Licencia: http://www.visibotech.com/license/twitterwatch.html
+Créditos: http://code.google.com/p/visibochromeextension/issues/list

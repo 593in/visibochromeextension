@@ -1,233 +1,322 @@
 {
     "addNewColumn": {
+        "description": "Add New Column", 
         "message": "[Füge neue Spalte hinzu]"
     }, 
     "addNewColumnButton": {
+        "description": "Add", 
         "message": "Hinzufügen"
     }, 
     "advancedFeatures": {
+        "description": "Advanced features", 
         "message": "Erweiterte Funktionen"
     }, 
     "areYouSure": {
+        "description": "Are you sure?", 
         "message": "Sind Sie sicher?"
     }, 
     "cancel": {
+        "description": "Cancel", 
         "message": "Abbrechen"
     }, 
     "clearAll": {
+        "description": "Clear All Items in this Column", 
         "message": "[Lösche alle Tabs]"
     }, 
     "clearAllButton": {
+        "description": "Clear", 
         "message": "Löschen"
     }, 
     "clickToClose": {
+        "description": "Click to close", 
         "message": "Schliessen"
     }, 
     "clickToPop": {
+        "description": "Click to pop this tab to TooManyTabs column", 
         "message": "Klicken Sie hier, um diesen Tab in die TooManyTabs Spalte zu verschieben."
     }, 
     "clickToRestore": {
+        "description": "Click to restore", 
         "message": "Wiederherstellen"
     }, 
     "confirm": {
+        "description": "Confirm", 
         "message": "Bestätigen"
     }, 
     "contactUs": {
+        "description": "Contact Us:", 
         "message": "Kontakt:"
     }, 
     "contactUs1": {
+        "description": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!", 
         "message": "Vorschläge? Lob? Liebesbekundungen? Besuchen Sie <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>uns</a>!"
     }, 
     "contactUs2": {
+        "description": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
         "message": "Probleme? Bugs? Besuchen Sie uns auch <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>hier</a>. Wir benötigen oft Screenshots und Ihre OS/Chrome Version."
     }, 
     "contactUs3": {
+        "description": "We welcome all constructive feedbacks in civilized languages. *wink*", 
         "message": "Wir begrüßen konstruktives Feedback in gesitteter Form. ;-)"
     }, 
     "contactingTab": {
+        "description": "Contacting tab...", 
         "message": "Kontaktiere Tab..."
     }, 
     "copyright": {
+        "description": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
         "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
     }, 
     "crossWindow": {
+        "description": "Show tabs across windows:", 
         "message": "Zeige Tabs über dem Fenster:"
     }, 
     "crossWindow1": {
+        "description": "Yes", 
         "message": "Ja"
     }, 
     "crossWindow2": {
+        "description": "No (Default)", 
         "message": "Nein (Standard)"
     }, 
     "crossWindow3": {
+        "description": "Google Chrome for Mac / Linux do not support cross-window tab switching. If you try to switch to a tab in another window, that tab will be moved to the current window instead.", 
         "message": "Google Chrome für Mac / Linux unterstützt kein Fenster-Tab Wechsel. Wenn Sie versuchen ein Tab in ein anderes Fenster zu wechseln, wird dieser Tab stattdessen in das aktuelle Fenster verschoben."
     }, 
     "customRows1": {
+        "description": "Custom columns", 
         "message": "Eigene Spalten"
     }, 
     "customRows2": {
+        "description": "Use default columns", 
         "message": "Benutze Standard Spalten"
     }, 
     "customRows3": {
+        "description": "Enable custom columns", 
         "message": "Aktiviere eigene Spalten"
     }, 
     "customThemeColor": {
+        "description": "Custom theme color:", 
         "message": "Eigene Design Farbe:"
     }, 
     "description": {
+        "description": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
         "message": "Organisieren Sie Ihre Tabs, verbessern Sie Ihr Browsen, und verlieren Sie nicht Ihren Verstand, wenn Sie mehrere Tabs offen haben."
     }, 
+    "disablePreviewLabel": {
+        "description": "Disable tabs preview:", 
+        "message": "Disable tabs preview:"
+    }, 
+    "disablePreviewTip": {
+        "description": "Tip: Even when tab previews are still loading, you can start to select or search tabs already.", 
+        "message": "Tip: Even when tab previews are still loading, you can start to select or search tabs already."
+    }, 
     "export": {
+        "description": "Export", 
         "message": "Exportieren"
     }, 
     "exportDescription": {
+        "description": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.", 
         "message": "Klicke auf den  'Export' Button um Spalten und Tabs zu exportieren. Du kannst den Inhlat in eine Datei speichern und auf einen anderen Computer übertragen."
     }, 
     "find": {
+        "description": "Find", 
         "message": "Suchen"
     }, 
     "formatError": {
+        "description": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again.", 
         "message": "Der importierte Inhalt enthält Fehler! Ihre bestehenden Tabs sind nicht betroffen. Versuche den Export und Import erneut."
     }, 
     "import": {
+        "description": "Import", 
         "message": "Importieren"
     }, 
     "importAndExport": {
+        "description": "Import/Export", 
         "message": "Importieren/Exportieren"
     }, 
     "importDescription": {
+        "description": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.", 
         "message": "Klicke den 'Import' Button um mit den Import der Spalten und Tabs zuu beginnen. Füge den exportierten Text in die Box ein und klicke den 'Confirm' Button."
     }, 
     "importDescription2": {
+        "description": "Warning: You current columns and tabs will be overwritten", 
         "message": "Warnung: Ihre aktuellen Spalten und Tabs werden überschrieben"
     }, 
     "importPageTitle": {
+        "description": "TooManyTabs for Chrome - Import / Export Columns and Tabs", 
         "message": "TooManyTabs für Chrome - Import / Export der Spalten und Tabs"
     }, 
     "importedSuccessfully": {
+        "description": "Columns and tabs imported successfully!", 
         "message": "Spalten und Tabs erfolgreich importiert!"
     }, 
     "justTypeIn": {
+        "description": "Just type in...", 
         "message": "einfach eingeben..."
     }, 
     "knownIssues": {
+        "description": "Known Issues - do not file bug-reports on these, we are communicating with Chrome team to resolve them:", 
         "message": "Bekannte Probleme - legen Sie zu diesen Problemen keine Bug Berichte an, wir halten Kontakt mit dem Chrome Team, um diese Probleme zu lösen:"
     }, 
     "knownIssues1": {
+        "description": "Shortcut key does not work on Chrome's own pages (e.g. default homepage, option pages).", 
         "message": "Tastaturkürzel funktionieren nicht auf Chrome-eigene Seiten (z.B. Standard Homepage, Optionenseite)."
     }, 
     "knownIssues2": {
+        "description": "Chrome's own pages do not respond to TMT's wake up calls occasionally.", 
         "message": "Chrome-eigene Seiten reagieren zeitweise nicht auf TMT Wachrufe."
     }, 
     "name": {
+        "description": "TooManyTabs for Chrome", 
         "message": "TooManyTabs für Chrome"
     }, 
     "newColumn": {
+        "description": "New Column", 
         "message": "Neue Spalte"
     }, 
     "nextColumn": {
+        "description": "Next column", 
         "message": "Nächste Spalte"
     }, 
     "noResponse": {
+        "description": "Hm, no response from that tab. Either it is a system panel, or it's busy...", 
         "message": "Hm, keine Antwort von diesem Tab. Entweder ist es ein System Tab, oder der Tab ist überlastet..."
     }, 
     "ok": {
+        "description": "OK", 
         "message": "OK"
     }, 
     "openImportAndExportPage": {
+        "description": "Open Import/Export Page", 
         "message": "Öffne Import/Export Seite"
     }, 
     "openOptionPage": {
+        "description": "Open Option Page", 
         "message": "Öffne die Optionen"
     }, 
     "options": {
+        "description": "Options", 
         "message": "Optionen"
     }, 
     "optionsNo": {
+        "description": "No", 
         "message": "Nein"
     }, 
     "optionsPageTitle": {
+        "description": "TooManyTabs for Chrome - Options", 
         "message": "TooManyTabs für Chrome - Optionen"
     }, 
     "optionsYes": {
+        "description": "Yes", 
         "message": "Ja"
     }, 
     "popupWidth": {
+        "description": "Popup Width:", 
         "message": "Popup Breite:"
     }, 
     "popupWidth1": {
+        "description": "Wide", 
         "message": "weit"
     }, 
     "popupWidth2": {
+        "description": "Narrow", 
         "message": "eng"
     }, 
     "popupWidth3": {
+        "description": "Small", 
         "message": "klein"
     }, 
     "previousColumn": {
+        "description": "Previous column", 
         "message": "Vorherige Spalte"
     }, 
     "quickSupport": {
+        "description": "Quick Support:", 
         "message": "Schnelle Hilfe:"
     }, 
     "quickSupport1": {
+        "description": "Latest updates, tips and video tutorials <a href='http://blog.visibotech.com/p/toomanytabs.html'>here</a>!", 
         "message": "Aktuelle Updates, Tipps und Video Tutorials finden Sie <a href='http://blog.visibotech.com/p/toomanytabs.html'>hier</a>!"
     }, 
     "quickSupport2": {
+        "description": "We do not collect any of your private information and never send them to any servers.", 
         "message": "Wir sammeln keine Ihrer privaten Daten und senden Diese auch nie zu irgendwelchen Servern."
     }, 
     "recentClosedMsg": {
+        "description": "Number of recently closed tabs:", 
         "message": "Anzahl der kürzlich geschlossenen Tabs:"
     }, 
     "recentlyClosedTip": {
+        "description": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu.", 
         "message": "Wird nicht mit dem Chrome Verlauf gelöscht. Kann man manuell löschen. Klicken Sie auf das Icon für ein Untermenü."
     }, 
     "recentlyClosedTitle": {
+        "description": "Recently Closed", 
         "message": "Kürzlich geschlossen"
     }, 
     "remove": {
+        "description": "Remove", 
         "message": "Entferne"
     }, 
     "removeThisColumn": {
+        "description": "Remove This Column", 
         "message": "[Lösche diese Spalte]"
     }, 
     "removeThisColumnButton": {
+        "description": "Remove", 
         "message": "Entfernen"
     }, 
     "removeThisColumnDisabled": {
+        "description": "This column cannot be removed", 
         "message": "Diese Spalte kann nicht gelöscht werden"
     }, 
+    "sendToTMT": {
+        "description": "Send tab/link to TooManyTabs", 
+        "message": "Send tab/link to TooManyTabs"
+    }, 
     "shortcut1": {
+        "description": "Use shortcut key to bring up TMT window: CTRL-", 
         "message": "Benutze folgendes Tastaturkürzel, um das TMT Fenster hervorzurufen: STRG-"
     }, 
     "shortcut2": {
+        "description": "The shortcut key doesn't work when you are on system pages, like this option page. Some shortcuts may not work on certain operating systems (e.g. CTRL-A).", 
         "message": "Das Tastaturkürzel funktioniert nicht, wenn Sie sich auf einer Systemseite wie Diese befinden. Je nach Betriebssystem funktionieren manche Tastaturkürzel wahrscheinlich nicht (z.B. STRG-A)."
     }, 
     "showTabCount": {
+        "description": "Show tab count on the icon:", 
         "message": "Zeige Tabanzahl auf dem Icon:"
     }, 
     "sortByAddress": {
+        "description": "Sort by Web Address", 
         "message": "Sortiere nach Webaddresse"
     }, 
     "sortByName": {
+        "description": "Sort by Name", 
         "message": "Sortiere nach Name"
     }, 
     "sortByTime": {
+        "description": "Sort by Creation Time", 
         "message": "Sortiere nach Erstellungszeitpunkt"
     }, 
     "supportMsg": {
+        "description": "Support our development!", 
         "message": "Unterstütze unsere Entwicklung!"
     }, 
     "suspendedTabsTip": {
+        "description": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved.", 
         "message": "Verschieben Sie hier Ihre untätigen Tabs, um Tab Überschwemmung zu verhindern. Der Speicher wird frei, aber Formulare und Videos werden nicht gespeichert."
     }, 
     "suspendedTabsTitle": {
+        "description": "Suspended Tabs", 
         "message": "Abgelegte Tabs"
     }, 
     "updateNotes": {
+        "description": "Click here for update notes", 
         "message": "Klicken Sie hier für die Update Änderungen"
     }, 
     "welcomeMessage": {
+        "description": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Visit our welcome page.</a>", 
         "message": "Neu bei TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Besuchen Sie unsere Willkommensseite.</a>"
     }
 }

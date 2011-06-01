@@ -77,6 +77,12 @@
     "description": {
         "message": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open."
     }, 
+    "disablePreviewLabel": {
+        "message": "Disable tabs preview:"
+    }, 
+    "disablePreviewTip": {
+        "message": "Tip: Even when tab previews are still loading, you can start to select or search tabs already."
+    }, 
     "export": {
         "message": "Export"
     }, 
@@ -196,6 +202,9 @@
     }, 
     "removeThisColumnDisabled": {
         "message": "This column cannot be removed"
+    }, 
+    "sendToTMT": {
+        "message": "Send tab/link to TooManyTabs"
     }, 
     "shortcut1": {
         "message": "Use shortcut key to bring up TMT window: CTRL-"

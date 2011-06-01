@@ -1,407 +1,322 @@
 {
     "addNewColumn": {
-        "description": {
-            "message": "Add New Column"
-        }, 
+        "description": "Add New Column", 
         "message": "[新しいカラムの追加]"
     }, 
     "addNewColumnButton": {
+        "description": "Add", 
         "message": "Add"
     }, 
     "advancedFeatures": {
-        "description": {
-            "message": "Advanced features"
-        }, 
+        "description": "Advanced features", 
         "message": "拡張機能"
     }, 
     "areYouSure": {
-        "description": {
-            "message": "Are you sure?"
-        }, 
+        "description": "Are you sure?", 
         "message": "よろしいですか？"
     }, 
     "cancel": {
-        "description": {
-            "message": "Cancel"
-        }, 
+        "description": "Cancel", 
         "message": "キャンセル"
     }, 
     "clearAll": {
-        "description": {
-            "message": "Clear All Items in this Column"
-        }, 
+        "description": "Clear All Items in this Column", 
         "message": "[すべてクリア]"
     }, 
     "clearAllButton": {
+        "description": "Clear", 
         "message": "Clear"
     }, 
     "clickToClose": {
-        "description": {
-            "message": "Click to close"
-        }, 
+        "description": "Click to close", 
         "message": "クリックして閉じる"
     }, 
     "clickToPop": {
-        "description": {
-            "message": "Click to pop this tab to TooManyTabs column"
-        }, 
+        "description": "Click to pop this tab to TooManyTabs column", 
         "message": "クリックしてこのタブをTooMayTabsカラムに移動"
     }, 
     "clickToRestore": {
-        "description": {
-            "message": "Click to restore"
-        }, 
+        "description": "Click to restore", 
         "message": "クリックして復元"
     }, 
     "confirm": {
+        "description": "Confirm", 
         "message": "Confirm"
     }, 
     "contactUs": {
-        "description": {
-            "message": "Contact Us:"
-        }, 
+        "description": "Contact Us:", 
         "message": "コンタクト:"
     }, 
     "contactUs1": {
-        "description": {
-            "message": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!"
-        }, 
+        "description": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!", 
         "message": "ご提案、賞賛の声、励ましのお言葉などは<a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>こちらへ</a>！"
     }, 
     "contactUs2": {
-        "description": {
-            "message": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a> as well. We often need screenshots and your OS/Chrome version."
-        }, 
+        "description": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
         "message": "問題、バグの報告は<a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome' target='_blank'>こちらへ</a>  スクリーンショットやお使いのOS/Chromeのバージョンを添えて頂けると助かります。"
     }, 
     "contactUs3": {
-        "description": {
-            "message": "We welcome all constructive feedbacks in civilized languages. *wink*"
-        }, 
+        "description": "We welcome all constructive feedbacks in civilized languages. *wink*", 
         "message": "皆様からの発展的なフィードバックを歓迎致します(^-^)"
     }, 
     "contactingTab": {
-        "description": {
-            "message": "Contacting tab..."
-        }, 
+        "description": "Contacting tab...", 
         "message": "タブにコンタクト中..."
     }, 
     "copyright": {
-        "description": {
-            "message": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
-        }, 
+        "description": "<a href='http://www.visibotech.com/'>Home</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
         "message": "<a href='http://www.visibotech.com/'>ホーム</a> | <a href='http://blog.visibotech.com/'>Blog</a> | <a href='http://twitter.com/visibo'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved."
     }, 
     "crossWindow": {
-        "description": {
-            "message": "Show tabs across windows:"
-        }, 
+        "description": "Show tabs across windows:", 
         "message": "すべてのウインドウのタブを表示:"
     }, 
     "crossWindow1": {
-        "description": {
-            "message": "Yes"
-        }, 
+        "description": "Yes", 
         "message": "はい"
     }, 
     "crossWindow2": {
-        "description": {
-            "message": "No (Default)"
-        }, 
+        "description": "No (Default)", 
         "message": "いいえ(初期値)"
     }, 
     "crossWindow3": {
-        "description": {
-            "message": "Google Chrome for Mac / Linux do not support cross-window tab switching. If you try to switch to a tab in another window, that tab will be moved to the current window instead."
-        }, 
+        "description": "Google Chrome for Mac / Linux do not support cross-window tab switching. If you try to switch to a tab in another window, that tab will be moved to the current window instead.", 
         "message": "Mac及びLinux向けクロームは、タブをまたがってのウインドウ移動をサポートしていません。他のウインドウにタブを移動させようとしても、現在のウインドウに移動されます。"
     }, 
     "customRows1": {
-        "description": {
-            "message": "Custom columns"
-        }, 
+        "description": "Custom columns", 
         "message": "カスタムカラム"
     }, 
     "customRows2": {
-        "description": {
-            "message": "Use default columns"
-        }, 
+        "description": "Use default columns", 
         "message": "デフォルトのカラムを使う"
     }, 
     "customRows3": {
-        "description": {
-            "message": "Enable custom columns"
-        }, 
+        "description": "Enable custom columns", 
         "message": "カスタムカラムを有効化"
     }, 
     "customThemeColor": {
-        "description": {
-            "message": "Custom theme color:"
-        }, 
+        "description": "Custom theme color:", 
         "message": "テーマカラーの変更:"
     }, 
     "description": {
-        "description": {
-            "message": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open."
-        }, 
+        "description": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
         "message": "たくさんのタブを開いたときに、タブの管理、ブラウジングの改善と整理をします。"
     }, 
+    "disablePreviewLabel": {
+        "description": "Disable tabs preview:", 
+        "message": "Disable tabs preview:"
+    }, 
+    "disablePreviewTip": {
+        "description": "Tip: Even when tab previews are still loading, you can start to select or search tabs already.", 
+        "message": "Tip: Even when tab previews are still loading, you can start to select or search tabs already."
+    }, 
     "export": {
+        "description": "Export", 
         "message": "Export"
     }, 
     "exportDescription": {
+        "description": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.", 
         "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers."
     }, 
     "find": {
-        "description": {
-            "message": "Find"
-        }, 
+        "description": "Find", 
         "message": "検索"
     }, 
     "formatError": {
+        "description": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again.", 
         "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again."
     }, 
     "import": {
+        "description": "Import", 
         "message": "Import"
     }, 
     "importAndExport": {
+        "description": "Import/Export", 
         "message": "Import/Export"
     }, 
     "importDescription": {
+        "description": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.", 
         "message": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button."
     }, 
     "importDescription2": {
+        "description": "Warning: You current columns and tabs will be overwritten", 
         "message": "Warning: You current columns and tabs will be overwritten"
     }, 
     "importPageTitle": {
+        "description": "TooManyTabs for Chrome - Import / Export Columns and Tabs", 
         "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs"
     }, 
     "importedSuccessfully": {
+        "description": "Columns and tabs imported successfully!", 
         "message": "Columns and tabs imported successfully!"
     }, 
     "justTypeIn": {
-        "description": {
-            "message": "Just type in..."
-        }, 
+        "description": "Just type in...", 
         "message": "検索文字を入力..."
     }, 
     "knownIssues": {
-        "description": {
-            "message": "Known Issues - do not file bug-reports on these, we are communicating with Chrome team to resolve them:"
-        }, 
+        "description": "Known Issues - do not file bug-reports on these, we are communicating with Chrome team to resolve them:", 
         "message": "既知の問題 - これらに関するバグレポートは不要です。現在Chromeの開発チームと改善に取り組んでいます:"
     }, 
     "knownIssues1": {
-        "description": {
-            "message": "Shortcut key does not work on Chrome's own pages (e.g. default homepage, option pages)."
-        }, 
+        "description": "Shortcut key does not work on Chrome's own pages (e.g. default homepage, option pages).", 
         "message": "Chrome自身のサイトでショートカットが使えない問題(デフォルトホームページ、オプションページなど)"
     }, 
     "knownIssues2": {
-        "description": {
-            "message": "Chrome's own pages do not respond to TMT's wake up calls occasionally."
-        }, 
+        "description": "Chrome's own pages do not respond to TMT's wake up calls occasionally.", 
         "message": "Chrome自身のサイトがTooManyTabsの呼び出しに応答しないときがある問題"
     }, 
     "name": {
-        "description": {
-            "message": "TooManyTabs for Chrome"
-        }, 
+        "description": "TooManyTabs for Chrome", 
         "message": "Chrome用TooManyTabs"
     }, 
     "newColumn": {
-        "description": {
-            "message": "New Column"
-        }, 
+        "description": "New Column", 
         "message": "新しいカラム"
     }, 
     "nextColumn": {
-        "description": {
-            "message": "Next column"
-        }, 
+        "description": "Next column", 
         "message": "次のカラム"
     }, 
     "noResponse": {
-        "description": {
-            "message": "Hm, no response from that tab. Either it is a system panel, or it's busy..."
-        }, 
+        "description": "Hm, no response from that tab. Either it is a system panel, or it's busy...", 
         "message": "うーん、該当のタブから応答がありません。システムパネルかビジー状態です。"
     }, 
     "ok": {
+        "description": "OK", 
         "message": "OK"
     }, 
     "openImportAndExportPage": {
+        "description": "Open Import/Export Page", 
         "message": "Open Import/Export Page"
     }, 
     "openOptionPage": {
-        "description": {
-            "message": "Open Option Page"
-        }, 
+        "description": "Open Option Page", 
         "message": "オプションページを開く"
     }, 
     "options": {
-        "description": {
-            "message": "Options"
-        }, 
+        "description": "Options", 
         "message": "オプション"
     }, 
     "optionsNo": {
+        "description": "No", 
         "message": "No"
     }, 
     "optionsPageTitle": {
-        "description": {
-            "message": "TooManyTabs for Chrome - Options"
-        }, 
+        "description": "TooManyTabs for Chrome - Options", 
         "message": "Chrome用TooManyTabs - オプション"
     }, 
     "optionsYes": {
-        "description": {
-            "message": "Yes"
-        }, 
+        "description": "Yes", 
         "message": "はい"
     }, 
     "popupWidth": {
-        "description": {
-            "message": "Popup Width:"
-        }, 
+        "description": "Popup Width:", 
         "message": "ポップアップ幅:"
     }, 
     "popupWidth1": {
-        "description": {
-            "message": "Wide"
-        }, 
+        "description": "Wide", 
         "message": "広く"
     }, 
     "popupWidth2": {
-        "description": {
-            "message": "Narrow"
-        }, 
+        "description": "Narrow", 
         "message": "狭く"
     }, 
     "popupWidth3": {
-        "description": {
-            "message": "Small"
-        }, 
+        "description": "Small", 
         "message": "小さく"
     }, 
     "previousColumn": {
-        "description": {
-            "message": "Previous column"
-        }, 
+        "description": "Previous column", 
         "message": "前のカラム"
     }, 
     "quickSupport": {
-        "description": {
-            "message": "Quick Support:"
-        }, 
+        "description": "Quick Support:", 
         "message": "クイックサポート:"
     }, 
     "quickSupport1": {
-        "description": {
-            "message": "Latest updates, tips and video tutorials <a href='http://blog.visibotech.com/p/toomanytabs.html'>here</a>!"
-        }, 
+        "description": "Latest updates, tips and video tutorials <a href='http://blog.visibotech.com/p/toomanytabs.html'>here</a>!", 
         "message": "最新版、便利な使い方、ビデオチュートリアルは<a href='http://blog.visibotech.com/p/toomanytabs.html'>こちらへ</a>！"
     }, 
     "quickSupport2": {
-        "description": {
-            "message": "We do not collect any of your private information and never send them to any servers."
-        }, 
+        "description": "We do not collect any of your private information and never send them to any servers.", 
         "message": "あなたのプライベートな情報を集めたり、どこかのサーバに送信したりすることはありません。"
     }, 
     "recentClosedMsg": {
+        "description": "Number of recently closed tabs:", 
         "message": "Number of recently closed tabs:"
     }, 
     "recentlyClosedTip": {
-        "description": {
-            "message": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu."
-        }, 
+        "description": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu.", 
         "message": "閲覧履歴に関連する内容は削除いたしません。それらは手動での削除になります。アイコンをクリックするとサブメニューに戻ります。"
     }, 
     "recentlyClosedTitle": {
-        "description": {
-            "message": "Recently Closed"
-        }, 
+        "description": "Recently Closed", 
         "message": "最近閉じたタブ"
     }, 
     "remove": {
-        "description": {
-            "message": "Remove"
-        }, 
+        "description": "Remove", 
         "message": "削除"
     }, 
     "removeThisColumn": {
-        "description": {
-            "message": "Remove This Column"
-        }, 
+        "description": "Remove This Column", 
         "message": "[このタブを削除]"
     }, 
     "removeThisColumnButton": {
+        "description": "Remove", 
         "message": "Remove"
     }, 
     "removeThisColumnDisabled": {
+        "description": "This column cannot be removed", 
         "message": "This column cannot be removed"
     }, 
+    "sendToTMT": {
+        "description": "Send tab/link to TooManyTabs", 
+        "message": "Send tab/link to TooManyTabs"
+    }, 
     "shortcut1": {
-        "description": {
-            "message": "Use shortcut key to bring up TMT window: CTRL-"
-        }, 
+        "description": "Use shortcut key to bring up TMT window: CTRL-", 
         "message": "TooManyTabsウインドウを起動するショートカットキー"
     }, 
     "shortcut2": {
-        "description": {
-            "message": "The shortcut key doesn't work when you are on system pages, like this option page. Some shortcuts may not work on certain operating systems (e.g. CTRL-A)."
-        }, 
+        "description": "The shortcut key doesn't work when you are on system pages, like this option page. Some shortcuts may not work on certain operating systems (e.g. CTRL-A).", 
         "message": "システムページにいるときにはショートカットキーは動作しません。このオプションページも同様です。お使いのOSによっては、いくつかのショートカットキーが動作しないことtがあります。(例:Ctrl+A)"
     }, 
     "showTabCount": {
-        "description": {
-            "message": "Show tab count on the icon:"
-        }, 
+        "description": "Show tab count on the icon:", 
         "message": "アイコンにタブの数を表示:"
     }, 
     "sortByAddress": {
-        "description": {
-            "message": "Sort by Web Address"
-        }, 
+        "description": "Sort by Web Address", 
         "message": "アドレスで並び替え"
     }, 
     "sortByName": {
-        "description": {
-            "message": "Sort by Name"
-        }, 
+        "description": "Sort by Name", 
         "message": "名前で並び替え"
     }, 
     "sortByTime": {
-        "description": {
-            "message": "Sort by Creation Time"
-        }, 
+        "description": "Sort by Creation Time", 
         "message": "作成時間で並び替え"
     }, 
     "supportMsg": {
+        "description": "Support our development!", 
         "message": "Support our development!"
     }, 
     "suspendedTabsTip": {
-        "description": {
-            "message": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved."
-        }, 
+        "description": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved.", 
         "message": "タブのオーバーフローを減らすために不要なタブをここに持ってくること出来ます。メモリを解放することができますが、フォームやビデオの内容は保存されません。"
     }, 
     "suspendedTabsTitle": {
-        "description": {
-            "message": "Suspended Tabs"
-        }, 
+        "description": "Suspended Tabs", 
         "message": "サスペンドされたタブ"
     }, 
     "updateNotes": {
-        "description": {
-            "message": "Click here for update notes"
-        }, 
+        "description": "Click here for update notes", 
         "message": "クリックしてアップデート内容を確認"
     }, 
     "welcomeMessage": {
-        "description": {
-            "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Visit our welcome page.</a>"
-        }, 
+        "description": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Visit our welcome page.</a>", 
         "message": "TooManyTabsの新機能は→<a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>私たちのサイトへようこそ</a>"
     }
 }
