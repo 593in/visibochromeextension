@@ -1,8 +1,10 @@
 {
     "cancel": {
+        "description": "Cancel", 
         "message": "Zruši"
     }, 
     "clickToRestore": {
+        "description": "Click to restore session '$name$' in new window", 
         "message": "Kliknite pre obnovenie relácie'$name$' v novom okne", 
         "placeholders": {
             "name": {
@@ -11,187 +13,240 @@
         }
     }, 
     "confirm": {
+        "description": "Confirm", 
         "message": "Potvrdi"
     }, 
+    "confirmClose": {
+        "description": "Open this session and close current window(s)? (Cannot undo!)", 
+        "message": "Open this session and close current window(s)? (Cannot undo!)"
+    }, 
     "confirmDeleteQuestion": {
+        "description": "Are you sure you want to remove this session?", 
         "message": "Ste si istý, že chcete vymaza túto reláciu?"
     }, 
     "contactUs": {
+        "description": "Contact us:", 
         "message": "Kontaktujte nás:"
     }, 
     "contactUs2": {
+        "description": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a>!", 
         "message": "Návrh? Pochvala? Priazeò? Navštívte nás <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>TU</a>!"
     }, 
     "contactUs3": {
+        "description": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
         "message": "Problémy? Chyba? Navštívte nás <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>TU</a> tiež. Obvykle potrebujeme screenshot-y a vašu verziu OS/Chrome."
     }, 
     "contactUs4": {
+        "description": "We welcome all constructive feedbacks in civilized languages. *wink*", 
         "message": "Uvítame akúko¾vek konštruktívnu reakciu v civilizovanom jazyku. *žmurk*"
     }, 
     "copyright": {
+        "description": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
         "message": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. Všetky práva vyhradené."
     }, 
     "crashRestoreTitle": {
+        "description": "Restore Previous Session", 
         "message": "Obnovi predošlú reláciu"
     }, 
     "description": {
-        "description": "The extension description", 
+        "description": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.", 
         "message": "Potrebujete jednoduchého správcu relácií? Nieko¾ko užívate¾ov na jednom úète? FreshStart je jednoduchý správca relácii pre mnohé prehliadaèe."
     }, 
     "edit": {
+        "description": "Edit", 
         "message": "Upravi"
     }, 
     "enableCrashRecovery": {
+        "description": "Enable crash recovery", 
         "message": "Povoli obnovenie relácie po havárií"
     }, 
     "enterSessionName": {
-        "message": "Please enter the name of the session", 
-        "remark": "NEED TRANSLATION"
+        "description": "Please enter the name of the session", 
+        "message": "Please enter the name of the session"
     }, 
     "export": {
+        "description": "Export", 
         "message": "Exportova"
     }, 
     "exportedSessionCopyTips": {
+        "description": "Ctrl+c or Cmd+c to copy your session", 
         "message": "Ctrl+c alebo Cmd+c na kopírovanie vašej relácie"
     }, 
     "extensionBrowserActionTitle": {
+        "description": "FreshStart - Cross Browser Session Manager", 
         "message": "FreshStart - Jednoduchý správca relácii pre mnohé prehliadaèe"
     }, 
     "importedSessionTips": {
+        "description": "Paste your session here", 
         "message": "Sem vložte vašu reláciu "
     }, 
     "middleClickTips": {
         "message": "Tipy: FreshStart obnoví reláciu štandartne v novom okne. Pre otvorenie relácie v aktuálnom okne, použite ctrl+klik (pre Windows, Linux) alebo cmd+klik (pre Mac)."
     }, 
     "minutes": {
+        "description": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine.", 
         "message": "minút.<br>Odporúèaných: 5 minút. Príliš èasté  <br> auto-ukladanie môže spomali váš poèítaè."
     }, 
     "mySession": {
+        "description": "My Session", 
         "message": "Moja relácia"
     }, 
     "name": {
-        "description": "The extension name", 
-        "message": "FreshStart - Cross Browser Session Manager", 
-        "remark": "NEED TRANSLATION"
+        "description": "FreshStart - Cross Browser Session Manager", 
+        "message": "FreshStart - Cross Browser Session Manager"
     }, 
     "noSessionSaved": {
+        "description": "No sessions saved", 
         "message": "Žiadne relácie nie sú uložené"
     }, 
     "noSessionToRestore": {
-        "message": "There are no saved sessions.", 
-        "remark": "NEED TRANSLATION"
+        "description": "There are no saved sessions.", 
+        "message": "There are no saved sessions."
     }, 
     "options": {
+        "description": "Options", 
         "message": "Nastavenia"
     }, 
     "optionsBackupPeriod": {
+        "description": "Saves all your windows and tabs every ", 
         "message": "Uloží všetky vaše tabu¾ky každých "
     }, 
     "optionsBackupPeriodOutOfRange": {
+        "description": "Backup period cannot be shorter than 1 minute or larger than 999 minutes", 
         "message": "Zálohovacia perióda nemôže by kratšia ako 1 minútu, alebo dlhšia ako 999 minút"
     }, 
     "optionsDateFormat": {
+        "description": "Date format:", 
         "message": "Formát dátumu:"
     }, 
     "optionsEnableCrashRecovery": {
+        "description": "Enable Crash Recovery", 
         "message": "Povoli obnovenie relácie po havárií"
     }, 
     "optionsNewUserTips": {
+        "description": "New to FreshStart? Visit our <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Welcome Page</a>!", 
         "message": "Nový užívate¾ FreshStart-u? Navštívte našu <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>uvítaciu stránku</a>!"
     }, 
     "optionsPageTitle": {
+        "description": "FreshStart Options", 
         "message": "FreshStart nastavenia"
     }, 
     "optionsSaved": {
+        "description": "Options saved", 
         "message": "Nastavenia uložené"
     }, 
+    "popupSizeLabel": {
+        "description": "Popup Size", 
+        "message": "Popup Size"
+    }, 
     "remove": {
+        "description": "Remove", 
         "message": "Vymaza"
     }, 
     "restorePreviousSession": {
+        "description": "Restore previous session", 
         "message": "Obnovi predošlú reláciu"
     }, 
     "restoreSession": {
+        "description": "Restore Session", 
         "message": "Obnovi  reláciu"
     }, 
     "restoreSession2": {
+        "description": "Click to open session in new window", 
         "message": "Kliknite pre otvorenie v novom okne, ctrl+klik (Win, Linux) alebo cmd+klik (Mac) pre otvorenie v aktuálnom okne."
     }, 
     "restoreSessionButton": {
-        "message": "Restore this window", 
-        "remark": "NEED TRANSLATION"
+        "description": "Restore this window", 
+        "message": "Restore this window"
     }, 
     "restoreSessionButtonDescription": {
-        "message": "Click to restore this window", 
-        "remark": "NEED TRANSLATION"
+        "description": "Click to restore this window", 
+        "message": "Click to restore this window"
     }, 
     "restoreSessionOn": {
-        "message": "Restore session on ", 
-        "remark": "NEED TRANSLATION"
+        "description": "Restore session on ", 
+        "message": "Restore session on "
     }, 
     "save": {
+        "description": "Save", 
         "message": "Uloži"
     }, 
     "saveSession": {
+        "description": "Save Session", 
         "message": "Uložit reláciu"
     }, 
     "saveSessionButton": {
-        "message": "Save as FreshStart session", 
-        "remark": "NEED TRANSLATION"
+        "description": "Save as FreshStart session", 
+        "message": "Save as FreshStart session"
     }, 
     "saveSessionButtonDescription": {
-        "message": "Click here to save this as a new FreshStart session", 
-        "remark": "NEED TRANSLATION"
+        "description": "Click here to save this as a new FreshStart session", 
+        "message": "Click here to save this as a new FreshStart session"
     }, 
     "savedWindow": {
+        "description": "Saved Window ($count$)", 
         "message": "Saved Window ($count$)", 
         "placeholders": {
             "count": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "sessionTextBoxClose": {
+        "description": "Close", 
         "message": "Zavrie"
     }, 
     "sessionTextBoxImport": {
+        "description": "Import session", 
         "message": "Importova reláciu"
     }, 
     "smEditCancel": {
+        "description": "Cancel", 
         "message": "Zruši"
     }, 
     "smEditSave": {
+        "description": "Save", 
         "message": "Uloži"
     }, 
     "smHeadingNew": {
+        "description": "Tabs/Windows to Add", 
         "message": "Tabu¾ky na pridanie (oznaète pre pridanie)"
     }, 
+    "smHeadingNewTitle": {
+        "description": "You can drag and drop tabs between windows", 
+        "message": "You can drag and drop tabs between windows"
+    }, 
     "smHeadingSaved": {
+        "description": "Saved Session (uncheck to remove)", 
         "message": "Uložené Tabu¾ky (odznaète pre vymazanie)"
     }, 
     "smHeadingTitle": {
+        "description": "Title", 
         "message": "Názov"
     }, 
     "smSaveList": {
+        "description": "Uncheck tabs that you don't want to be saved.", 
         "message": "Odznaète tabu¾ky, ktoré nechcete aby sa uložili."
     }, 
     "smSaveToggle": {
+        "description": "Toggle Selection", 
         "message": "Prepnú výber"
     }, 
     "supportUs": {
+        "description": "Support our development and<br>share to your friends!", 
         "message": "Podporte náš vývoj a zdie¾ajte<br>vašim priate¾om!"
     }, 
     "tabsCount": {
+        "description": " ($count$ tabs)", 
         "message": " ($count$ tabs)", 
         "placeholders": {
             "count": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "updatedMessage": {
+        "description": "FreshStart is updated, click here to see what's new", 
         "message": "FreshStart je updatovaný, kliknite sem a zistite èo je nové"
     }
 }

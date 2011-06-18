@@ -30,4 +30,4 @@
 
 Ключевые слова: Вкладки, управление Вкладками, Находят вкладки, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Слишком много Вкладок, Меню Вкладки
 Лицензия: http://www.visibotech.com/TMTChrome/license.html
-Кредиты: http://www.visibotech.com/chrome/credits.html
+Кредиты:  http://code.google.com/p/visibochromeextension/issues/list

@@ -1,9 +1,10 @@
 {
     "cancel": {
-        "message": "Cancel", 
-        "remark": "NEED TRANSLATION"
+        "description": "Cancel", 
+        "message": "Cancel"
     }, 
     "clickToRestore": {
+        "description": "Click to restore session '$name$' in new window", 
         "message": "Click para restaurar la sesión '$name$' en una nueva ventana", 
         "placeholders": {
             "name": {
@@ -12,194 +13,231 @@
         }
     }, 
     "confirm": {
-        "message": "Confirm", 
-        "remark": "NEED TRANSLATION"
+        "description": "Confirm", 
+        "message": "Confirm"
+    }, 
+    "confirmClose": {
+        "description": "Open this session and close current window(s)? (Cannot undo!)", 
+        "message": "Open this session and close current window(s)? (Cannot undo!)"
     }, 
     "confirmDeleteQuestion": {
-        "message": "Are you sure to remove this sessions?", 
-        "remark": "NEED TRANSLATION"
+        "description": "Are you sure you want to remove this session?", 
+        "message": "Are you sure to remove this sessions?"
     }, 
     "contactUs": {
+        "description": "Contact us:", 
         "message": "Cont&aacute;ctanos:"
     }, 
     "contactUs2": {
+        "description": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a>!", 
         "message": "&#191;Sugerencias? &#191;Alabanzas? &#191;Amor? &#161;Vis&iacute;tanos <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>aqu&iacute;</a>!"
     }, 
     "contactUs3": {
+        "description": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
         "message": "&#191;Problemas? &#191;Bugs? Vis&iacute;tanos <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>aqu&iacute;</a> tambi&eacute;n. Generalmente necesitamos capturas de pantalla y tu versi&oacute;n de OS/Chrome."
     }, 
     "contactUs4": {
+        "description": "We welcome all constructive feedbacks in civilized languages. *wink*", 
         "message": "Son bienvenidos todos las cr&iacute;ticas constructivas en un lenguaje civilizado. *gui&ntilde;o*"
     }, 
     "copyright": {
+        "description": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
         "message": "<a href='http://www.visibotech.com/' target='_blank'>Página de inicio</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. Todos los derechos reservados."
     }, 
     "crashRestoreTitle": {
+        "description": "Restore Previous Session", 
         "message": "Restaurar sesi&oacute;n anterior"
     }, 
     "description": {
-        "description": "Descripci&oacute;n de la extensión", 
+        "description": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.", 
         "message": "¿Necesita gestionar sesiones de manera sencilla? ¿Varios usuarios en el mismo Chrome? FreshStart es un sencillo administrador de sesiones entre varios navegadores."
     }, 
     "edit": {
-        "message": "Edit", 
-        "remark": "NEED TRANSLATION"
+        "description": "Edit", 
+        "message": "Edit"
     }, 
     "enableCrashRecovery": {
+        "description": "Enable crash recovery", 
         "message": "Habilitar recuperación por cerrado inesperado"
     }, 
     "enterSessionName": {
-        "message": "Please enter the name of the session", 
-        "remark": "NEED TRANSLATION"
+        "description": "Please enter the name of the session", 
+        "message": "Please enter the name of the session"
     }, 
     "export": {
-        "message": "Export", 
-        "remark": "NEED TRANSLATION"
+        "description": "Export", 
+        "message": "Export"
     }, 
     "exportedSessionCopyTips": {
-        "message": "Ctrl+c or Cmd+c to copy your session", 
-        "remark": "NEED TRANSLATION"
+        "description": "Ctrl+c or Cmd+c to copy your session", 
+        "message": "Ctrl+c or Cmd+c to copy your session"
     }, 
     "extensionBrowserActionTitle": {
+        "description": "FreshStart - Cross Browser Session Manager", 
         "message": "FreshStart - Administrador de sesiones entre varios navegadores"
     }, 
     "importedSessionTips": {
-        "message": "Paste your session here", 
-        "remark": "NEED TRANSLATION"
+        "description": "Paste your session here", 
+        "message": "Paste your session here"
     }, 
     "middleClickTips": {
-        "message": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac).", 
-        "remark": "NEED TRANSLATION"
+        "message": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac)."
     }, 
     "minutes": {
-        "message": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine.", 
-        "remark": "NEED TRANSLATION"
+        "description": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine.", 
+        "message": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine."
     }, 
     "mySession": {
+        "description": "My Session", 
         "message": "Mi Sesión"
     }, 
     "name": {
-        "description": "El nombre de la extensi&oacute;n", 
+        "description": "FreshStart - Cross Browser Session Manager", 
         "message": "FreshStart - Administrador de sesiones entre varios navegadores"
     }, 
     "noSessionSaved": {
+        "description": "No sessions saved", 
         "message": "No hay sesiones guardadas"
     }, 
     "noSessionToRestore": {
-        "message": "There are no saved sessions.", 
-        "remark": "NEED TRANSLATION"
+        "description": "There are no saved sessions.", 
+        "message": "There are no saved sessions."
     }, 
     "options": {
+        "description": "Options", 
         "message": "Opciones"
     }, 
     "optionsBackupPeriod": {
+        "description": "Saves all your windows and tabs every ", 
         "message": "Guarda todas las pesta&ntilde;as cada "
     }, 
     "optionsBackupPeriodOutOfRange": {
+        "description": "Backup period cannot be shorter than 1 minute or larger than 999 minutes", 
         "message": "El tiempo entre backups no puede ser más corto que 1 minuto o más largo que 999"
     }, 
     "optionsDateFormat": {
-        "message": "Date format:", 
-        "remark": "NEED TRANSLATION"
+        "description": "Date format:", 
+        "message": "Date format:"
     }, 
     "optionsEnableCrashRecovery": {
+        "description": "Enable Crash Recovery", 
         "message": "Habilitar Recuperaci&oacute;n en caso de cierre incorrecto"
     }, 
     "optionsNewUserTips": {
+        "description": "New to FreshStart? Visit our <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Welcome Page</a>!", 
         "message": "&#191;Nuevo en FreshStart? &#161;Visita nuestra <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Página de Bienvenida</a>!"
     }, 
     "optionsPageTitle": {
+        "description": "FreshStart Options", 
         "message": "Opciones de FreshStart"
     }, 
     "optionsSaved": {
+        "description": "Options saved", 
         "message": "Opciones guardadas"
     }, 
+    "popupSizeLabel": {
+        "description": "Popup Size", 
+        "message": "Popup Size"
+    }, 
     "remove": {
+        "description": "Remove", 
         "message": "Eliminar"
     }, 
     "restorePreviousSession": {
+        "description": "Restore previous session", 
         "message": "Restaurar sesión anterior"
     }, 
     "restoreSession": {
+        "description": "Restore Session", 
         "message": "Restaurar sesi&oacute;n"
     }, 
     "restoreSession2": {
+        "description": "Click to open session in new window", 
         "message": "Click izquierdo para abrir en una nueva ventana o ctrl-click para desplegar en esta ventana"
     }, 
     "restoreSessionButton": {
-        "message": "Restore this window", 
-        "remark": "NEED TRANSLATION"
+        "description": "Restore this window", 
+        "message": "Restore this window"
     }, 
     "restoreSessionButtonDescription": {
-        "message": "Click to restore this window", 
-        "remark": "NEED TRANSLATION"
+        "description": "Click to restore this window", 
+        "message": "Click to restore this window"
     }, 
     "restoreSessionOn": {
-        "message": "Restore session on ", 
-        "remark": "NEED TRANSLATION"
+        "description": "Restore session on ", 
+        "message": "Restore session on "
     }, 
     "save": {
+        "description": "Save", 
         "message": "Guardar"
     }, 
     "saveSession": {
+        "description": "Save Session", 
         "message": "Guardar sesi&oacute;n"
     }, 
     "saveSessionButton": {
-        "message": "Save as FreshStart session", 
-        "remark": "NEED TRANSLATION"
+        "description": "Save as FreshStart session", 
+        "message": "Save as FreshStart session"
     }, 
     "saveSessionButtonDescription": {
-        "message": "Click here to save this as a new FreshStart session", 
-        "remark": "NEED TRANSLATION"
+        "description": "Click here to save this as a new FreshStart session", 
+        "message": "Click here to save this as a new FreshStart session"
     }, 
     "savedWindow": {
+        "description": "Saved Window ($count$)", 
         "message": "Saved Window ($count$)", 
         "placeholders": {
             "count": {
                 "content": "$1"
             }
-        }, 
-        "remark": "NEED TRANSLATION"
+        }
     }, 
     "sessionTextBoxClose": {
-        "message": "Close", 
-        "remark": "NEED TRANSLATION"
+        "description": "Close", 
+        "message": "Close"
     }, 
     "sessionTextBoxImport": {
-        "message": "Import session", 
-        "remark": "NEED TRANSLATION"
+        "description": "Import session", 
+        "message": "Import session"
     }, 
     "smEditCancel": {
-        "message": "Cancel", 
-        "remark": "NEED TRANSLATION"
+        "description": "Cancel", 
+        "message": "Cancel"
     }, 
     "smEditSave": {
-        "message": "Save", 
-        "remark": "NEED TRANSLATION"
+        "description": "Save", 
+        "message": "Save"
     }, 
     "smHeadingNew": {
-        "message": "Tabs to Add (check to add)", 
-        "remark": "NEED TRANSLATION"
+        "description": "Tabs/Windows to Add", 
+        "message": "Tabs to Add (check to add)"
+    }, 
+    "smHeadingNewTitle": {
+        "description": "You can drag and drop tabs between windows", 
+        "message": "You can drag and drop tabs between windows"
     }, 
     "smHeadingSaved": {
-        "message": "Saved Tabs (uncheck to remove)", 
-        "remark": "NEED TRANSLATION"
+        "description": "Saved Session (uncheck to remove)", 
+        "message": "Saved Tabs (uncheck to remove)"
     }, 
     "smHeadingTitle": {
-        "message": "Title", 
-        "remark": "NEED TRANSLATION"
+        "description": "Title", 
+        "message": "Title"
     }, 
     "smSaveList": {
+        "description": "Uncheck tabs that you don't want to be saved.", 
         "message": "Desmarque las pestañas que no desea guardar."
     }, 
     "smSaveToggle": {
-        "message": "Toggle Selection", 
-        "remark": "NEED TRANSLATION"
+        "description": "Toggle Selection", 
+        "message": "Toggle Selection"
     }, 
     "supportUs": {
+        "description": "Support our development and<br>share to your friends!", 
         "message": "¡Apoya nuestra extensión y<br>compártela con tus amigos!"
     }, 
     "tabsCount": {
+        "description": " ($count$ tabs)", 
         "message": " ($count$ pestañas)", 
         "placeholders": {
             "count": {
@@ -208,6 +246,7 @@
         }
     }, 
     "updatedMessage": {
+        "description": "FreshStart is updated, click here to see what's new", 
         "message": "FreshStart ha sido actualizado, haga click aquí para saber las novedades"
     }
 }
