@@ -44,6 +44,9 @@
     "edit": {
         "message": "Edit"
     }, 
+    "emptySession": {
+        "message": "No window is selected in this session"
+    }, 
     "enableCrashRecovery": {
         "message": "Enable crash recovery"
     }, 
@@ -129,6 +132,9 @@
     "save": {
         "message": "Save"
     }, 
+    "saveFail": {
+        "message": "Fail to save session. Please try again later"
+    }, 
     "saveSession": {
         "message": "Save Session"
     }, 
@@ -151,6 +157,9 @@
     }, 
     "sessionTextBoxImport": {
         "message": "Import session"
+    }, 
+    "sizeWarning": {
+        "message": "* If the size is too small, it may distort the layout."
     }, 
     "smEditCancel": {
         "message": "Cancel"

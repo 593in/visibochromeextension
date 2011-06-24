@@ -56,6 +56,10 @@
         "description": "Edit", 
         "message": "Upravi"
     }, 
+    "emptySession": {
+        "description": "No window is selected in this session", 
+        "message": "No window is selected in this session"
+    }, 
     "enableCrashRecovery": {
         "description": "Enable crash recovery", 
         "message": "Povoli obnovenie relácie po havárií"
@@ -171,6 +175,10 @@
         "description": "Save", 
         "message": "Uloži"
     }, 
+    "saveFail": {
+        "description": "Fail to save session. Please try again later", 
+        "message": "Fail to save session. Please try again later"
+    }, 
     "saveSession": {
         "description": "Save Session", 
         "message": "Uložit reláciu"
@@ -199,6 +207,10 @@
     "sessionTextBoxImport": {
         "description": "Import session", 
         "message": "Importova reláciu"
+    }, 
+    "sizeWarning": {
+        "description": "* If the size is too small, it may distort the layout.", 
+        "message": "* If the size is too small, it may distort the layout."
     }, 
     "smEditCancel": {
         "description": "Cancel", 

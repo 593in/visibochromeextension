@@ -56,6 +56,10 @@
         "description": "Edit", 
         "message": "Modifica"
     }, 
+    "emptySession": {
+        "description": "No window is selected in this session", 
+        "message": "No window is selected in this session"
+    }, 
     "enableCrashRecovery": {
         "description": "Enable crash recovery", 
         "message": "Abilita il recupero da crash"
@@ -171,6 +175,10 @@
         "description": "Save", 
         "message": "Salva"
     }, 
+    "saveFail": {
+        "description": "Fail to save session. Please try again later", 
+        "message": "Fail to save session. Please try again later"
+    }, 
     "saveSession": {
         "description": "Save Session", 
         "message": "Salva Sessione"
@@ -199,6 +207,10 @@
     "sessionTextBoxImport": {
         "description": "Import session", 
         "message": "Importa sessione"
+    }, 
+    "sizeWarning": {
+        "description": "* If the size is too small, it may distort the layout.", 
+        "message": "* If the size is too small, it may distort the layout."
     }, 
     "smEditCancel": {
         "description": "Cancel", 

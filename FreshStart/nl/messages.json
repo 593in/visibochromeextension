@@ -56,6 +56,10 @@
         "description": "Edit", 
         "message": "Bewerk"
     }, 
+    "emptySession": {
+        "description": "No window is selected in this session", 
+        "message": "No window is selected in this session"
+    }, 
     "enableCrashRecovery": {
         "description": "Enable crash recovery", 
         "message": "Zet Crash Herstellen aan."
@@ -179,6 +183,10 @@
         "description": "Save", 
         "message": "Opslaan"
     }, 
+    "saveFail": {
+        "description": "Fail to save session. Please try again later", 
+        "message": "Fail to save session. Please try again later"
+    }, 
     "saveSession": {
         "description": "Save Session", 
         "message": "Sessie Opslaan"
@@ -208,6 +216,10 @@
         "description": "Import session", 
         "message": "Import session"
     }, 
+    "sizeWarning": {
+        "description": "* If the size is too small, it may distort the layout.", 
+        "message": "* If the size is too small, it may distort the layout."
+    }, 
     "smEditCancel": {
         "description": "Cancel", 
         "message": "Cancel"
@@ -230,7 +242,7 @@
     }, 
     "smHeadingTitle": {
         "description": "Title", 
-        "message": "Tietel"
+        "message": "Titel"
     }, 
     "smSaveList": {
         "description": "Uncheck tabs that you don't want to be saved.", 
