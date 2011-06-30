@@ -346,5 +346,9 @@
     "welcomeMessage": {
         "description": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Visit our welcome page.</a>", 
         "message": "TooManyTabs 新手? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>请访问我们的欢迎页面。</a>"
+    }, 
+    "winpopupWidthLabel": {
+        "description": "TMT popup window's width (open by shortcut)", 
+        "message": "TMT popup window's width (open by shortcut)"
     }
 }

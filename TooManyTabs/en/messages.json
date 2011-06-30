@@ -253,5 +253,8 @@
     }, 
     "welcomeMessage": {
         "message": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Visit our welcome page.</a>"
+    }, 
+    "winpopupWidthLabel": {
+        "message": "TMT popup window's width (open by shortcut)"
     }
 }
