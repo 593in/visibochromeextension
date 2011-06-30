@@ -103,6 +103,10 @@
         "description": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
         "message": "Gerencie suas abas, melhore sua navegação e mantenha seu bom senso enquanto você possui várias abas abertas."
     }, 
+    "disableContextMenuLabel": {
+        "description": "Disable TMT context menu", 
+        "message": "Disable TMT context menu"
+    }, 
     "disablePreviewLabel": {
         "description": "Disable tabs preview:", 
         "message": "Disable tabs preview:"

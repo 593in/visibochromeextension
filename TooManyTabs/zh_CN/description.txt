@@ -1,0 +1,34 @@
+尝试过在 Chrome 中打开 20 个以上的标签页吗? 连标签页的收藏图标都看不到，更别说标签页标题了！如果您经常遇到这种情况，TooManyTabs 是管理您标签页、减轻标签页挤满与保持清醒的必备扩展程序!
+
+出自 TooManyTabs for Firefox 的作者，TMT 现在也能助力 Chrome 上的标签页了!
+
+1.4 版新功能
+- 显示所有窗口的标签页
+- 自定义快捷键
+
+功能
+- 所有已打开标签页的鸟瞰视图
+- 清除各标签页内容的预览 (随着使用逐渐填满)
+- 即时标签页搜索
+- 按创建时间、域名或标题排列标签页
+- 恢复最近关闭的标签页
+- 终止空闲标签页以节约内容，以自定义列组织
+- 自定义主题
+
+即将增加的功能
+- 搜索已终止标签页
+- 已终止列改进
+
+免责声明
+- 由于 Chrome 的限制，扩展程序无法恢复关闭标签页的历史记录。如果您需要最近关闭标签的历史，请按 CtrlShiftT 依次重新打开。
+
+如果您喜欢 TooManyTabs，请再看看我们的其他扩展程序!
+- Incredible StartPage http://goo.gl/he9o **新**
+- Friends Mural for Facebook http://goo.gl/bICN
+- FreshStart Session Manager: http://goo.gl/249h
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
+
+关键词: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
+授权许可: http://www.visibotech.com/TMTChrome/license.html
+贡献名单: http://www.visibotech.com/chrome/credits.html

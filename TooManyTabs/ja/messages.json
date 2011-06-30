@@ -103,6 +103,10 @@
         "description": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
         "message": "たくさんのタブを開いたときに、タブの管理、ブラウジングの改善と整理をします。"
     }, 
+    "disableContextMenuLabel": {
+        "description": "Disable TMT context menu", 
+        "message": "Disable TMT context menu"
+    }, 
     "disablePreviewLabel": {
         "description": "Disable tabs preview:", 
         "message": "Disable tabs preview:"

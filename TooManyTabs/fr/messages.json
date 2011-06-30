@@ -103,6 +103,10 @@
         "description": "Manage your tabs, improve your browsing, and maintain your sanity when you have many tabs open.", 
         "message": "Gérez vos onglets, améliorez votre naviguation, ne perdez pas la tête avec trop d'onglets."
     }, 
+    "disableContextMenuLabel": {
+        "description": "Disable TMT context menu", 
+        "message": "Disable TMT context menu"
+    }, 
     "disablePreviewLabel": {
         "description": "Disable tabs preview:", 
         "message": "Disable tabs preview:"
