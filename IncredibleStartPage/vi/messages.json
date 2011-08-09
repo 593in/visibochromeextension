@@ -1,93 +1,93 @@
 {
     "advancedOptionsBtn": {
         "description": "Advanced Options", 
-        "message": "Advanced Options"
+        "message": "Cài đặt khác"
     }, 
     "backToParentText": {
         "description": "Back", 
-        "message": "Voltar"
+        "message": "Quay lại"
     }, 
     "backgroundColorCustomTips": {
         "description": "Or choose a custom background:", 
-        "message": "Or choose a custom background:"
+        "message": "Hoặc tự tùy chỉnh:"
     }, 
     "backgroundColorOptionTitle": {
         "description": "Background Color", 
-        "message": "Background Color"
+        "message": "Màu nền"
     }, 
     "backgroundColorSelectionTips": {
         "description": "Select a theme color:", 
-        "message": "Select a theme color:"
+        "message": "Chọn màu có sẵn:"
     }, 
     "bookmarkBarHelpContent": {
         "description": "This area shows the items in your bookmark toolbar, folders are hidden.", 
-        "message": "Aqui estão as páginas da sua barra de favoritos, as pastas estão ocultas"
+        "message": "Đây là nơi hiển thị các liên kết trong thanh dấu trang của bạn."
     }, 
     "bookmarkBarHelpDismiss": {
         "description": "[Close]", 
-        "message": "[Fechar]"
+        "message": "[Đóng]"
     }, 
     "bookmarkBrowserHelp": {
         "description": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.", 
-        "message": "Esta caixa permite que você rapidamente navegue em seus favoritos. Você pode arrastar os mais importantes para a caixa a direita."
+        "message": "Hộp thoại này giúp bạn tinh chỉnh nhanh thanh dấu trang của bạn. Bạn có thể kéo và thả 1 liên kết bất kì từ hộp thoại này sang hộp thoại bên phải.<br><br>Nếu bạn muốn hiển thị thư mục khác ở hộp bên phải, điều chỉnh đến thư mục đó và click 'Ghim'."
     }, 
     "bookmarkBrowserPin": {
         "description": "Show as main", 
-        "message": "Show as main"
+        "message": "Ghim"
     }, 
     "bookmarkBrowserTitle": {
         "description": "Bookmarks", 
-        "message": "Favoritos"
+        "message": "Dấu trang"
     }, 
     "bookmarkBrowserTop": {
         "description": "Home", 
-        "message": "Home"
+        "message": "Trang chính"
     }, 
     "bookmarkControlsHelpDismiss": {
         "description": "[Close]", 
-        "message": "[Close]"
+        "message": "[Đóng]"
     }, 
     "bookmarkControlsHelpMsg": {
         "description": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'.", 
-        "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'."
+        "message": "Bạn có thể tùy chỉnh thư mục đến hộp thoại bên phải - điều chỉnh đến thư mục đó và click 'Ghim'."
     }, 
     "chromeBuggedText": {
         "description": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab.", 
-        "message": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab."
+        "message": "Thanh dấu trang không sẵn sàng. hãy đóng thẻ này và mở trang bắt đầu trong thẻ mới."
     }, 
     "chromeSyncBug": {
         "description": "This Chrome version does not support bookmark sync.", 
-        "message": "This Chrome version does not support sync feature."
+        "message": "Phiên bản Chrome hiện tại không hỗ trợ đồng bộ thanh dấu trang."
     }, 
     "clearClosedText": {
         "description": "Clear", 
-        "message": "Limpar"
+        "message": "Xóa"
     }, 
     "closeBtn": {
         "description": "Cancel", 
-        "message": "Cancel"
+        "message": "Hủy bỏ"
     }, 
     "columnInAppLabel": {
         "description": "Show 3 columns in 'My Apps'", 
-        "message": "Show 3 columns in 'My Apps'"
+        "message": "Hiển thị dạng 3 cột trong 'Ứng dụng'"
     }, 
     "columnInBookmarkLabel": {
         "description": "Show 3 columns in 'My Bookmarks'", 
-        "message": "Show 3 columns in 'My Bookmarks'"
+        "message": "Hiển thị dạng 3 cột trong 'Dấu trang'"
     }, 
     "confirm_uninstall": {
         "description": "Are you sure you wish to uninstall \"$title$\" ?", 
-        "message": "Are you sure you wish to uninstall \"$title$\" ?", 
+        "message": "Bạn có chắc muốn gỡ bỏ \"$title$\" ?", 
         "placeholders": {
             "title": {
                 "content": "$1", 
-                "example": "[The name of the webapp]"
+                "example": "[Tên ứng dụng]"
             }
         }
     }, 
     "contactUs": {
         "description": "Contact us at", 
-        "message": "Contact us at"
+        "message": "Liên hệ"
     }, 
     "customWallpaperLabel": {
         "description": "Use Custom Wallpaper", 
@@ -95,31 +95,31 @@
     }, 
     "defaultNotepadText": {
         "description": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!", 
-        "message": "Obrigado por instalar\nIncredible StartPage!\n \nEste seu bloco de anotações. Você pode escrever notas aqui!"
+        "message": "Cảm ơn đã cài đặt\nIncredible StartPage!\n \nĐây là ghi chú của bạn. Bạn có thể viết ghi chú tại đây!"
     }, 
     "description": {
         "description": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
-        "message": "Uma nova e customizável guia inicial para o Chrome. Encontre facilmente seus favoritos e guias fechadas recentemente. Faça anotações enquanto navega."
+        "message": "A new, tùy chỉnh trang bắt đầu của Chrome. Dễ dàng tìm thấy những dấu trang yêu thích và các thẻ đã đóng. Take notes as you browse."
     }, 
     "fontColorOptionTitle": {
         "description": "Font Color", 
-        "message": "Font Color"
+        "message": "Màu phông"
     }, 
     "fontColorSelectionTips": {
         "description": "Select your font color:", 
-        "message": "Select your font color:"
+        "message": "Chọn màu:"
     }, 
     "gmailAccount": {
         "description": "Google Account", 
-        "message": "Google Account"
+        "message": "Tài khoản Google"
     }, 
     "googleAppsAccount": {
         "description": "Google Apps Account, Domain", 
-        "message": "Google Apps Account, Domain"
+        "message": "Tài khoản Google Apps, Tên miền"
     }, 
     "googleAppsAccountDescription": {
         "description": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com", 
-        "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com"
+        "message": "Truy cập tên miền Google Apps mà khoogn cần \"www\", e.g. visibotech.com"
     }, 
     "incredibleStartPage": {
         "description": "Incredible StartPage", 
@@ -127,67 +127,67 @@
     }, 
     "incredibleStartPageDescription": {
         "description": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> for a simple tutorial.", 
-        "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> for a simple tutorial."
+        "message": "Incredible StartPage thay thế trang bắt đầu mặc định với cách hiển thị tùy biến thanh dấu trang của bạn, nhắc nhở và các thẻ đã đóng gần đây.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> để xem hướng dẫn."
     }, 
     "maximumRecentlyClosedTabs": {
         "description": "Maximum recently closed tabs", 
-        "message": "Maximum recently closed tabs"
+        "message": "Thẻ đã đóng gần đây tối đa"
     }, 
     "message": {
         "description": "Image URL:", 
-        "message": "Please type your custom wallpaper URL:"
+        "message": "Hãy điền liên kết tới hình nền của bạn:"
     }, 
     "name": {
         "description": "Incredible StartPage - Productive Start Page for Chrome!", 
-        "message": "Incredible StartPage - Nova guia produtiva para o Chrome!"
+        "message": "Incredible StartPage - Productive Start Page for Chrome!"
     }, 
     "noColumnsLabel": {
         "description": "Number of columns", 
-        "message": "Number of columns"
+        "message": "Số cột"
     }, 
     "notRememberClosedTabs": {
         "description": "0 (Do not remember closed tabs)", 
-        "message": "0 (Do not remember closed tabs)"
+        "message": "0 (Không ghi nhớ thẻ đã đóng)"
     }, 
     "noteUpdatedAtOtherPlacesText": {
         "description": "The note has been updated from other places, please reload this page.", 
-        "message": "The note has been updated from other places, please reload this page."
+        "message": "Ghi chú được cập nhật từ nơi khác, hãy tải lại trang này."
     }, 
     "notepadFont": {
         "description": "Notepad Font", 
-        "message": "Notepad Font"
+        "message": "Phông ghi chú"
     }, 
     "notepadSync": {
         "description": "Notepad Sync", 
-        "message": "Notepad Sync"
+        "message": "Đồng bộ ghi chú"
     }, 
     "notepadSyncDescription": {
         "description": "Sync notepad contents with your Google Account", 
-        "message": "Sync notepad contents with your Google Account"
+        "message": "Đồng bộ nội dung ghi chú với tài khoản Google"
     }, 
     "notepadSyncDescription2": {
         "description": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information", 
-        "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information"
+        "message": "Chrome Bookmark Sync phải được bật, ấn [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>vào đây</a>] để biết thêm thông tin"
     }, 
     "option": {
         "description": "Options", 
-        "message": "Options"
+        "message": "Cài đặt"
     }, 
     "optionsEffect": {
         "description": "Setting is effective after reload your startpage.", 
-        "message": "Setting is effective after reload your startpage."
+        "message": "Thiết đặt sẽ được áp dụng sau khi tải lại trang bắt đầu."
     }, 
     "optionsSaved": {
         "description": "Saved", 
-        "message": "Saved"
+        "message": "Đã lưu"
     }, 
     "optionsTitle": {
         "description": "Options", 
-        "message": "Options"
+        "message": "Cài đặt"
     }, 
     "pagetitle": {
         "description": "Incredible StartPage Options", 
-        "message": "Incredible StartPage Options"
+        "message": "Cài đặt Incredible StartPage"
     }, 
     "postTo": {
         "description": "Post to", 
@@ -199,15 +199,15 @@
     }, 
     "recentlyClosedTitle": {
         "description": "Closed", 
-        "message": "Fechadas"
+        "message": "Đã đóng"
     }, 
     "save": {
         "description": "Save", 
-        "message": "Save"
+        "message": "Lưu"
     }, 
     "saveBtn": {
         "description": "Save", 
-        "message": "Save"
+        "message": "Lưu"
     }, 
     "shareNotepadTo": {
         "description": "Post notes to", 
@@ -223,11 +223,11 @@
     }, 
     "toggleOptionsBtn": {
         "description": "Theme Options", 
-        "message": "Theme Options"
+        "message": "Cài đặt giao diện"
     }, 
     "uninstallApp": {
         "description": "Uninstall", 
-        "message": "Uninstall"
+        "message": "Gỡ bỏ"
     }, 
     "useLocalLabel": {
         "description": "Local File (at least 1024px wide):", 
@@ -235,14 +235,14 @@
     }, 
     "wallpaperOptionTitle": {
         "description": "Wallpapers", 
-        "message": "Wallpapers"
+        "message": "Hình nền"
     }, 
     "wallpaperThemeCustomTips": {
         "description": "Or use a gradient as the background:", 
-        "message": "Or use a gradient as the background:"
+        "message": "Hoặc tự tùy chỉnh màu nền:"
     }, 
     "wallpaperThemeSelectionTips": {
         "description": "Choose wallpaper from a theme:", 
-        "message": "Choose wallpaper from a theme:"
+        "message": "Chọn hình nền từ giao diện có sẵn:"
     }
 }

@@ -70,6 +70,9 @@
     "contactUs": {
         "message": "Contact us at"
     }, 
+    "customWallpaperLabel": {
+        "message": "Use Custom Wallpaper"
+    }, 
     "defaultNotepadText": {
         "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!"
     }, 
@@ -101,7 +104,7 @@
         "message": "Maximum recently closed tabs"
     }, 
     "message": {
-        "message": "Please type your custom wallpaper URL:"
+        "message": "Image URL:"
     }, 
     "name": {
         "message": "Incredible StartPage - Productive Start Page for Chrome!"
@@ -145,6 +148,9 @@
     "postTo": {
         "message": "Post to"
     }, 
+    "promptRename": {
+        "message": "Rename title"
+    }, 
     "recentlyClosedTitle": {
         "message": "Closed"
     }, 
@@ -168,6 +174,9 @@
     }, 
     "uninstallApp": {
         "message": "Uninstall"
+    }, 
+    "useLocalLabel": {
+        "message": "Local File (at least 1024px wide):"
     }, 
     "wallpaperOptionTitle": {
         "message": "Wallpapers"

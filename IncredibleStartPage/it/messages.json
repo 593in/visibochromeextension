@@ -1,64 +1,82 @@
 {
     "advancedOptionsBtn": {
+        "description": "Advanced Options", 
         "message": "Advanced Options"
     }, 
     "backToParentText": {
+        "description": "Back", 
         "message": "Indietro"
     }, 
     "backgroundColorCustomTips": {
+        "description": "Or choose a custom background:", 
         "message": "Or choose a custom background:"
     }, 
     "backgroundColorOptionTitle": {
+        "description": "Background Color", 
         "message": "Background Color"
     }, 
     "backgroundColorSelectionTips": {
+        "description": "Select a theme color:", 
         "message": "Select a theme color:"
     }, 
     "bookmarkBarHelpContent": {
+        "description": "This area shows the items in your bookmark toolbar, folders are hidden.", 
         "message": "Questa area mostra le voci nella tua barra dei preferiti, le cartelle sono nascoste."
     }, 
     "bookmarkBarHelpDismiss": {
+        "description": "[Close]", 
         "message": "[Chiudi]"
     }, 
     "bookmarkBrowserHelp": {
+        "description": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.", 
         "message": "Questo box ti permette di navigare velocemente tra i tuoi preferiti. Puoi trascinare quelli importanti nel box sulla destra"
     }, 
     "bookmarkBrowserPin": {
+        "description": "Show as main", 
         "message": "Show as main"
     }, 
     "bookmarkBrowserTitle": {
+        "description": "Bookmarks", 
         "message": "Preferiti"
     }, 
     "bookmarkBrowserTop": {
+        "description": "Home", 
         "message": "Home"
     }, 
     "bookmarkControlsHelpDismiss": {
+        "description": "[Close]", 
         "message": "[Close]"
     }, 
     "bookmarkControlsHelpMsg": {
+        "description": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'.", 
         "message": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'."
     }, 
     "chromeBuggedText": {
+        "description": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab.", 
         "message": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab."
     }, 
     "chromeSyncBug": {
-        "message": "This Chrome version does not support sync feature.", 
-        "remark": "NEED TRANSLATION"
+        "description": "This Chrome version does not support bookmark sync.", 
+        "message": "This Chrome version does not support sync feature."
     }, 
     "clearClosedText": {
+        "description": "Clear", 
         "message": "Pulisci"
     }, 
     "closeBtn": {
+        "description": "Cancel", 
         "message": "Cancel"
     }, 
     "columnInAppLabel": {
+        "description": "Show 3 columns in 'My Apps'", 
         "message": "Show 3 columns in 'My Apps'"
     }, 
     "columnInBookmarkLabel": {
+        "description": "Show 3 columns in 'My Bookmarks'", 
         "message": "Show 3 columns in 'My Bookmarks'"
     }, 
     "confirm_uninstall": {
-        "description": "Confirm to uninstall webapp", 
+        "description": "Are you sure you wish to uninstall \"$title$\" ?", 
         "message": "Are you sure you wish to uninstall \"$title$\" ?", 
         "placeholders": {
             "title": {
@@ -68,114 +86,163 @@
         }
     }, 
     "contactUs": {
+        "description": "Contact us at", 
         "message": "Contact us at"
     }, 
+    "customWallpaperLabel": {
+        "description": "Use Custom Wallpaper", 
+        "message": "Use Custom Wallpaper"
+    }, 
     "defaultNotepadText": {
+        "description": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!", 
         "message": "Grazie per aver installato\nIncredible StartPage!\n \nQuesto è il tuo blocco note. Puoi annotare i tuoi appunti qua!"
     }, 
     "description": {
+        "description": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
         "message": "Una nuova, personalizzabile pagina iniziale per Chrome. Trova facilmente i tuoi preferiti e le schede chiuse. Prendi appunti mentre navighi."
     }, 
     "fontColorOptionTitle": {
+        "description": "Font Color", 
         "message": "Font Color"
     }, 
     "fontColorSelectionTips": {
+        "description": "Select your font color:", 
         "message": "Select your font color:"
     }, 
     "gmailAccount": {
+        "description": "Google Account", 
         "message": "Google Account"
     }, 
     "googleAppsAccount": {
+        "description": "Google Apps Account, Domain", 
         "message": "Google Apps Account, Domain"
     }, 
     "googleAppsAccountDescription": {
+        "description": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com", 
         "message": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com"
     }, 
     "incredibleStartPage": {
+        "description": "Incredible StartPage", 
         "message": "Incredible StartPage"
     }, 
     "incredibleStartPageDescription": {
+        "description": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> for a simple tutorial.", 
         "message": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> for a simple tutorial."
     }, 
     "maximumRecentlyClosedTabs": {
+        "description": "Maximum recently closed tabs", 
         "message": "Maximum recently closed tabs"
     }, 
     "message": {
+        "description": "Image URL:", 
         "message": "Please type your custom wallpaper URL:"
     }, 
     "name": {
+        "description": "Incredible StartPage - Productive Start Page for Chrome!", 
         "message": "Incredible StartPage - Pagina iniziale produttiva per Chrome!"
     }, 
     "noColumnsLabel": {
+        "description": "Number of columns", 
         "message": "Number of columns"
     }, 
     "notRememberClosedTabs": {
+        "description": "0 (Do not remember closed tabs)", 
         "message": "0 (Do not remember closed tabs)"
     }, 
     "noteUpdatedAtOtherPlacesText": {
+        "description": "The note has been updated from other places, please reload this page.", 
         "message": "The note has been updated from other places, please reload this page."
     }, 
     "notepadFont": {
+        "description": "Notepad Font", 
         "message": "Notepad Font"
     }, 
     "notepadSync": {
+        "description": "Notepad Sync", 
         "message": "Notepad Sync"
     }, 
     "notepadSyncDescription": {
+        "description": "Sync notepad contents with your Google Account", 
         "message": "Sync notepad contents with your Google Account"
     }, 
     "notepadSyncDescription2": {
+        "description": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information", 
         "message": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information"
     }, 
     "option": {
+        "description": "Options", 
         "message": "Options"
     }, 
     "optionsEffect": {
+        "description": "Setting is effective after reload your startpage.", 
         "message": "Setting is effective after reload your startpage."
     }, 
     "optionsSaved": {
+        "description": "Saved", 
         "message": "Saved"
     }, 
     "optionsTitle": {
+        "description": "Options", 
         "message": "Options"
     }, 
     "pagetitle": {
+        "description": "Incredible StartPage Options", 
         "message": "Incredible StartPage Options"
     }, 
     "postTo": {
+        "description": "Post to", 
         "message": "Post to"
     }, 
+    "promptRename": {
+        "description": "Rename title", 
+        "message": "Rename title"
+    }, 
     "recentlyClosedTitle": {
+        "description": "Closed", 
         "message": "Chiuse"
     }, 
     "save": {
+        "description": "Save", 
         "message": "Save"
     }, 
     "saveBtn": {
+        "description": "Save", 
         "message": "Save"
     }, 
     "shareNotepadTo": {
+        "description": "Post notes to", 
         "message": "Post notes to"
     }, 
     "shareToCalendar": {
+        "description": "Calendar", 
         "message": "Calendar"
     }, 
     "shareToMail": {
+        "description": "Gmail", 
         "message": "Gmail"
     }, 
     "toggleOptionsBtn": {
+        "description": "Theme Options", 
         "message": "Theme Options"
     }, 
     "uninstallApp": {
+        "description": "Uninstall", 
         "message": "Uninstall"
     }, 
+    "useLocalLabel": {
+        "description": "Local File (at least 1024px wide):", 
+        "message": "Local File (at least 1024px wide):"
+    }, 
     "wallpaperOptionTitle": {
+        "description": "Wallpapers", 
         "message": "Wallpapers"
     }, 
     "wallpaperThemeCustomTips": {
+        "description": "Or use a gradient as the background:", 
         "message": "Or use a gradient as the background:"
     }, 
     "wallpaperThemeSelectionTips": {
+        "description": "Choose wallpaper from a theme:", 
         "message": "Choose wallpaper from a theme:"
     }
 }

@@ -5,7 +5,7 @@
     }, 
     "backToParentText": {
         "description": "Back", 
-        "message": "Voltar"
+        "message": "Back"
     }, 
     "backgroundColorCustomTips": {
         "description": "Or choose a custom background:", 
@@ -21,15 +21,16 @@
     }, 
     "bookmarkBarHelpContent": {
         "description": "This area shows the items in your bookmark toolbar, folders are hidden.", 
-        "message": "Aqui estão as páginas da sua barra de favoritos, as pastas estão ocultas"
+        "message": "This area shows the items in your bookmark toolbar, folders are hidden."
     }, 
     "bookmarkBarHelpDismiss": {
         "description": "[Close]", 
-        "message": "[Fechar]"
+        "message": "[Close]"
     }, 
     "bookmarkBrowserHelp": {
         "description": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.", 
-        "message": "Esta caixa permite que você rapidamente navegue em seus favoritos. Você pode arrastar os mais importantes para a caixa a direita."
+        "message": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.", 
+        "remark": "PENDING"
     }, 
     "bookmarkBrowserPin": {
         "description": "Show as main", 
@@ -37,7 +38,7 @@
     }, 
     "bookmarkBrowserTitle": {
         "description": "Bookmarks", 
-        "message": "Favoritos"
+        "message": "Bookmarks"
     }, 
     "bookmarkBrowserTop": {
         "description": "Home", 
@@ -57,11 +58,11 @@
     }, 
     "chromeSyncBug": {
         "description": "This Chrome version does not support bookmark sync.", 
-        "message": "This Chrome version does not support sync feature."
+        "message": "This Chrome version does not support bookmark sync."
     }, 
     "clearClosedText": {
         "description": "Clear", 
-        "message": "Limpar"
+        "message": "Clear"
     }, 
     "closeBtn": {
         "description": "Cancel", 
@@ -95,11 +96,11 @@
     }, 
     "defaultNotepadText": {
         "description": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!", 
-        "message": "Obrigado por instalar\nIncredible StartPage!\n \nEste seu bloco de anotações. Você pode escrever notas aqui!"
+        "message": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!"
     }, 
     "description": {
         "description": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
-        "message": "Uma nova e customizável guia inicial para o Chrome. Encontre facilmente seus favoritos e guias fechadas recentemente. Faça anotações enquanto navega."
+        "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse."
     }, 
     "fontColorOptionTitle": {
         "description": "Font Color", 
@@ -139,7 +140,7 @@
     }, 
     "name": {
         "description": "Incredible StartPage - Productive Start Page for Chrome!", 
-        "message": "Incredible StartPage - Nova guia produtiva para o Chrome!"
+        "message": "Incredible StartPage - Productive Start Page for Chrome!"
     }, 
     "noColumnsLabel": {
         "description": "Number of columns", 
@@ -199,7 +200,7 @@
     }, 
     "recentlyClosedTitle": {
         "description": "Closed", 
-        "message": "Fechadas"
+        "message": "Closed"
     }, 
     "save": {
         "description": "Save", 
