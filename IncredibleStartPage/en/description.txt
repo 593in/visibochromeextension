@@ -1,4 +1,8 @@
-Incredible StartPage is a productive start page replacement for Chrome. Put all your favorite bookmarks in a beautiful frame, and enjoy our handy features!
+                                         ### Important ###
+If you have tested it and it's not your cup of tea, just go to "chrome://extensions/" to uninstall; This is the standard way to uninstall start page or script extensions of all kinds. 
+
+
+Incredible StartPage is a productive start page replacement for Chrome. Put all your favorite bookmarks in a beautiful frame, and enjoy our handy features! We are a featured extension by Google!
 
 Support us by giving us 5 stars!
 
@@ -6,8 +10,6 @@ As seen on DownloadSquad. http://goo.gl/iyYe
 
 * Incredible Startpage is Chrome Web Store ready! *
 
-## Important ###
-To Uninstall: Please go to "chrome://extensions/" to uninstall start page or script extensions of all kinds. :P
 
 Features
 - Manage & launch web apps
@@ -20,19 +22,17 @@ Features
 See a full tutorial on our blog http://goo.gl/zHxq
 
 Permissions
-- Incredible StartPage does not access your Facebook or Flickr accounts. It only downloads wallpapers from these photo-sharing sites.
-- Chrome does not allow extensions to load local files as wallpapers.
+- Incredible StartPage does not access your Facebook or Flickr accounts. It only downloads wallpapers from these photo-sharing sites
 
 Known issues
 - If you use ad-blockers such as AdBlock and AdThwart, you may need to disable them in the StartPage (add "newtab" and "ncdfeghkpohnalmpblddmnppfooljekh" to the whitelist)
 - If you get "Chrome Bookmarks are not ready", it means Chrome is still starting up, just wait a few seconds and reload Incredible StartPage
 - Extensions cannot read the most visited sites information at the moment
-- Bookmarklets do not work inside the StartPage
+- Some bookmarklets do not work inside the StartPage
 
 Disclaimer
 - Due to Chrome limitations, extensions cannot restore history from closed tabs. If you need the history from a recently closed tab, press Ctrl+Shift+T to reopen them one by one.
 
-[No need to translate text below]
 Keywords: StartPage, start page, bookmarks, notepad, undo close tabs
 License: http://www.visibotech.com/license/incrediblestartpage.html
 Translation & Credits: http://goo.gl/qG89Z

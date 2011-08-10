@@ -79,6 +79,9 @@
     "description": {
         "message": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse."
     }, 
+    "fileWarning": {
+        "message": "The image is too large! Please choose another one!"
+    }, 
     "fontColorOptionTitle": {
         "message": "Font Color"
     }, 
@@ -176,7 +179,7 @@
         "message": "Uninstall"
     }, 
     "useLocalLabel": {
-        "message": "Local File (at least 1024px wide):"
+        "message": "Local File (~1024px wide, jpg format & max. size 500K):"
     }, 
     "wallpaperOptionTitle": {
         "message": "Wallpapers"

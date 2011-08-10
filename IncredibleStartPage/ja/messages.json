@@ -101,6 +101,10 @@
         "description": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
         "message": "Chromeのスタートページを新鮮でカスタマイズ可能にします。簡単にブックマークや閉じたタブにアクセスできます。ブラウズしながらメモを取ることもできます。"
     }, 
+    "fileWarning": {
+        "description": "The image is too large! Please choose another one!", 
+        "message": "The image is too large! Please choose another one!"
+    }, 
     "fontColorOptionTitle": {
         "description": "Font Color", 
         "message": "Font Color"
@@ -230,8 +234,8 @@
         "message": "Uninstall"
     }, 
     "useLocalLabel": {
-        "description": "Local File (at least 1024px wide):", 
-        "message": "Local File (at least 1024px wide):"
+        "description": "Local File (~1024px wide, jpg format & max. size 500K):", 
+        "message": "Local File (~1024px wide, jpg format & max. size 500K):"
     }, 
     "wallpaperOptionTitle": {
         "description": "Wallpapers", 
