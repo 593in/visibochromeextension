@@ -123,7 +123,7 @@
     }, 
     "googleAppsAccountDescription": {
         "description": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com", 
-          "message": "Introduce sólo su dominio de Google Appls sin \"www\", por ejemplo: visibotech.com"
+        "message": "Introduce sólo su dominio de Google Appls sin \"www\", por ejemplo: visibotech.com"
     }, 
     "incredibleStartPage": {
         "description": "Incredible StartPage", 
