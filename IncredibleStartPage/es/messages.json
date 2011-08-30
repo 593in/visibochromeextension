@@ -21,7 +21,7 @@
     }, 
     "bookmarkBarHelpContent": {
         "description": "This area shows the items in your bookmark toolbar, folders are hidden.", 
-        "message": "Esta zona muestra los elementos de tu barra de marcadores, las carpetas no se muestran."
+        "message": "Esta zona muestra los elementos de su barra de marcadores, las carpetas no se muestran."
     }, 
     "bookmarkBarHelpDismiss": {
         "description": "[Close]", 
@@ -29,7 +29,7 @@
     }, 
     "bookmarkBrowserHelp": {
         "description": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.", 
-        "message": "Este panel te permite navegar rápidamente por tus marcadores. Puedes arrastrar los más importantes al panel de la derecha."
+        "message": "Este panel te permite navegar rápidamente por sus marcadores. Puedes arrastrar los más importantes al panel de la derecha."
     }, 
     "bookmarkBrowserPin": {
         "description": "Show as main", 
@@ -41,7 +41,7 @@
     }, 
     "bookmarkBrowserTop": {
         "description": "Home", 
-        "message": "Volver"
+        "message": "Inicio"
     }, 
     "bookmarkControlsHelpDismiss": {
         "description": "[Close]", 
@@ -53,7 +53,7 @@
     }, 
     "chromeBuggedText": {
         "description": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab.", 
-        "message": "Los marcadores de Google Chrome no están listos aún. Por favor, cierre esta pestaña y abra la página de inicio en una nueva."
+        "message": "Los marcadores de Google Chrome no están listos aún. Por favor, cierre esta pestaña y abra la página de inicio en una nueva pestaña ."
     }, 
     "chromeSyncBug": {
         "description": "This Chrome version does not support bookmark sync.", 
@@ -69,15 +69,15 @@
     }, 
     "columnInAppLabel": {
         "description": "Show 3 columns in 'My Apps'", 
-        "message": "Show 3 columns in 'My Apps'"
+        "message": "Mostrar 3 columnas en 'Mis aplicaciones'"
     }, 
     "columnInBookmarkLabel": {
         "description": "Show 3 columns in 'My Bookmarks'", 
-        "message": "Show 3 columns in 'My Bookmarks'"
+        "message": "Mostrar 3 columnas en 'Mis marcadores'"
     }, 
     "confirm_uninstall": {
         "description": "Are you sure you wish to uninstall \"$title$\" ?", 
-        "message": "Are you sure you wish to uninstall \"$title$\" ?", 
+        "message": "¿Está seguro que desea desinstalar \"$title$\" ?", 
         "placeholders": {
             "title": {
                 "content": "$1", 
@@ -91,19 +91,19 @@
     }, 
     "customWallpaperLabel": {
         "description": "Use Custom Wallpaper", 
-        "message": "Use Custom Wallpaper"
+        "message": "Utilizar fondo de pantalla personalizada"
     }, 
     "defaultNotepadText": {
         "description": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!", 
-        "message": "Gracias por instalar\nIncredible StartPage!\n \nÉste es tu bloc de notas. ¡Puedes tomar tus notas aquí!"
+        "message": "Gracias por instalar\nIncredible StartPage!\n \nThis es su bloc de notas. ¡Puedes tomar sus notas aquí!"
     }, 
     "description": {
         "description": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.", 
-        "message": "Una nueva página personalizable para Chrome. Encuentra fácilmente tus marcadores favoritos y pestañas cerradas. Toma notas mientras navegas."
+        "message": "Una nueva página personalizable para Chrome. Encuentra fácilmente sus marcadores favoritos y pestañas cerradas. Toma notas mientras navegas."
     }, 
     "fileWarning": {
         "description": "The image is too large! Please choose another one!", 
-        "message": "The image is too large! Please choose another one!"
+        "message": "La imagen es demasiado grande! Por favor, elija otra!"
     }, 
     "fontColorOptionTitle": {
         "description": "Font Color", 
@@ -123,7 +123,7 @@
     }, 
     "googleAppsAccountDescription": {
         "description": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com", 
-        "message": "Introduce sólo tu dominio de Google Appls sin \"www\", por ejemplo visibotech.com"
+          "message": "Introduce sólo su dominio de Google Appls sin \"www\", por ejemplo: visibotech.com"
     }, 
     "incredibleStartPage": {
         "description": "Incredible StartPage", 
@@ -131,7 +131,7 @@
     }, 
     "incredibleStartPageDescription": {
         "description": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> for a simple tutorial.", 
-        "message": "Incredible StartPage reemplaza tu página de inicio por defecto con una vista personalizable de tus marcadores, recordatorios y pestañas recientes.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Haz clic aquí</a> para conocerlo."
+        "message": "Incredible StartPage reemplaze su página de inicio por defecto con una vista personalizable de sus marcadores, recordatorios y pestañas recientes.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Haz clic aquí</a> para conocerlo."
     }, 
     "maximumRecentlyClosedTabs": {
         "description": "Maximum recently closed tabs", 
@@ -139,15 +139,15 @@
     }, 
     "message": {
         "description": "Image URL:", 
-        "message": "Por favor, introduzca la dirección URL de su fondo personalizado:"
+        "message": "URL de la imagen"
     }, 
     "name": {
         "description": "Incredible StartPage - Productive Start Page for Chrome!", 
-        "message": "Incredible StartPage - Página de inicio mejorada para Chrome!"
+        "message": "Incredible StartPage - Página de inicio productivo para Chrome!"
     }, 
     "noColumnsLabel": {
         "description": "Number of columns", 
-        "message": "Number of columns"
+        "message": "Número de columnas"
     }, 
     "notRememberClosedTabs": {
         "description": "0 (Do not remember closed tabs)", 
@@ -171,7 +171,7 @@
     }, 
     "notepadSyncDescription2": {
         "description": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information", 
-        "message": "La sincronización de marcadores de Google Chrome debe de estar activada, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] para más información"
+        "message": "La sincronización de marcadores de Google Chrome debe estar activada, hacer clic a [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] para más información"
     }, 
     "option": {
         "description": "Options", 
@@ -187,7 +187,7 @@
     }, 
     "optionsTitle": {
         "description": "Options", 
-        "message": "Options"
+        "message": "Opciones"
     }, 
     "pagetitle": {
         "description": "Incredible StartPage Options", 
@@ -199,7 +199,7 @@
     }, 
     "promptRename": {
         "description": "Rename title", 
-        "message": "Rename title"
+        "message": "Renombrar título"
     }, 
     "recentlyClosedTitle": {
         "description": "Closed", 
@@ -231,15 +231,15 @@
     }, 
     "uninstallApp": {
         "description": "Uninstall", 
-        "message": "Uninstall"
+        "message": "Desinstalar"
     }, 
     "useLocalLabel": {
         "description": "Local File (~1024px wide, jpg format & max. size 500K):", 
-        "message": "Local File (~1024px wide, jpg format & max. size 500K):"
+        "message": "Archivo local (~1024px de ancho, formato jpg & tamaño máximo 500K):"
     }, 
     "wallpaperOptionTitle": {
         "description": "Wallpapers", 
-        "message": "Fondos"
+        "message": "Fondos de pantalla"
     }, 
     "wallpaperThemeCustomTips": {
         "description": "Or use a gradient as the background:", 
@@ -247,6 +247,6 @@
     }, 
     "wallpaperThemeSelectionTips": {
         "description": "Choose wallpaper from a theme:", 
-        "message": "Elige un fondo para el tema:"
+        "message": "Elige un fondo de pantalla para el tema:"
     }
 }
