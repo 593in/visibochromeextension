@@ -5,7 +5,7 @@
     }, 
     "clickToRestore": {
         "description": "Click to restore session '$name$' in new window", 
-        "message": "Click para restaurar la sesión '$name$' en una nueva ventana", 
+        "message": "Hacer click para restaurar la sesión '$name$' en una nueva ventana", 
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -14,31 +14,31 @@
     }, 
     "confirm": {
         "description": "Confirm", 
-        "message": "Confirm"
+        "message": "Confirmar"
     }, 
     "confirmClose": {
         "description": "Open this session and close current window(s)? (Cannot undo!)", 
-        "message": "Open this session and close current window(s)? (Cannot undo!)"
+        "message": "¿Iniciar esta sesión y cerrar la(s) ventana(s) actual? (No se puede deshacer!)"
     }, 
     "confirmDeleteQuestion": {
         "description": "Are you sure you want to remove this session?", 
-        "message": "Are you sure to remove this sessions?"
+        "message": "¿Esta seguro quiere eliminar la sesión"
     }, 
     "contactUs": {
         "description": "Contact us:", 
-        "message": "Cont&aacute;ctanos:"
+        "message": "Ponte en contacto con nosotros"
     }, 
     "contactUs2": {
         "description": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a>!", 
-        "message": "&#191;Sugerencias? &#191;Alabanzas? &#191;Amor? &#161;Vis&iacute;tanos <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>aqu&iacute;</a>!"
+        "message": "¿Sugerencias? ¿Quiere dar las gracias? Visitenos a <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>aqu&iacute;</a>!"
     }, 
     "contactUs3": {
         "description": "Problems? Bugs? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager' target='_blank'>here</a> as well. We often need screenshots and your OS/Chrome version.", 
-        "message": "&#191;Problemas? &#191;Bugs? Vis&iacute;tanos <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>aqu&iacute;</a> tambi&eacute;n. Generalmente necesitamos capturas de pantalla y tu versi&oacute;n de OS/Chrome."
+        "message": "¿Problemas? ¿Errores Visitenos a <a href='http://getsatisfaction.com/visibo/products/visibo_freshstart_session_manager'>aqu&iacute;</a> tambi&eacute;n. Generalmente necesitamos capturas de pantalla y su version OS/Chrome."
     }, 
     "contactUs4": {
         "description": "We welcome all constructive feedbacks in civilized languages. *wink*", 
-        "message": "Son bienvenidos todos las cr&iacute;ticas constructivas en un lenguaje civilizado. *gui&ntilde;o*"
+        "message": "Damos la bienvenida a todos los feedbacks constructivas en lenguaje civilizado.*wink*",
     }, 
     "copyright": {
         "description": "<a href='http://www.visibotech.com/' target='_blank'>Home</a> | <a href='http://blog.visibotech.com/' target='_blank'>Blog</a> | <a href='http://twitter.com/visibo' target='_blank'>Twitter</a> | Copyright 2010 Visibo Ltd. All rights reserved.", 
@@ -46,35 +46,35 @@
     }, 
     "crashRestoreTitle": {
         "description": "Restore Previous Session", 
-        "message": "Restaurar sesi&oacute;n anterior"
+        "message": "Restaurar sesiones anterior"
     }, 
     "description": {
         "description": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.", 
-        "message": "¿Necesita gestionar sesiones de manera sencilla? ¿Varios usuarios en el mismo Chrome? FreshStart es un sencillo administrador de sesiones entre varios navegadores."
+        "message": "¿Necesita gestionar sesiones de manera sencilla? ¿Varios usuarios en el mismo navegador? FreshStart es un sencillo programa para administrar sesiones entre varios navegadores."
     }, 
     "edit": {
         "description": "Edit", 
-        "message": "Edit"
+        "message": "Editar"
     }, 
     "emptySession": {
         "description": "No window is selected in this session", 
-        "message": "No window is selected in this session"
+        "message": "No hay ninguna ventana seleccionada en esta sesión"
     }, 
     "enableCrashRecovery": {
         "description": "Enable crash recovery", 
-        "message": "Habilitar recuperación por cerrado inesperado"
+        "message": "Habilitar recuperación por cierre inesperado de sesión"
     }, 
     "enterSessionName": {
         "description": "Please enter the name of the session", 
-        "message": "Please enter the name of the session"
+        "message": "Por favor, introduzca el nombre de la sesión"
     }, 
     "export": {
         "description": "Export", 
-        "message": "Export"
+        "message": "Exportar"
     }, 
     "exportedSessionCopyTips": {
         "description": "Ctrl+c or Cmd+c to copy your session", 
-        "message": "Ctrl+c or Cmd+c to copy your session"
+        "message": "Ctrl+c or Cmd+c para copiar su sesión"
     }, 
     "extensionBrowserActionTitle": {
         "description": "FreshStart - Cross Browser Session Manager", 
@@ -82,14 +82,15 @@
     }, 
     "importedSessionTips": {
         "description": "Paste your session here", 
-        "message": "Paste your session here"
+        "message": "Pega tu sesión aquí"
     }, 
     "middleClickTips": {
-        "message": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac)."
+        "description": "Tips: FreshStart restores your sessions in new windows by default. To open a session in the current window, use ctrl-click (on Windows, Linux) or cmd-click (on Mac)."
+          "message": Consejos: FreshStart restaura sus sesiones en nuevas ventanas por defecto. Para abrir una sesión en la ventana actual, utiliza las teclas Ctrl+click al raton (en Windows, Linux) o cmd+click al raton (en Mac)
     }, 
     "minutes": {
         "description": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine.", 
-        "message": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine."
+        "message": "minutos.<br>Recomendado: 5 minutes. Auto-guardar muy frequente puede ralentizar su equipo."
     }, 
     "mySession": {
         "description": "My Session", 
@@ -105,7 +106,7 @@
     }, 
     "noSessionToRestore": {
         "description": "There are no saved sessions.", 
-        "message": "There are no saved sessions."
+        "message": "No hay sesiones guardadas"
     }, 
     "options": {
         "description": "Options", 
@@ -113,23 +114,23 @@
     }, 
     "optionsBackupPeriod": {
         "description": "Saves all your windows and tabs every ", 
-        "message": "Guarda todas las pesta&ntilde;as cada "
+        "message": "Guarda todas las pestañas y ventanas cada "
     }, 
     "optionsBackupPeriodOutOfRange": {
         "description": "Backup period cannot be shorter than 1 minute or larger than 999 minutes", 
-        "message": "El tiempo entre backups no puede ser más corto que 1 minuto o más largo que 999"
+        "message": "El Período de copia de seguridad no puede ser inferior a 1 minuto o ser más de 999 minutos"
     }, 
     "optionsDateFormat": {
         "description": "Date format:", 
-        "message": "Date format:"
+        "message": "Formato de fecha:"
     }, 
     "optionsEnableCrashRecovery": {
         "description": "Enable Crash Recovery", 
-        "message": "Habilitar Recuperaci&oacute;n en caso de cierre incorrecto"
+        "message": "Habilitar recuperación de sesión en caso de cierre inesperado"
     }, 
     "optionsNewUserTips": {
         "description": "New to FreshStart? Visit our <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Welcome Page</a>!", 
-        "message": "&#191;Nuevo en FreshStart? &#161;Visita nuestra <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Página de Bienvenida</a>!"
+        "message": "¿Nuevo en FreshStart? Visite nuestra <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Página de Bienvenida</a>!"
     }, 
     "optionsPageTitle": {
         "description": "FreshStart Options", 
@@ -141,7 +142,7 @@
     }, 
     "popupSizeLabel": {
         "description": "Popup Size", 
-        "message": "Popup Size"
+        "message": "Tamaño de la ventana emergente"
     }, 
     "remove": {
         "description": "Remove", 
@@ -153,23 +154,23 @@
     }, 
     "restoreSession": {
         "description": "Restore Session", 
-        "message": "Restaurar sesi&oacute;n"
+        "message": "Restaurar Sessión"
     }, 
     "restoreSession2": {
         "description": "Click to open session in new window", 
-        "message": "Click izquierdo para abrir en una nueva ventana o ctrl-click para desplegar en esta ventana"
+        "message": "Hacer click para abrir una nueva ventana"
     }, 
     "restoreSessionButton": {
         "description": "Restore this window", 
-        "message": "Restore this window"
+        "message": "Restaurar esta ventana"
     }, 
     "restoreSessionButtonDescription": {
         "description": "Click to restore this window", 
-        "message": "Click to restore this window"
+        "message": "Hacer clic para restaurara esta ventana"
     }, 
     "restoreSessionOn": {
         "description": "Restore session on ", 
-        "message": "Restore session on "
+        "message": "restauración de sesión en "
     }, 
     "save": {
         "description": "Save", 
@@ -177,23 +178,23 @@
     }, 
     "saveFail": {
         "description": "Fail to save session. Please try again later", 
-        "message": "Fail to save session. Please try again later"
+        "message": "Fallo al guardar la sesión. Por favor, inténtelo de nuevo más tarde"
     }, 
     "saveSession": {
         "description": "Save Session", 
-        "message": "Guardar sesi&oacute;n"
+        "message": "Guardar sesión"
     }, 
     "saveSessionButton": {
         "description": "Save as FreshStart session", 
-        "message": "Save as FreshStart session"
+        "message": "Guardar como sesión FreshStart"
     }, 
     "saveSessionButtonDescription": {
         "description": "Click here to save this as a new FreshStart session", 
-        "message": "Click here to save this as a new FreshStart session"
+        "message": "Haga clic aquí para guardar esto como una nuava sesión de FreshStart"
     }, 
     "savedWindow": {
         "description": "Saved Window ($count$)", 
-        "message": "Saved Window ($count$)", 
+        "message": "Ventana guardada ($count$)", 
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -202,39 +203,39 @@
     }, 
     "sessionTextBoxClose": {
         "description": "Close", 
-        "message": "Close"
+        "message": "Cerrar"
     }, 
     "sessionTextBoxImport": {
         "description": "Import session", 
-        "message": "Import session"
+        "message": "Importar sessión"
     }, 
     "sizeWarning": {
         "description": "* If the size is too small, it may distort the layout.", 
-        "message": "* If the size is too small, it may distort the layout."
+        "message": "* Si el tamaño es demasiado pequeño, puede distorsionar la distribución."
     }, 
     "smEditCancel": {
         "description": "Cancel", 
-        "message": "Cancel"
+        "message": "Cancelar"
     }, 
     "smEditSave": {
         "description": "Save", 
-        "message": "Save"
+        "message": "Guardar"
     }, 
     "smHeadingNew": {
         "description": "Tabs/Windows to Add", 
-        "message": "Tabs to Add (check to add)"
+        "message": "agregar Pestañas/ventanas"
     }, 
     "smHeadingNewTitle": {
         "description": "You can drag and drop tabs between windows", 
-        "message": "You can drag and drop tabs between windows"
+        "message": "Usted puede arrastrar y soltar pestañas entre ventanas"
     }, 
     "smHeadingSaved": {
         "description": "Saved Session (uncheck to remove)", 
-        "message": "Saved Tabs (uncheck to remove)"
+        "message": "Sesión guardada (desmarque de quitar)"
     }, 
     "smHeadingTitle": {
         "description": "Title", 
-        "message": "Title"
+        "message": "Título"
     }, 
     "smSaveList": {
         "description": "Uncheck tabs that you don't want to be saved.", 
@@ -242,7 +243,7 @@
     }, 
     "smSaveToggle": {
         "description": "Toggle Selection", 
-        "message": "Toggle Selection"
+        "message": "Marcar/desmarcar Seleción"
     }, 
     "supportUs": {
         "description": "Support our development and<br>share to your friends!", 
@@ -259,6 +260,6 @@
     }, 
     "updatedMessage": {
         "description": "FreshStart is updated, click here to see what's new", 
-        "message": "FreshStart ha sido actualizado, haga click aquí para saber las novedades"
+        "message": "FreshStart ha sido actualizado, haga click aquí para saber las novedades introducidas"
     }
 }
