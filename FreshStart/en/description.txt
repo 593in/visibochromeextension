@@ -1,8 +1,7 @@
 Manage your browsing session easily with FreshStart! If you have different sets of websites that matter to you at work, at home or at different times, or if you have multiple users on your Chrome, you should give this a try!
 
-New in 1.4
-- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
-- Added confirmation dialogs when deleting sessions
+New in 1.5
+- Save multiple windows into a single session
 
 Features
 - Save all open tabs to a new session, or hand select what to be saved
@@ -10,7 +9,7 @@ Features
 - Crash recovery - autosave your windows every few minutes
 - Restore a session in a new window, or merge it with the current window by ctrl-click (Windows, Linux) or cmd-click (Mac).
 - Session editing and easily merge new tabs into existing sessions
-
+- Export and import sessions
 If you like FreshStart, check out our other extensions too!
 - Incredible StartPage http://goo.gl/he9o
 - Friends Mural for Facebook http://goo.gl/bICN
@@ -20,4 +19,4 @@ If you like FreshStart, check out our other extensions too!
 
 Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
 License: http://www.visibotech.com/license/freshstart.html
-Credits: http://www.visibotech.com/chrome/credits.html
+Credits: http://code.google.com/p/visibochromeextension/issues/list

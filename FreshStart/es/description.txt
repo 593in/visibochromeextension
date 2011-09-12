@@ -1,23 +1,20 @@
 (Translated with Google Translate - English version here http://goo.gl/Ix4a
 Can you help us translate? http://code.google.com/p/visibochromeextension/ )
 
-Administre su sesión de navegación fácilmente con FreshStart! Si usted tiene diferentes conjuntos de sitios web que son importantes para usted en el trabajo, en casa o en diferentes momentos, o si tienes varios usuarios en su Chrome, debe dar a este un intento!
+Administre su sesión de navegación fácilmente con FreshStart! Si usted tiene diferentes conjuntos de sitios web que son importantes en el trabajo, en casa o en diferentes momentos, o si tienes varios usuarios en su Chrome, usted está en el lugar correcto!
 
-New in 1.4
-- Session Import and Export! Export your sessions as plain text, send it to a friend or import it to another machine
-- Added confirmation dialogs when deleting sessions
+Nuevo en 1.5
+- Save multiple windows into a single session
 
 Características
-- Guardar todas las pestañas abiertas para una nueva sesión, o en la mano seleccionar lo que se guarden
-- Las sesiones se guardan en la carpeta "FreshStart Sessions" en los marcadores, lo que le permite sincronizar con otros equipos
-Minutos - la recuperación de Crash - AutoGuardar sus ventanas cada pocos
-- Restaurar una sesión en una ventana nueva, o fusionarla con la ventana actual Ctrl-(haga clic en Windows, Linux) o Comando-clic (Mac).
+- Guardar todas las pestañas abiertas a una nueva sesión, o elegir los que usted quire guardar
+- Las sesiones se guardan en la carpeta "Sessiones FreshStart" en los marcadores, lo que le permite sincronizar con otros equipos
+- Recuperación de cierres inesperadas, auto-guardar sus ventanas cada pocos minutos
+- Restaurar una sesión en una ventana nueva, o fusionarla con la ventana actual Ctrl-clic (en Windows, Linux) o Comando-clic (Mac).
+- Importación y exportación de sesiones! Exportar sus sesiones como texto sin formato, enviarlo a un amigo o importarla a otra máquina
+- Añadido diálogos de confirmación al eliminar las sesiones
 
-Entre las próximas
-- Mejor Edición período de sesiones de diálogo
-
-If you like FreshStart, check out our other extensions too!
-- Incredible StartPage http://goo.gl/he9o **NEW**
+Si le gusta FreshStart, visite otras de nuestras extensiones también!- Incredible StartPage http://goo.gl/he9o **NEW**
 - Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - TwitterWatch: http://goo.gl/7AkW
