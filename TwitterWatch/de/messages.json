@@ -1,158 +1,158 @@
 {
     "addTab": {
-        "message": "Add new tab", 
-        "remark": "NEED TRANSLATION"
+        "message": "Füge einen Tab hinzu", 
+        "remark": "Translated"
     }, 
     "days": {
-        "message": "$days$ days ago", 
+        "message": "vor $days$ Tagen", 
         "placeholders": {
             "days": {
                 "content": "$1"
             }
         }, 
-        "remark": "NEED TRANSLATION"
+        "remark": "TRANSLATED"
     }, 
     "description": {
-        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
+        "message": "Schaut auf Twitter nach interesanten Themen. Mit Echtzeit Update! Funktioniert auch gut mit anderen Twitter Programmen.", 
         "remark": "NEED TRANSLATION"
     }, 
     "enterASearchTerm": {
-        "message": "Enter a search term to get latest updates", 
-        "remark": "NEED TRANSLATION"
+        "message": "Gib einen Suchbegriff ein um die neusten Updates zu erhalten", 
+        "remark": "Translated"
     }, 
     "error": {
-        "message": "Error", 
-        "remark": "NEED TRANSLATION"
+        "message": "Fehler", 
+        "remark": "TRANSLATED"
     }, 
     "hours": {
-        "message": "$hours$ hours ago", 
+        "message": "Vor $hours$ Stunden", 
         "placeholders": {
             "hours": {
                 "content": "$1"
             }
         }, 
-        "remark": "NEED TRANSLATION"
+        "remark": "TRANSLATED"
     }, 
     "loggingIn": {
-        "message": "Logging in...", 
-        "remark": "NEED TRANSLATION"
+        "message": "Anmelden...", 
+        "remark": "Translated"
     }, 
     "login": {
-        "message": "Login", 
-        "remark": "NEED TRANSLATION"
+        "message": "Anmelden", 
+        "remark": "Translated"
     }, 
     "logout": {
-        "message": "Logout", 
-        "remark": "NEED TRANSLATION"
+        "message": "Abmelden", 
+        "remark": "Translated"
     }, 
     "messageTooLong": {
-        "message": "The message is too long!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Die Nachricht ist zu lang!", 
+        "remark": "Translated"
     }, 
     "minutes": {
-        "message": "$minutes$ minutes ago", 
+        "message": "Vor $minutes$ Minuten", 
         "placeholders": {
             "minutes": {
                 "content": "$1"
             }
         }, 
-        "remark": "NEED TRANSLATION"
+        "remark": "Translated"
     }, 
     "name": {
-        "message": "TwitterWatch - Real Time Twitter Update", 
-        "remark": "NEED TRANSLATION"
+        "message": "TwitterWatch - Echtzeit Twitter Aktualisierungen", 
+        "remark": "Translated - MAYBE TOO LONG?"
     }, 
     "newTab": {
-        "message": "[NEW]", 
-        "remark": "NEED TRANSLATION"
+        "message": "[NEU]", 
+        "remark": "Translated"
     }, 
     "noTweetsFound": {
-        "message": "No tweets found!", 
-        "remark": "NEED TRANSLATION"
+        "message": "Keine Tweets gefunden!", 
+        "remark": "Translated"
     }, 
     "oneDay": {
-        "message": "1 day ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "vor 1 Tag", 
+        "remark": "Translated"
     }, 
     "oneHour": {
-        "message": "1 hour ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "vor 1 Stunde", 
+        "remark": "Translated"
     }, 
     "oneMinute": {
-        "message": "1 minute ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "vor 1 Minute", 
+        "remark": "Translated"
     }, 
     "oneWeek": {
-        "message": "1 week ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "vor 1 Woche", 
+        "remark": "Translated"
     }, 
     "postFail": {
-        "message": "Sent failed, try again?", 
-        "remark": "NEED TRANSLATION"
+        "message": "Nachricht konnte nicht gesendet werden. Nochmals versuchen?", 
+        "remark": "Translated"
     }, 
     "postSuccess": {
-        "message": "Sent successfully", 
-        "remark": "NEED TRANSLATION"
+        "message": "Senden erfolgreich!", 
+        "remark": "Translated"
     }, 
     "posting": {
-        "message": "Sending...", 
-        "remark": "NEED TRANSLATION"
+        "message": "Senden...", 
+        "remark": "Translated"
     }, 
     "promptLogin": {
-        "message": "Please login to reply or retweet", 
-        "remark": "NEED TRANSLATION"
+        "message": "Bitte melde dich an um zu antworten oder um zu retweeten", 
+        "remark": "Translated"
     }, 
     "reply": {
-        "message": "Reply", 
-        "remark": "NEED TRANSLATION"
+        "message": "Antworten", 
+        "remark": "Translated"
     }, 
     "retweet": {
         "message": "Retweet", 
-        "remark": "NEED TRANSLATION"
+        "remark": "No need to Translate"
     }, 
     "search": {
-        "message": "Search", 
-        "remark": "NEED TRANSLATION"
+        "message": "Suchen", 
+        "remark": "Translated"
     }, 
     "searching": {
-        "message": "Searching", 
-        "remark": "NEED TRANSLATION"
+        "message": "am Suchen..", 
+        "remark": "Translated"
     }, 
     "seconds": {
-        "message": "$seconds$ seconds ago", 
+        "message": "vor $seconds$ Sekunden", 
         "placeholders": {
             "seconds": {
                 "content": "$1"
             }
         }, 
-        "remark": "NEED TRANSLATION"
+        "remark": "Translated"
     }, 
     "send": {
-        "message": "Send", 
-        "remark": "NEED TRANSLATION"
+        "message": "Senden", 
+        "remark": "Translated"
     }, 
     "severalWeeks": {
-        "message": "Several weeks ago", 
-        "remark": "NEED TRANSLATION"
+        "message": "vor einigen Wochen", 
+        "remark": "Translated"
     }, 
     "stopSearch": {
-        "message": "Stop this search", 
-        "remark": "NEED TRANSLATION"
+        "message": "Diese Suche stoppen", 
+        "remark": "Translated"
     }, 
     "tooManyTabs": {
-        "message": "Maximum 5 tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "Maximal 5 Tabs!", 
+        "remark": "Translated"
     }, 
     "twitterWatch": {
         "message": "TwitterWatch", 
-        "remark": "NEED TRANSLATION"
+        "remark": "No need to translate"
     }, 
     "updateMessage": {
-        "message": "TwitterWatch is updated, click here to see what's new", 
-        "remark": "NEED TRANSLATION"
+        "message": "TwitterWatch wurde aktualisiert. Klicke hier um zu sehen was neu ist!", 
+        "remark": "Translated"
     }, 
     "useLastTab": {
-        "message": "Please use the [NEW] tab first", 
-        "remark": "NEED TRANSLATION"
+        "message": "Bitte benütze den [NEW] tab zuerst", 
+        "remark": "Translated"
     }
 }
