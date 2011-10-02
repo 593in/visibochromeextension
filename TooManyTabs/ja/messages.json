@@ -5,7 +5,7 @@
     }, 
     "addNewColumnButton": {
         "description": "Add", 
-        "message": "Add"
+        "message": "追加"
     }, 
     "advancedFeatures": {
         "description": "Advanced features", 
@@ -45,7 +45,7 @@
     }, 
     "contactUs": {
         "description": "Contact Us:", 
-        "message": "コンタクト:"
+        "message": "連絡先:"
     }, 
     "contactUs1": {
         "description": "Suggestions? Praise? Love? Visit us <a href='http://getsatisfaction.com/visibo/products/visibo_toomanytabs_for_chrome'>here</a>!", 
@@ -81,7 +81,7 @@
     }, 
     "crossWindow3": {
         "description": "Google Chrome for Mac / Linux do not support cross-window tab switching. If you try to switch to a tab in another window, that tab will be moved to the current window instead.", 
-        "message": "Mac及びLinux向けクロームは、タブをまたがってのウインドウ移動をサポートしていません。他のウインドウにタブを移動させようとしても、現在のウインドウに移動されます。"
+        "message": "Mac向け・Linux向けクロームは、ウィンドウをまたがってのタブ移動をサポートしていません。他のウインドウにタブを移動させようとしても、現在のウインドウに移動されてしまいます。"
     }, 
     "customRows1": {
         "description": "Custom columns", 
@@ -105,23 +105,23 @@
     }, 
     "disableContextMenuLabel": {
         "description": "Disable TMT context menu", 
-        "message": "Disable TMT context menu"
+        "message": "TMTコンテクストメニューを無効にする"
     }, 
     "disablePreviewLabel": {
         "description": "Disable tabs preview:", 
-        "message": "Disable tabs preview:"
+        "message": "タブのプレビューを無効にする:"
     }, 
     "disablePreviewTip": {
         "description": "Tip: Even when tab previews are still loading, you can start to select or search tabs already.", 
-        "message": "Tip: Even when tab previews are still loading, you can start to select or search tabs already."
+        "message": "Tips: プレビュー作成中のタブでも、選択したり探したりできます。"
     }, 
     "export": {
         "description": "Export", 
-        "message": "Export"
+        "message": "エクスポート"
     }, 
     "exportDescription": {
         "description": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.", 
-        "message": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers."
+        "message": " \"エクスポート\" ボタンをクリックするとカラムとタブを書き出して保存することができます。 書きだしたファイルは他のコンピュータでインポートすることができます。"
     }, 
     "find": {
         "description": "Find", 
@@ -133,11 +133,11 @@
     }, 
     "import": {
         "description": "Import", 
-        "message": "Import"
+        "message": "インポート"
     }, 
     "importAndExport": {
         "description": "Import/Export", 
-        "message": "Import/Export"
+        "message": "インポート/エクスポート"
     }, 
     "importDescription": {
         "description": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.", 
@@ -165,11 +165,11 @@
     }, 
     "importPageTitle": {
         "description": "TooManyTabs for Chrome - Import / Export Columns and Tabs", 
-        "message": "TooManyTabs for Chrome - Import / Export Columns and Tabs"
+        "message": "TooManyTabs for Chrome - カラムとタブをインポート/エクスポートする"
     }, 
     "importedSuccessfully": {
         "description": "Columns and tabs imported successfully!", 
-        "message": "Columns and tabs imported successfully!"
+        "message": "カラムとタブのインポートは成功しました!"
     }, 
     "justTypeIn": {
         "description": "Just type in...", 
@@ -181,11 +181,11 @@
     }, 
     "knownIssues1": {
         "description": "Shortcut key does not work on Chrome's own pages (e.g. default homepage, option pages).", 
-        "message": "Chrome自身のサイトでショートカットが使えない問題(デフォルトホームページ、オプションページなど)"
+        "message": "Chromeブラウザ固有のページ(デフォルトホームページ、オプションページなど)でショートカットキーが作動しない"
     }, 
     "knownIssues2": {
         "description": "Chrome's own pages do not respond to TMT's wake up calls occasionally.", 
-        "message": "Chrome自身のサイトがTooManyTabsの呼び出しに応答しないときがある問題"
+        "message": "Chromeブラウザ固有のページがTooManyTabsの呼び出しに応答しないことがある"
     }, 
     "name": {
         "description": "TooManyTabs for Chrome", 
@@ -201,7 +201,7 @@
     }, 
     "noResponse": {
         "description": "Hm, no response from that tab. Either it is a system panel, or it's busy...", 
-        "message": "うーん、該当のタブから応答がありません。システムパネルかビジー状態です。"
+        "message": "うぅー、そのタブから応答がありません。そのタブはシステムパネルかビジー状態です。。。"
     }, 
     "ok": {
         "description": "OK", 
@@ -209,7 +209,7 @@
     }, 
     "openImportAndExportPage": {
         "description": "Open Import/Export Page", 
-        "message": "Open Import/Export Page"
+        "message": "インポート/エクスポートのページを開く"
     }, 
     "openOptionPage": {
         "description": "Open Option Page", 
@@ -221,7 +221,7 @@
     }, 
     "optionsNo": {
         "description": "No", 
-        "message": "No"
+        "message": "いいえ"
     }, 
     "optionsPageTitle": {
         "description": "TooManyTabs for Chrome - Options", 
@@ -233,19 +233,19 @@
     }, 
     "popupWidth": {
         "description": "Popup Width:", 
-        "message": "ポップアップ幅:"
+        "message": "ポップアップの幅:"
     }, 
     "popupWidth1": {
         "description": "Wide", 
-        "message": "広く"
+        "message": "広い"
     }, 
     "popupWidth2": {
         "description": "Narrow", 
-        "message": "狭く"
+        "message": "狭い"
     }, 
     "popupWidth3": {
         "description": "Small", 
-        "message": "小さく"
+        "message": "小さい"
     }, 
     "previousColumn": {
         "description": "Previous column", 
@@ -261,11 +261,11 @@
     }, 
     "quickSupport2": {
         "description": "We do not collect any of your private information and never send them to any servers.", 
-        "message": "あなたのプライベートな情報を集めたり、どこかのサーバに送信したりすることはありません。"
+        "message": "あなたの個人情報を集めたり、どこかのサーバに送信したりすることはありません。"
     }, 
     "recentClosedMsg": {
         "description": "Number of recently closed tabs:", 
-        "message": "Number of recently closed tabs:"
+        "message": "最近閉じたタブの数:"
     }, 
     "recentlyClosedTip": {
         "description": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu.", 
@@ -285,15 +285,15 @@
     }, 
     "removeThisColumnButton": {
         "description": "Remove", 
-        "message": "Remove"
+        "message": "削除"
     }, 
     "removeThisColumnDisabled": {
         "description": "This column cannot be removed", 
-        "message": "This column cannot be removed"
+        "message": "このカラムは削除できません"
     }, 
     "sendToTMT": {
         "description": "Send tab/link to TooManyTabs", 
-        "message": "Send tab/link to TooManyTabs"
+        "message": "TooManyTabsにタブ/リンクを送る"
     }, 
     "shortcut1": {
         "description": "Use shortcut key to bring up TMT window: CTRL-", 
@@ -301,7 +301,7 @@
     }, 
     "shortcut2": {
         "description": "The shortcut key doesn't work when you are on system pages, like this option page. Some shortcuts may not work on certain operating systems (e.g. CTRL-A).", 
-        "message": "システムページにいるときにはショートカットキーは動作しません。このオプションページも同様です。お使いのOSによっては、いくつかのショートカットキーが動作しないことtがあります。(例:Ctrl+A)"
+        "message": "システムページにいるときにはショートカットキーは動作しません。このオプションページも同様です。お使いのOSによっては、使えないショートカットキーがあります。 (例:Ctrl+A)"
     }, 
     "showTabCount": {
         "description": "Show tab count on the icon:", 
@@ -321,7 +321,7 @@
     }, 
     "supportMsg": {
         "description": "Support our development!", 
-        "message": "Support our development!"
+        "message": "開発を支援してください!"
     }, 
     "suspendedTabsTip": {
         "description": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved.", 
@@ -337,10 +337,10 @@
     }, 
     "welcomeMessage": {
         "description": "New to TooManyTabs? <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>Visit our welcome page.</a>", 
-        "message": "TooManyTabsの新機能は→<a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>私たちのサイトへようこそ</a>"
+        "message": "TooManyTabsは初めてですか？ <a id='welcomepagelink' target='_blank' href='http://blog.visibotech.com/2010/01/thank-you-for-installing-toomanytabs.html'>まずはこちらのページへ.</a>"
     }, 
     "winpopupWidthLabel": {
         "description": "TMT popup window's width (open by shortcut)", 
-        "message": "TMT popup window's width (open by shortcut)"
+        "message": "TMTポップアップウィンドウの幅 (ショートカットキーで開いた時)"
     }
 }
