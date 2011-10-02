@@ -1,9 +1,10 @@
 {
     "addTab": {
-        "message": "Add new tab", 
-        "remark": "NEED TRANSLATION"
+        "description": "Add new tab", 
+        "message": "Add new tab"
     }, 
     "days": {
+        "description": "$days$ days ago", 
         "message": "Il y a $days$ jours", 
         "placeholders": {
             "days": {
@@ -12,15 +13,19 @@
         }
     }, 
     "description": {
+        "description": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
         "message": "Surveillez les termes Twitter qui vous intéressent, grâce à une liaison en temps réel. Fonctionne aussi avec d'autres clients Twitter"
     }, 
     "enterASearchTerm": {
+        "description": "Enter a search term to get latest updates", 
         "message": "Précisez un terme de recherche pour récupérer les dernières actualités"
     }, 
     "error": {
+        "description": "Error", 
         "message": "Erreur"
     }, 
     "hours": {
+        "description": "$hours$ hours ago", 
         "message": "Il y a $hours$ heures", 
         "placeholders": {
             "hours": {
@@ -29,18 +34,35 @@
         }
     }, 
     "loggingIn": {
+        "description": "Logging in...", 
         "message": "Connexion ..."
     }, 
     "login": {
+        "description": "Login", 
         "message": "Connexion"
     }, 
     "logout": {
+        "description": "Logout", 
         "message": "Déconnexion"
     }, 
+    "markAsRead": {
+        "description": "Mark as read", 
+        "message": "Mark as read"
+    }, 
+    "markAsReadAfter": {
+        "description": "Mark as read after", 
+        "message": "Mark as read after"
+    }, 
+    "markAsReadWhenScroll": {
+        "description": "Mark as read when you scroll the list", 
+        "message": "Mark as read when you scroll the list"
+    }, 
     "messageTooLong": {
+        "description": "The message is too long!", 
         "message": "Le message est trop long!"
     }, 
     "minutes": {
+        "description": "$minutes$ minutes ago", 
         "message": "Il y a $minutes$ minutes ", 
         "placeholders": {
             "minutes": {
@@ -49,54 +71,79 @@
         }
     }, 
     "name": {
+        "description": "TwitterWatch - Real Time Twitter Update", 
         "message": "TwitterWatch - Client Twitter en temps réel"
     }, 
     "newTab": {
-        "message": "[NEW]", 
-        "remark": "NEED TRANSLATION"
+        "description": "[NEW]", 
+        "message": "[NEW]"
     }, 
     "noTweetsFound": {
+        "description": "No tweets found!", 
         "message": "Aucun Tweet trouvé!"
     }, 
     "oneDay": {
+        "description": "1 day ago", 
         "message": "Il y un un jour"
     }, 
     "oneHour": {
+        "description": "1 hour ago", 
         "message": "Il y a une heure"
     }, 
     "oneMinute": {
+        "description": "1 minute ago", 
         "message": "Il y a une minute"
     }, 
     "oneWeek": {
+        "description": "1 week ago", 
         "message": "Il y a une semaine"
     }, 
+    "optionSeconds": {
+        "description": "seconds", 
+        "message": "seconds"
+    }, 
     "postFail": {
+        "description": "Sent failed, try again?", 
         "message": "L'envoi a échoué, reéssayer?"
     }, 
     "postSuccess": {
+        "description": "Sent successfully", 
         "message": "Envoi réussi"
     }, 
     "posting": {
+        "description": "Sending...", 
         "message": "Envoi..."
     }, 
     "promptLogin": {
+        "description": "Please login to reply or retweet", 
         "message": "Vous devez vous identifiez pour répondre ou retweeter"
     }, 
     "reply": {
+        "description": "Reply", 
         "message": "Répondre"
     }, 
     "retweet": {
-        "message": "Retweet", 
-        "remark": "NEED TRANSLATION"
+        "description": "Retweet", 
+        "message": "Retweet"
+    }, 
+    "save": {
+        "description": "Save", 
+        "message": "Save"
+    }, 
+    "saved": {
+        "description": "Saved", 
+        "message": "Saved"
     }, 
     "search": {
-        "message": "Search", 
-        "remark": "NEED TRANSLATION"
+        "description": "Search", 
+        "message": "Search"
     }, 
     "searching": {
+        "description": "Searching", 
         "message": "Recherche en cours"
     }, 
     "seconds": {
+        "description": "$seconds$ seconds ago", 
         "message": "Il y a $seconds$ secondes", 
         "placeholders": {
             "seconds": {
@@ -105,28 +152,31 @@
         }
     }, 
     "send": {
+        "description": "Send", 
         "message": "Envoi"
     }, 
     "severalWeeks": {
+        "description": "Several weeks ago", 
         "message": "Il y a plusieurs semaines"
     }, 
     "stopSearch": {
-        "message": "Stop this search", 
-        "remark": "NEED TRANSLATION"
+        "description": "Stop this search", 
+        "message": "Stop this search"
     }, 
     "tooManyTabs": {
-        "message": "Maximum 5 tabs", 
-        "remark": "NEED TRANSLATION"
+        "description": "Maximum 5 tabs", 
+        "message": "Maximum 5 tabs"
     }, 
     "twitterWatch": {
-        "message": "TwitterWatch", 
-        "remark": "NEED TRANSLATION"
+        "description": "TwitterWatch", 
+        "message": "TwitterWatch"
     }, 
     "updateMessage": {
+        "description": "TwitterWatch is updated, click here to see what's new", 
         "message": "TwitterWatch a été mis à jour, cliquez ici pour voir les nouveautés"
     }, 
     "useLastTab": {
-        "message": "Please use the [NEW] tab first", 
-        "remark": "NEED TRANSLATION"
+        "description": "Please use the [NEW] tab first", 
+        "message": "Please use the [NEW] tab first"
     }
 }

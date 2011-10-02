@@ -1,124 +1,142 @@
 {
-    "name": {
-        "message": "TwitterWatch - Real Time Twitter Update"
-    },
+    "addTab": {
+        "message": "Add new tab"
+    }, 
+    "days": {
+        "message": "$days$ days ago", 
+        "placeholders": {
+            "days": {
+                "content": "$1"
+            }
+        }
+    }, 
     "description": {
         "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too."
-    },
-    "noTweetsFound": {
-        "message": "No tweets found!"
-    },
+    }, 
     "enterASearchTerm": {
         "message": "Enter a search term to get latest updates"
-    },
-    "seconds": {
-        "message": "$seconds$ seconds ago",
-        "placeholders": {
-            "seconds": {
-                "content": "$1"
-            }
-        }
-    },
-    "oneMinute": {
-        "message": "1 minute ago"
-    },
-    "minutes": {
-        "message": "$minutes$ minutes ago",
-        "placeholders": {
-            "minutes": {
-                "content": "$1"
-            }
-        }
-    },
-    "oneHour": {
-        "message": "1 hour ago"
-    },
+    }, 
+    "error": {
+        "message": "Error"
+    }, 
     "hours": {
-        "message": "$hours$ hours ago",
+        "message": "$hours$ hours ago", 
         "placeholders": {
             "hours": {
                 "content": "$1"
             }
         }
     }, 
-    "oneDay": {
-        "message": "1 day ago"
-    },
-    "days": {
-        "message": "$days$ days ago",
+    "loggingIn": {
+        "message": "Logging in..."
+    }, 
+    "login": {
+        "message": "Login"
+    }, 
+    "logout": {
+        "message": "Logout"
+    }, 
+    "markAsRead": {
+        "message": "Mark as read"
+    }, 
+    "markAsReadAfter": {
+        "message": "Mark as read after"
+    }, 
+    "markAsReadWhenScroll": {
+        "message": "Mark as read when you scroll the list"
+    }, 
+    "messageTooLong": {
+        "message": "The message is too long!"
+    }, 
+    "minutes": {
+        "message": "$minutes$ minutes ago", 
         "placeholders": {
-            "days": {
+            "minutes": {
                 "content": "$1"
             }
         }
-    },
-    "oneWeek": {
-        "message": "1 week ago"
-    },
-    "severalWeeks": {
-        "message": "Several weeks ago"
-    },
-    "error": {
-        "message": "Error"
-    },
-    "updateMessage": {
-        "message": "TwitterWatch is updated, click here to see what's new"
-    },
-    "login": {
-        "message": "Login"
-    },
-    "logout": {
-        "message": "Logout"
-    },
-    "send": {
-        "message": "Send"
-    },
-    "retweet": {
-        "message": "Retweet"
-    },
-    "reply": {
-        "message": "Reply"
-    },
-    "postSuccess": {
-        "message": "Sent successfully"
-    },
-    "postFail": {
-        "message": "Sent failed, try again?"
-    },
-    "posting": {
-        "message": "Sending..."
-    },
-    "loggingIn": {
-        "message": "Logging in..."
-    },
-    "promptLogin": {
-        "message": "Please login to reply or retweet"
-    },
-    "twitterWatch": {
-        "message": "TwitterWatch"
-    },
-    "searching": {
-        "message": "Searching"
-    },
-    "messageTooLong": {
-        "message": "The message is too long!"
-    },
-    "addTab": {
-        "message": "Add new tab"
-    },
-    "tooManyTabs": {
-        "message": "Maximum 5 tabs"
-    },
-    "useLastTab": {
-        "message": "Please use the [NEW] tab first"
-    },
+    }, 
+    "name": {
+        "message": "TwitterWatch - Real Time Twitter Update"
+    }, 
     "newTab": {
         "message": "[NEW]"
-    },
+    }, 
+    "noTweetsFound": {
+        "message": "No tweets found!"
+    }, 
+    "oneDay": {
+        "message": "1 day ago"
+    }, 
+    "oneHour": {
+        "message": "1 hour ago"
+    }, 
+    "oneMinute": {
+        "message": "1 minute ago"
+    }, 
+    "oneWeek": {
+        "message": "1 week ago"
+    }, 
+    "optionSeconds": {
+        "message": "seconds"
+    }, 
+    "postFail": {
+        "message": "Sent failed, try again?"
+    }, 
+    "postSuccess": {
+        "message": "Sent successfully"
+    }, 
+    "posting": {
+        "message": "Sending..."
+    }, 
+    "promptLogin": {
+        "message": "Please login to reply or retweet"
+    }, 
+    "reply": {
+        "message": "Reply"
+    }, 
+    "retweet": {
+        "message": "Retweet"
+    }, 
+    "save": {
+        "message": "Save"
+    }, 
+    "saved": {
+        "message": "Saved"
+    }, 
     "search": {
         "message": "Search"
-    },
+    }, 
+    "searching": {
+        "message": "Searching"
+    }, 
+    "seconds": {
+        "message": "$seconds$ seconds ago", 
+        "placeholders": {
+            "seconds": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "send": {
+        "message": "Send"
+    }, 
+    "severalWeeks": {
+        "message": "Several weeks ago"
+    }, 
     "stopSearch": {
         "message": "Stop this search"
+    }, 
+    "tooManyTabs": {
+        "message": "Maximum 5 tabs"
+    }, 
+    "twitterWatch": {
+        "message": "TwitterWatch"
+    }, 
+    "updateMessage": {
+        "message": "TwitterWatch is updated, click here to see what's new"
+    }, 
+    "useLastTab": {
+        "message": "Please use the [NEW] tab first"
     }
 }

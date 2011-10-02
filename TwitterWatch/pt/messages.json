@@ -1,7 +1,6 @@
 {
     "addTab": {
-        "message": "Add new tab", 
-        "remark": "NEED TRANSLATION"
+        "message": "Add new tab"
     }, 
     "days": {
         "message": "$days$ dias atrás", 
@@ -12,8 +11,7 @@
         }
     }, 
     "description": {
-        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
-        "remark": "NEED TRANSLATION"
+        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too."
     }, 
     "enterASearchTerm": {
         "message": "Insira um termo de pesquisa para obter as últimas atualizações"
@@ -30,8 +28,7 @@
         }
     }, 
     "loggingIn": {
-        "message": "Logging in...", 
-        "remark": "NEED TRANSLATION"
+        "message": "Logging in..."
     }, 
     "login": {
         "message": "Conectar"
@@ -39,9 +36,17 @@
     "logout": {
         "message": "Sair"
     }, 
+    "markAsRead": {
+        "message": "Mark as read"
+    }, 
+    "markAsReadAfter": {
+        "message": "Mark as read after"
+    }, 
+    "markAsReadWhenScroll": {
+        "message": "Mark as read when you scroll the list"
+    }, 
     "messageTooLong": {
-        "message": "The message is too long!", 
-        "remark": "NEED TRANSLATION"
+        "message": "The message is too long!"
     }, 
     "minutes": {
         "message": "$minutes$ minutos atrás", 
@@ -52,12 +57,10 @@
         }
     }, 
     "name": {
-        "message": "TwitterWatch - Real Time Twitter Update", 
-        "remark": "NEED TRANSLATION"
+        "message": "TwitterWatch - Real Time Twitter Update"
     }, 
     "newTab": {
-        "message": "[NEW]", 
-        "remark": "NEED TRANSLATION"
+        "message": "[NEW]"
     }, 
     "noTweetsFound": {
         "message": "Nenhum tweets encontrado!"
@@ -74,37 +77,38 @@
     "oneWeek": {
         "message": "1 semana atrás"
     }, 
+    "optionSeconds": {
+        "message": "seconds"
+    }, 
     "postFail": {
-        "message": "Sent failed, try again?", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sent failed, try again?"
     }, 
     "postSuccess": {
-        "message": "Sent successfully", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sent successfully"
     }, 
     "posting": {
-        "message": "Sending...", 
-        "remark": "NEED TRANSLATION"
+        "message": "Sending..."
     }, 
     "promptLogin": {
-        "message": "Please login to reply or retweet", 
-        "remark": "NEED TRANSLATION"
+        "message": "Please login to reply or retweet"
     }, 
     "reply": {
-        "message": "Reply", 
-        "remark": "NEED TRANSLATION"
+        "message": "Reply"
     }, 
     "retweet": {
-        "message": "Retweet", 
-        "remark": "NEED TRANSLATION"
+        "message": "Retweet"
+    }, 
+    "save": {
+        "message": "Save"
+    }, 
+    "saved": {
+        "message": "Saved"
     }, 
     "search": {
-        "message": "Search", 
-        "remark": "NEED TRANSLATION"
+        "message": "Search"
     }, 
     "searching": {
-        "message": "Searching", 
-        "remark": "NEED TRANSLATION"
+        "message": "Searching"
     }, 
     "seconds": {
         "message": "$seconds$ segundos atrás", 
@@ -115,29 +119,24 @@
         }
     }, 
     "send": {
-        "message": "Send", 
-        "remark": "NEED TRANSLATION"
+        "message": "Send"
     }, 
     "severalWeeks": {
         "message": "Várias semanas atrás"
     }, 
     "stopSearch": {
-        "message": "Stop this search", 
-        "remark": "NEED TRANSLATION"
+        "message": "Stop this search"
     }, 
     "tooManyTabs": {
-        "message": "Maximum 5 tabs", 
-        "remark": "NEED TRANSLATION"
+        "message": "Maximum 5 tabs"
     }, 
     "twitterWatch": {
-        "message": "TwitterWatch", 
-        "remark": "NEED TRANSLATION"
+        "message": "TwitterWatch"
     }, 
     "updateMessage": {
         "message": "TwitterWatch foi atualizado, clique para ver o que há de novo"
     }, 
     "useLastTab": {
-        "message": "Please use the [NEW] tab first", 
-        "remark": "NEED TRANSLATION"
+        "message": "Please use the [NEW] tab first"
     }
 }

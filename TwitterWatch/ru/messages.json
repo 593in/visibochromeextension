@@ -1,9 +1,10 @@
 {
     "addTab": {
-        "message": "Add new tab", 
-        "remark": "NEED TRANSLATION"
+        "description": "Add new tab", 
+        "message": "Add new tab"
     }, 
     "days": {
+        "description": "$days$ days ago", 
         "message": "$days$ дней назад", 
         "placeholders": {
             "days": {
@@ -12,16 +13,19 @@
         }
     }, 
     "description": {
-        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
-        "remark": "NEED TRANSLATION"
+        "description": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
+        "message": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too."
     }, 
     "enterASearchTerm": {
+        "description": "Enter a search term to get latest updates", 
         "message": "Введите поисковый запрос выше для того, чтобы получить список последних Твитов по этому запросу"
     }, 
     "error": {
+        "description": "Error", 
         "message": "Ошибка"
     }, 
     "hours": {
+        "description": "$hours$ hours ago", 
         "message": "$hours$ часов назад", 
         "placeholders": {
             "hours": {
@@ -30,20 +34,35 @@
         }
     }, 
     "loggingIn": {
-        "message": "Logging in...", 
-        "remark": "NEED TRANSLATION"
+        "description": "Logging in...", 
+        "message": "Logging in..."
     }, 
     "login": {
+        "description": "Login", 
         "message": "Вход"
     }, 
     "logout": {
+        "description": "Logout", 
         "message": "Выход"
     }, 
+    "markAsRead": {
+        "description": "Mark as read", 
+        "message": "Mark as read"
+    }, 
+    "markAsReadAfter": {
+        "description": "Mark as read after", 
+        "message": "Mark as read after"
+    }, 
+    "markAsReadWhenScroll": {
+        "description": "Mark as read when you scroll the list", 
+        "message": "Mark as read when you scroll the list"
+    }, 
     "messageTooLong": {
-        "message": "The message is too long!", 
-        "remark": "NEED TRANSLATION"
+        "description": "The message is too long!", 
+        "message": "The message is too long!"
     }, 
     "minutes": {
+        "description": "$minutes$ minutes ago", 
         "message": "$minutes$ минут назад", 
         "placeholders": {
             "minutes": {
@@ -52,61 +71,79 @@
         }
     }, 
     "name": {
-        "message": "TwitterWatch - Real Time Twitter Update", 
-        "remark": "NEED TRANSLATION"
+        "description": "TwitterWatch - Real Time Twitter Update", 
+        "message": "TwitterWatch - Real Time Twitter Update"
     }, 
     "newTab": {
-        "message": "[NEW]", 
-        "remark": "NEED TRANSLATION"
+        "description": "[NEW]", 
+        "message": "[NEW]"
     }, 
     "noTweetsFound": {
+        "description": "No tweets found!", 
         "message": "Ничего не найдено!"
     }, 
     "oneDay": {
+        "description": "1 day ago", 
         "message": "1 день назад"
     }, 
     "oneHour": {
+        "description": "1 hour ago", 
         "message": "1 час назад"
     }, 
     "oneMinute": {
+        "description": "1 minute ago", 
         "message": "1 минуту назад"
     }, 
     "oneWeek": {
+        "description": "1 week ago", 
         "message": "1 неделю назад"
     }, 
+    "optionSeconds": {
+        "description": "seconds", 
+        "message": "seconds"
+    }, 
     "postFail": {
-        "message": "Sent failed, try again?", 
-        "remark": "NEED TRANSLATION"
+        "description": "Sent failed, try again?", 
+        "message": "Sent failed, try again?"
     }, 
     "postSuccess": {
-        "message": "Sent successfully", 
-        "remark": "NEED TRANSLATION"
+        "description": "Sent successfully", 
+        "message": "Sent successfully"
     }, 
     "posting": {
-        "message": "Sending...", 
-        "remark": "NEED TRANSLATION"
+        "description": "Sending...", 
+        "message": "Sending..."
     }, 
     "promptLogin": {
-        "message": "Please login to reply or retweet", 
-        "remark": "NEED TRANSLATION"
+        "description": "Please login to reply or retweet", 
+        "message": "Please login to reply or retweet"
     }, 
     "reply": {
-        "message": "Reply", 
-        "remark": "NEED TRANSLATION"
+        "description": "Reply", 
+        "message": "Reply"
     }, 
     "retweet": {
-        "message": "Retweet", 
-        "remark": "NEED TRANSLATION"
+        "description": "Retweet", 
+        "message": "Retweet"
+    }, 
+    "save": {
+        "description": "Save", 
+        "message": "Save"
+    }, 
+    "saved": {
+        "description": "Saved", 
+        "message": "Saved"
     }, 
     "search": {
-        "message": "Search", 
-        "remark": "NEED TRANSLATION"
+        "description": "Search", 
+        "message": "Search"
     }, 
     "searching": {
-        "message": "Searching", 
-        "remark": "NEED TRANSLATION"
+        "description": "Searching", 
+        "message": "Searching"
     }, 
     "seconds": {
+        "description": "$seconds$ seconds ago", 
         "message": "$seconds$ секунд назад", 
         "placeholders": {
             "seconds": {
@@ -115,29 +152,31 @@
         }
     }, 
     "send": {
-        "message": "Send", 
-        "remark": "NEED TRANSLATION"
+        "description": "Send", 
+        "message": "Send"
     }, 
     "severalWeeks": {
+        "description": "Several weeks ago", 
         "message": "Несколько недель назад"
     }, 
     "stopSearch": {
-        "message": "Stop this search", 
-        "remark": "NEED TRANSLATION"
+        "description": "Stop this search", 
+        "message": "Stop this search"
     }, 
     "tooManyTabs": {
-        "message": "Maximum 5 tabs", 
-        "remark": "NEED TRANSLATION"
+        "description": "Maximum 5 tabs", 
+        "message": "Maximum 5 tabs"
     }, 
     "twitterWatch": {
-        "message": "TwitterWatch", 
-        "remark": "NEED TRANSLATION"
+        "description": "TwitterWatch", 
+        "message": "TwitterWatch"
     }, 
     "updateMessage": {
+        "description": "TwitterWatch is updated, click here to see what's new", 
         "message": "Плагин TwitterWatch был обновалён, нажмите здесь для просмотра нововведений и изменений"
     }, 
     "useLastTab": {
-        "message": "Please use the [NEW] tab first", 
-        "remark": "NEED TRANSLATION"
+        "description": "Please use the [NEW] tab first", 
+        "message": "Please use the [NEW] tab first"
     }
 }

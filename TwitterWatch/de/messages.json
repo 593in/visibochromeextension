@@ -1,158 +1,182 @@
 {
     "addTab": {
-        "message": "Füge einen Tab hinzu", 
-        "remark": "Translated"
+        "description": "Add new tab", 
+        "message": "Füge einen Tab hinzu"
     }, 
     "days": {
+        "description": "$days$ days ago", 
         "message": "vor $days$ Tagen", 
         "placeholders": {
             "days": {
                 "content": "$1"
             }
-        }, 
-        "remark": "TRANSLATED"
+        }
     }, 
     "description": {
-        "message": "Schaut auf Twitter nach interesanten Themen. Mit Echtzeit Update! Funktioniert auch gut mit anderen Twitter Programmen.", 
-        "remark": "NEED TRANSLATION"
+        "description": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.", 
+        "message": "Schaut auf Twitter nach interesanten Themen. Mit Echtzeit Update! Funktioniert auch gut mit anderen Twitter Programmen."
     }, 
     "enterASearchTerm": {
-        "message": "Gib einen Suchbegriff ein um die neusten Updates zu erhalten", 
-        "remark": "Translated"
+        "description": "Enter a search term to get latest updates", 
+        "message": "Gib einen Suchbegriff ein um die neusten Updates zu erhalten"
     }, 
     "error": {
-        "message": "Fehler", 
-        "remark": "TRANSLATED"
+        "description": "Error", 
+        "message": "Fehler"
     }, 
     "hours": {
+        "description": "$hours$ hours ago", 
         "message": "Vor $hours$ Stunden", 
         "placeholders": {
             "hours": {
                 "content": "$1"
             }
-        }, 
-        "remark": "TRANSLATED"
+        }
     }, 
     "loggingIn": {
-        "message": "Anmelden...", 
-        "remark": "Translated"
+        "description": "Logging in...", 
+        "message": "Anmelden..."
     }, 
     "login": {
-        "message": "Anmelden", 
-        "remark": "Translated"
+        "description": "Login", 
+        "message": "Anmelden"
     }, 
     "logout": {
-        "message": "Abmelden", 
-        "remark": "Translated"
+        "description": "Logout", 
+        "message": "Abmelden"
+    }, 
+    "markAsRead": {
+        "description": "Mark as read", 
+        "message": "Mark as read"
+    }, 
+    "markAsReadAfter": {
+        "description": "Mark as read after", 
+        "message": "Mark as read after"
+    }, 
+    "markAsReadWhenScroll": {
+        "description": "Mark as read when you scroll the list", 
+        "message": "Mark as read when you scroll the list"
     }, 
     "messageTooLong": {
-        "message": "Die Nachricht ist zu lang!", 
-        "remark": "Translated"
+        "description": "The message is too long!", 
+        "message": "Die Nachricht ist zu lang!"
     }, 
     "minutes": {
+        "description": "$minutes$ minutes ago", 
         "message": "Vor $minutes$ Minuten", 
         "placeholders": {
             "minutes": {
                 "content": "$1"
             }
-        }, 
-        "remark": "Translated"
+        }
     }, 
     "name": {
-        "message": "TwitterWatch - Echtzeit Twitter Aktualisierungen", 
-        "remark": "Translated - MAYBE TOO LONG?"
+        "description": "TwitterWatch - Real Time Twitter Update", 
+        "message": "TwitterWatch - Echtzeit Twitter Aktualisierungen"
     }, 
     "newTab": {
-        "message": "[NEU]", 
-        "remark": "Translated"
+        "description": "[NEW]", 
+        "message": "[NEU]"
     }, 
     "noTweetsFound": {
-        "message": "Keine Tweets gefunden!", 
-        "remark": "Translated"
+        "description": "No tweets found!", 
+        "message": "Keine Tweets gefunden!"
     }, 
     "oneDay": {
-        "message": "vor 1 Tag", 
-        "remark": "Translated"
+        "description": "1 day ago", 
+        "message": "vor 1 Tag"
     }, 
     "oneHour": {
-        "message": "vor 1 Stunde", 
-        "remark": "Translated"
+        "description": "1 hour ago", 
+        "message": "vor 1 Stunde"
     }, 
     "oneMinute": {
-        "message": "vor 1 Minute", 
-        "remark": "Translated"
+        "description": "1 minute ago", 
+        "message": "vor 1 Minute"
     }, 
     "oneWeek": {
-        "message": "vor 1 Woche", 
-        "remark": "Translated"
+        "description": "1 week ago", 
+        "message": "vor 1 Woche"
+    }, 
+    "optionSeconds": {
+        "description": "seconds", 
+        "message": "seconds"
     }, 
     "postFail": {
-        "message": "Nachricht konnte nicht gesendet werden. Nochmals versuchen?", 
-        "remark": "Translated"
+        "description": "Sent failed, try again?", 
+        "message": "Nachricht konnte nicht gesendet werden. Nochmals versuchen?"
     }, 
     "postSuccess": {
-        "message": "Senden erfolgreich!", 
-        "remark": "Translated"
+        "description": "Sent successfully", 
+        "message": "Senden erfolgreich!"
     }, 
     "posting": {
-        "message": "Senden...", 
-        "remark": "Translated"
+        "description": "Sending...", 
+        "message": "Senden..."
     }, 
     "promptLogin": {
-        "message": "Bitte melde dich an um zu antworten oder um zu retweeten", 
-        "remark": "Translated"
+        "description": "Please login to reply or retweet", 
+        "message": "Bitte melde dich an um zu antworten oder um zu retweeten"
     }, 
     "reply": {
-        "message": "Antworten", 
-        "remark": "Translated"
+        "description": "Reply", 
+        "message": "Antworten"
     }, 
     "retweet": {
-        "message": "Retweet", 
-        "remark": "No need to Translate"
+        "description": "Retweet", 
+        "message": "Retweet"
+    }, 
+    "save": {
+        "description": "Save", 
+        "message": "Save"
+    }, 
+    "saved": {
+        "description": "Saved", 
+        "message": "Saved"
     }, 
     "search": {
-        "message": "Suchen", 
-        "remark": "Translated"
+        "description": "Search", 
+        "message": "Suchen"
     }, 
     "searching": {
-        "message": "am Suchen..", 
-        "remark": "Translated"
+        "description": "Searching", 
+        "message": "am Suchen.."
     }, 
     "seconds": {
+        "description": "$seconds$ seconds ago", 
         "message": "vor $seconds$ Sekunden", 
         "placeholders": {
             "seconds": {
                 "content": "$1"
             }
-        }, 
-        "remark": "Translated"
+        }
     }, 
     "send": {
-        "message": "Senden", 
-        "remark": "Translated"
+        "description": "Send", 
+        "message": "Senden"
     }, 
     "severalWeeks": {
-        "message": "vor einigen Wochen", 
-        "remark": "Translated"
+        "description": "Several weeks ago", 
+        "message": "vor einigen Wochen"
     }, 
     "stopSearch": {
-        "message": "Diese Suche stoppen", 
-        "remark": "Translated"
+        "description": "Stop this search", 
+        "message": "Diese Suche stoppen"
     }, 
     "tooManyTabs": {
-        "message": "Maximal 5 Tabs!", 
-        "remark": "Translated"
+        "description": "Maximum 5 tabs", 
+        "message": "Maximal 5 Tabs!"
     }, 
     "twitterWatch": {
-        "message": "TwitterWatch", 
-        "remark": "No need to translate"
+        "description": "TwitterWatch", 
+        "message": "TwitterWatch"
     }, 
     "updateMessage": {
-        "message": "TwitterWatch wurde aktualisiert. Klicke hier um zu sehen was neu ist!", 
-        "remark": "Translated"
+        "description": "TwitterWatch is updated, click here to see what's new", 
+        "message": "TwitterWatch wurde aktualisiert. Klicke hier um zu sehen was neu ist!"
     }, 
     "useLastTab": {
-        "message": "Bitte benütze den [NEW] tab zuerst", 
-        "remark": "Translated"
+        "description": "Please use the [NEW] tab first", 
+        "message": "Bitte benütze den [NEW] tab zuerst"
     }
 }
