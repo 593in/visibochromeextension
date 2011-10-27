@@ -28,4 +28,4 @@ Si te gusta TooManyTabs, comprueba estas otras extensiones!
 
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
 Licencia: http://www.visibotech.com/TMTChrome/license.html
-Créditos: http://www.visibotech.com/chrome/credits.html
+Créditos: http://goo.gl/7VPlS
