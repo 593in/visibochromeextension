@@ -1,31 +1,25 @@
-(Translated with Google Translate - English version here http://goo.gl/VEXV
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
+¿Alguna vez has intentado tener 20 o más pestañas abiertas en Chrome? Ni siquiera se puede ver el icono de las pestañas, por no mencionar sus títulos! Si eso te sucede, necesitas TooManyTabs, la extensión que gestiona las pestañas, reduce el desbordamiento de pestañas, y guarda tu cordura!
 
-¿Alguna vez intentó tener 20 o más pestañas abiertas en Chrome? Ni siquiera se puede ver el favicon de las fichas, por no mencionar los títulos de las fichas! Si eso le sucede a usted, TooManyTabs es un deber-tener la extensión que gestiona las pestañas, reduce el desbordamiento de la ficha, y guarda tu cordura!
-
-De los creadores de TooManyTabs para Firefox, TMT ha llegado a Chrome para ayudar a todas sus necesidades de ficha!
-
-Nuevo en el 1,4
-- Mostrar partituras de todas las ventanas de
-- Tecla de acceso personalizado
+De los creadores de TooManyTabs para Firefox, TMT ha llegado a Chrome para ayudarte con tus pestañas!
 
 Características
-- A vista de pájaro de todas las partituras abierto
+- Importa los datos de las pestañas desde Firefox (Nuevo)
+- Vista de pájaro de todas las pestañas abiertas
 - Vista previa clara del contenido de cada pestaña (se llena gradualmente a medida que se utiliza)
-- Ficha de búsqueda instantánea
-- Partituras Ordenar por fecha de creación, de dominio o título de
-- Restaurar pestañas cerradas recientemente
-- Suspender partituras de inactividad y guardar la memoria, organizar con columnas personalizadas
-- Los temas personalizados
+- Búsqueda de pestañas instantánea
+- Ordena las pestañas por fecha de creación, dominio o título
+- Restaura pestañas cerradas recientemente
+- Suspende pestañas inactivas para guardar memoria, organizadas con columnas personalizadas
+- Temas personalizados
 
-Entre las próximas
-- Consulta aquí suspendido
-- Mejora de la columna suspensión
+Próximas características
+- Búsqueda de pestañas supendidas
+- Mejoras en la columna  de pestañas suspendidas
 
 Descargo de responsabilidad
-- Debido a las limitaciones de Chrome, las extensiones no puede restaurar la historia de las pestañas cerradas. Si usted necesita de la historia de una pestaña cerrada hace poco, puede pulsar Ctrl+Shift+T para abrir una por una.
+- Debido a las limitaciones de Chrome, las extensiones no puede restaurar el historial de las pestañas cerradas. Si usted necesita de el historial de una pestaña cerrada hace poco, puede pulsar Ctrl+Shift+T para abrirlas una por una.
 
-If you like TooManyTabs, check out our other extensions too!
+Si te gusta TooManyTabs, comprueba estas otras extensiones!
 - Incredible StartPage http://goo.gl/he9o **NEW**
 - Friends Mural for Facebook http://goo.gl/bICN
 - FreshStart Session Manager: http://goo.gl/249h
@@ -33,5 +27,5 @@ If you like TooManyTabs, check out our other extensions too!
 - TabJump: http://goo.gl/r5EY
 
 Keywords: Tabs, Tabs Management, Find tabs, TabKit, FoxTab, TabMixPlus, TreeStyleTabs, Too Many Tabs, Tab Menu
-License: http://www.visibotech.com/TMTChrome/license.html
-Credits: http://www.visibotech.com/chrome/credits.html
+Licencia: http://www.visibotech.com/TMTChrome/license.html
+Créditos: http://www.visibotech.com/chrome/credits.html
