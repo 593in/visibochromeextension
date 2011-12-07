@@ -131,6 +131,10 @@
         "description": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again.", 
         "message": "The imported content contains error! Your existing tabs are not affected. Please try to export and import again."
     }, 
+    "hidePinTabLabel": {
+        "description": "Hide Chrome's pinned tabs in TMT popup", 
+        "message": "Hide Chrome's pinned tabs in TMT popup"
+    }, 
     "import": {
         "description": "Import", 
         "message": "Import"
