@@ -1,0 +1,633 @@
+{
+    "__Instructions__": {
+        "1": "Please look up your locale and translate the messages based on the English messages and descriptions. Empty message means the specific message is not translated yet. Feel free to add your locale if it does not exist. Thank you",
+        "2": "Do not translate word between $ sign. e.g. $title$ "
+    },
+    "advancedOptionsBtn": {
+        "_en_": "Advanced Options",
+        "cs": "",
+        "es": "Opciones Avanzadas",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Расширенные настройки",
+        "vi": "Cài đặt khác"
+    },
+    "backToParentText": {
+        "_en_": "Back",
+        "cs": "Zpět",
+        "es": "Volver",
+        "it": "Indietro",
+        "ja": "戻る",
+        "pt_BR": "Voltar",
+        "ru": "Назад",
+        "vi": "Quay lại"
+    },
+    "backgroundColorCustomTips": {
+        "_en_": "Or choose a custom background:",
+        "cs": "",
+        "es": "O puedes elegir un fondo personalizado:",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Или выберите свой цвет:",
+        "vi": "Hoặc tự tùy chỉnh:"
+    },
+    "backgroundColorOptionTitle": {
+        "_en_": "Background Color",
+        "cs": "",
+        "es": "Color de fondo",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Цвет фона",
+        "vi": "Màu nền"
+    },
+    "backgroundColorSelectionTips": {
+        "_en_": "Select a theme color:",
+        "cs": "",
+        "es": "Selecciona un color para el tema:",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Выберите цвет темы:",
+        "vi": "Chọn màu có sẵn:"
+    },
+    "bookmarkBarHelpContent": {
+        "_en_": "This area shows the items in your bookmark toolbar, folders are hidden.",
+        "cs": "Tato oblast ukazuje Tvou lištu záložek; složky jsou skryty.",
+        "es": "Esta zona muestra los elementos de su barra de marcadores, las carpetas no se muestran.",
+        "it": "Questa area mostra le voci nella tua barra dei preferiti, le cartelle sono nascoste.",
+        "ja": "このエリアにブックマークツールバーの内容が表示されます。フォルダは非表示です。",
+        "pt_BR": "Aqui estão as páginas da sua barra de favoritos, as pastas estão ocultas",
+        "ru": "В этой области отображены элементы из вашей панели закладок, папки не отображаются.",
+        "vi": "Đây là nơi hiển thị các liên kết trong thanh dấu trang của bạn."
+    },
+    "bookmarkBarHelpDismiss": {
+        "_en_": "[Close]",
+        "cs": "[Zavřít]",
+        "es": "[Cerrar]",
+        "it": "[Chiudi]",
+        "ja": "[閉じる]",
+        "pt_BR": "[Fechar]",
+        "ru": "[Закрыть]",
+        "vi": "[Đóng]"
+    },
+    "bookmarkBrowserHelp": {
+        "_en_": "This box lets you quickly navigate your bookmarks. You can drag the important ones to the box on the right.<br><br>If you want to display a different folder on the right, navigate to that folder and click 'Show as main'.",
+        "cs": "S tímto obdélníkem se snadno dostaneš k záložkám. Ty důležité lze přetáhnout do oblasti napravo.<br><br>Oblast vpravo bude nabízet jinou složku, pokud se k ní zde dostaneš a klikneš na 'Na nástěnku'.",
+        "es": "Este panel te permite navegar rápidamente por sus marcadores. Puedes arrastrar los más importantes al panel de la derecha.",
+        "it": "Questo box ti permette di navigare velocemente tra i tuoi preferiti. Puoi trascinare quelli importanti nel box sulla destra",
+        "ja": "ここからブックマークにアクセスすることができます。中でもお気に入りのブックマークはドラッグで右のエリアに表示ことができます。",
+        "pt_BR": "Esta caixa permite que você rapidamente navegue em seus favoritos. Você pode arrastar os mais importantes para a caixa a direita.",
+        "ru": "Это окошко дает вам быстрый доступ к своим закладкам. Также вы можете перетащить нужные вам закладки в правое окошко.<br><br>Если вы хотите видеть, в окошке справа, свою папку с закладками, зайдите в нее и нажмите 'Сделать основной'.",
+        "vi": "Hộp thoại này giúp bạn tinh chỉnh nhanh thanh dấu trang của bạn. Bạn có thể kéo và thả 1 liên kết bất kì từ hộp thoại này sang hộp thoại bên phải.<br><br>Nếu bạn muốn hiển thị thư mục khác ở hộp bên phải, điều chỉnh đến thư mục đó và click 'Ghim'."
+    },
+    "bookmarkBrowserPin": {
+        "_en_": "Show as main",
+        "cs": "Na nástěnku",
+        "es": "Mostrar como principal",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Сделать основной",
+        "vi": "Ghim"
+    },
+    "bookmarkBrowserTitle": {
+        "_en_": "Bookmarks",
+        "cs": "Záložky",
+        "es": "Marcadores",
+        "it": "Preferiti",
+        "ja": "ブックマーク",
+        "pt_BR": "Favoritos",
+        "ru": "Закладки",
+        "vi": "Dấu trang"
+    },
+    "bookmarkBrowserTop": {
+        "_en_": "Home",
+        "cs": "Domů",
+        "es": "Inicio",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Домой",
+        "vi": "Trang chính"
+    },
+    "bookmarkControlsHelpDismiss": {
+        "_en_": "[Close]",
+        "cs": "",
+        "es": "",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "[Закрыть]",
+        "vi": "[Đóng]"
+    },
+    "bookmarkControlsHelpMsg": {
+        "_en_": "You can now customize the folder shown on the right panel - navigate to that folder and click 'Show as main'.",
+        "cs": "Nyní lze přizpůsobit složku v pravém panelu - doklikej do preferované a klikni na 'Na nástěnku'.",
+        "es": "Puedes personalizar la carpeta que se mostrará en el panel de la derecha - navega a la carpeta y pulsa sobre 'Mostrar como principal'.",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Сейчас вы можете изменить показываемую папку в окошке справа – для этого зайдите в нее и нажмите 'Сделать основной'.",
+        "vi": "Bạn có thể tùy chỉnh thư mục đến hộp thoại bên phải - điều chỉnh đến thư mục đó và click 'Ghim'."
+    },
+    "chromeBuggedText": {
+        "_en_": "Chrome Bookmarks are not ready yet. Please close this tab and open the startpage in a new tab.",
+        "cs": "",
+        "es": "Los marcadores de Google Chrome no están listos aún. Por favor, cierre esta pestaña y abra la página de inicio en una nueva pestaña .",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Chrome Закладки пока не готовы. Пожалуйста, закройте эту вкладку и откройте стартовую страницу в новой вкладке.",
+        "vi": "Thanh dấu trang không sẵn sàng. hãy đóng thẻ này và mở trang bắt đầu trong thẻ mới."
+    },
+    "chromeSyncBug": {
+        "_en_": "This Chrome version does not support bookmark sync.",
+        "cs": "This Chrome version does not support sync feature.",
+        "es": "Esta versión de Google Chrome no soporta la sincronización.",
+        "it": "This Chrome version does not support sync feature.",
+        "ja": "This Chrome version does not support sync feature.",
+        "pt_BR": "This Chrome version does not support sync feature.",
+        "ru": "Эта версия Chrome не поддерживает синхронизацию закладок.",
+        "vi": "Phiên bản Chrome hiện tại không hỗ trợ đồng bộ thanh dấu trang."
+    },
+    "clearClosedText": {
+        "_en_": "Clear",
+        "cs": "Vymazat",
+        "es": "Borrar",
+        "it": "Pulisci",
+        "ja": "クリア",
+        "pt_BR": "Limpar",
+        "ru": "Очистить",
+        "vi": "Xóa"
+    },
+    "closeBtn": {
+        "_en_": "Cancel",
+        "cs": "",
+        "es": "Cancelar",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Отмена",
+        "vi": "Hủy bỏ"
+    },
+    "columnInAppLabel": {
+        "_en_": "Show 3 columns in 'My Apps'",
+        "cs": "",
+        "es": "Mostrar 3 columnas en 'Mis aplicaciones'",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Ярлыки в 'My Apps' выводить в три колонки",
+        "vi": "Hiển thị dạng 3 cột trong 'Ứng dụng'"
+    },
+    "columnInBookmarkLabel": {
+        "_en_": "Show 3 columns in 'My Bookmarks'",
+        "cs": "",
+        "es": "Mostrar 3 columnas en 'Mis marcadores'",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Закладки в 'My Bookmarks' выводить в три колонки'",
+        "vi": "Hiển thị dạng 3 cột trong 'Dấu trang'"
+    },
+    "confirm_uninstall": {
+        "_description_": "Confirm to uninstall webapp",
+        "_en_": "Are you sure you wish to uninstall '$title$' ?",
+        "_placeholders_": {
+            "title": {
+                "content": "$1",
+                "example": "[The name of the webapp]"
+            }
+        },
+        "cs": "",
+        "es": "¿Está seguro que desea desinstalar '$title$' ?",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Вы уверены, что хотите удалить '$title$' ?",
+        "vi": "Bạn có chắc muốn gỡ bỏ '$title$' ?"
+    },
+    "contactUs": {
+        "_en_": "Contact us at",
+        "cs": "",
+        "es": "Contacta con nosotros en",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Связаться с нами",
+        "vi": "Liên hệ"
+    },
+    "customWallpaperLabel": {
+        "_en_": "Use Custom Wallpaper",
+        "cs": "",
+        "es": "Utilizar fondo de pantalla personalizada",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Использовать свои обои",
+        "vi": ""
+    },
+    "defaultNotepadText": {
+        "_en_": "Thank you for installing\nIncredible StartPage!\n \nThis is your own notepad. You can take note here!",
+        "cs": "Děkujeme za nainstalování\nNeuvěřitelné startovní stránky!\n \nTohle je Tvůj zápisník, kam můžeš zapisovat poznámky!",
+        "es": "Gracias por instalar\nIncredible StartPage!\n \nThis es su bloc de notas. ¡Puedes tomar sus notas aquí!",
+        "it": "Grazie per aver installato\nIncredible StartPage!\n \nQuesto è il tuo blocco note. Puoi annotare i tuoi appunti qua!",
+        "ja": "インストールして頂きありがとうございます。Incredible StartPage!\n \nこのエリアはメモ帳です。ここでメモを取ることが出来ますよ！",
+        "pt_BR": "Obrigado por instalar\nIncredible StartPage!\n \nEste seu bloco de anotações. Você pode escrever notas aqui!",
+        "ru": "Спасибо, что вы выбрали\nIncredible StartPage!\n \nЭто ваш блокнот. Делайте записи здесь!",
+        "vi": "Cảm ơn đã cài đặt\nIncredible StartPage!\n \nĐây là ghi chú của bạn. Bạn có thể viết ghi chú tại đây!"
+    },
+    "description": {
+        "_en_": "A new, customizable start page for Chrome. Easily find your favorite bookmarks and closed tabs. Take notes as you browse.",
+        "cs": "Nová a přizpůsobitelná startovní stránka pro Chrome. Snadno najdi záložky a zavřené karty. Piš si poznámky při brouzdání.",
+        "es": "Una nueva página personalizable para Chrome. Encuentra fácilmente sus marcadores favoritos y pestañas cerradas. Toma notas mientras navegas.",
+        "it": "Una nuova, personalizzabile pagina iniziale per Chrome. Trova facilmente i tuoi preferiti e le schede chiuse. Prendi appunti mentre navighi.",
+        "ja": "",
+        "pt_BR": "Uma nova e customizável guia inicial para o Chrome. Encontre facilmente seus favoritos e guias fechadas recentemente. Faça anotações enquanto navega.",
+        "ru": "Новая настраиваемая стартовая страница для Chrome. Легкий поиск по вашим закладкам и закрытым вкладкам. Делайте пометки при просмотре.",
+        "vi": "A new, tùy chỉnh trang bắt đầu của Chrome. Dễ dàng tìm thấy những dấu trang yêu thích và các thẻ đã đóng. Take notes as you browse."
+    },
+    "existingBmLabel": {
+        "_en_": "Check this to overwrite current notepad content",
+        "cs": "",
+        "es": "",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Выберите эту записи для редактирования",
+        "vi": ""
+    },
+    "fileWarning": {
+        "_en_": "The image is too large! Please choose another one!",
+        "cs": "",
+        "es": "La imagen es demasiado grande! Por favor, elija otra!",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Эта картинка слишком большая! Пожалуйста, выберите другую!",
+        "vi": ""
+    },
+    "fontColorOptionTitle": {
+        "_en_": "Font Color",
+        "cs": "",
+        "es": "Color de la fuente",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Цвет шрифта",
+        "vi": "Màu phông"
+    },
+    "fontColorSelectionTips": {
+        "_en_": "Select your font color:",
+        "cs": "",
+        "es": "Selecciona el color de la fuenta:",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Выберите ваш цвет для шрифта:",
+        "vi": "Chọn màu:"
+    },
+    "gmailAccount": {
+        "_en_": "Google Account",
+        "cs": "",
+        "es": "Cuenta de Google",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Google Аккаунт",
+        "vi": "Tài khoản Google"
+    },
+    "googleAppsAccount": {
+        "_en_": "Google Apps Account, Domain",
+        "cs": "",
+        "es": "Cuenta de Google Apps, Dominio",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Google Apps Аккаунт, Домен",
+        "vi": "Tài khoản Google Apps, Tên miền"
+    },
+    "googleAppsAccountDescription": {
+        "_en_": "Enter only your Google Apps domain without \"www\", e.g. visibotech.com",
+        "cs": "",
+        "es": "Introduce sólo su dominio de Google Appls sin \"www\", por ejemplo: visibotech.com",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Введите только ваш Google Apps домен без \"www\", например visibotech.com",
+        "vi": "Truy cập tên miền Google Apps mà khoogn cần \"www\", e.g. visibotech.com"
+    },
+    "incredibleStartPage": {
+        "_en_": "Incredible StartPage",
+        "cs": "",
+        "es": "",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "",
+        "vi": ""
+    },
+    "incredibleStartPageDescription": {
+        "_en_": "Incredible StartPage replaces your default starting page with a customizable view of your bookmarks, reminders and recent tabs.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> for a simple tutorial.",
+        "cs": "",
+        "es": "Incredible StartPage reemplaze su página de inicio por defecto con una vista personalizable de sus marcadores, recordatorios y pestañas recientes.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Haz clic aquí</a> para conocerlo.",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Incredible StartPage заменит используемую по умолчанию стартовую страницу на страницу с настраиваемым видом ваших закладок, напоминаниями и списком закрытых вкладок.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Нажмите здесь</a> для просмотра несложного урока.",
+        "vi": "Incredible StartPage thay thế trang bắt đầu mặc định với cách hiển thị tùy biến thanh dấu trang của bạn, nhắc nhở và các thẻ đã đóng gần đây.<br><a href='http://blog.visibotech.com/p/incredible-startpage.html'>Click here</a> để xem hướng dẫn."
+    },
+    "maximumRecentlyClosedTabs": {
+        "_en_": "Maximum recently closed tabs",
+        "cs": "",
+        "es": "Máximo de pestañas cerradas recientemente",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Максимальное количество закрытых вкладок",
+        "vi": "Thẻ đã đóng gần đây tối đa"
+    },
+    "message": {
+        "_en_": "Image URL:",
+        "cs": "Please type your custom wallpaper URL:",
+        "es": "URL de la imagen",
+        "it": "Please type your custom wallpaper URL:",
+        "ja": "Please type your custom wallpaper URL:",
+        "pt_BR": "Please type your custom wallpaper URL:",
+        "ru": "Пожалуйста введите ссылку на ваши обои URL:",
+        "vi": "Hãy điền liên kết tới hình nền của bạn:"
+    },
+    "name": {
+        "_en_": "Incredible StartPage - Productive Start Page for Chrome!",
+        "cs": "Neuvěřitelná startovní stránka - produktivní nová karta pro Chrome!",
+        "es": "Incredible StartPage - Página de inicio productivo para Chrome!",
+        "it": "Incredible StartPage - Pagina iniziale produttiva per Chrome!",
+        "ja": "",
+        "pt_BR": "Incredible StartPage - Nova guia produtiva para o Chrome!",
+        "ru": "Incredible StartPage - Полезная и удобная Стартовая страница для Chrome!",
+        "vi": ""
+    },
+    "noColumnsLabel": {
+        "_en_": "Number of columns",
+        "cs": "",
+        "es": "Número de columnas",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Количество столбцов",
+        "vi": "Số cột"
+    },
+    "notRememberClosedTabs": {
+        "_en_": "0 (Do not remember closed tabs)",
+        "cs": "",
+        "es": "0 (No recordar pestañas cerradas)",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "0 (Нет информации о закрытых вкладках)",
+        "vi": "0 (Không ghi nhớ thẻ đã đóng)"
+    },
+    "noteUpdatedAtOtherPlacesText": {
+        "_en_": "The note has been updated from other places, please reload this page.",
+        "cs": "",
+        "es": "esta nota ha sido actualizada desde otros lugares, por favor vuelva a cargar esta página.",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Заметка была обновлена с других мест, пожалуйста перезагрузите эту страницу.",
+        "vi": "Ghi chú được cập nhật từ nơi khác, hãy tải lại trang này."
+    },
+    "notepadFont": {
+        "_en_": "Notepad Font",
+        "cs": "",
+        "es": "Fuente del bloc de notas",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Шрифт Блокнота",
+        "vi": "Phông ghi chú"
+    },
+    "notepadSync": {
+        "_en_": "Notepad Sync",
+        "cs": "",
+        "es": "Sincronizar bloc de notas",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Синхронизация Блокнота",
+        "vi": "Đồng bộ ghi chú"
+    },
+    "notepadSyncDescription": {
+        "_en_": "Sync notepad contents with your Google Account",
+        "cs": "",
+        "es": "Sincronizar el contenido del bloc de notas con su cuenta de Google",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Синхронизировать содержимое блокнота с вашим Google Аккаунтом",
+        "vi": "Đồng bộ nội dung ghi chú với tài khoản Google"
+    },
+    "notepadSyncDescription2": {
+        "_en_": "Chrome Bookmark Sync must be enabled, click [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] for more information",
+        "cs": "",
+        "es": "La sincronización de marcadores de Google Chrome debe estar activada, hacer clic a [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>here</a>] para más información",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Синхронизация Закладок Chrome должна быть включена, нажмите [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>здесь</a>] для дополнительной информации",
+        "vi": "Chrome Bookmark Sync phải được bật, ấn [<a href='http://www.google.com/support/chrome/bin/answer.py?answer=165138' target='_blank'>vào đây</a>] để biết thêm thông tin"
+    },
+    "option": {
+        "_en_": "Options",
+        "cs": "",
+        "es": "Opciones",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Настройки",
+        "vi": "Cài đặt"
+    },
+    "optionsEffect": {
+        "_en_": "Setting is effective after reload your startpage.",
+        "cs": "",
+        "es": "Los cambios se harán efectivos cuando vuelva a cargar su página de inicio.",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Установки будут задействованы после перезагрузки стартовой страницы.",
+        "vi": "Thiết đặt sẽ được áp dụng sau khi tải lại trang bắt đầu."
+    },
+    "optionsSaved": {
+        "_en_": "Saved",
+        "cs": "",
+        "es": "Guardado",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Сохранено",
+        "vi": "Đã lưu"
+    },
+    "optionsTitle": {
+        "_en_": "Options",
+        "cs": "",
+        "es": "Opciones",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Настройки",
+        "vi": "Cài đặt"
+    },
+    "pagetitle": {
+        "_en_": "Incredible StartPage Options",
+        "cs": "",
+        "es": "Opciones de Incredible StartPage",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Настройки Incredible StartPage",
+        "vi": "Cài đặt Incredible StartPage"
+    },
+    "postTo": {
+        "_en_": "Post to",
+        "cs": "",
+        "es": "Enviar a",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Написать в",
+        "vi": ""
+    },
+    "promptRename": {
+        "_en_": "Rename title",
+        "cs": "",
+        "es": "Renombrar título",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Изменить название",
+        "vi": ""
+    },
+    "recentlyClosedTitle": {
+        "_en_": "Closed",
+        "cs": "Uzavřené",
+        "es": "Cerrado",
+        "it": "Chiuse",
+        "ja": "閉じたタブ",
+        "pt_BR": "Fechadas",
+        "ru": "Закрыто",
+        "vi": "Đã đóng"
+    },
+    "save": {
+        "_en_": "Save",
+        "cs": "",
+        "es": "Guardar",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Сохранить",
+        "vi": "Lưu"
+    },
+    "saveBtn": {
+        "_en_": "Save",
+        "cs": "",
+        "es": "Guardar",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Сохранить",
+        "vi": "Lưu"
+    },
+    "shareNotepadTo": {
+        "_en_": "Post notes to",
+        "cs": "",
+        "es": "Postear notas en",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Отправить заметку в",
+        "vi": ""
+    },
+    "shareToCalendar": {
+        "_en_": "Calendar",
+        "cs": "",
+        "es": "Calendario",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Календарь",
+        "vi": ""
+    },
+    "shareToMail": {
+        "_en_": "Gmail",
+        "cs": "Gmailem",
+        "es": "",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "",
+        "vi": ""
+    },
+    "toggleOptionsBtn": {
+        "_en_": "Theme Options",
+        "cs": "",
+        "es": "Opciones del tema",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Настройки Темы",
+        "vi": "Cài đặt giao diện"
+    },
+    "uninstallApp": {
+        "_en_": "Uninstall",
+        "cs": "",
+        "es": "Desinstalar",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Удалить",
+        "vi": "Gỡ bỏ"
+    },
+    "useLocalLabel": {
+        "_en_": "Local File (~1024px wide, jpg format & max. size 500K):",
+        "cs": "",
+        "es": "Archivo local (~1024px de ancho, formato jpg & tamaño máximo 500K):",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Локальный Файл (~1024 пикселей в ширину, формат jpg и макс. разамер 500Кб):",
+        "vi": ""
+    },
+    "wallpaperOptionTitle": {
+        "_en_": "Wallpapers",
+        "cs": "",
+        "es": "Fondos de pantalla",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Обои",
+        "vi": "Hình nền"
+    },
+    "wallpaperThemeCustomTips": {
+        "_en_": "Or use a gradient as the background:",
+        "cs": "",
+        "es": "O usa un gradiente como fondo:",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Или использовать цветовой переход на заднем фоне:",
+        "vi": "Hoặc tự tùy chỉnh màu nền:"
+    },
+    "wallpaperThemeSelectionTips": {
+        "_en_": "Choose wallpaper from a theme:",
+        "cs": "",
+        "es": "Elige un fondo de pantalla para el tema:",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "Выбрать обои из темы:",
+        "vi": "Chọn hình nền từ giao diện có sẵn:"
+    }
+}
