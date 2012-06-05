@@ -193,6 +193,16 @@
         "ru": "Закладки в 'My Bookmarks' выводить в три колонки'",
         "vi": "Hiển thị dạng 3 cột trong 'Dấu trang'"
     },
+    "columnInTopLabel": {
+        "_en_": "Show 3 columns in 'Most Visited'",
+        "cs": "",
+        "es": "",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "",
+        "vi": ""
+    },
     "confirm_uninstall": {
         "_description_": "Confirm to uninstall webapp",
         "_en_": "Are you sure you wish to uninstall '$title$' ?",
@@ -451,7 +461,7 @@
         "vi": "Cài đặt"
     },
     "optionsEffect": {
-        "_en_": "Setting is effective after reload your startpage.",
+        "_en_": "Changes will be applied after reloading your startpage.",
         "cs": "",
         "es": "Los cambios se harán efectivos cuando vuelva a cargar su página de inicio.",
         "it": "",
