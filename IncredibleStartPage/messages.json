@@ -590,6 +590,16 @@
         "ru": "Настройки Темы",
         "vi": "Cài đặt giao diện"
     },
+    "topSitesLabel": {
+        "_en_": "Show 'Most Visited' Tab",
+        "cs": "",
+        "es": "",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "",
+        "vi": ""
+    },
     "uninstallApp": {
         "_en_": "Uninstall",
         "cs": "",
