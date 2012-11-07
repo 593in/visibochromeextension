@@ -1,10 +1,8 @@
-TwitterWatch ist das einfachste Programm um sich die heißesten Stichwörter auf Twitter im Auge zu behalten! Geben Sie ein Stichwort ein, drücken Sie suchen, und schon erscheinen die Tweets. TwitterWatch funktioniert mit anderen Twitter-Clients ohne die Update-Quoten zu beinträchtigen.
-
-New in 0.8
-- Seh dir verschiedene Keywords auf einmal an!
-- Du kannst in den Optionen auswählen, wann ein Tweet als "gelesen" markiert wird.
+WatchClient for Twitter ist das einfachste Programm um sich die heißesten Stichwörter auf Twitter im Auge zu behalten! Geben Sie ein Stichwort ein, drücken Sie suchen, und schon erscheinen die Tweets. WatchClient for Twitter funktioniert mit anderen Twitter-Clients ohne die Update-Quoten zu beinträchtigen.
 
 Merkmale
+- Seh dir verschiedene Keywords auf einmal an!
+- Du kannst in den Optionen auswählen, wann ein Tweet als "gelesen" markiert wird.
 - Sehen Sie immer die neusten Tweets mit dem gewünschten Stichwort.
 - Sehen sie die Update Zählung in Echtzeit
 - Kein grosser Ressourcenverbrauch
@@ -12,7 +10,6 @@ Merkmale
 
 Probieren Sie unsere anderen Erweiterugen!
 - Incredible StartPage http://goo.gl/he9o **NEW**
-- Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - FreshStart Session Manager: http://goo.gl/249h
 - TabJump: http://goo.gl/r5EY

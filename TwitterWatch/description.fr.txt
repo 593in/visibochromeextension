@@ -1,9 +1,7 @@
-TwitterWatch l'outil le plus simple pour garder un oeil sur des mots clés Twitter ! Entrez un mot clé, appuyez sur Recherche et c'est parti. TwitterWatch peut coexister avec d'autres clients Twitter , sans gêner la mise à jour de nouveauté.
-
-New in 0.8
-- Watch multiple keywords!
+WatchClient for Twitter l'outil le plus simple pour garder un oeil sur des mots clés Twitter ! Entrez un mot clé, appuyez sur Recherche et c'est parti. WatchClient for Twitter peut coexister avec d'autres clients Twitter , sans gêner la mise à jour de nouveauté.
 
 Fonctionnalités
+- Watch multiple keywords!
 - Rester au courant des derniers Tweets grâce aux mots clés
 - Affichez le nombre de nouveautés en temps réel
 - Client très léger, peu consommateur de ressource
@@ -11,7 +9,6 @@ Fonctionnalités
 
 Si vous aimez TwitterWatch, jetez un oeil à nos autres extensions!
 - Incredible StartPage http://goo.gl/he9o **NEW**
-- Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - FreshStart Session Manager: http://goo.gl/249h
 - TabJump: http://goo.gl/r5EY

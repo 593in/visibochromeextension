@@ -3,6 +3,26 @@
         "1": "Please look up your locale and translate the messages based on the English messages and descriptions. Empty message means the specific message is not translated yet. Feel free to add your locale if it does not exist. Thank you",
         "2": "Do not translate word between $ sign. e.g. $title$ "
     },
+    "addLink": {
+        "_en_": "Send tab/link to Startpage",
+        "cs": "",
+        "es": "",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "",
+        "vi": ""
+    },
+    "addLinkMenu": {
+        "_en_": "Enable 'Send tab/link to Startpage' menu",
+        "cs": "",
+        "es": "",
+        "it": "",
+        "ja": "",
+        "pt_BR": "",
+        "ru": "",
+        "vi": ""
+    },
     "advancedOptionsBtn": {
         "_en_": "Advanced Options",
         "cs": "",

@@ -1,10 +1,8 @@
-TwitterWatch é uma ferramenta simples para deixá-lo ligado em assuntos quentes do Twitter. Insira uma palavra, pressione buscar e pronto! TwitterWatch pode co-existir com outros clientes Twitter sem qualquer problema.
-
-New in 0.8
-- Watch multiple keywords!
-- You can choose when to mark as read in options
+WatchClient for Twitter é uma ferramenta simples para deixá-lo ligado em assuntos quentes do Twitter. Insira uma palavra, pressione buscar e pronto! WatchClient for Twitter pode co-existir com outros clientes Twitter sem qualquer problema.
 
 Recursos
+- Watch multiple keywords!
+- You can choose when to mark as read in options
 - Veja os últimos tweets por palavras chaves
 - Exibe contador de atualizações em tempo real
 - Uso de recursos quase nulo
@@ -12,7 +10,6 @@ Recursos
 
 Try out our other extensions too!
 - Incredible StartPage http://goo.gl/he9o **NEW**
-- Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - FreshStart Session Manager: http://goo.gl/249h
 - TabJump: http://goo.gl/r5EY

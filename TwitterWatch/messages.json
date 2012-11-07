@@ -1,0 +1,346 @@
+{
+    "__Instructions__": {
+        "1": "Please look up your locale and translate the messages based on the English messages and descriptions. Empty message means the specific message is not translated yet. Feel free to add your locale if it does not exist. Thank you",
+        "2": "Do not translate word between $ sign. e.g. $title$ "
+    },
+    "addTab": {
+        "_en_": "Add new tab",
+        "de": "Füge einen Tab hinzu",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "days": {
+        "_en_": "$days$ days ago",
+        "_placeholders_": {
+            "days": {
+                "content": "$1"
+            }
+        },
+        "de": "vor $days$ Tagen",
+        "fr": "Il y a $days$ jours",
+        "ja": "$days$ 日前",
+        "pt": "$days$ dias atrás",
+        "ru": "$days$ дней назад"
+    },
+    "description": {
+        "_en_": "Watches Twitter for interested terms, with real time update! Works nicely with other Twitter clients too.",
+        "de": "Schaut auf Twitter nach interesanten Themen. Mit Echtzeit Update! Funktioniert auch gut mit anderen Twitter Programmen.",
+        "fr": "Surveillez les termes Twitter qui vous intéressent, grâce à une liaison en temps réel. Fonctionne aussi avec d'autres clients Twitter",
+        "ja": "興味のある言葉でリアルタイムにアップデートを見ます。他のツイッタークライアントとも相性が良いです。",
+        "pt": "",
+        "ru": ""
+    },
+    "enterASearchTerm": {
+        "_en_": "Enter a search term to get latest updates",
+        "de": "Gib einen Suchbegriff ein um die neusten Updates zu erhalten",
+        "fr": "Précisez un terme de recherche pour récupérer les dernières actualités",
+        "ja": "最新のアップデートを取得するために検索ワードを入力",
+        "pt": "Insira um termo de pesquisa para obter as últimas atualizações",
+        "ru": "Введите поисковый запрос выше для того, чтобы получить список последних Твитов по этому запросу"
+    },
+    "error": {
+        "_en_": "Error",
+        "de": "Fehler",
+        "fr": "Erreur",
+        "ja": "エラー",
+        "pt": "Erro",
+        "ru": "Ошибка"
+    },
+    "hours": {
+        "_en_": "$hours$ hours ago",
+        "_placeholders_": {
+            "hours": {
+                "content": "$1"
+            }
+        },
+        "de": "Vor $hours$ Stunden",
+        "fr": "Il y a $hours$ heures",
+        "ja": "$hours$ 時間前",
+        "pt": "$hours$ horas atrás",
+        "ru": "$hours$ часов назад"
+    },
+    "loggingIn": {
+        "_en_": "Logging in...",
+        "de": "Anmelden...",
+        "fr": "Connexion ...",
+        "ja": "ログイン中...",
+        "pt": "",
+        "ru": ""
+    },
+    "login": {
+        "_en_": "Login",
+        "de": "Anmelden",
+        "fr": "Connexion",
+        "ja": "ログイン",
+        "pt": "Conectar",
+        "ru": "Вход"
+    },
+    "logout": {
+        "_en_": "Logout",
+        "de": "Abmelden",
+        "fr": "Déconnexion",
+        "ja": "ログアウト",
+        "pt": "Sair",
+        "ru": "Выход"
+    },
+    "markAsRead": {
+        "_en_": "Mark as read",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "markAsReadAfter": {
+        "_en_": "Mark as read after",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "markAsReadWhenScroll": {
+        "_en_": "Mark as read when you scroll the list",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "messageTooLong": {
+        "_en_": "The message is too long!",
+        "de": "Die Nachricht ist zu lang!",
+        "fr": "Le message est trop long!",
+        "ja": "メッセージが長すぎます！",
+        "pt": "",
+        "ru": ""
+    },
+    "minutes": {
+        "_en_": "$minutes$ minutes ago",
+        "_placeholders_": {
+            "minutes": {
+                "content": "$1"
+            }
+        },
+        "de": "Vor $minutes$ Minuten",
+        "fr": "Il y a $minutes$ minutes ",
+        "ja": "$minutes$ 分前",
+        "pt": "$minutes$ minutos atrás",
+        "ru": "$minutes$ минут назад"
+    },
+    "name": {
+        "_en_": "WatchClient for Twitter - Real Time Twitter Update",
+        "de": "WatchClient for Twitter - Echtzeit Twitter Aktualisierungen",
+        "fr": "WatchClient for Twitter - Client Twitter en temps réel",
+        "ja": "WatchClient for Twitter - リアルタイムツイッター更新",
+        "pt": "",
+        "ru": ""
+    },
+    "newTab": {
+        "_en_": "[NEW]",
+        "de": "[NEU]",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "noTweetsFound": {
+        "_en_": "No tweets found!",
+        "de": "Keine Tweets gefunden!",
+        "fr": "Aucun Tweet trouvé!",
+        "ja": "ツイートが見つかりません！",
+        "pt": "Nenhum tweets encontrado!",
+        "ru": "Ничего не найдено!"
+    },
+    "oneDay": {
+        "_en_": "1 day ago",
+        "de": "vor 1 Tag",
+        "fr": "Il y un un jour",
+        "ja": "1日前",
+        "pt": "1 dia atrás",
+        "ru": "1 день назад"
+    },
+    "oneHour": {
+        "_en_": "1 hour ago",
+        "de": "vor 1 Stunde",
+        "fr": "Il y a une heure",
+        "ja": "1時間前",
+        "pt": "1 hora atrás",
+        "ru": "1 час назад"
+    },
+    "oneMinute": {
+        "_en_": "1 minute ago",
+        "de": "vor 1 Minute",
+        "fr": "Il y a une minute",
+        "ja": "1分前",
+        "pt": "1 minuto atrás",
+        "ru": "1 минуту назад"
+    },
+    "oneWeek": {
+        "_en_": "1 week ago",
+        "de": "vor 1 Woche",
+        "fr": "Il y a une semaine",
+        "ja": "1週間前",
+        "pt": "1 semana atrás",
+        "ru": "1 неделю назад"
+    },
+    "optionSeconds": {
+        "_en_": "seconds",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "postFail": {
+        "_en_": "Sent failed, try again?",
+        "de": "Nachricht konnte nicht gesendet werden. Nochmals versuchen?",
+        "fr": "L'envoi a échoué, reéssayer?",
+        "ja": "送信に失敗しました。再送しますか？",
+        "pt": "",
+        "ru": ""
+    },
+    "postSuccess": {
+        "_en_": "Sent successfully",
+        "de": "Senden erfolgreich!",
+        "fr": "Envoi réussi",
+        "ja": "送信が完了しました",
+        "pt": "",
+        "ru": ""
+    },
+    "posting": {
+        "_en_": "Sending...",
+        "de": "Senden...",
+        "fr": "Envoi...",
+        "ja": "送信中...",
+        "pt": "",
+        "ru": ""
+    },
+    "promptLogin": {
+        "_en_": "Please login to reply or retweet",
+        "de": "Bitte melde dich an um zu antworten oder um zu retweeten",
+        "fr": "Vous devez vous identifiez pour répondre ou retweeter",
+        "ja": "返信またはリツイートするためにログインしてください",
+        "pt": "",
+        "ru": ""
+    },
+    "reply": {
+        "_en_": "Reply",
+        "de": "Antworten",
+        "fr": "Répondre",
+        "ja": "返信",
+        "pt": "",
+        "ru": ""
+    },
+    "retweet": {
+        "_en_": "Retweet",
+        "de": "",
+        "fr": "",
+        "ja": "リツイート",
+        "pt": "",
+        "ru": ""
+    },
+    "save": {
+        "_en_": "Save",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "saved": {
+        "_en_": "Saved",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "search": {
+        "_en_": "Search",
+        "de": "Suchen",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "searching": {
+        "_en_": "Searching",
+        "de": "am Suchen..",
+        "fr": "Recherche en cours",
+        "ja": "検索中",
+        "pt": "",
+        "ru": ""
+    },
+    "seconds": {
+        "_en_": "$seconds$ seconds ago",
+        "_placeholders_": {
+            "seconds": {
+                "content": "$1"
+            }
+        },
+        "de": "vor $seconds$ Sekunden",
+        "fr": "Il y a $seconds$ secondes",
+        "ja": "$seconds$ 秒前",
+        "pt": "$seconds$ segundos atrás",
+        "ru": "$seconds$ секунд назад"
+    },
+    "send": {
+        "_en_": "Send",
+        "de": "Senden",
+        "fr": "Envoi",
+        "ja": "送信",
+        "pt": "",
+        "ru": ""
+    },
+    "severalWeeks": {
+        "_en_": "Several weeks ago",
+        "de": "vor einigen Wochen",
+        "fr": "Il y a plusieurs semaines",
+        "ja": "数週間前",
+        "pt": "Várias semanas atrás",
+        "ru": "Несколько недель назад"
+    },
+    "stopSearch": {
+        "_en_": "Stop this search",
+        "de": "Diese Suche stoppen",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "tooManyTabs": {
+        "_en_": "Maximum 5 tabs",
+        "de": "Maximal 5 Tabs!",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "twitterWatch": {
+        "_en_": "WatchClient for Twitter",
+        "de": "",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    },
+    "updateMessage": {
+        "_en_": "WatchClient for Twitter is updated, click here to see what's new",
+        "de": "WatchClient for Twitter wurde aktualisiert. Klicke hier um zu sehen was neu ist!",
+        "fr": "WatchClient for Twitter a été mis à jour, cliquez ici pour voir les nouveautés",
+        "ja": "WatchClient for Twitter が更新されました。クリックして更新内容を確認。",
+        "pt": "WatchClient for Twitter foi atualizado, clique para ver o que há de novo",
+        "ru": "Плагин 'WatchClient for Twitter' был обновалён, нажмите здесь для просмотра нововведений и изменений"
+    },
+    "useLastTab": {
+        "_en_": "Please use the [NEW] tab first",
+        "de": "Bitte benütze den [NEW] tab zuerst",
+        "fr": "",
+        "ja": "",
+        "pt": "",
+        "ru": ""
+    }
+}
