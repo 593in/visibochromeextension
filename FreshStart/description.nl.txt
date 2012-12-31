@@ -1,0 +1,23 @@
+Beheer uw sessies eenvoudig met FreshStart! Maak je gebruik van meerdere verzamelingen van websites (bijv. voor op kantoor, voor thuis en/of voor verschillende tijdstippen) of maken meerdere mensen gebruik van jouw Chrome, dan moet je dit echt een keer proberen!
+
+**************************************
+  NEW in 1.6! Multiple auto-save sessions 
+  - Details at http://goo.gl/ADqYT
+**************************************
+
+Inhoud
+- Session Import and Export! Exporteer je sessies als platte tekst, verzend het naar een vriend of importeer het op een andere computer
+- Voor het verwijderen van sessies wordt nu gevraagd om een bevestiging.
+- Bewaar alle open tabbladen alvorens een nieuwe sessie te beginnen, of selecteer zelf welke sessies bewaard moeten worden
+- Sessies worden opgeslagen in de "FreshStart Sessions" map in Bladwijzers, zodat ze gesynchroniseerd kunnen worden met andere computers
+- Crash recovery - uw openstaande vensters worden om de paar minuten automatisch bewaard.
+- Verplaats een sessie naar een nieuw venster, of voeg vensters samen door Ctrl-klik (Windows, Linux) of Cmd-klik (Mac).
+
+Toekomstige features
+- Verbeterd dialoogvenster Bewerken sessie
+
+Vind je FreshStart leuk, bekijk dan ook eens onze andere extensies!
+- Incredible StartPage http://goo.gl/he9o **NEW**
+- TooManyTabs: http://goo.gl/AI2X
+- TwitterWatch: http://goo.gl/7AkW
+- TabJump: http://goo.gl/r5EY
