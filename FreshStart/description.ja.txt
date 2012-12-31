@@ -15,11 +15,6 @@ New in 1.4
 
 FreshStartを気に入ってくれたら、是非私たちの他の作品も確認してみてください！
 - Incredible StartPage http://goo.gl/he9o **NEW**
-- Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - TwitterWatch: http://goo.gl/7AkW
 - TabJump: http://goo.gl/r5EY
-
-Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
-License: http://www.visibotech.com/license/freshstart.html
-Credits: http://www.visibotech.com/chrome/credits.html

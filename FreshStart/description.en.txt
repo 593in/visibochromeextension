@@ -1,9 +1,11 @@
 Manage your browsing session easily with FreshStart! If you have different sets of websites that matter to you at work, at home or at different times, or if you have multiple users on your Chrome, you should give this a try!
 
-New in 1.5
-- Save multiple windows into a single session
-
 Features
+**************************************
+  NEW in 1.6! Multiple auto-save sessions 
+  - Details at http://goo.gl/ADqYT
+**************************************
+- Save multiple windows into a single session
 - Save all open tabs to a new session, or hand select what to be saved
 - Sessions are saved in the "FreshStart Sessions" folder in bookmarks, allowing you to synchronize it with other computers
 - Crash recovery - autosave your windows every few minutes
@@ -17,6 +19,9 @@ If you like FreshStart, check out our other extensions too!
 - TwitterWatch: http://goo.gl/7AkW
 - TabJump: http://goo.gl/r5EY
 
-Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
-License: http://www.visibotech.com/license/freshstart.html
-Credits: http://code.google.com/p/visibochromeextension/issues/list
+
+# Do not translate section below
+
+Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus
+License: http://goo.gl/bE7SA
+Translate: http://goo.gl/XfDrK

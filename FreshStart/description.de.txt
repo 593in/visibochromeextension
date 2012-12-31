@@ -1,6 +1,3 @@
-(Translated with Google Translate - English version here http://goo.gl/Ix4a
-Can you help us translate? http://code.google.com/p/visibochromeextension/ )
-
 Verwalten Sie Ihre Browser-Sitzung leicht mit FreshStart! Wenn Sie verschiedene Arten von Websites, die Ihnen wichtig bei der Arbeit, zu Hause oder zu verschiedenen Zeiten, oder wenn Sie mehrere Benutzer auf Ihrem Chrome, sollten Sie diese einfach aus!
 
 New in 1.4
@@ -18,12 +15,7 @@ Zukünftige Funktionen
 
 If you like FreshStart, check out our other extensions too!
 - Incredible StartPage http://goo.gl/he9o **NEW**
-- Friends Mural for Facebook http://goo.gl/bICN
 - TooManyTabs: http://goo.gl/AI2X
 - TwitterWatch: http://goo.gl/7AkW
 - TabJump: http://goo.gl/r5EY
-
-Keywords: Session management, session manager, cross browser, crash recovery, session restore, bookmarks, Fresh Start, Tab Mix Plus, Morning Coffee
-License: http://www.visibotech.com/license/freshstart.html
-Credits: http://www.visibotech.com/chrome/credits.html
 

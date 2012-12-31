@@ -1,0 +1,508 @@
+{
+    "__Instructions__": {
+        "1": "Please look up your locale and translate the messages based on the English messages and descriptions. Empty message means the specific message is not translated yet. Feel free to add your locale if it does not exist. Thank you",
+        "2": "Do not translate word between $ sign. e.g. $title$ "
+    },
+    "cancel": {
+        "_en_": "Cancel",
+        "es": "",
+        "fr": "",
+        "it": "Cancella",
+        "nl": "",
+        "pt": ""
+    },
+    "clickToRestore": {
+        "_en_": "Click to restore session '$name$' in new window",
+        "_placeholders_": {
+            "name": {
+                "content": "$1"
+            }
+        },
+        "es": "Click para restaurar la sesión '$name$' en una nueva ventana",
+        "fr": "Cliquez pour restaurer la session '$name$' dans une nouvelle fenêtre",
+        "it": "Clicca per ripristinare la sessione '$name$' in una nuova finestra",
+        "nl": "Klik hier om Sessie '$name$' te herstellen in een nieuw window",
+        "pt": "Clique para restaurar a sessão '$name$' em uma nova janela"
+    },
+    "confirm": {
+        "_en_": "Confirm",
+        "es": "",
+        "fr": "",
+        "it": "Conferma",
+        "nl": "",
+        "pt": ""
+    },
+    "confirmClose": {
+        "_en_": "Open this session and close current window(s)? (Cannot undo!)",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "confirmDeleteQuestion": {
+        "_en_": "Are you sure you want to remove this session?",
+        "es": "",
+        "fr": "",
+        "it": "Sei sicuro di voler rimuovere questa sessione?",
+        "nl": "",
+        "pt": ""
+    },
+    "contactUs": {
+        "_en_": "Contact us:",
+        "es": "Cont&aacute;ctanos:",
+        "fr": "Contactez nous:",
+        "it": "Contattaci:",
+        "nl": "Neem contact met ons op:",
+        "pt": "Contate-nos:"
+    },
+    "crashRestoreTitle": {
+        "_en_": "Restore Previous Session",
+        "es": "Restaurar sesi&oacute;n anterior",
+        "fr": "Restaurer la session précédente",
+        "it": "Ripristina la sessione precedente",
+        "nl": "Herstel vorige Sessie",
+        "pt": "Restaure a última sessão"
+    },
+    "description": {
+        "_description_": "The extension description",
+        "_en_": "Need simple session management? Several users on the same Chrome? FreshStart is a simple cross browser session manager.",
+        "es": "¿Necesita gestionar sesiones de manera sencilla? ¿Varios usuarios en el mismo Chrome? FreshStart es un sencillo administrador de sesiones entre varios navegadores.",
+        "fr": "Besoin d'un gestionnaire de session simple? Plusieurs utilisateurs sur le même Chrome? FreshStart est un simple gestionnaire de browser compatible avec différents navigateurs.",
+        "it": "Hai bisogno di una gestione semplice delle sessioni? Molti utenti sullo stesso Chrome? FreshStart è un semplice gestore di sessioni browser.",
+        "nl": "Kunt u wel een simpele Sessie manager gebruiken? Heeft u meerdere gebruikers op Chrome? Dan is FreshStart de oplossingen, de simpele Sessie manager.",
+        "pt": "Precisa de um simples gerenciador de sessões? Tem muitos usuários em um só Chrome? FreshStart é um simples gerenciador de sessões multi-navegador."
+    },
+    "edit": {
+        "_en_": "Edit",
+        "es": "",
+        "fr": "Edition",
+        "it": "Modifica",
+        "nl": "Bewerk",
+        "pt": "Editar"
+    },
+    "emptySession": {
+        "_en_": "No window is selected in this session",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "enableCrashRecovery": {
+        "_en_": "Enable crash recovery",
+        "es": "Habilitar recuperación por cerrado inesperado",
+        "fr": "Activer le récupérateur de crash",
+        "it": "Abilita il recupero da crash",
+        "nl": "Zet Crash Herstellen aan.",
+        "pt": "Ativar recuperação pós-travamento"
+    },
+    "enterSessionName": {
+        "_en_": "Please enter the name of the session",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "export": {
+        "_en_": "Export",
+        "es": "",
+        "fr": "",
+        "it": "Esporta",
+        "nl": "",
+        "pt": ""
+    },
+    "exportedSessionCopyTips": {
+        "_en_": "Ctrl+c or Cmd+c to copy your session",
+        "es": "",
+        "fr": "",
+        "it": "Ctrl+c o Cmd+c per copiare la tua sessione",
+        "nl": "",
+        "pt": ""
+    },
+    "importedSessionTips": {
+        "_en_": "Paste your session here",
+        "es": "",
+        "fr": "",
+        "it": "Incolla qui la tua sessione",
+        "nl": "",
+        "pt": ""
+    },
+    "minutes": {
+        "_en_": "minutes.<br>Recommended: 5 minutes. Auto-saving too<br> frequently may slow down your machine.",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "mySession": {
+        "_en_": "My Session",
+        "es": "Mi Sesión",
+        "fr": "Ma Session",
+        "it": "Mia Sessione",
+        "nl": "Mijn Sessie",
+        "pt": "Minha Sessão"
+    },
+    "name": {
+        "_description_": "The extension name",
+        "_en_": "FreshStart - Cross Browser Session Manager",
+        "es": "FreshStart - Administrador de sesiones entre varios navegadores",
+        "fr": "FreshStart - Gestionnaire de Session Multi Navigateurs ",
+        "it": "FreshStart – Gestore di Sessioni Browser",
+        "nl": "FreshStart - Meerdere Browsers Sessie Manager",
+        "pt": "FreshStart - Gerenciador de Sessões Multi-Navegador"
+    },
+    "noSessionSaved": {
+        "_en_": "No sessions saved",
+        "es": "No hay sesiones guardadas",
+        "fr": "Pas de session sauvegardée",
+        "it": "Nessuna sessione salvata",
+        "nl": "Geen Sessies Opgeslagen",
+        "pt": "Nenhuma sessão salva"
+    },
+    "noSessionToRestore": {
+        "_en_": "There are no saved sessions.",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "options": {
+        "_en_": "Options",
+        "es": "Opciones",
+        "fr": "",
+        "it": "Opzioni",
+        "nl": "Opties",
+        "pt": "Opções"
+    },
+    "optionsBackupPeriod": {
+        "_en_": "Saves all your windows and tabs every ",
+        "es": "Guarda todas las pesta&ntilde;as cada ",
+        "fr": "Sauvegarder toutes les fenêtres et onglets toutes les: ",
+        "it": "Salva ogni tua finestra e scheda",
+        "nl": "Sla alle windows en tabs op elke ",
+        "pt": "Salvar todas suas janelas e abas a cada "
+    },
+    "optionsBackupPeriodOutOfRange": {
+        "_en_": "Backup period cannot be shorter than 1 minute or larger than 999 minutes",
+        "es": "El tiempo entre backups no puede ser más corto que 1 minuto o más largo que 999",
+        "fr": "Le délai de sauvegarde automatique ne peut pas être plus court qu'une minute ou plus grand que 999 minutes",
+        "it": "Il periodo di backup non può essere più corto di 1 minuto o più lungo di 999 minuti",
+        "nl": "De back-up periode kan niet korter zijn dan 1 minuut of langer 999 minuten",
+        "pt": "Período de backup não pode ser menor que 1 minuto ou maior que 999 minutos"
+    },
+    "optionsDateFormat": {
+        "_en_": "Date format:",
+        "es": "",
+        "fr": "",
+        "it": "Formato data:",
+        "nl": "",
+        "pt": ""
+    },
+    "optionsEnableCrashRecovery": {
+        "_en_": "Enable Crash Recovery",
+        "es": "Habilitar Recuperaci&oacute;n en caso de cierre incorrecto",
+        "fr": "Activer le récupérateur de crash",
+        "it": "Abilita il recupero da crash",
+        "nl": "Zet Crash Herstellen aan",
+        "pt": "Ativar recuperação pós-travamento"
+    },
+    "optionsNewUserTips": {
+        "_en_": "New to FreshStart? Visit our <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Welcome Page</a>!",
+        "es": "&#191;Nuevo en FreshStart? &#161;Visita nuestra <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Página de Bienvenida</a>!",
+        "fr": "Nouveau à FreshStart? Visitez notre <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Page D'accueil</a>!",
+        "it": "Nuovo in FreshStart? Visita la nostra <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Pagina di Benvenuto</a>!",
+        "nl": "Nieuw met FreshStart? Bezoek dan onze website <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>Welcome Page</a>!",
+        "pt": "Novo no FreshStart? Visite nossa <a href='http://blog.visibotech.com/search/label/FreshStart' target='_blank'>página de bem-vindo</a>!"
+    },
+    "optionsPageTitle": {
+        "_en_": "FreshStart Options",
+        "es": "Opciones de FreshStart",
+        "fr": "Options FreshStart",
+        "it": "Opzioni FreshStart",
+        "nl": "FreshStart Opties",
+        "pt": "FreshStart Opções"
+    },
+    "optionsReorder": {
+        "_en_": "Move session to top after edit",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "optionsSaved": {
+        "_en_": "Options saved",
+        "es": "Opciones guardadas",
+        "fr": "Options sauvegardées",
+        "it": "Opzioni salvate",
+        "nl": "Uw Opties zijn opgeslagen",
+        "pt": "Opções salvas"
+    },
+    "popupSizeLabel": {
+        "_en_": "Popup Size",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "remove": {
+        "_en_": "Remove",
+        "es": "Eliminar",
+        "fr": "Supprimer",
+        "it": "Rimuovi",
+        "nl": "Verwijder",
+        "pt": "Remover"
+    },
+    "restorePreviousSession": {
+        "_en_": "Restore previous session",
+        "es": "Restaurar sesión anterior",
+        "fr": "Restaurer la session précédente",
+        "it": "Ripristina la sessione precedente",
+        "nl": "Herstel laatste Sessie",
+        "pt": "Restaurar última sessão"
+    },
+    "restoreSession": {
+        "_en_": "Restore Session",
+        "es": "Restaurar sesi&oacute;n",
+        "fr": "Restaurer la Session",
+        "it": "Ripristina Sessione",
+        "nl": "Sessie Herstellen",
+        "pt": "Restaurar sessão"
+    },
+    "restoreSession2": {
+        "_en_": "Click to open session in new window",
+        "es": "Click izquierdo para abrir en una nueva ventana o ctrl-click para desplegar en esta ventana",
+        "fr": "Cliquez pour ouvrier dans une nouvelle fenêtre, ctrl-click (Win, Linux) ou cmd-click (Mac) pour ouvrir dans la fenêtre courante",
+        "it": "Clicca per aprire in una nuova finestra, ctrl-clic (Win, Linux) o cmd-clic (Mac) per aprire nella finestra corrente",
+        "nl": "Klik om te openen in nieuwe window, ctrl-click (Win, Linux) of cmd-click (Mac) om te openen in huidige window.",
+        "pt": "Clique para abrir em uma nova janela. CTRL-clique ou CMD-clique para abrir na atual"
+    },
+    "restoreSessionButton": {
+        "_en_": "Restore this window",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "restoreSessionButtonDescription": {
+        "_en_": "Click to restore this window",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "restoreSessionOn": {
+        "_en_": "Restore session on ",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "save": {
+        "_en_": "Save",
+        "es": "Guardar",
+        "fr": "Sauvegarder",
+        "it": "Salva",
+        "nl": "Opslaan",
+        "pt": "Salvar"
+    },
+    "saveFail": {
+        "_en_": "Fail to save session. Please try again later",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "saveSession": {
+        "_en_": "Save Session",
+        "es": "Guardar sesi&oacute;n",
+        "fr": "Sauvegarder la Session",
+        "it": "Salva Sessione",
+        "nl": "Sessie Opslaan",
+        "pt": "Salvar Sessão"
+    },
+    "saveSessionButton": {
+        "_en_": "Save as FreshStart session",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "saveSessionButtonDescription": {
+        "_en_": "Click here to save this as a new FreshStart session",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "savedWindow": {
+        "_en_": "Saved Window ($count$)",
+        "_placeholders_": {
+            "count": {
+                "content": "$1"
+            }
+        },
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "selectAll": {
+        "_en_": "Select All",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "sessionCreated": {
+        "_en_": "$name$ created",
+        "_placeholders_": {
+            "name": {
+                "content": "$1"
+            }
+        },
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "sessionTextBoxClose": {
+        "_en_": "Close",
+        "es": "",
+        "fr": "",
+        "it": "Chiudi",
+        "nl": "",
+        "pt": ""
+    },
+    "sessionTextBoxImport": {
+        "_en_": "Import session",
+        "es": "",
+        "fr": "",
+        "it": "Importa sessione",
+        "nl": "",
+        "pt": ""
+    },
+    "sizeWarning": {
+        "_en_": "* If the size is too small, it may distort the layout.",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "smEditCancel": {
+        "_en_": "Cancel",
+        "es": "",
+        "fr": "Annuler",
+        "it": "Cancella",
+        "nl": "",
+        "pt": "Cancelar"
+    },
+    "smEditSave": {
+        "_en_": "Save",
+        "es": "",
+        "fr": "Sauvegarder",
+        "it": "Salva",
+        "nl": "Opslaan",
+        "pt": "Salvar"
+    },
+    "smHeadingNew": {
+        "_en_": "Tabs/Windows to Add",
+        "es": "Tabs to Add (check to add)",
+        "fr": "Onglets à ajouter (cocher pour ajouter)",
+        "it": "Schede da aggiungere (spunta per aggiungere)",
+        "nl": "Tabbladen toevoegen (vink aan om toe tevoegen)",
+        "pt": "Abas para adicionar (marque para adicionar)"
+    },
+    "smHeadingNewTitle": {
+        "_en_": "You can drag and drop tabs between windows",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "smHeadingSaved": {
+        "_en_": "Saved Session (uncheck to remove)",
+        "es": "Saved Tabs (uncheck to remove)",
+        "fr": "Onglets sauvegardés (décochez pour suppremier)",
+        "it": "Schede Salvate (togli la spunta per rimuovere)",
+        "nl": "Opgeslagen Tabbladden (Deselecteer om te verwijderen)",
+        "pt": "Abas salvas (desmarque para remover)"
+    },
+    "smHeadingTitle": {
+        "_en_": "Title",
+        "es": "",
+        "fr": "Titre",
+        "it": "Titolo",
+        "nl": "Titel",
+        "pt": "Título"
+    },
+    "smSaveList": {
+        "_en_": "Uncheck tabs that you don't want to be saved.",
+        "es": "Desmarque las pestañas que no desea guardar.",
+        "fr": "Décochez les onglets que vous ne voulez pas sauvegarder.",
+        "it": "Togli la spunta dalle schede che non vuoi che vengano salvate.",
+        "nl": "Deselecteer de Tabs die je niet wilt opslaan.",
+        "pt": "Desmarque as abas que você não quer que sejam salvas."
+    },
+    "smSaveToggle": {
+        "_en_": "Toggle Selection",
+        "es": "",
+        "fr": "Inverser la sélection",
+        "it": "Alterna Selezione",
+        "nl": "Wissel Selectie",
+        "pt": "Inverter seleção"
+    },
+    "snapshotHint": {
+        "_en_": "* 'Snapshot #1' up to 'Snapshot #5' are sessions that are saved in an earlier Chrome use. You may find them helpful if the most recent session is corrupted or is not exactly what you want.",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": ""
+    },
+    "supportUs": {
+        "_en_": "Support our development and<br>share to your friends!",
+        "es": "¡Apoya nuestra extensión y<br>compártela con tus amigos!",
+        "fr": "Aidez notre dévelopement et<br>partagez avec vos amis!",
+        "it": "Supporta il nostro sviluppo e <br>condiviti con gli amici!",
+        "nl": "Ondersteun onze ontwikkeling en <br> vertel het je vrienden!",
+        "pt": "Ajude nosso desenvolvimento e<br>compartilhe com seus amigos!"
+    },
+    "tabsCount": {
+        "_en_": " ($count$ tabs)",
+        "_placeholders_": {
+            "count": {
+                "content": "$1"
+            }
+        },
+        "es": " ($count$ pestañas)",
+        "fr": "",
+        "it": "",
+        "nl": "",
+        "pt": " ($count$ abas)"
+    },
+    "updatedMessage": {
+        "_en_": "FreshStart is updated, click here to see what's new",
+        "es": "FreshStart ha sido actualizado, haga click aquí para saber las novedades",
+        "fr": "FreshStart a été mis a jour, cliquez ici pour voir les nouveautés",
+        "it": "FreshStart è aggiornato, clicca qua per vedere cosa c’è di nuovo",
+        "nl": "FreshStart is bijgewerk, klik hier op te zien wat er nieuw is",
+        "pt": "FreshStart foi atualizado, clique aqui para ver o que há de novo"
+    }
+}
