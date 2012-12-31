@@ -13,9 +13,6 @@ Inhoud
 - Crash recovery - uw openstaande vensters worden om de paar minuten automatisch bewaard.
 - Verplaats een sessie naar een nieuw venster, of voeg vensters samen door Ctrl-klik (Windows, Linux) of Cmd-klik (Mac).
 
-Toekomstige features
-- Verbeterd dialoogvenster Bewerken sessie
-
 Vind je FreshStart leuk, bekijk dan ook eens onze andere extensies!
 - Incredible StartPage http://goo.gl/he9o **NEW**
 - TooManyTabs: http://goo.gl/AI2X
