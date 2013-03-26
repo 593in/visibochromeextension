@@ -1,0 +1,141 @@
+{
+    "__Instructions__": {
+        "1": "Please look up your locale and translate the messages based on the English messages and descriptions. Empty message means the specific message is not translated yet. Feel free to add your locale if it does not exist. Thank you",
+        "2": "Do not translate word between $ sign. e.g. $title$ "
+    },
+    "cannotLockPage": {
+        "_en_": "Cannot lock this page",
+        "de": "Seite kann nicht gesperrt werden",
+        "es": "No se puede bloquear esta página",
+        "fr": "Impossible d'épingler cette page",
+        "it": "Non può bloccare questa pagina",
+        "ja": "このページをロックできません",
+        "pt": "Não é possível bloquear esta página",
+        "zh_TW": "無法鎖定此頁"
+    },
+    "clearRecentlyClosedTabsHistory": {
+        "_en_": "Clear recently closed tabs",
+        "de": "",
+        "es": "Borrar las pestañas cerradas recientemente",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "zh_TW": ""
+    },
+    "clickToOpen": {
+        "_en_": "Click to open \"$title$\"",
+        "_placeholders_": {
+            "title": {
+                "content": "$1"
+            }
+        },
+        "de": "Klicken Sie zum Öffnen \"$title$\"",
+        "es": "Haz clic para abrir \"$title$\"",
+        "fr": "Cliquez pour ouvrir \"$title$\"",
+        "it": "Clicca per aprire \"$title$\"",
+        "ja": "\"$title$\"を開きます",
+        "pt": "Clique para abrir \"$title$\"",
+        "zh_TW": "打開 \"$title$\""
+    },
+    "description": {
+        "_en_": "A new way to navigate your tabs. Easily access most used tabs, associated tabs, and closed tabs. Allows tab locking too.",
+        "de": "Eine neue Möglichkeit zwischen Registerkarten (Tabs) zu navigieren. Einfacher Zugriff auf die am häufigsten verwendeten Tabs, damit assoziierten Tabs und geschlossenen Tabs. Ermöglicht ebenfalls das Sperren von Registerkarten.",
+        "es": "Una nueva manera de navegar tus pestañas. Accede fácilmente a las pestañas más utilizadas, a pestañas relacionadas y a las pestañas cerradas. Tmabién puedes bloquear las pestañas.",
+        "fr": "",
+        "it": "",
+        "ja": "タブをナビゲートする新しい方法です。よく使うタブ、関連するタブ、閉じられたタブに簡単にアクセスできます。タブのロックもできます。",
+        "pt": "Uma nova forma de navegar pelas suas abas. Acesse facilmente suas abas mais usadas, relacionadas e fechadas. Também permite bloquear abas.",
+        "zh_TW": ""
+    },
+    "frequentlyUsedTabs": {
+        "_en_": "Frequently used tabs",
+        "de": "",
+        "es": "Pestañas usadas frecuentemente",
+        "fr": "",
+        "it": "",
+        "ja": "よく使うタブ",
+        "pt": "Usadas frequentemente",
+        "zh_TW": "經常使用的分頁"
+    },
+    "loading": {
+        "_en_": "loading...",
+        "de": "laden...",
+        "es": "Cargando...",
+        "fr": "chargement...",
+        "it": "caricamento...",
+        "ja": "読み込んでいます...",
+        "pt": "carregando...",
+        "zh_TW": "載入中..."
+    },
+    "lockPage": {
+        "_en_": "Lock this page",
+        "de": "Seite sperren",
+        "es": "Bloquear esta página",
+        "fr": "Epingler cette page",
+        "it": "Bloccare questa pagina",
+        "ja": "このページのロック",
+        "pt": "Bloqueie esta página",
+        "zh_TW": "解除鎖定"
+    },
+    "name": {
+        "_en_": "TabJump - Intelligent Tab Navigator",
+        "de": "TabJump - Intelligenter Tab-Navigator",
+        "es": "TabJump - Navegador de Pestañas Inteligente",
+        "fr": "",
+        "it": "",
+        "ja": "TabJump - 洗練されたタブナビゲーター",
+        "pt": "TabJump - Navegador de abas inteligente",
+        "zh_TW": ""
+    },
+    "pageActionTitle": {
+        "_en_": "TabJump!",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "zh_TW": ""
+    },
+    "recentlyClosedTabs": {
+        "_en_": "Recently closed tabs",
+        "de": "",
+        "es": "Pestañas cerradas recientemente",
+        "fr": "",
+        "it": "",
+        "ja": "最近閉じたタブ",
+        "pt": "Fechadas recentemente",
+        "zh_TW": "最近關閉的分頁"
+    },
+    "relatedTabs": {
+        "_en_": "Related tabs",
+        "de": "",
+        "es": "Pestañas Relacionadas",
+        "fr": "",
+        "it": "",
+        "ja": "関連するタブ",
+        "pt": "Abas relacionadas",
+        "zh_TW": "相關分頁"
+    },
+    "sureToLeavePage": {
+        "_en_": "Are you sure to leave this page?",
+        "de": "Sind Sie sicher, dass Sie diese Seite verlassen möchten?",
+        "es": "¿Estás seguro de dejar esta página?",
+        "fr": "Etes vous sûr de vouloir quitter cette page?",
+        "it": "Sei sicuro di voler uscire da questa pagina?",
+        "ja": "このページを残してよろしいですか？",
+        "pt": "Tem certeza que deseja sair desta página?",
+        "zh_TW": "確定要離開此頁面？"
+    },
+    "unlockPage": {
+        "_en_": "Unlock this page",
+        "de": "Seite entsperren",
+        "es": "Desbloquear esta página",
+        "fr": "Libérer cet page",
+        "it": "sbloccare questa pagina",
+        "ja": "このページのロックを解除する",
+        "pt": "Desbloqueie esta página",
+        "zh_TW": "鎖定此頁"
+    }
+}
