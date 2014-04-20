@@ -15,7 +15,7 @@
     "addNewColumnButton": {
         "_en_": "Add",
         "de": "Hinzufügen",
-        "es": "",
+        "es": "Agregar",
         "fr": "",
         "it": "Aggiungi",
         "ja": "追加",
@@ -44,7 +44,7 @@
         "it": "Sei sicuro?",
         "ja": "よろしいですか？",
         "pt": "Você está certo disso?",
-        "ru": "Вы серьезно?",
+        "ru": "Вы уверены?",
         "zh_CN": "您确定吗?",
         "zh_TW": "你確定嗎？"
     },
@@ -159,7 +159,7 @@
     "crossWindow2": {
         "_en_": "No (Default)",
         "de": "Nein (Standard)",
-        "es": "",
+        "es": "No",
         "fr": "Non (Défaut)",
         "it": "No (Predefinito)",
         "ja": "いいえ(初期値)",
@@ -176,7 +176,7 @@
         "it": "Google Chrome per Mac / Linux non supporta il passaggio delle schede da una finestra all’altra. Se provi a spostare una scheda in un’altra finestra, tale scheda verrà invece spostata nella finestra corrente.",
         "ja": "Mac向け・Linux向けクロームは、ウィンドウをまたがってのタブ移動をサポートしていません。他のウインドウにタブを移動させようとしても、現在のウインドウに移動されてしまいます。",
         "pt": "Google Chrome para Mac / Linux não suportam troca de abas entre janelas. Se você fizer isto, a aba será movida para a janela atual.",
-        "ru": "Google Chrome для Mac / Linux не поддерживают переключение вкладки. При попытке перейти на вкладку в другое окно, что вкладка будет перемещен в текущем окне вместо.",
+        "ru": "Google Chrome для Mac / Linux не поддерживает cross-window переключение вкладок. При попытке перейти на вкладку в другом окне, вкладка будет перемещена в текущее окно.",
         "zh_CN": "Google Chrome for Mac / Linux 不支持跨窗口切换标签页。如果您尝试切换到其他窗口的标签，该标签将被移动到当前窗口。",
         "zh_TW": "Mac/Linux 版本的 Chrome 不支援分頁跨視窗的變換。如果你嘗試移動分頁到另一個視窗，該分頁只會被移動到目前的視窗另一個位置。"
     },
@@ -236,7 +236,7 @@
         "it": "Estensione Chrome per gestire le tue schede, migliorare la tua navigazione e mantenere la tua sanità di mente quando hai troppe schede aperte.",
         "ja": "たくさんのタブを開いたときに、タブの管理、ブラウジングの改善と整理をします。",
         "pt": "Gerencie suas abas, melhore sua navegação e mantenha seu bom senso enquanto você possui várias abas abertas.",
-        "ru": "Управляйте вашими вкладками, улучшите свой просмотр, и поддержите свое здравомыслие, когда у Вас есть много открытых вкладок.",
+        "ru": "Управляйте вашими вкладками, улучшите свой просмотр, и поддержите свое здравомыслие, когда у Вас много открытых вкладок.",
         "zh_CN": "打开很多标签页时管理您的标签页，改进浏览，并保持理智。",
         "zh_TW": "管理你的分頁；增進你的瀏覽品質；並使你在開啟大量分頁時，還可以維持理性。"
     },
@@ -250,31 +250,31 @@
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "關閉TMT上下文菜單"
     },
     "disablePreviewLabel": {
         "_en_": "Disable tabs preview:",
         "de": "",
-        "es": "",
+        "es": "Deshabilitar vista previa de pestañas",
         "fr": "",
         "it": "",
         "ja": "タブのプレビューを無効にする:",
         "pt": "",
-        "ru": "",
+        "ru": "Отключить миниатюры  страниц внутри вкладок :",
         "zh_CN": "禁用标签页预览:",
         "zh_TW": ""
     },
     "disablePreviewTip": {
         "_en_": "Tip: Even when tab previews are still loading, you can start to select or search tabs already.",
         "de": "",
-        "es": "",
+        "es": "Tip: Aun cuando la vista previa de pestañas siga cargando, puedes empezar a seleccionar o buscar pestañas",
         "fr": "",
         "it": "",
         "ja": "Tips: プレビュー作成中のタブでも、選択したり探したりできます。",
         "pt": "",
-        "ru": "",
+        "ru": "Совет: Даже тогда, когда миниатюры страниц во вкладках еще не отобразились, вы уже можете работать с вкладками и использовать поиск.",
         "zh_CN": "提示：即使标签页预览仍在加载，你也已经可以开始选择或搜索标签页。",
-        "zh_TW": ""
+        "zh_TW": "提示：即使標籤頁預覽仍在加載，你也已經可以開始選擇或搜索標籤頁。"
     },
     "export": {
         "_en_": "Export",
@@ -291,14 +291,14 @@
     "exportBackup": {
         "_en_": "Export for Backup",
         "de": "",
-        "es": "",
+        "es": "Exportar para backup",
         "fr": "",
         "it": "",
         "ja": "",
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "導出備份"
     },
     "exportDescription": {
         "_en_": "Click the \"Export\" button to export your columns and tabs. You can save the content to a file and import it at other computers.",
@@ -308,21 +308,21 @@
         "it": "",
         "ja": " \"エクスポート\" ボタンをクリックするとカラムとタブを書き出して保存することができます。 書きだしたファイルは他のコンピュータでインポートすることができます。",
         "pt": "",
-        "ru": "Щелкни \"Экспорт \", чтобы экспортировать свои списки и вкладки. Вы можете сохранить содержимое в файл и импортировать их на другом компьютере.",
+        "ru": "Нажмите кнопку \"Экспорт \", чтобы экспортировать свои списки и вкладки. Вы можете сохранить содержимое в файл и импортировать их на другом компьютере.",
         "zh_CN": "点击“导出”按钮可导出列与标签页。您可以将内容保存为文件并在其他计算机导入。",
         "zh_TW": "點擊『匯出』按鈕來匯出你的收集欄與分頁。你可以將內容存進檔案然後在其他電腦匯入。"
     },
     "exportPrint": {
         "_en_": "Export for print",
         "de": "",
-        "es": "",
+        "es": "Exportar para imprimir",
         "fr": "",
         "it": "",
         "ja": "",
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "導出打印"
     },
     "find": {
         "_en_": "Find",
@@ -344,7 +344,7 @@
         "it": "",
         "ja": "",
         "pt": "",
-        "ru": "Импортируемое содержимое содержит ошибки! Это не влият на Ваши вкладки. Пожалуйста, выполните Импотр/Экспорт снова.",
+        "ru": "Импортируемое содержимое содержит ошибки! Это не влият на Ваши текущие вкладки. Пожалуйста, выполните Импотр/Экспорт снова.",
         "zh_CN": "导入的内容包含错误！您现有的标签页不会受到影响。请尝试再次导出并导入。",
         "zh_TW": "匯入內容發生錯誤！你原先存在的分頁並未受影響。請在嘗試一次匯出與匯入的動作。"
     },
@@ -358,7 +358,7 @@
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "在TMT隱藏已固定的分頁"
     },
     "import": {
         "_en_": "Import",
@@ -368,7 +368,7 @@
         "it": "",
         "ja": "インポート",
         "pt": "",
-        "ru": "",
+        "ru": "Импорт",
         "zh_CN": "导入",
         "zh_TW": "匯入"
     },
@@ -387,14 +387,14 @@
     "importButton": {
         "_en_": "Import and overwrite",
         "de": "",
-        "es": "",
+        "es": "Importar y sobreescribir",
         "fr": "",
         "it": "",
         "ja": "",
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "導入並覆蓋"
     },
     "importDescription": {
         "_en_": "Click the \"Import\" button to begin importing columns and tabs. Paste the exported text into the box, then click the \"Confirm\" button.",
@@ -423,7 +423,7 @@
     "importFF": {
         "_en_": "Merge Tabs from TooManyTabs(Firefox)",
         "de": "",
-        "es": "",
+        "es": "Mezclae pestañas desde TooManyTabs (Firefox)",
         "fr": "",
         "it": "",
         "ja": "",
@@ -459,7 +459,7 @@
     "importFFTextToggle": {
         "_en_": "Merge",
         "de": "",
-        "es": "",
+        "es": "Mezclar",
         "fr": "",
         "it": "",
         "ja": "",
@@ -507,14 +507,14 @@
     "mergeButton": {
         "_en_": "Import and merge",
         "de": "",
-        "es": "",
+        "es": "Importar y mezclar",
         "fr": "",
         "it": "",
         "ja": "",
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "導入和合併"
     },
     "mergeHint": {
         "_en_": "Import as new columns or merge with existing columns",
@@ -584,7 +584,7 @@
         "it": "Hm, nessuna risposta da quella scheda. O è un pannello di sistema, o è occupata...",
         "ja": "うぅー、そのタブから応答がありません。そのタブはシステムパネルかビジー状態です。。。",
         "pt": "Hm, sem respostas da aba. Ou é um painel de sistema, ou ela está ocupada...",
-        "ru": "Хм, нет ответа от той вкладки.",
+        "ru": "Хм, от той вкладки нет ответа. Ну или это системная панель или она занята...",
         "zh_CN": "嗯，该标签未响应。它可能是个系统面板，或者可能它正忙...",
         "zh_TW": "啊哩，這個頁面沒有回應。可能它是一個系統面板，或著它正在忙碌中..."
     },
@@ -692,7 +692,7 @@
         "it": "Altezza della Finestra:",
         "ja": "広い",
         "pt": "Grande",
-        "ru": "Широкий",
+        "ru": "Широкая",
         "zh_CN": "宽",
         "zh_TW": "寬"
     },
@@ -716,7 +716,7 @@
         "it": "Piccola",
         "ja": "小さい",
         "pt": "Pequena",
-        "ru": "Малая",
+        "ru": "Узкая",
         "zh_CN": "小",
         "zh_TW": "小"
     },
@@ -742,7 +742,7 @@
         "pt": "",
         "ru": "Количество недавно закрытых вкладок:",
         "zh_CN": "最近关闭的标签数量:",
-        "zh_TW": ""
+        "zh_TW": "最近關閉的分頁數量"
     },
     "recentlyClosedTip": {
         "_en_": "Won't be cleared along with history. Can be manually cleared. Click on the icon for a sub-menu.",
@@ -752,7 +752,7 @@
         "it": "Non saranno cancellati con la cronologia. Possono essere cancellati manualmente. Clicca sull’icona per un sotto-menu.",
         "ja": "閲覧履歴に関連する内容は削除いたしません。それらは手動での削除になります。アイコンをクリックするとサブメニューに戻ります。",
         "pt": "Não serão removidas juntas com o histórico. Poderão ser removidas manualmente. Clique no ícone para um sub-menu.",
-        "ru": "Не будет очищен наряду с историей. Может быть очищен вручную.",
+        "ru": "Не будут очищены вместе с историей, только вручную. Нажмите на иконку для вызова дополнительного меню.",
         "zh_CN": "不会随历史记录的清除而清空。可以手动清除。点击图标可打开子菜单。",
         "zh_TW": "這裡的資料不會隨歷史紀錄被刪除，但可以手動清理。點擊這些分頁的小圖示，可以看到刪除的子選單。"
     },
@@ -826,7 +826,7 @@
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "按標題搜索"
     },
     "searchURL": {
         "_en_": "Search by url",
@@ -838,7 +838,7 @@
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "按URL搜索"
     },
     "sendToTMT": {
         "_en_": "Send tab/link to TooManyTabs",
@@ -848,9 +848,9 @@
         "it": "",
         "ja": "TooManyTabsにタブ/リンクを送る",
         "pt": "",
-        "ru": "",
+        "ru": "Отправить закладку/ссылку в TooManyTabs",
         "zh_CN": "将标签页/链接发到 TooManyTabs",
-        "zh_TW": ""
+        "zh_TW": "將分頁/鏈接發到TooManyTabs"
     },
     "shortcut1": {
         "_en_": "Use shortcut key to bring up TMT window: CTRL-",
@@ -934,7 +934,7 @@
         "pt": "",
         "ru": "Поддержи наше развитие!",
         "zh_CN": "支持我们的开发!",
-        "zh_TW": ""
+        "zh_TW": "支持我們的開發!"
     },
     "suspendedTabsTip": {
         "_en_": "Put your idle tabs here to reduce tab overflow. Memory will be released but forms and videos aren't saved.",
@@ -980,7 +980,7 @@
         "it": "Nuovo in TooManyTabs? <a target='_blank' href='http://goo.gl/Czh50'>Visita la nostra pagina di benvenuto.</a>",
         "ja": "TooManyTabsは初めてですか？ <a target='_blank' href='http://goo.gl/Czh50'>まずはこちらのページへ.</a>",
         "pt": "Novo no TooManyTabs? <a target='_blank' href='http://goo.gl/Czh50'>Visite nossa página de bem-vindo.</a>",
-        "ru": "Новое в TooManyTabs? <a target='_blank' href='http://goo.gl/Czh50'>Посетите нашу страницу.</a>",
+        "ru": "Впервые в TooManyTabs? <a target='_blank' href='http://goo.gl/Czh50'>Посетите нашу страницу.</a>",
         "zh_CN": "TooManyTabs 新手? <a target='_blank' href='http://goo.gl/Czh50'>请访问我们的欢迎页面。</a>",
         "zh_TW": "TooManyTabs 新手? <a target='_blank' href='http://goo.gl/Czh50'>拜訪我們的網站</a>"
     },
@@ -994,6 +994,6 @@
         "pt": "",
         "ru": "",
         "zh_CN": "",
-        "zh_TW": ""
+        "zh_TW": "TMT彈出窗口的寬度（通過快捷打開）"
     }
 }
