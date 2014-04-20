@@ -1,5 +1,8 @@
 {
-    "__Instructions__": "Please look up your locale and translate the messages based on the English messages and descriptions. Empty message means the specific message is not translated yet. Feel free to add your locale if it does not exist. Thank you",
+    "__Instructions__": {
+        "1": "Please look up your locale and translate the messages based on the English messages and descriptions. Empty message means the specific message is not translated yet. Feel free to add your locale if it does not exist. Thank you",
+        "2": "Do not translate word between $ sign. e.g. $title$ "
+    },
     "addNewColumn": {
         "_en_": "Add New Column",
         "de": "Füge neue Spalte hinzu",
@@ -47,6 +50,78 @@
         "ru": "Вы уверены?",
         "zh_CN": "您确定吗?",
         "zh_TW": "你確定嗎？"
+    },
+    "backupAdding": {
+        "_en_": "Backup in processing...Please wait",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh_CN": "",
+        "zh_TW": ""
+    },
+    "backupNotFound": {
+        "_en_": "No backup found",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh_CN": "",
+        "zh_TW": ""
+    },
+    "backupNow": {
+        "_en_": "Backup Now",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh_CN": "",
+        "zh_TW": ""
+    },
+    "backupRemoved": {
+        "_en_": "Backup deleted successfully",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh_CN": "",
+        "zh_TW": ""
+    },
+    "backupSaveAt": {
+        "_en_": "Backup saved at",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh_CN": "",
+        "zh_TW": ""
+    },
+    "backupSuccess": {
+        "_en_": "Backup successfully.",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh_CN": "",
+        "zh_TW": ""
     },
     "cancel": {
         "_en_": "Cancel",
@@ -768,6 +843,18 @@
         "zh_CN": "最近关闭",
         "zh_TW": "近期關閉分頁"
     },
+    "reloadAuth": {
+        "_en_": "Reload page to confirm authorization",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh_CN": "",
+        "zh_TW": ""
+    },
     "remove": {
         "_en_": "Remove",
         "de": "Entferne",
@@ -875,6 +962,18 @@
         "ru": "Сочетания клавиш не работают на системных страницах, таких как эта. Некоторые сочетания не работают на некоторых ОС (например CTRL-A).",
         "zh_CN": "快捷键在系统页面（如本选项页）无效。部分快捷键可能无法在特定操作系统上使用（如 CTRL-A）。",
         "zh_TW": "快速鍵在 Chrome 的系統頁面（如這個選項頁面）無法運作。另外，有些快速鍵在特定作業系統中無法運作（e.g. CTRL-A）。"
+    },
+    "shortcut3": {
+        "_en_": "For Chrome 25+, please add Shortcut Key in the 'Tools > Extension' that could work in all tabs.",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "ja": "",
+        "pt": "",
+        "ru": "",
+        "zh_CN": "",
+        "zh_TW": ""
     },
     "showTabCount": {
         "_en_": "Show tab count on the icon:",
